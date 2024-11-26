@@ -165,15 +165,17 @@ def main(args):
                 subject_to_category[subject] = cat
                 break
     
-    # selected_subjects 리스트를 미리 초기화
-    selected_subjects = []
-    
-    if not args.auto_categories:
+    # auto_mode가 True이면 CLI 인자 사용, False이면 대화형 입력 사용
+    if not args.auto_mode:
+        # 카테고리 선택
         print("\n사용 가능한 카테고리:")
         category_list = list(categories.keys())
         for idx, category in enumerate(category_list, start=1):
             subject_count = len([s for s, c in subject_to_category.items() if c == category])
             print(f"{idx}. {category} ({subject_count} subjects)")
+        
+        # selected_subjects 리스트를 미리 초기화
+        selected_subjects = []
         
         while True:
             try:
@@ -211,45 +213,57 @@ def main(args):
                 except ValueError:
                     print("올바른 형식으로 입력해주세요 (예: 1,3 또는 all)")
 
-    # few-shot 사용 여부 입력 받기
-    while True:
-        few_shot = input("\nfew-shot 학습을 사용하시겠습니까? (y/n): ").strip().lower()
-        if few_shot in ['y', 'n']:
-            args.use_few_shot = (few_shot == 'y')
-            break
-        print("'y' 또는 'n'으로 입력해주세요.")
-    
-    # few-shot을 사용하지 않을 경우 ntrain을 0으로 설정
-    if not args.use_few_shot:
-        args.ntrain = 0
-    # few-shot 개수 입력 받기
-    else:
+        # few-shot 사용 여부 입력
+        while True:
+            few_shot = input("\nfew-shot 학습을 사용하시겠습니까? (y/n): ").strip().lower()
+            if few_shot in ['y', 'n']:
+                args.use_few_shot = (few_shot == 'y')
+                break
+            print("'y' 또는 'n'으로 입력해주세요.")
+        
+        # few-shot 개수 입력
+        if args.use_few_shot:
+            while True:
+                try:
+                    ntrain = input("\nfew-shot 예제 개수를 입력하세요 (기본값: 5): ").strip()
+                    if not ntrain:
+                        args.ntrain = 5
+                        break
+                    args.ntrain = int(ntrain)
+                    if args.ntrain >= 0:
+                        break
+                    print("0 이상의 숫자를 입력해주세요.")
+                except ValueError:
+                    print("올바른 숫자를 입력해주세요.")
+        else:
+            args.ntrain = 0
+
+        # 문제 수 입력
         while True:
             try:
-                ntrain = input("\nfew-shot 예제 개수를 입력하세요 (기본값: 5): ").strip()
-                if not ntrain:  # 입력이 없으면 기본값 사용
-                    args.ntrain = 5
+                num_questions = input("\n각 과목당 평가할 문제 수를 입력하세요 (기본값: 전체): ").strip()
+                if not num_questions:
+                    args.ntest = -1
                     break
-                args.ntrain = int(ntrain)
-                if args.ntrain >= 0:
+                args.ntest = int(num_questions)
+                if args.ntest > 0:
                     break
-                print("0 이상의 숫자를 입력해주세요.")
+                print("1 이상의 숫자를 입력해주세요.")
             except ValueError:
                 print("올바른 숫자를 입력해주세요.")
-    
-    # 문제 수 입력 받기
-    while True:
-        try:
-            num_questions = input("\n각 과목당 평가할 문제 수를 입력하세요 (기본값: 전체): ").strip()
-            if not num_questions:  # 입력이 없으면 전체 문제 사용
-                args.ntest = -1
-                break
-            args.ntest = int(num_questions)
-            if args.ntest > 0:
-                break
-            print("1 이상의 숫자를 입력해주세요.")
-        except ValueError:
-            print("올바른 숫자를 입력해주세요.")
+    else:
+        # CLI 인자로 전달된 카테고리와 과목 사용
+        selected_categories = args.categories.split(',') if args.categories else list(categories.keys())
+        selected_subjects = []
+        for category in selected_categories:
+            category_subjects = [subject for subject, cat in subject_to_category.items() if cat == category]
+            if args.subjects:
+                # 특정 과목들이 지정된 경우
+                subjects = args.subjects.split(',')
+                selected_subjects.extend([s for s in category_subjects if s in subjects])
+            else:
+                # 모든 과목 선택
+                selected_subjects.extend(category_subjects)
 
     if args.nsubjects > 0:
         selected_subjects = random.sample(selected_subjects, min(args.nsubjects, len(selected_subjects)))
@@ -422,9 +436,18 @@ def main(args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
+    parser.add_argument("--auto_mode", "-am", action="store_true",
+                      help="CLI 인자를 사용하여 자동으로 설정합니다")
+    parser.add_argument("--categories", "-c", type=str,
+                      help="평가할 카테고리 (쉼표로 구분)")
+    parser.add_argument("--subjects", "-sb", type=str,
+                      help="평가할 과목 (쉼표로 구분)")
+    parser.add_argument("--use_few_shot", "-f", type=bool, default=True,
+                      help="few-shot 학습 사용 여부")
     parser.add_argument("--ntrain", "-k", type=int, default=5,
                       help="few-shot 예제 개수")
-    parser.add_argument("--ntest", "-n", type=int, default=-1)
+    parser.add_argument("--ntest", "-n", type=int, default=-1,
+                      help="각 과목당 평가할 문제 수")
     parser.add_argument("--nsubjects", "-ns", type=int, default=-1)
     parser.add_argument("--save_dir", "-s", type=str, default="results")
     parser.add_argument("--base_url", type=str, default="http://localhost:1234/v1")
@@ -432,9 +455,5 @@ if __name__ == "__main__":
     parser.add_argument("--model_name", type=str, default="llama-3-8b-instruct@?")
     parser.add_argument("--verbose", "-v", action="store_true", 
                       help="출력 로그에 few-shot 예제를 포함합니다")
-    parser.add_argument("--auto_categories", "-a", action="store_true",
-                      help="카테고리 선택을 자동으로 처리합니다")
-    parser.add_argument("--use_few_shot", type=bool, default=True, 
-                      help="few-shot 학습 사용 여부")
     args = parser.parse_args()
     main(args) 
