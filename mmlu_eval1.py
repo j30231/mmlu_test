@@ -79,7 +79,7 @@ def eval(args, subject, llm, dev_df, test_df):
         start_time = time.time()
         
         # few-shot 예제 준비 부분 수정
-        if args.use_few_shot and args.ntrain > 0:
+        if args.use_few_shot and args.ntrain > 0 and not dev_df.empty:  # dev_df가 비어있지 않은 경우에만 few-shot 적용
             k = args.ntrain
             # 테스트 문제를 마지막에 추가
             prompt = f"Answer the following multiple choice questions about {format_subject(subject)}.\n\n"
@@ -219,8 +219,11 @@ def main(args):
             break
         print("'y' 또는 'n'으로 입력해주세요.")
     
+    # few-shot을 사용하지 않을 경우 ntrain을 0으로 설정
+    if not args.use_few_shot:
+        args.ntrain = 0
     # few-shot 개수 입력 받기
-    if args.use_few_shot:
+    else:
         while True:
             try:
                 ntrain = input("\nfew-shot 예제 개수를 입력하세요 (기본값: 5): ").strip()
@@ -259,9 +262,9 @@ def main(args):
             "ntest": args.ntest,
             "timestamp": time.strftime("%Y%m%d-%H%M%S")
         },
-        "categories": {cat: {"accuracy": 0.0, "subjects": []} for cat in categories},
+        "categories": {cat: {"correct_rate": 0.0, "subjects": []} for cat in categories},
         "subjects": {},
-        "overall_accuracy": 0.0
+        "overall_correct_rate": 0.0
     }
 
     # LLM 모델 초기화
@@ -279,10 +282,9 @@ def main(args):
     if not os.path.exists(args.save_dir):
         os.makedirs(args.save_dir)
     
-    results_dir = os.path.join(args.save_dir, f"results_{args.model_name}")
-    if not os.path.exists(results_dir):
-        os.makedirs(results_dir)
-
+    # 시작 시간 기록
+    start_time = time.time()
+    
     # 평가 결과 저장을 위한 변수들
     all_cors = []
     all_results = []
@@ -293,9 +295,13 @@ def main(args):
     for subject in selected_subjects:
         print(f"\n=== Evaluating {subject} ===\n")
         
-        # 개발 데이터 준비
-        dev_samples = [x for x in mmlu_dataset['dev'] if x['subject'] == subject][:args.ntrain]
-        print(f"Number of training examples: {len(dev_samples)}")  # 훈련 예제 수 출력
+        # 개발 데이터 준비 - few-shot 설정에 따라 조정
+        if args.use_few_shot and args.ntrain > 0:
+            dev_samples = [x for x in mmlu_dataset['dev'] if x['subject'] == subject][:args.ntrain]
+        else:
+            dev_samples = []  # few-shot을 사용하지 않을 경우 빈 리스트로 설정
+            
+        print(f"Number of few-shot examples: {len(dev_samples)}")  # 메시지 변경
         
         dev_data = {
             'question': [],
@@ -306,17 +312,19 @@ def main(args):
             'answer': []
         }
         
-        for sample in dev_samples:
-            dev_data['question'].append(sample['question'])
-            for i, choice in enumerate(sample['choices']):
-                dev_data[f'choice_{i}'].append(choice)
-            dev_data['answer'].append(sample['answer'])
-            
+        # few-shot 예제가 있을 때만 dev_data를 채움
+        if dev_samples:
+            for sample in dev_samples:
+                dev_data['question'].append(sample['question'])
+                for i, choice in enumerate(sample['choices']):
+                    dev_data[f'choice_{i}'].append(choice)
+                dev_data['answer'].append(sample['answer'])
+        
         # 테스트 데이터 준비
         test_samples = [x for x in mmlu_dataset['test'] if x['subject'] == subject]
         if args.ntest > 0:
             test_samples = test_samples[:args.ntest]
-        print(f"Number of test examples: {len(test_samples)}")  # 테스트 예제 수 출력
+        print(f"Number of test examples: {len(test_samples)}")
         
         # test_data 딕셔너리 생성 추가
         test_data = {
@@ -354,40 +362,63 @@ def main(args):
         # 결과 저장
         category = subject_to_category[subject]
         results["subjects"][subject] = {
-            "accuracy": acc,
+            "correct_rate": acc,
             "category": category,
             "details": subject_results
         }
         results["categories"][category]["subjects"].append({
             "subject": subject,
-            "accuracy": acc
+            "correct_rate": acc
         })
 
-    # 카테고리별 평균 정확도 계산
+    # 카테고리별 평균 정답률 계산
     for cat in categories:
         cat_subjects = results["categories"][cat]["subjects"]
         if cat_subjects:
-            cat_acc = np.mean([s["accuracy"] for s in cat_subjects])
-            results["categories"][cat]["accuracy"] = cat_acc
-            print(f"\nAverage accuracy {cat_acc:.3f} - {cat}")
+            cat_rate = np.mean([s["correct_rate"] for s in cat_subjects])
+            results["categories"][cat]["correct_rate"] = round(cat_rate, 2)
+            print(f"\n평균 정답률 {cat_rate:.2f} - {cat}")
 
-    # 전체 평균 정확도 계산
-    all_accuracies = [s["accuracy"] for s in results["subjects"].values()]
-    if all_accuracies:
-        results["overall_accuracy"] = np.mean(all_accuracies)
-        print(f"\nOverall accuracy: {results['overall_accuracy']:.3f}")
+    # 전체 평균 정답률 계산
+    all_rates = [s["correct_rate"] for s in results["subjects"].values()]
+    if all_rates:
+        results["overall_correct_rate"] = round(np.mean(all_rates), 2)
+        print(f"\n전체 정답률: {results['overall_correct_rate']:.2f}")
 
-    # 결과 저장
+    # 결과 저장 디렉토리 구조 수정
+    results_dir = os.path.join(args.save_dir, args.model_name.replace('/', '_'))
+    if not os.path.exists(results_dir):
+        os.makedirs(results_dir)
+    
+    # 결과 JSON 파일 저장
+    timestamp = time.strftime('%Y%m%d-%H%M%S')
     save_path = os.path.join(
-        args.save_dir,
-        f"results_{args.model_name.replace('/', '_')}_{time.strftime('%Y%m%d-%H%M%S')}.json"
+        results_dir,
+        f"results_{timestamp}.json"
     )
-    os.makedirs(os.path.dirname(save_path), exist_ok=True)
     
     with open(save_path, 'w', encoding='utf-8') as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
     
+    # 평균 정답률 요약 파일 저장
+    total_time = time.time() - start_time
+    summary = {
+        "timestamp": timestamp,
+        "model_name": args.model_name,
+        "total_time": f"{total_time:.1f}s",
+        "overall_correct_rate": round(results["overall_correct_rate"], 2),
+        "category_correct_rates": {
+            cat: round(results["categories"][cat]["correct_rate"], 2)
+            for cat in categories
+        }
+    }
+    
+    summary_path = os.path.join(args.save_dir, "correct_summary.jsonl")
+    with open(summary_path, 'a', encoding='utf-8') as f:
+        f.write(json.dumps(summary, ensure_ascii=False) + '\n')
+    
     print(f"\n결과가 저장되었습니다: {save_path}")
+    print(f"정답률 요약이 추가되었습니다: {summary_path}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
