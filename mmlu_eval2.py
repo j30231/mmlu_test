@@ -156,58 +156,6 @@ Time: {time.time() - start_time:.1f}s
 
     return np.array(cors), accuracy, evaluation_results
 
-def get_interactive_selections():
-    """대화형으로 카테고리와 과목을 선택받는 함수"""
-    # 카테고리 선택
-    print("\n사용 가능한 카테고리:")
-    category_list = list(categories.keys())
-    for idx, category in enumerate(category_list, start=1):
-        subject_count = len([s for s, subcats in subcategories.items() 
-                           if any(subcat in categories[category] for subcat in subcats)])
-        print(f"{idx}. {category} ({subject_count} subjects)")
-    
-    while True:
-        try:
-            cat_input = input("\n카테고리 번호를 선택하세요 (1-4, 여러 개는 쉼표로 구분, all): ").strip()
-            if cat_input.lower() == 'all':
-                selected_categories = category_list
-                break
-            
-            indices = [int(i.strip()) for i in cat_input.split(',')]
-            if all(1 <= i <= len(categories) for i in indices):
-                selected_categories = [category_list[i-1] for i in indices]
-                break
-            print(f"1부터 {len(categories)} 사이의 숫자를 입력해주세요.")
-        except ValueError:
-            print("올바른 형식으로 입력해주세요 (예: 1,2 또는 all)")
-    
-    # 선택된 카테고리의 과목 표시
-    selected_subjects = []
-    for category in selected_categories:
-        print(f"\n=== {category} 카테고리의 과목들: ===")
-        category_subjects = [subject for subject, subcats in subcategories.items() 
-                           if any(subcat in categories[category] for subcat in subcats)]
-        
-        for idx, subject in enumerate(category_subjects, 1):
-            print(f"{idx}. {subject}")
-        
-        while True:
-            try:
-                subj_input = input(f"\n과목 번호를 선택하세요 (1-{len(category_subjects)}, 여러 개는 쉼표로 구분, all): ").strip()
-                if subj_input.lower() == 'all':
-                    selected_subjects.extend(category_subjects)
-                    break
-                
-                indices = [int(i.strip()) for i in subj_input.split(',')]
-                if all(1 <= i <= len(category_subjects) for i in indices):
-                    selected_subjects.extend([category_subjects[i-1] for i in indices])
-                    break
-                print(f"1부터 {len(category_subjects)} 사이의 숫자를 입력해주세요.")
-            except ValueError:
-                print("올바른 형식으로 입력해주세요 (예: 1,2 또는 all)")
-    
-    return selected_subjects
-
 def main(args):
     # 카테고리 매핑 생성
     subject_to_category = {}
