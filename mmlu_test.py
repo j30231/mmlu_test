@@ -45,7 +45,16 @@ def extract_answer(response):
     
     return last_answer[0] if last_answer else None
 
-def evaluate_mmlu(dataset, llm, selected_categories, num_samples_per_category):
+def evaluate_mmlu(dataset, llm, test_subjects=None, ntrain=5):
+    """
+    MMLU 데이터셋에 대한 평가를 수행합니다.
+    
+    Args:
+        dataset: MMLU 데이터셋
+        llm: 평가할 언어 모델
+        test_subjects: 평가할 과목 리스트 (None이면 전체 과목)
+        ntrain: few-shot 학습에 사용할 예제 수 (기본값: 5)
+    """
     correct = 0
     total = 0
     evaluation_results = []
@@ -140,6 +149,7 @@ if __name__ == "__main__":
         exit(1)
 
     try:
+        ntrain = int(input("few-shot 학습에 사용할 예제 수를 입력하세요 (기본값: 5): ") or "5")
         num_samples_per_category = int(input("각 카테고리당 평가할 샘플 수를 입력하세요: "))
     except ValueError:
         print("유효한 숫자를 입력하세요.")
@@ -158,4 +168,4 @@ if __name__ == "__main__":
         )
         print(f"카테고리 '{category}'의 전체 샘플 수: {count}")
 
-    evaluate_mmlu(mmlu_dataset, llm, selected_categories, num_samples_per_category)
+    evaluate_mmlu(mmlu_dataset, llm, selected_categories, ntrain=ntrain)
