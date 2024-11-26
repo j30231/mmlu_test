@@ -1,0 +1,58 @@
+[
+    {
+        "category": "STEM",
+        "question": "A town has one high school, which buses students from urban, suburban, and rural communities. Which of the following samples is recommended in studying attitudes toward tracking of students in honors, regular, and below-grade classes?",
+        "choices": [
+            "Convenience sample",
+            "Simple random sample (SRS)",
+            "Stratified sample",
+            "Systematic sample"
+        ],
+        "correct_answer": "C",
+        "model_answer": "C",
+        "model_response": "The correct answer is C. Stratified sample.\n\nSince the town has one high school and buses students from urban, suburban, and rural communities, it's likely that there will be differences in attitudes towards tracking based on these demographic factors. To account for these potential differences, a stratified sample would ensure that a proportionate number of students from each community (urban, suburban, and rural) are included in the sample.\n\nA convenience sample (A) would involve selecting participants who are easily accessible or available, which may not be representative of the larger population.\n\nA simple random sample (B) would involve selecting participants randomly without considering any specific characteristics. While this might provide a representative sample, it's unlikely to account for potential differences in attitudes towards tracking based on community type.\n\nA systematic sample (D) involves selecting every nth participant from a list or population. This method is not relevant to the scenario described, as there is no list of students that can be systematically sampled.",
+        "is_correct": true
+    },
+    {
+        "category": "STEM",
+        "question": "Under certain conditions, a beam of electrons impinging on a crystal surface will diffract and a scattering pattern of the beam can be obtained. What is the approximate kinetic energy of the electrons needed in order to see the pattern? (Assume the lattice spacing of the crystal to be 0.4 nm.)",
+        "choices": [
+            "0.1 eV",
+            "1 eV",
+            "10 eV",
+            "100 eV"
+        ],
+        "correct_answer": "C",
+        "model_answer": "C",
+        "model_response": "The approximate kinetic energy of the electrons needed to see a diffraction pattern is related to the lattice spacing (d) and the wavelength (λ) of the electrons.\n\nFor a crystal with a lattice spacing of 0.4 nm, we can use the Bragg equation:\n\n2dsin(θ) = nλ\n\nwhere θ is the angle of incidence, d is the lattice spacing, λ is the wavelength, and n is an integer.\n\nThe wavelength (λ) of electrons is given by the de Broglie equation:\n\nλ = h / (2me)\n\nwhere h is Planck's constant, m is the mass of the electron, and e is its charge. Substituting values, we get:\n\nλ ≈ 0.124 nm\n\nNow, we can use the Bragg equation to find the approximate kinetic energy (E) needed to see a diffraction pattern:\n\n2dsin(θ) = nλ\n2 × 0.4 nm sin(θ) = 1 × 0.124 nm\nsin(θ) ≈ 0.0625\n\nUsing the small-angle approximation, we can express the kinetic energy in terms of the lattice spacing and the wavelength:\n\nE ≈ (hc / 4d)^2 / (2me)\n≈ (6.626 × 10^-34 J s / 4 × 0.4 nm)^2 / (8.65 × 10^-36 kg × 1.602 × 10^-19 C)\n≈ 12 eV\n\nSince the lattice spacing is 0.4 nm, the approximate kinetic energy needed to see a diffraction pattern is around 12-15 eV.\n\nTherefore, the correct answer is:\n\nC. 10 eV",
+        "is_correct": true
+    },
+    {
+        "category": "STEM",
+        "question": "Imagine that the Earth was instantly moved to an orbit three times further away from the Sun. How much longer would a year be?",
+        "choices": [
+            "exactly 3 times longer",
+            "about 5.2 times longer",
+            "Not enough information. It will depend on the inclination of the new orbit",
+            "The length of the year wouldn't change because the Earth's mass stays the same."
+        ],
+        "correct_answer": "B",
+        "model_answer": "B",
+        "model_response": "The correct answer is B. about 5.2 times longer.\n\nWhen the Earth moves to a new orbit, its orbital period (the time it takes to complete one orbit around the Sun) changes. The orbital period is given by Kepler's third law, which states that the square of the orbital period is proportional to the cube of the semi-major axis (the average distance from the Earth to the Sun).\n\nSince the Earth's mass stays constant, its gravitational force on itself remains the same. Therefore, the length of a year depends only on the new orbit's shape and size.\n\nIn this scenario, the Earth moves to an orbit three times further away from the Sun, which means its semi-major axis increases by a factor of 3. According to Kepler's third law, the orbital period (year) will increase by a factor of √(3^3) = √27 ≈ 5.2.\n\nSo, a year on this new orbit would be approximately 5.2 times longer than it is today.",
+        "is_correct": true
+    },
+    {
+        "category": "STEM",
+        "question": "On Andros Islands in the Bahamas, populations of mosquito fish, Gambusia hubbsi, colonized a series of ponds. These ponds are no longer connected. However, the environments are very similar except that some ponds contain predatory fish, while others do not. In high predation ponds, selection has favored the evolution of a body shape that enables rapid bursts of speed. In low predation ponds, another body type is favored—one that is well-suited to swim for long periods of time.",
+        "choices": [
+            "Reproductive isolation caused geographic isolation.",
+            "Reproductive isolation was not complete.",
+            "Allopatric isolation brought about reproductive isolation.",
+            "Sympatric isolation brought about reproductive isolation."
+        ],
+        "correct_answer": "C",
+        "model_answer": "D",
+        "model_response": "The correct answer is D. Sympatric isolation brought about reproductive isolation.\n\nSympatric isolation refers to the situation where different populations of a species are geographically overlapping, but still maintain their reproductive isolation due to other factors such as ecological differences (in this case, presence or absence of predators).\n\nIn this scenario, the mosquito fish in the high-predation ponds have evolved to be faster and more agile, while those in the low-predation ponds have evolved to be longer-distance swimmers. Despite being in the same geographic location, these populations are reproductively isolated due to their different adaptations to their respective environments.\n\nThe other options do not apply here:\n\nA. Reproductive isolation caused by geographic isolation is not relevant, as the ponds are still connected and the fish can potentially interbreed.\n\nB. The reproductive isolation is complete, as the fish in each pond have evolved specific traits that make it difficult for them to interbreed with those from other ponds.\n\nC. Allopatric isolation refers to geographic separation between populations, which is not applicable here since the ponds are still connected.\n\nTherefore, option D, Sympatric isolation brought about reproductive isolation, is the correct answer.",
+        "is_correct": false
+    }
+]
