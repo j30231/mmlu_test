@@ -206,7 +206,35 @@ def get_interactive_selections():
             except ValueError:
                 print("올바른 형식으로 입력해주세요 (예: 1,2 또는 all)")
     
-    return selected_subjects
+    # Few-shot 설정
+    while True:
+        use_few_shot = input("\nFew-shot 학습을 사용하시겠습니까? (y/n): ").lower().strip()
+        if use_few_shot in ['y', 'n']:
+            break
+        print("y 또는 n으로 입력해주세요.")
+    
+    ntrain = 0
+    if use_few_shot == 'y':
+        while True:
+            try:
+                ntrain = int(input("Few-shot 예제 개수를 입력하세요 (1-5): "))
+                if 1 <= ntrain <= 5:
+                    break
+                print("1부터 5 사이의 숫자를 입력해주세요.")
+            except ValueError:
+                print("올바른 숫자를 입력해주세요.")
+    
+    # 테스트 문제 개수 설정
+    while True:
+        try:
+            ntest = int(input("\n각 과목당 평가할 문제 수를 입력하세요 (-1: 전체): "))
+            if ntest == -1 or ntest > 0:
+                break
+            print("양수 또는 -1을 입력해주세요.")
+        except ValueError:
+            print("올바른 숫자를 입력해주세요.")
+    
+    return selected_subjects, use_few_shot == 'y', ntrain, ntest
 
 def main(args):
     # 카테고리 매핑 생성
@@ -217,106 +245,60 @@ def main(args):
                 subject_to_category[subject] = cat
                 break
     
-    # auto_mode가 True이면 CLI 인자 사용, False이면 대화형 입력 사용
-    if not args.auto_mode:
-        # 카테고리 선택
-        print("\n사용 가능한 카테고리:")
+    if args.auto_mode:
+        # CLI 모드
         category_list = list(categories.keys())
-        for idx, category in enumerate(category_list, start=1):
-            subject_count = len([s for s, c in subject_to_category.items() if c == category])
-            print(f"{idx}. {category} ({subject_count} subjects)")
-        
-        # selected_subjects 리스트를 미리 초기화
         selected_subjects = []
         
-        while True:
+        # 전체 과목 리스트 생성 (카테고리 정보 포함)
+        all_subjects = []
+        for subject, cat in subject_to_category.items():
+            all_subjects.append((cat, subject))
+        
+        # 카테고리 처리
+        if args.categories:
             try:
-                selected_indices = input("\n평가할 카테고리의 번호를 쉼표로 구분하여 입력하세요 (예: 1,3 또는 all): ").strip()
-                if selected_indices.lower() == 'all':
-                    selected_categories = category_list
-                    break
-                
-                indices = [int(idx.strip()) for idx in selected_indices.split(',')]
-                selected_categories = [category_list[i-1] for i in indices if 1 <= i <= len(category_list)]
-                
-                if selected_categories:
-                    break
-                print("올바른 카테고리 번호를 입력해주세요.")
-            except ValueError:
-                print("올바른 형식으로 입력해주세요 (예: 1,3 또는 all)")
-        
-        # 선택된 카테고리의 과목 목록 표시 및 선택
-        for category in selected_categories:
-            category_subjects = [subject for subject, cat in subject_to_category.items() if cat == category]
-            print(f"\n{category} 카테고리의 과목들:")
-            for idx, subject in enumerate(category_subjects, start=1):
-                print(f"{idx}. {subject}")
-            
-            while True:
-                try:
-                    subject_indices = input(f"\n평가할 과목의 번호를 쉼표로 구분하여 입력하세요 (예: 1,3 또는 all): ").strip()
-                    if subject_indices.lower() == 'all':
-                        selected_subjects.extend(category_subjects)
-                        break
-                    
-                    indices = [int(idx.strip()) for idx in subject_indices.split(',')]
-                    selected_subjects.extend([category_subjects[i-1] for i in indices if 1 <= i <= len(category_subjects)])
-                    break
-                except ValueError:
-                    print("올바른 형식으로 입력해주세요 (예: 1,3 또는 all)")
-
-        # few-shot 사용 여부 입력
-        while True:
-            few_shot = input("\nfew-shot 학습을 사용하시겠습니까? (y/n): ").strip().lower()
-            if few_shot in ['y', 'n']:
-                args.use_few_shot = (few_shot == 'y')
-                break
-            print("'y' 또는 'n'으로 입력해주세요.")
-        
-        # few-shot 개수 입력
-        if args.use_few_shot:
-            while True:
-                try:
-                    ntrain = input("\nfew-shot 예제 개수를 입력하세요 (기본값: 5): ").strip()
-                    if not ntrain:
-                        args.ntrain = 5
-                        break
-                    args.ntrain = int(ntrain)
-                    if args.ntrain >= 0:
-                        break
-                    print("0 이상의 숫자를 입력해주세요.")
-                except ValueError:
-                    print("올바른 숫자를 입력해주세요.")
+                cat_indices = [int(i.strip()) for i in args.categories.split(',')]
+                selected_categories = [category_list[i-1] for i in cat_indices 
+                                    if 1 <= i <= len(category_list)]
+            except (ValueError, IndexError):
+                print("카테고리 번호가 잘못되었습니다. 1-4 사이의 숫자를 사용하세요.")
+                return
         else:
-            args.ntrain = 0
+            selected_categories = category_list
 
-        # 문제 수 입력
-        while True:
+        # 과목 선택 처리
+        if args.subjects:
             try:
-                num_questions = input("\n각 과목당 평가할 문제 수를 입력하세요 (기본값: 전체): ").strip()
-                if not num_questions:
-                    args.ntest = -1
-                    break
-                args.ntest = int(num_questions)
-                if args.ntest > 0:
-                    break
-                print("1 이상의 숫자를 입력해주세요.")
-            except ValueError:
-                print("올바른 숫자를 입력해주세요.")
-    else:
-        # CLI 인자로 전달된 카테고리와 과목 사용
-        selected_categories = args.categories.split(',') if args.categories else list(categories.keys())
-        selected_subjects = []
-        for category in selected_categories:
-            category_subjects = [subject for subject, cat in subject_to_category.items() if cat == category]
-            if args.subjects:
-                # 특정 과목들이 지정된 경우
-                subjects = args.subjects.split(',')
-                selected_subjects.extend([s for s in category_subjects if s in subjects])
-            else:
-                # 모든 과목 선택
-                selected_subjects.extend(category_subjects)
+                subj_indices = [int(i.strip()) for i in args.subjects.split(',')]
+                selected_subjects = [all_subjects[i-1][1] for i in subj_indices 
+                                  if 1 <= i <= len(all_subjects)]
+                if not selected_subjects:
+                    print("유효한 과목이 선택되지 않았습니다.")
+                    return
+            except (ValueError, IndexError):
+                print("과목 번호가 잘못되었습니다.")
+                return
+        else:
+            selected_subjects = [subject for _, subject in all_subjects]
 
+        # Few-shot 설정 출력
+        print(f"\n=== 평가 설정 ===")
+        print(f"선택된 카테고리: {', '.join(selected_categories)}")
+        print(f"선택된 과목: {', '.join(selected_subjects)}")
+        print(f"Few-shot 사용: {args.use_few_shot}")
+        if args.use_few_shot:
+            print(f"Few-shot 예제 수: {args.ntrain}")
+        print(f"테스트 문제 수: {'모두' if args.ntest <= 0 else args.ntest}")
+        print("=" * 30 + "\n")
+    else:
+        # 대화형 모드
+        selected_subjects, use_few_shot, ntrain, ntest = get_interactive_selections()
+        args.use_few_shot = use_few_shot
+        args.ntrain = ntrain
+        args.ntest = ntest
+
+    # 나머지 코드는 그대로 유지
     if args.nsubjects > 0:
         selected_subjects = random.sample(selected_subjects, min(args.nsubjects, len(selected_subjects)))
 
@@ -494,7 +476,7 @@ if __name__ == "__main__":
                       help="평가할 카테고리 (쉼표로 구분)")
     parser.add_argument("--subjects", "-sb", type=str,
                       help="평가할 과목 (쉼표로 구분)")
-    parser.add_argument("--use_few_shot", "-f", type=bool, default=True,
+    parser.add_argument("--use_few_shot", "-f", action="store_true", default=False,
                       help="few-shot 학습 사용 여부")
     parser.add_argument("--ntrain", "-k", type=int, default=5,
                       help="few-shot 예제 개수")
