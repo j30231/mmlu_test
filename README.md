@@ -5,9 +5,10 @@ LLM Model (API방식) 에 대해서 평가 수행
 
 # 실행 예시
 
-# MMLU 카테고리와 서브젝트를 확인하는 방법
+## MMLU 카테고리와 서브젝트를 확인하는 방법
 > python show_categories.py
 
+###
 ```
 === 카테고리 및 과목 목록 ===
 
@@ -142,20 +143,20 @@ LLM Model (API방식) 에 대해서 평가 수행
    14. virology
 ```
 
-# arg 변수로 설정을 받는 모드
-# Model (llama-3-8b-instruct@iq2_s) 에 대해서 전체 평가 수행
+## arg 변수로 설정을 받는 모드
+### Model (llama-3-8b-instruct@iq2_s) 에 대해서 전체 평가 수행
 > python mmlu_eval1.py --auto_mode --ntest -1 --model_name llama-3-8b-instruct@iq2_s
 
-# Model (llama-3-8b-instruct@q4_k_m) 에 대해서 STEM 카테고리 10개 문항만 평가 수행
+### Model (llama-3-8b-instruct@q4_k_m) 에 대해서 STEM 카테고리 10개 문항만 평가 수행
 > python mmlu_eval1.py --auto_mode --ntest -10 --model_name llama-3-8b-instruct@q4_k_m -category 1
 
-# Model (llama-3-8b-instruct@q4_k_m) 에 대해서 STEM 카테고리 10개 문항만 평가 수행, Few-shot 사용(5회)
+### Model (llama-3-8b-instruct@q4_k_m) 에 대해서 STEM 카테고리 10개 문항만 평가 수행, Few-shot 사용(5회)
 > python mmlu_eval1.py --auto_mode --ntest -10 --model_name llama-3-8b-instruct@q4_k_m -category 1 -f -k 5
 
-# 사용자 입력을 직접 받는 모드
+### 사용자 입력을 직접 받는 모드
 > python mmlu_eval1.py 
 
-# 병럴 처리모드로 실행할 경우 mmlu_eval2.py 또는 mmlu_evla3.py 사용 (2개 파일은 동일함)
+## 병럴 처리모드로 실행할 경우 mmlu_eval2.py 또는 mmlu_evla3.py 사용 (2개 파일은 동일함)
 > python mmlu_eval2.py 
 
 Contact E-mail : j30231@gmail.com
