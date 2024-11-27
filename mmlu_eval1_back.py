@@ -1,4 +1,4 @@
-# Async version (병렬 처리로 한꺼번에 10개씩 처리)
+# Sync version (Backup)
 
 import argparse
 import json
@@ -10,8 +10,6 @@ from datasets import load_dataset
 from langchain_openai import ChatOpenAI
 from categories import categories, subcategories
 import random
-import asyncio
-from langchain_core.messages import HumanMessage, SystemMessage
 
 # 기본 설정
 choices = ["A", "B", "C", "D"]
@@ -69,12 +67,7 @@ def extract_answer(response_text: str) -> str:
             
     raise ValueError(f"유효한 답변(A,B,C,D)을 찾을 수 없습니다: {response_text[:100]}...")
 
-async def async_evaluate_batch(llm, messages_batch):
-    """배치 단위로 비동기 평가를 수행합니다."""
-    tasks = [llm.ainvoke(messages) for messages in messages_batch]
-    return await asyncio.gather(*tasks, return_exceptions=True)
-
-async def async_eval(args, subject, llm, dev_df, test_df):
+def eval(args, subject, llm, dev_df, test_df):
     correct_count = 0
     total_count = 0
     cors = []
@@ -84,104 +77,86 @@ async def async_eval(args, subject, llm, dev_df, test_df):
     system_msg = """You are a helpful assistant that answers multiple choice questions. 
     Answer with ONLY a single letter (A, B, C, or D) without any explanation."""
     
-    # 배치 크기 설정
-    BATCH_SIZE = 10  # 한 번에 처리할 쿼리 수
-    
-    # 메시지 배치 준비
-    messages_batch = []
-    batch_indices = []
-    
     for idx, row in test_df.iterrows():
-        # few-shot 예제 준비
-        if args.use_few_shot and args.ntrain > 0 and not dev_df.empty:
+        start_time = time.time()
+        
+        # few-shot 예제 준비 부분 수정
+        if args.use_few_shot and args.ntrain > 0 and not dev_df.empty:  # dev_df가 비어있지 않은 경우에만 few-shot 적용
             k = args.ntrain
+            # 테스트 문제를 마지막에 추가
             prompt = f"Answer the following multiple choice questions about {format_subject(subject)}.\n\n"
-            prompt += gen_prompt(dev_df, subject, k)
+            prompt += gen_prompt(dev_df, subject, k)  # few-shot 예제들
             prompt += "Now answer this question:\n\n"
             prompt += format_example(test_df, idx, include_answer=False)
         else:
             prompt = f"Answer this multiple choice question about {format_subject(subject)}:\n\n"
             prompt += format_example(test_df, idx, include_answer=False)
         
+        # verbose 모드일 때만 few-shot 예제와 테스트 질문 출력
+        if args.verbose:
+            print("\nFew-shot examples and test question:")
+            print(prompt)
+            print("=" * 80)
+        
         messages = [
             {"role": "system", "content": system_msg},
             {"role": "user", "content": prompt}
         ]
         
-        messages_batch.append(messages)
-        batch_indices.append(idx)
+        # 모델 응답 받기
+        response = llm.invoke(messages)
+        model_response = response.content.strip()
         
-        # 배치가 가득 찼거나 마지막 항목인 경우 처리
-        if len(messages_batch) == BATCH_SIZE or idx == len(test_df) - 1:
-            start_time = time.time()
+        # 답변 처리
+        model_answer = extract_answer(model_response)
+        if model_answer is None:
+            print(f"Warning: 모델 응답에서 답변을 추출할 수 없습니다: {model_response}")
+            continue
             
-            # 배치 평가 수행
-            responses = await async_evaluate_batch(llm, messages_batch)
-            
-            # 결과 처리
-            for batch_idx, (response, test_idx) in enumerate(zip(responses, batch_indices)):
-                try:
-                    if isinstance(response, Exception):
-                        print(f"Error processing question {test_idx}: {str(response)}")
-                        continue
-                        
-                    model_response = response.content.strip()
-                    model_answer = extract_answer(model_response)
-                    
-                    if model_answer is None:
-                        print(f"Warning: 모델 응답에서 답변을 추출할 수 없습니다: {model_response}")
-                        continue
-                        
-                    model_answer_num = ord(model_answer) - ord('A')
-                    correct_answer = test_df.iloc[test_idx]['answer']
-                    is_correct = model_answer_num == correct_answer
-                    
-                    if is_correct:
-                        correct_count += 1
-                    total_count += 1
-                    
-                    cors.append(is_correct)
-                    accuracy = (correct_count / total_count) * 100
-                    
-                    # 결과 저장
-                    result_entry = {
-                        'subject': subject,
-                        'question': test_df.iloc[test_idx]['question'],
-                        'choices': [
-                            test_df.iloc[test_idx]['choice_0'],
-                            test_df.iloc[test_idx]['choice_1'],
-                            test_df.iloc[test_idx]['choice_2'],
-                            test_df.iloc[test_idx]['choice_3']
-                        ],
-                        'model_answer': model_response,
-                        'correct_answer': correct_answer,
-                        'is_correct': is_correct,
-                        'response_time': time.time() - start_time,
-                        'few_shot_used': args.use_few_shot and args.ntrain > 0,
-                        'num_few_shot': args.ntrain if args.use_few_shot else 0
-                    }
-                    evaluation_results.append(result_entry)
-                    
-                    print(f"""
+        model_answer_num = ord(model_answer) - ord('A')
+        correct_answer = row['answer']
+        is_correct = model_answer_num == correct_answer
+        
+        if is_correct:
+            correct_count += 1
+        total_count += 1
+        
+        cors.append(is_correct)
+        accuracy = (correct_count / total_count) * 100
+
+        # 결과 저장
+        result_entry = {
+            'subject': subject,
+            'question': row['question'],
+            'choices': [
+                row['choice_0'],
+                row['choice_1'],
+                row['choice_2'],
+                row['choice_3']
+            ],
+            'model_answer': model_response,
+            'correct_answer': row['answer'],
+            'is_correct': is_correct,
+            'response_time': time.time() - start_time,
+            'few_shot_used': args.use_few_shot and args.ntrain > 0,
+            'num_few_shot': args.ntrain if args.use_few_shot else 0
+        }
+        evaluation_results.append(result_entry)
+        
+        print(f"""
 ================================================================================
-Progress: {total_count}/{len(test_df)} ({total_count/len(test_df)*100:.1f}%)
+Progress: {idx+1}/{len(test_df)} ({(idx+1)/len(test_df)*100:.1f}%)
 Subject: {subject}
-Question: {test_df.iloc[test_idx]['question']}
+Question: {row['question']}
 Model answer: {model_response} ({model_answer_num})
-Correct answer: {choices[int(correct_answer)]} ({correct_answer})
+Correct answer: {choices[int(row['answer'])]} ({row['answer']})
 Result: {'Correct' if is_correct else 'Wrong'}
 Accuracy so far: {accuracy:.1f}%
-Time per batch: {(time.time() - start_time)/len(messages_batch):.1f}s
+Time: {time.time() - start_time:.1f}s
 ================================================================================
 """)
-                except Exception as e:
-                    print(f"Error processing result for question {test_idx}: {str(e)}")
-            
-            # 배치 초기화
-            messages_batch = []
-            batch_indices = []
-    
-    return np.array(cors), (correct_count / total_count) * 100, evaluation_results
+
+    return np.array(cors), accuracy, evaluation_results
 
 def get_interactive_selections():
     """대화형으로 카테고리와 과목을 선택받는 함수"""
@@ -342,12 +317,12 @@ def main(args):
         "overall_correct_rate": 0.0
     }
 
-    # LLM 모델 초기화를 AsyncChatOpenAI로 변경
+    # LLM 모델 초기화
     llm = ChatOpenAI(
         base_url=args.base_url,
         api_key=args.api_key,
         model=args.model_name,
-        streaming=False,  # 비동기 처리시에는 streaming을 끕니다
+        streaming=True,
     )
 
     # MMLU 데이터셋 로드
@@ -422,7 +397,7 @@ def main(args):
         test_df = pd.DataFrame(test_data)
 
         # 평가 수행
-        cors, acc, subject_results = asyncio.run(async_eval(args, subject, llm, dev_df, test_df))
+        cors, acc, subject_results = eval(args, subject, llm, dev_df, test_df)
         all_results.extend(subject_results)
         
         # 결과 저장
