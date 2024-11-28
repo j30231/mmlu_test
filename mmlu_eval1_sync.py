@@ -11,7 +11,7 @@ from langchain_openai import ChatOpenAI
 from categories import categories, subcategories
 import random
 
-# 기본 설정
+# Basic settings
 choices = ["A", "B", "C", "D"]
 
 def format_subject(subject):
@@ -28,7 +28,7 @@ def format_example(df, idx, include_answer=True):
         prompt += "\n{}. {}".format(choices[j], df.iloc[idx, j + 1])
     prompt += "\nAnswer:"
     if include_answer:
-        # 숫자를 알파벳으로 변환
+        # Convert number to letter
         answer_num = int(df.iloc[idx, k + 1])
         answer_letter = choices[answer_num]  # 0->A, 1->B, 2->C, 3->D
         prompt += " {}\n\n".format(answer_letter)
@@ -45,27 +45,27 @@ def gen_prompt(train_df, subject, k=-1):
     return prompt
 
 def extract_answer(response_text: str) -> str:
-    """모델 응답에서 A, B, C, D 형식의 답변을 추출합니다."""
+    """Extracts A, B, C, D format answer from model response."""
     if not response_text:
-        raise ValueError("모델 응답이 비어있습니다")
+        raise ValueError("Model response is empty")
     
-    # 응답을 줄 단위로 분리
+    # Split response by lines
     lines = response_text.upper().split('\n')
     
-    # "ANSWER:" 또는 "THE ANSWER IS" 패턴 찾기
+    # Look for "ANSWER:" or "THE ANSWER IS" pattern
     for line in lines:
         if "ANSWER:" in line or "THE ANSWER IS" in line:
-            # 해당 라인에서 A, B, C, D 찾기
+            # Find A, B, C, D in the line
             for char in line:
                 if char in ['A', 'B', 'C', 'D']:
                     return char
     
-    # 위 방법으로 찾지 못한 경우, 전체 텍스트에서 첫 번째로 나오는 A, B, C, D 찾기
+    # If not found above, look for first A, B, C, D in entire text
     for char in response_text.upper():
         if char in ['A', 'B', 'C', 'D']:
             return char
             
-    raise ValueError(f"유효한 답변(A,B,C,D)을 찾을 수 없습니다: {response_text[:100]}...")
+    raise ValueError(f"Cannot find valid answer (A,B,C,D) in response: {response_text[:100]}...")
 
 def eval(args, subject, llm, dev_df, test_df):
     correct_count = 0
@@ -73,26 +73,26 @@ def eval(args, subject, llm, dev_df, test_df):
     cors = []
     evaluation_results = []
     
-    # 시스템 메시지 수정
+    # Modify system message
     system_msg = """You are a helpful assistant that answers multiple choice questions. 
     Answer with ONLY a single letter (A, B, C, or D) without any explanation."""
     
     for idx, row in test_df.iterrows():
         start_time = time.time()
         
-        # few-shot 예제 준비 부분 수정
-        if args.use_few_shot and args.ntrain > 0 and not dev_df.empty:  # dev_df가 비어있지 않은 경우에만 few-shot 적용
+        # Prepare few-shot examples
+        if args.use_few_shot and args.ntrain > 0 and not dev_df.empty:  # Apply few-shot only if dev_df is not empty
             k = args.ntrain
-            # 테스트 문제를 마지막에 추가
+            # Add test question at the end
             prompt = f"Answer the following multiple choice questions about {format_subject(subject)}.\n\n"
-            prompt += gen_prompt(dev_df, subject, k)  # few-shot 예제들
+            prompt += gen_prompt(dev_df, subject, k)  # few-shot examples
             prompt += "Now answer this question:\n\n"
             prompt += format_example(test_df, idx, include_answer=False)
         else:
             prompt = f"Answer this multiple choice question about {format_subject(subject)}:\n\n"
             prompt += format_example(test_df, idx, include_answer=False)
         
-        # verbose 모드일 때만 few-shot 예제와 테스트 질문 출력
+        # Print few-shot examples and test question in verbose mode only
         if args.verbose:
             print("\nFew-shot examples and test question:")
             print(prompt)
@@ -103,14 +103,14 @@ def eval(args, subject, llm, dev_df, test_df):
             {"role": "user", "content": prompt}
         ]
         
-        # 모델 응답 받기
+        # Get model response
         response = llm.invoke(messages)
         model_response = response.content.strip()
         
-        # 답변 처리
+        # Process answer
         model_answer = extract_answer(model_response)
         if model_answer is None:
-            print(f"Warning: 모델 응답에서 답변을 추출할 수 없습니다: {model_response}")
+            print(f"Warning: Could not extract answer from model response: {model_response}")
             continue
             
         model_answer_num = ord(model_answer) - ord('A')
@@ -124,7 +124,7 @@ def eval(args, subject, llm, dev_df, test_df):
         cors.append(is_correct)
         accuracy = (correct_count / total_count) * 100
 
-        # 결과 저장
+        # Save result
         result_entry = {
             'subject': subject,
             'question': row['question'],
@@ -159,9 +159,9 @@ Time: {time.time() - start_time:.1f}s
     return np.array(cors), accuracy, evaluation_results
 
 def get_interactive_selections():
-    """대화형으로 카테고리와 과목을 선택받는 함수"""
-    # 카테고리 선택
-    print("\n사용 가능한 카테고리:")
+    """Interactive function to select categories and subjects"""
+    # Category selection
+    print("\nAvailable categories:")
     category_list = list(categories.keys())
     for idx, category in enumerate(category_list, start=1):
         subject_count = len([s for s, subcats in subcategories.items() 
@@ -170,7 +170,7 @@ def get_interactive_selections():
     
     while True:
         try:
-            cat_input = input("\n카테고리 번호를 선택하세요 (1-4, 여러 개는 쉼표로 구분, all): ").strip()
+            cat_input = input("\nSelect category numbers (1-4, comma-separated, or 'all'): ").strip()
             if cat_input.lower() == 'all':
                 selected_categories = category_list
                 break
@@ -179,14 +179,14 @@ def get_interactive_selections():
             if all(1 <= i <= len(categories) for i in indices):
                 selected_categories = [category_list[i-1] for i in indices]
                 break
-            print(f"1부터 {len(categories)} 사이의 숫자를 입력해주세요.")
+            print(f"Please enter numbers between 1 and {len(categories)}.")
         except ValueError:
-            print("올바른 형식으로 입력해주세요 (예: 1,2 또는 all)")
-    
-    # 선택된 카테고리의 과목 표시
+            print("Please use correct format (e.g., 1,2 or 'all')")
+
+    # Subject selection for each category
     selected_subjects = []
     for category in selected_categories:
-        print(f"\n=== {category} 카테고리의 과목들: ===")
+        print(f"\n=== Subjects in {category} category: ===")
         category_subjects = [subject for subject, subcats in subcategories.items() 
                            if any(subcat in categories[category] for subcat in subcats)]
         
@@ -195,7 +195,7 @@ def get_interactive_selections():
         
         while True:
             try:
-                subj_input = input(f"\n과목 번호를 선택하세요 (1-{len(category_subjects)}, 여러 개는 쉼표로 구분, all): ").strip()
+                subj_input = input(f"\nSelect subject numbers (1-{len(category_subjects)}, comma-separated, or 'all'): ").strip()
                 if subj_input.lower() == 'all':
                     selected_subjects.extend(category_subjects)
                     break
@@ -204,42 +204,42 @@ def get_interactive_selections():
                 if all(1 <= i <= len(category_subjects) for i in indices):
                     selected_subjects.extend([category_subjects[i-1] for i in indices])
                     break
-                print(f"1부터 {len(category_subjects)} 사이의 숫자를 입력해주세요.")
+                print(f"Please enter numbers between 1 and {len(category_subjects)}.")
             except ValueError:
-                print("올바른 형식으로 입력해주세요 (예: 1,2 또는 all)")
+                print("Please use correct format (e.g., 1,2 or 'all')")
     
-    # Few-shot 설정
+    # Few-shot settings
     while True:
-        use_few_shot = input("\nFew-shot 학습을 사용하시겠습니까? (y/n): ").lower().strip()
+        use_few_shot = input("\nUse few-shot learning? (y/n): ").lower().strip()
         if use_few_shot in ['y', 'n']:
             break
-        print("y 또는 n으로 입력해주세요.")
+        print("Please enter y or n.")
     
     ntrain = 0
     if use_few_shot == 'y':
         while True:
             try:
-                ntrain = int(input("Few-shot 예제 개수를 입력하세요 (1-5): "))
+                ntrain = int(input("Enter number of few-shot examples (1-5): "))
                 if 1 <= ntrain <= 5:
                     break
-                print("1부터 5 사이의 숫자를 입력해주세요.")
+                print("Please enter a number between 1 and 5.")
             except ValueError:
-                print("올바른 숫자를 입력해주세요.")
+                print("Please enter a valid number.")
     
-    # 테스트 문제 개수 설정
+    # Number of test questions
     while True:
         try:
-            ntest = int(input("\n각 과목당 평가할 문제 수를 입력하세요 (-1: 전체): "))
+            ntest = int(input("\nEnter number of test questions per subject (-1: all): "))
             if ntest == -1 or ntest > 0:
                 break
-            print("양수 또는 -1을 입력해주세요.")
+            print("Please enter a positive number or -1.")
         except ValueError:
-            print("올바른 숫자를 입력해주세요.")
+            print("Please enter a valid number.")
     
     return selected_subjects, use_few_shot == 'y', ntrain, ntest
 
 def main(args):
-    # 카테고리 매핑 생성
+    # Create category mapping
     subject_to_category = {}
     for subject, subcats in subcategories.items():
         for cat, subcat_list in categories.items():
@@ -248,63 +248,61 @@ def main(args):
                 break
     
     if args.auto_mode:
-        # CLI 모드
+        # CLI mode
         category_list = list(categories.keys())
         selected_subjects = []
         
-        # 전체 과목 리스트 생성 (카테고리 정보 포함)
+        # Create full subject list (including category information)
         all_subjects = []
         for subject, cat in subject_to_category.items():
             all_subjects.append((cat, subject))
         
-        # 카테고리 처리
+        # Category handling
         if args.categories:
             try:
                 cat_indices = [int(i.strip()) for i in args.categories.split(',')]
                 selected_categories = [category_list[i-1] for i in cat_indices 
                                     if 1 <= i <= len(category_list)]
             except (ValueError, IndexError):
-                print("카테고리 번호가 잘못되었습니다. 1-4 사이의 숫자를 사용하세요.")
+                print("Invalid category number. Please use numbers between 1 and 4.")
                 return
         else:
             selected_categories = category_list
 
-        # 과목 선택 처리
+        # Subject selection
         if args.subjects:
             try:
                 subj_indices = [int(i.strip()) for i in args.subjects.split(',')]
                 selected_subjects = [all_subjects[i-1][1] for i in subj_indices 
                                   if 1 <= i <= len(all_subjects)]
                 if not selected_subjects:
-                    print("유효한 과목이 선택되지 않았습니다.")
+                    print("No valid subjects selected.")
                     return
             except (ValueError, IndexError):
-                print("과목 번호가 잘못되었습니다.")
+                print("Invalid subject number.")
                 return
         else:
             selected_subjects = [subject for _, subject in all_subjects]
 
-        # Few-shot 설정 출력
-        print(f"\n=== 평가 설정 ===")
-        print(f"선택된 카테고리: {', '.join(selected_categories)}")
-        print(f"선택된 과목: {', '.join(selected_subjects)}")
-        print(f"Few-shot 사용: {args.use_few_shot}")
-        if args.use_few_shot:
-            print(f"Few-shot 예제 수: {args.ntrain}")
-        print(f"테스트 문제 수: {'모두' if args.ntest <= 0 else args.ntest}")
+        # Print few-shot settings
+        print(f"\n=== Evaluation Settings ===")
+        print(f"Selected categories: {', '.join(selected_categories)}")
+        print(f"Selected subjects ({len(selected_subjects)}): {', '.join(selected_subjects)}")
+        print(f"Use few-shot: {args.use_few_shot}")
+        print(f"Test questions: {'all' if args.ntest <= 0 else args.ntest}")
         print("=" * 30 + "\n")
     else:
-        # 대화형 모드
+        # Interactive mode
         selected_subjects, use_few_shot, ntrain, ntest = get_interactive_selections()
         args.use_few_shot = use_few_shot
         args.ntrain = ntrain
         args.ntest = ntest
 
-    # 나머지 코드는 그대로 유지
+    # Rest of the code
     if args.nsubjects > 0:
         selected_subjects = random.sample(selected_subjects, min(args.nsubjects, len(selected_subjects)))
 
-    # 결과 저장을 위한 딕셔너리 초기화
+    # Initialize dictionary for saving results
     results = {
         "metadata": {
             "model_name": args.model_name,
@@ -317,7 +315,7 @@ def main(args):
         "overall_correct_rate": 0.0
     }
 
-    # LLM 모델 초기화
+    # Initialize LLM model
     llm = ChatOpenAI(
         base_url=args.base_url,
         api_key=args.api_key,
@@ -325,33 +323,33 @@ def main(args):
         streaming=True,
     )
 
-    # MMLU 데이터셋 로드
+    # Load MMLU dataset
     mmlu_dataset = load_dataset('cais/mmlu', 'all')
     
-    # 결과 저장 디렉토리 생성
+    # Create results directory
     if not os.path.exists(args.save_dir):
         os.makedirs(args.save_dir)
     
-    # 시작 시간 기록
+    # Start time recording
     start_time = time.time()
     
-    # 평가 결과 저장을 위한 변수들
+    # Variables for saving evaluation results
     all_cors = []
     all_results = []
     subcat_cors = {subcat: [] for subcat_lists in subcategories.values() for subcat in subcat_lists}
     cat_cors = {cat: [] for cat in categories}
 
-    # 각 과목별 평가 수행
+    # Evaluate each subject
     for subject in selected_subjects:
         print(f"\n=== Evaluating {subject} ===\n")
         
-        # 개발 데이터 준비 - few-shot 설정에 따라 조정
+        # Prepare development data - adjust based on few-shot settings
         if args.use_few_shot and args.ntrain > 0:
             dev_samples = [x for x in mmlu_dataset['dev'] if x['subject'] == subject][:args.ntrain]
         else:
-            dev_samples = []  # few-shot을 사용하지 않을 경우 빈 리스트로 설정
+            dev_samples = []  # No few-shot if not used
             
-        print(f"Number of few-shot examples: {len(dev_samples)}")  # 메시지 변경
+        print(f"Number of few-shot examples: {len(dev_samples)}")  # Change message
         
         dev_data = {
             'question': [],
@@ -362,7 +360,7 @@ def main(args):
             'answer': []
         }
         
-        # few-shot 예제가 있을 때만 dev_data를 채움
+        # Fill dev_data only if there are few-shot examples
         if dev_samples:
             for sample in dev_samples:
                 dev_data['question'].append(sample['question'])
@@ -370,13 +368,13 @@ def main(args):
                     dev_data[f'choice_{i}'].append(choice)
                 dev_data['answer'].append(sample['answer'])
         
-        # 테스트 데이터 준비
+        # Prepare test data
         test_samples = [x for x in mmlu_dataset['test'] if x['subject'] == subject]
         if args.ntest > 0:
             test_samples = test_samples[:args.ntest]
         print(f"Number of test examples: {len(test_samples)}")
         
-        # test_data 딕셔너리 생성 추가
+        # Create test_data dictionary
         test_data = {
             'question': [],
             'choice_0': [],
@@ -392,15 +390,15 @@ def main(args):
                 test_data[f'choice_{i}'].append(choice)
             test_data['answer'].append(sample['answer'])
         
-        # DataFrame 생성
+        # Create DataFrame
         dev_df = pd.DataFrame(dev_data)
         test_df = pd.DataFrame(test_data)
 
-        # 평가 수행
+        # Evaluate
         cors, acc, subject_results = eval(args, subject, llm, dev_df, test_df)
         all_results.extend(subject_results)
         
-        # 결과 저장
+        # Save result
         subcats = subcategories[subject]
         for subcat in subcats:
             subcat_cors[subcat].append(cors)
@@ -409,7 +407,7 @@ def main(args):
                     cat_cors[key].append(cors)
         all_cors.append(cors)
 
-        # 결과 저장
+        # Save result
         category = subject_to_category[subject]
         results["subjects"][subject] = {
             "correct_rate": acc,
@@ -421,26 +419,26 @@ def main(args):
             "correct_rate": acc
         })
 
-    # 카테고리별 평균 정답률 계산
+    # Calculate average correct rate for each category
     for cat in categories:
         cat_subjects = results["categories"][cat]["subjects"]
         if cat_subjects:
             cat_rate = np.mean([s["correct_rate"] for s in cat_subjects])
             results["categories"][cat]["correct_rate"] = round(cat_rate, 2)
-            print(f"\n평균 정답률 {cat_rate:.2f} - {cat}")
+            print(f"\nAverage accuracy {cat_rate:.2f} - {cat}")
 
-    # 전체 평균 정답률 계산
+    # Calculate overall average correct rate
     all_rates = [s["correct_rate"] for s in results["subjects"].values()]
     if all_rates:
         results["overall_correct_rate"] = round(np.mean(all_rates), 2)
-        print(f"\n전체 정답률: {results['overall_correct_rate']:.2f}")
+        print(f"\nOverall accuracy: {results['overall_correct_rate']:.2f}")
 
-    # 결과 저장 디렉토리 구조 수정
+    # Modify results directory structure
     results_dir = os.path.join(args.save_dir, args.model_name.replace('/', '_'))
     if not os.path.exists(results_dir):
         os.makedirs(results_dir)
     
-    # 결과 JSON 파일 저장
+    # Save results JSON file
     timestamp = time.strftime('%Y%m%d-%H%M%S')
     save_path = os.path.join(
         results_dir,
@@ -450,7 +448,7 @@ def main(args):
     with open(save_path, 'w', encoding='utf-8') as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
     
-    # 평균 정답률 요약 파일 저장
+    # Save average correct rate summary file
     total_time = time.time() - start_time
     summary = {
         "timestamp": timestamp,
@@ -467,29 +465,29 @@ def main(args):
     with open(summary_path, 'a', encoding='utf-8') as f:
         f.write(json.dumps(summary, ensure_ascii=False) + '\n')
     
-    print(f"\n결과가 저장되었습니다: {save_path}")
-    print(f"정답률 요약이 추가되었습니다: {summary_path}")
+    print(f"\nResults saved to: {save_path}")
+    print(f"Accuracy summary appended to: {summary_path}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--auto_mode", "-am", action="store_true",
-                      help="CLI 인자를 사용하여 자동으로 설정합니다")
+                      help="Automatically set up using CLI arguments")
     parser.add_argument("--categories", "-c", type=str,
-                      help="평가할 카테고리 (쉼표로 구분)")
+                      help="Categories to evaluate (comma-separated)")
     parser.add_argument("--subjects", "-sb", type=str,
-                      help="평가할 과목 (쉼표로 구분)")
+                      help="Subjects to evaluate (comma-separated)")
     parser.add_argument("--use_few_shot", "-f", action="store_true", default=False,
-                      help="few-shot 학습 사용 여부")
+                      help="Use few-shot learning")
     parser.add_argument("--ntrain", "-k", type=int, default=5,
-                      help="few-shot 예제 개수")
+                      help="Number of few-shot examples")
     parser.add_argument("--ntest", "-n", type=int, default=-1,
-                      help="각 과목당 평가할 문제 수")
+                      help="Number of test questions per subject")
     parser.add_argument("--nsubjects", "-ns", type=int, default=-1)
     parser.add_argument("--save_dir", "-s", type=str, default="results")
     parser.add_argument("--base_url", type=str, default="http://localhost:1234/v1")
     parser.add_argument("--api_key", type=str, default="lm-studio")
     parser.add_argument("--model_name", type=str, default="llama-3-8b-instruct@?")
     parser.add_argument("--verbose", "-v", action="store_true", 
-                      help="출력 로그에 few-shot 예제를 포함합니다")
+                      help="Include few-shot examples in output logs")
     args = parser.parse_args()
     main(args) 

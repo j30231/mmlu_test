@@ -3,27 +3,27 @@ import json
 from collections import defaultdict
 
 def analyze_dataset_structure():
-    """MMLU 데이터셋의 전체 구조를 분석하고 관련 정보를 저장합니다.
+    """Analyzes the overall structure of the MMLU dataset and saves related information.
     Returns:
-        json file: mmlu_category_mapping.json (카테고리 매핑 정보)
-        json file: mmlu_dataset_info.json (데이터셋 정보)
+        json file: mmlu_category_mapping.json (category mapping information)
+        json file: mmlu_dataset_info.json (dataset information)
     """
     
-    print("MMLU 데이터셋 구조 분석 시작...\n")
+    print("Starting MMLU dataset structure analysis...\n")
     
     try:
-        # 데이터셋 로드
+        # Load dataset
         ds = load_dataset('cais/mmlu', 'all')
         
-        # 데이터셋 기본 구조 정보
+        # Dataset basic structure information
         dataset_types = {
-            "test": "MMLU 평가용 테스트 데이터",
-            "validation": "모델 검증용 데이터",
-            "dev": "Few-shot 프롬프트용 샘플 데이터",
-            "auxiliary_train": "모델 학습용 데이터"
+            "test": "MMLU test data for evaluation",
+            "validation": "Data for model validation",
+            "dev": "Sample data for few-shot prompts",
+            "auxiliary_train": "Data for model training"
         }
         
-        # 데이터셋 구조 정보 초기화
+        # Initialize dataset structure information
         dataset_info = {
             "metadata": {
                 "dataset_name": "cais/mmlu",
@@ -32,14 +32,14 @@ def analyze_dataset_structure():
             "data": {}
         }
         
-        # 각 데이터 타입별 정보 수집
+        # Collect information for each data type
         for data_type in dataset_types.keys():
             if data_type in ds:
                 split_data = ds[data_type]
                 subjects = set()
                 subject_stats = defaultdict(int)
                 
-                # 과목별 통계 수집
+                # Collect statistics for each subject
                 for sample in split_data:
                     if 'subject' in sample and sample['subject'].strip():
                         subjects.add(sample['subject'])
@@ -55,7 +55,7 @@ def analyze_dataset_structure():
                     "example": split_data[0] if len(split_data) > 0 else None
                 }
         
-        # 전체 과목 목록 및 통계
+        # Collect total subjects and statistics
         all_subjects = set()
         for data_type_info in dataset_info["data"].values():
             all_subjects.update(data_type_info["subjects"])
@@ -63,15 +63,15 @@ def analyze_dataset_structure():
         dataset_info["metadata"]["total_subjects"] = len(all_subjects)
         dataset_info["metadata"]["all_subjects"] = sorted(list(all_subjects))
         
-        # 카테고리 매핑 정보 생성
+        # Create category mapping information
         category_mapping = {
             "metadata": {
-                "description": "MMLU 데이터셋의 분류체계별 매핑 정보"
+                "description": "Category mapping information for the MMLU dataset"
             },
             "mappings": {}
         }
         
-        # 각 데이터 타입별 매핑 정보 생성
+        # Create mapping information for each data type
         for data_type in dataset_types.keys():
             if data_type in dataset_info["data"]:
                 category_mapping["mappings"][data_type] = {
@@ -81,29 +81,29 @@ def analyze_dataset_structure():
                     "subject_distribution": dataset_info["data"][data_type]["subject_stats"]
                 }
         
-        # 결과 저장
+        # Save results
         with open('mmlu_dataset_info.json', 'w', encoding='utf-8') as f:
             json.dump(dataset_info, f, ensure_ascii=False, indent=2)
             
         with open('mmlu_category_mapping.json', 'w', encoding='utf-8') as f:
             json.dump(category_mapping, f, ensure_ascii=False, indent=2)
         
-        print("\n분석 완료!")
-        print(f"총 과목 수: {len(all_subjects)}")
+        print("\nAnalysis completed!")
+        print(f"Total subjects: {len(all_subjects)}")
         for data_type, info in dataset_info["data"].items():
             print(f"\n{data_type} ({dataset_types[data_type]}):")
-            print(f"  - 샘플 수: {info['total_samples']}")
-            print(f"  - 고유 과목 수: {info['unique_subjects']}")
-            print(f"  - 컬럼: {', '.join(info['columns'])}")
+            print(f"  - Total samples: {info['total_samples']}")
+            print(f"  - Unique subjects: {info['unique_subjects']}")
+            print(f"  - Columns: {', '.join(info['columns'])}")
         
-        print("\n분석 결과가 다음 파일들에 저장되었습니다:")
+        print("\nAnalysis results are saved in the following files:")
         print("- mmlu_dataset_info.json")
         print("- mmlu_category_mapping.json")
         
         return dataset_info, category_mapping
     
     except Exception as e:
-        print(f"Error: 데이터셋 분석 중 오류 발생: {str(e)}")
+        print(f"Error: Error occurred during dataset analysis: {str(e)}")
         return None, None
 
 if __name__ == "__main__":

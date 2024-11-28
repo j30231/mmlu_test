@@ -1,168 +1,133 @@
-MMLU Test Source Code
+# MMLU Test Source Code
 
-Test through HuggingFace cais/mmlu dataset
-Perform evaluation on LLM Model (API method)
+Evaluate the performance of Language Models (LLMs) using HuggingFace's `cais/mmlu` dataset. This project measures the accuracy of models across various categories and subjects within the MMLU dataset.
 
-# Example of execution
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Mode Description](#mode-description)
+  - [Command Examples](#command-examples)
+- [Categories and Subjects](#categories-and-subjects)
+- [Parallel Processing Modes](#parallel-processing-modes)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
-## To check MMLU categories and subjects
-> python show_categories.py
+## Installation
 
-###
-```
-=== List of categories and subjects ===
+Clone the project to your local environment and install the required packages.
 
-=== List of all subjects (for automatic mode) ===
-1. [STEM] abstract_algebra
-2. [other (business, health, misc.)] anatomy
-3. [STEM] astronomy
-4. [other (business, health, misc.)] business_ethics
-5. [other (business, health, misc.)] clinical_knowledge
-6. [STEM] college_biology
-7. [STEM] college_chemistry
-8. [STEM] college_computer_science
-9. [STEM] college_mathematics
-10. [other (business, health, misc.)] college_medicine
-11. [STEM] college_physics
-12. [STEM] computer_security
-13. [STEM] conceptual_physics
-14. [social sciences] econometrics
-15. [STEM] electrical_engineering
-16. [STEM] elementary_mathematics
-17. [humanities] formal_logic
-18. [other (business, health, misc.)] global_facts
-19. [STEM] high_school_biology
-20. [STEM] high_school_chemistry
-21. [STEM] high_school_computer_science
-22. [humanities] high_school_european_history
-23. [social sciences] high_school_geography
-24. [social sciences] high_school_government_and_politics
-25. [social sciences] high_school_macroeconomics
-26. [STEM] high_school_mathematics
-27. [social sciences] high_school_microeconomics
-28. [STEM] high_school_physics
-29. [social sciences] high_school_psychology
-30. [STEM] high_school_statistics
-31. [humanities] high_school_us_history
-32. [humanities] high_school_world_history
-33. [other (business, health, misc.)] human_aging
-34. [social sciences] human_sexuality
-35. [humanities] international_law
-36. [humanities] jurisprudence
-37. [humanities] logical_fallacies
-38. [STEM] machine_learning
-39. [other (business, health, misc.)] management
-40. [other (business, health, misc.)] marketing
-41. [other (business, health, misc.)] medical_genetics
-42. [other (business, health, misc.)] miscellaneous
-43. [humanities] moral_disputes
-44. [humanities] moral_scenarios
-45. [other (business, health, misc.)] nutrition
-46. [humanities] philosophy
-47. [humanities] prehistory
-48. [other (business, health, misc.)] professional_accounting
-49. [humanities] professional_law
-50. [other (business, health, misc.)] professional_medicine
-51. [social sciences] professional_psychology
-52. [social sciences] public_relations
-53. [social sciences] security_studies
-54. [social sciences] sociology
-55. [social sciences] us_foreign_policy
-56. [other (business, health, misc.)] virology
-57. [humanities] world_religions
-
-=== List of subjects by category (for interactive mode) ===
-
-1. STEM (18 subjects)
-   List of subjects:
-   1. abstract_algebra
-   2. astronomy
-   3. college_biology
-   4. college_chemistry
-   5. college_computer_science
-   6. college_mathematics
-   7. college_physics
-   8. computer_security
-   9. conceptual_physics
-   10. electrical_engineering
-   11. elementary_mathematics
-   12. high_school_biology
-   13. high_school_chemistry
-   14. high_school_computer_science
-   15. high_school_mathematics
-   16. high_school_physics
-   17. high_school_statistics
-   18. machine_learning
-
-2. humanities (13 subjects)
-   Subject list:
-   1. formal_logic
-   2. high_school_european_history
-   3. high_school_us_history
-   4. high_school_world_history
-   5. international_law
-   6. jurisprudence
-   7. logical_fallacies
-   8. moral_disputes
-   9. moral_scenarios
-   10. philosophy
-   11. prehistory
-   12. professional_law
-   13. world_religions
-
-3. social sciences (12 subjects)
-   List of subjects:
-   1. econometrics
-   2. high_school_geography
-   3. high_school_government_and_politics
-   4. high_school_macroeconomics
-   5. high_school_microeconomics
-   6. high_school_psychology
-   7. human_sexuality
-   8. professional_psychology
-   9. public_relations
-   10. security_studies
-   11. sociology
-   12. us_foreign_policy
-
-4. other (business, health, misc.) (14 subjects)
-   List of subjects:
-   1. anatomy
-   2. business_ethics
-   3. clinical_knowledge
-   4. college_medicine
-   5. global_facts
-   6. human_aging
-   7. management
-   8. marketing
-   9. medical_genetics
-   10. miscellaneous
-   11. nutrition
-   12. professional_accounting
-   13. professional_medicine
-   14. virology
+```bash:README.md
+git clone https://github.com/yourusername/mmlu-test.git
+cd mmlu-test
+pip install -r requirements.txt
 ```
 
-## Mode to receive settings as arg variables.
-### Perform full evaluation on Model (llama-3-8b-instruct@iq2_s)
-> python mmlu_eval1_sync.py --auto_mode --ntest -1 --model_name llama-3-8b-instruct@iq2_s
+## Usage
 
-### Evaluate only 10 questions in STEM category for model (llama-3-8b-instruct@q4_k_m)
-> python mmlu_eval1_sync.py --auto_mode --ntest -10 --model_name llama-3-8b-instruct@q4_k_m -category 1
+### Mode Description
 
-### Evaluate only 10 questions in STEM category for model (llama-3-8b-instruct@q4_k_m), using Few-shot (5 times)
-> python mmlu_eval1_sync.py --auto_mode --ntest -10 --model_name llama-3-8b-instruct@q4_k_m -category 1 -f -k 5
+- `--auto_mode`: Runs the tests in automatic mode, performing either full or specified range of tests.
+- `--ntest`: Specifies the number of questions to test. `-1` signifies a full test.
+- `--model_name`: Specifies the name of the model to evaluate.
+- `--category`: Evaluates only the subjects within a specific category.
+- `-f`: Enables Few-shot learning.
+- `-k`: Specifies the number of examples to use in Few-shot learning.
 
-### Direct user input mode
-> python mmlu_eval1_sync.py
+### Command Examples
 
-### Use mmlu_eval2_async.py or mmlu_evla3_async.py when running in parallel processing mode
-> python mmlu_eval2_async.py
+#### 1. Full Model Evaluation
 
-## Use mmlu_eval3_async.py for low LLM Model performance
-> python mmlu_eval3_async.py (when using 1bit Quantization Model)
+Perform a full test on the `llama-3-8b-instruct@iq2_s` model.
 
-## Use batch.sh to run all models (Using LM Studio with LMS CLI)
-> ./batch.sh
+```bash:mmlu_eval1_sync.py
+python mmlu_eval1_sync.py --auto_mode --ntest -1 --model_name llama-3-8b-instruct@iq2_s
+```
 
-Contact E-mail : j30231@gmail.com
+#### 2. Evaluate 10 Questions in the STEM Category
+
+Evaluate 10 questions from the STEM category using the `llama-3-8b-instruct@q4_k_m` model.
+
+```bash:mmlu_eval1_sync.py
+python mmlu_eval1_sync.py --auto_mode --ntest -10 --model_name llama-3-8b-instruct@q4_k_m --category 1
+```
+
+#### 3. Evaluate 10 Questions in the STEM Category with Few-shot Learning (5 Examples)
+
+Evaluate 10 questions from the STEM category using the `llama-3-8b-instruct@q4_k_m` model with Few-shot learning (5 examples).
+
+```bash:mmlu_eval1_sync.py
+python mmlu_eval1_sync.py --auto_mode --ntest -10 --model_name llama-3-8b-instruct@q4_k_m --category 1 -f -k 5
+```
+
+#### 4. Direct User Input Mode
+
+Evaluate the model with user-provided input.
+
+```bash:mmlu_eval1_sync.py
+python mmlu_eval1_sync.py
+```
+
+## Categories and Subjects
+
+<details>
+  <summary>View Categories and Subjects</summary>
+
+### List of Categories
+
+1. **STEM** (18 subjects)
+   - Abstract Algebra, Astronomy, College Biology, College Chemistry, College Computer Science, College Mathematics, College Physics, Computer Security, Conceptual Physics, Electrical Engineering, Elementary Mathematics, High School Biology, High School Chemistry, High School Computer Science, High School Mathematics, High School Physics, High School Statistics, Machine Learning
+
+2. **Humanities** (13 subjects)
+   - Formal Logic, High School European History, High School US History, High School World History, International Law, Jurisprudence, Logical Fallacies, Moral Disputes, Moral Scenarios, Philosophy, Prehistory, Professional Law, World Religions
+
+3. **Social Sciences** (12 subjects)
+   - Econometrics, High School Geography, High School Government and Politics, High School Macroeconomics, High School Microeconomics, High School Psychology, Human Sexuality, Professional Psychology, Public Relations, Security Studies, Sociology, US Foreign Policy
+
+4. **Other (Business, Health, Misc.)** (14 subjects)
+   - Anatomy, Business Ethics, Clinical Knowledge, College Medicine, Global Facts, Human Aging, Management, Marketing, Medical Genetics, Miscellaneous, Nutrition, Professional Accounting, Professional Medicine, Virology
+
+</details>
+
+### Complete List of Subjects
+
+```plaintext:README.md
+1. abstract_algebra
+2. anatomy
+3. astronomy
+...
+57. world_religions
+```
+
+## Parallel Processing Modes
+
+### Asynchronous Processing
+
+Enhance evaluation speed through parallel processing.
+
+```bash:mmlu_eval2_async.py
+python mmlu_eval2_async.py
+```
+
+### Asynchronous Processing for Low-Performance Models
+
+Use asynchronous processing for low-performance models, such as 1-bit Quantized Models.
+
+```bash:mmlu_eval3_async.py
+python mmlu_eval3_async.py
+```
+
+### Batch Execution of All Models
+
+Execute all models in batch using LM Studio with the LMS CLI.
+
+```bash:batch.sh
+./batch.sh
+```
+
+## Contributing
+
+Contributions are always welcome! Fork this repository, add features or fix bugs, and submit a pull request.
+
+## Contact
+
+For any inquiries, please contact us at: [j30231@gmail.com](mailto:j30231@gmail.com)

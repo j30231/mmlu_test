@@ -19,7 +19,8 @@
 # "llama3-8b-q16": "llama-3-8b-instruct-q16_0",
 # "llama3-8b-f16": "llama-3-8b-instruct@?",
 
-# lms load "meta/Llama-3-8B-Instruct/"
+### safety check: load logic is not completed
+# lms load "meta/Llama-3-8B-Instruct/??"
 # python -u mmlu_eval2.py --auto_mode --ntest -1 --model_name "llama-3-8b-instruct@?" 2>&1 | tee -a results/f16.txt
 # lms unload "llama-3-8b-instruct@?"
 
