@@ -1,0 +1,4297 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@?",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241129-010656"
+  },
+  "subject": "professional_psychology",
+  "category": "social sciences",
+  "correct_rate": 63.23529411764706,
+  "evaluation_results": [
+    {
+      "question": "Which of the following statements expresses a relationship between aging and sexual functioning",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.522305011749268
+    },
+    {
+      "question": "According to Piaget, children are ___________.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.522417783737183
+    },
+    {
+      "question": "If a test has a standard error of measurement of 15 points, itis correct to conclude that",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.522511959075928
+    },
+    {
+      "question": "Any substance that can have a negative impact on fetal development is ___________.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.522603988647461
+    },
+    {
+      "question": "If you were hired by a large company to develop a new training program, your first step would probably be to conduct a:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.522698879241943
+    },
+    {
+      "question": "Practitioners of Gestalt psychotherapy consider a client’s desire to talk about his/her past as:",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.522798776626587
+    },
+    {
+      "question": "In regard to memory, aging is most closely associated with a decline in",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.522902011871338
+    },
+    {
+      "question": "A 66-year-old client who is depressed, has rhythmic hand movements, and has a flattened affect is probably suffering from",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.522990703582764
+    },
+    {
+      "question": "One Friday afternoon, just before leaving on a weekend tip, a psychologist receives a call from a therapy client who claims to have taken an overdose of pills in a suicide attempt. The psychologist: tells the client to call a physician immediately and to come in at 9:00 A.M. on Monday for a session. The psychologist makes no other attempt to intervene, and the client dies later that evening without making any other calls for assistance. In this situation, the psychologist's behavior was clearly",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.52308201789856
+    },
+    {
+      "question": "A family therapist using the structural approach of Salvador Minuchin would most likely:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.523171901702881
+    },
+    {
+      "question": "A researcher interested in examining the potential impact of parent alcoholism on child and family development recruits 12-year-olds (n = 100), 13-year-olds (n = 100), and 14-year-olds (n = 100)—half of whom have an alcoholic parent and half of whom do not—into a multiple-year longitudinal study assessing various outcomes. This study is best characterized as:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 8.140066862106323
+    },
+    {
+      "question": "Focal damage to the portion of the left frontal lobe known as Broca's area is likely to impair",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 8.140652894973755
+    },
+    {
+      "question": "According to Gerald Patterson and his colleagues (1992), which of the following is a key contributor to aggressive behavior in children?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 8.140998840332031
+    },
+    {
+      "question": "A person who received a Level 4 rating on the Rancho Los Amigos Scale of Cognitive Functioning:",
+      "model_answer": "C.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 8.143245697021484
+    },
+    {
+      "question": "A psychologist who already has an established therapeutic relationship with a child is asked to act as an expert witness in a divorce proceeding involving custody of the child. The psychologist's best course of action would be to:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 8.143383741378784
+    },
+    {
+      "question": "Motivation is a complex process involving weighing alternatives, costs, and benefits. From your knowledge about GOAL-SETTING THEORY, which one out of the following statements is incorrect?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 8.143483877182007
+    },
+    {
+      "question": "The STATISTICS are a method of measuring variables and organizing and analyzing data statistical method can be descriptive or inferential and have a scale of measurement. From your knowledge about statistics measurement, what is the RATIO DATA?",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 8.143577814102173
+    },
+    {
+      "question": "Aronson and Mills examined the effects severity of initiation into a group on subsequent attitudes toward the group. Results of their study indicated that, compared to women who underwent a mild initiation, women who underwent a severe initiation as a precondition of group membership:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 8.143674850463867
+    },
+    {
+      "question": "A graduate student’s dissertation chair, Dr. X, turns out to be of little help, and the student ends up obtaining advice and assistance from an associate professor, Dr. Z. Dr. X does review the dissertation when it is completed and she is listed as the dissertation chair. Several months later, the student decides to write an article for a professional journal that is based his dissertation research. In terms of publication credit:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 8.143764019012451
+    },
+    {
+      "question": "The TRANSTHEORETICAL MODEL OF CHANGE was originally developed to treat addictive behaviors and 5 stages people pass through in the process of change. Which stage is correctly defined?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 8.143853902816772
+    },
+    {
+      "question": "When a psychologist doesn’t feel he or she is competent to accept a case, the most justifiable option is to:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.368481159210205
+    },
+    {
+      "question": "A personnel director decides to raise a selection test’s cutoff score when using the test to assist in hiring decisions. Most likely the personnel director has made this decision in order to:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.368906021118164
+    },
+    {
+      "question": "Dr. Jones, a clinical psychologist, has been seeing Lisa L. in therapy for one month. Dr. Jones considers Lisa to be a very attractive woman and finds himself having sexual fantasies about her. As an ethical psychologist, Dr. Jones should:",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.369647026062012
+    },
+    {
+      "question": "Parametric Tests are used when data is interval or ration. When is it used the ONE-WAY ANOVA?",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.36984395980835
+    },
+    {
+      "question": "A father brings his 22-year-old son to you for evaluation. Within the past 6 weeks, this formerly socially active young man has quit his job as a restaurant manager, has become withdrawn, and now spends most of his time in his room watching TV. He reports that he occasionally receives messages from aliens through the TV. Based on this information, which of the following is the most appropriate DSM-IV diagnosis",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.36994481086731
+    },
+    {
+      "question": "Identify the only construct that is not pertinent to developmental models on intelligence:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.3700408935546875
+    },
+    {
+      "question": "Thomas and Chess’s (1977) “goodness-of-fit” model predicts that maladjustment in children is due to:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.370131969451904
+    },
+    {
+      "question": "The STANDARD SCORES express raw score distance from mean by SD and considered the most satisfactory type of NR score. Which statement out of the following ones is about T-scores?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.370228052139282
+    },
+    {
+      "question": "Trend analysis is a type of analysis of variance that is used when:",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.3703179359436035
+    },
+    {
+      "question": "When performing a(n) ________ task, group members select a solution offered by one of the group members as the group’s solution.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.370406866073608
+    },
+    {
+      "question": "A therapist instructs a client who suffers from insomnia to polish his hardwood floors for at least two hours whenever he wakes up during the night. Apparently this therapist is familiar with the work of:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.986234903335571
+    },
+    {
+      "question": "A patient wishes to use data from your recent neuropsychological evaluation in a civil hearing in which he is suing the supermarket where he slipped and fell. Which answer should be the first step in fulfilling this request after a release has been duly executed?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.986970901489258
+    },
+    {
+      "question": "Female applicants consistently obtain lower scores on a selection test than do male applicants. However, when they are hired, females perform as well on the job as do males. This situation illustrates which of the following?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.988556861877441
+    },
+    {
+      "question": "The correction for attenuation formula is used to measure the impact of increasing:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.98879075050354
+    },
+    {
+      "question": "A child diagnosed with conduct disorder cannot receive an additional diagnosis of:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.988887786865234
+    },
+    {
+      "question": "The presence of manic episodes is required for a diagnosis of:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.988981008529663
+    },
+    {
+      "question": "On the basis of his investigation of the relationship between affiliation and anxiety, Schachter concluded that which of the following best accounted for the desire of high-anxiety research participants to wait with other high-anxiety participants?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.989073038101196
+    },
+    {
+      "question": "A psychologist in private practice is going through a difficult divorce and, as a result, has started drinking and is often depressed. He should:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.989163875579834
+    },
+    {
+      "question": "A physician refers an asthmatic patient to you for therapy and requests regular progress reports. The most appropriate course of action for you to take is to",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.989314794540405
+    },
+    {
+      "question": "As used in personnel selection, “adverse impact” means that",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.989419937133789
+    },
+    {
+      "question": "A stroke that affects the posterior region of the corpus callosum, thus disconnecting the visual centers of the brain from the language centers of the brain, may result in this syndrome:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.369331121444702
+    },
+    {
+      "question": "Research suggests children’s successful adjustment to the divorce of their parents is most related to:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.3700110912323
+    },
+    {
+      "question": "Dr. Sam Solo is the only psychologist in a small town, and his son is enrolled in the town's only elementary school. Dr. Solo receives a call from his son's teacher who says she would like to begin therapy with him. As an ethical psychologist, Dr. Solo should:",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.37091588973999
+    },
+    {
+      "question": "An agonist is ___________.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.3715338706970215
+    },
+    {
+      "question": "Research in the workplace has shown that a subordinate’s participation in goal setting leads to the selection of goals that, when compared to goals set for subordinates unilaterally by their supervisors, are",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.37179708480835
+    },
+    {
+      "question": "You are a consultant asked to design an intervention program in a recently integrated housing project where antagonism and hostility between old and new residents are extremely high. The goal is to improve relations through contact. You would be more likely to facilitate that goal if you could arrange interactions that provide opportunities",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.3719000816345215
+    },
+    {
+      "question": "Which of the following is true of low-context communication?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.371998071670532
+    },
+    {
+      "question": "A former client owes you over $600.00 in therapy fees and you are considering using a collection agency to collect the money she owes you. As an ethical psychologist, you should:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.37208890914917
+    },
+    {
+      "question": "If you believe another psychologist has committed an ethical violation, you should first:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.372181177139282
+    },
+    {
+      "question": "Research on the counseling of minority group member clients indicates thar they",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.3722710609436035
+    },
+    {
+      "question": "A psychologist at a pain clinic is helping design a medication reduction schedule to address the learned aspects of a patient's medication use. The psychologist’s best recommendation would be to administer medication",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.360805034637451
+    },
+    {
+      "question": "Research on women who have had abortions indicates that",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.361256837844849
+    },
+    {
+      "question": "Behaviorist views have been criticized by other approaches for a number of reasons. Ethologists argued that the behaviorists ignored innate, built-in biases in learning due to evolution, but also disagreed with:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.361876964569092
+    },
+    {
+      "question": "An aspect of development that is more plastic is an aspect that is .",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.362375974655151
+    },
+    {
+      "question": "From a behavioral perspective, phobic reactions to benign objects or events are acquired when those objects or events become associated with a stimulus that naturally produces a fear response. In other words, phobic reactions are due to:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.362706899642944
+    },
+    {
+      "question": "Statistical regression is a potential threat to a study’s internal validity when:",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.362828016281128
+    },
+    {
+      "question": "According to Bem’s (1972) self-perception theory:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.362928152084351
+    },
+    {
+      "question": "A 60-year-old fire chiefs referred to you because department policy requires a fitness evaluation when an employee reaches this age. You have been asked to assist in cis fitness evaluation. Which of the following would be the most important factor to consider in your evaluation",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.3630211353302
+    },
+    {
+      "question": "Dr. Harold Hanson, a psychologist who heads the personnel committee at a mental health facility, recommends that a psychologist who has an unresolved charge of sexual harassment against him not be considered for a promotion. In terms of his ethical responsibilities, Dr. Hanson:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.363116025924683
+    },
+    {
+      "question": "On average, men perform better than women on all the following tasks with the exception of:",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.363209009170532
+    },
+    {
+      "question": "Comparison of an individual’s score with an inappropriate norm group affects all of the following except",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.5837790966033936
+    },
+    {
+      "question": "Lewin’s force field theory describes planned change in organizations as involving which of the following stages?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.584292888641357
+    },
+    {
+      "question": "The primary advantage of the forced-choice distribution of rated attributes in performance appraisal is that it",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.584707975387573
+    },
+    {
+      "question": "Dr. Carl Carlson is a licensed psychologist and professor in the psychology department at a large university. He is approached by a graduate student, Marla M., age 36, who asks him if he’d like to attend a baseball game on Friday night. Dr. Carlson is divorced and finds Marla to be a very attractive woman. In terms of ethical guidelines, if Dr. Carlson accepts Marla’s invitation, he will be:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.585113048553467
+    },
+    {
+      "question": "Nonparametric statistics should be used instead of parametric statistics when the",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.585875034332275
+    },
+    {
+      "question": "\"Rosenhan’s research involving “pseudopatients\"\" who were admitted to psychiatric hospitals:\"",
+      "model_answer": "B.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.586449861526489
+    },
+    {
+      "question": "When we convert total number of errors on a test to percent correct, or vice versa, we are performing which type of transformation",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.586566925048828
+    },
+    {
+      "question": "A regression model predicting frequency of tantrums from (a) effectiveness of parental commands, (b) consistency of parental discipline, and (c) parental warmth, would result in a model with:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.58666205406189
+    },
+    {
+      "question": "When using multiple regression, multicollinearity occurs when:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.586755990982056
+    },
+    {
+      "question": "You receive a phone call from Hermann H., age 28, who says he is “totally miserable” because of the recent breakup with his girlfriend and that he would like to begin therapy with you. During the first session with Hermann, you find out that his political views are completely repugnant to you, and you feel that you would not enjoy working with him. As an ethical psychologist, you should:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.586848020553589
+    },
+    {
+      "question": "During the second stage of Kohlberg’s preconventional level of moral development, children obey rules because:",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.725468873977661
+    },
+    {
+      "question": "If a researcher implemented a brief motivational interviewing intervention to increase client motivation in the hopes that increased motivation would lead to lower levels of problem alcohol use, motivation would be a ___________.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.725927829742432
+    },
+    {
+      "question": "The mental retardation associated with PKU is preventable with:",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.726388931274414
+    },
+    {
+      "question": "A couple brings their ten-year-old son to therapy at the suggestion of his school counselor who is concerned because the boy has started arguing with his teacher and getting into physical fights with his classmates. After several sessions with the boy and his family, you receive a letter from the school principal requesting information about the boy's condition, and a signed release from the boy's parents is included with the letter. As an ethical psychologist, you should:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.727030992507935
+    },
+    {
+      "question": "Attribution theories provide a framework for the important types of information used to assess behavior. One theory describes how people identify explanations of people’s personal characteristics from behavioral evidence. This theory is ___________.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.72736668586731
+    },
+    {
+      "question": "The sleep-wake cycle is regulated by the",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.727483749389648
+    },
+    {
+      "question": "According to Albert Ellis, our emotional and behavioral reactions to an event are due to our beliefs about the event rather than to the event itself. In other words, our beliefs act as a:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.727580785751343
+    },
+    {
+      "question": "A 16-month-old child who calls her pet cat “kitty” sees a dog for the first time and calls it “kitty.” In terms of Piaget’s theory of cognitive development, the child is displaying:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.727673053741455
+    },
+    {
+      "question": "The FACTORIAL ANOVA is used when study involves more than 1 IV. Which is the INTERACTION EFFECT of the Factorial Anova?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.727764844894409
+    },
+    {
+      "question": "All of the following are uses of job analysis except",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.727854013442993
+    },
+    {
+      "question": "another person's behavior is referred to as the .",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.822623014450073
+    },
+    {
+      "question": "Three types of prevention have been identified in community mental health. Secondary prevention attempts to",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.822744131088257
+    },
+    {
+      "question": "What treatment method has the best results with addressing anxiety symptoms?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.822862863540649
+    },
+    {
+      "question": "Which of the following is a correct statement about confidentiality",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.822976112365723
+    },
+    {
+      "question": "During his first therapy session, a client tells Dr. Goodwill that he wants to pay for therapy in cash and doesn't want Dr. Goodwill to keep a record of the therapy sessions or his payments. If Dr. Goodwill agrees to this arrangement she has acted:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.823065996170044
+    },
+    {
+      "question": "Self-instructional training of impulsive children involves helping them to",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.8231611251831055
+    },
+    {
+      "question": "A company president is concerned about the low motivation and satisfaction of her employees and, as a result, institutes a wage and bonus (financial) incentive program for all employees. Six months later, the president finds that her efforts have not increased the employees' job motivation or satisfaction. This result is best predicted by which of the following theories?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.823253154754639
+    },
+    {
+      "question": "According to general systems theory, negative feedback",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.823352098464966
+    },
+    {
+      "question": "With regard to the effects of crowding, which of the following is true?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.823441028594971
+    },
+    {
+      "question": "To decrease hostility between groups of junior high school students, you would be best advised to:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.823544025421143
+    },
+    {
+      "question": "Which of the following functions tends to decline the most with age",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.704596042633057
+    },
+    {
+      "question": "After three sessions with a therapy client, Dr. Leonard Lykowski realizes that he’s feeling somewhat hostile toward the client because she reminds him of his wife who he’s currently divorcing. Dr. Lykowski’s best course of action would be to:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.704720973968506
+    },
+    {
+      "question": "Within the context of sexual harassment, “quid pro quo” refers to:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.704823017120361
+    },
+    {
+      "question": "Which of the following is not an available tool for assessing suicide risk?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.7049829959869385
+    },
+    {
+      "question": "Hypnosis is best described as a response to suggestion involving:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.705102920532227
+    },
+    {
+      "question": "A woman has a schizophrenic brother. According to research area, the probability thar she is or will become schizophrenic is about",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.705196857452393
+    },
+    {
+      "question": "Standardized tests or measures that compare an examinee’s performance to the performance of a specified group of participants are:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.705295085906982
+    },
+    {
+      "question": "Which of the following item difficulty (p) levels maximizes the differentiation of examinees into high- and low-performing groups:",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.70539402961731
+    },
+    {
+      "question": "A person is most likely to be helped in an emergency situation when:",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.705486059188843
+    },
+    {
+      "question": "Current legal and ethical standards require that a treatment record be kept for each patient. At the minimum, this treatment record should include",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.705574989318848
+    },
+    {
+      "question": "Children typically take their first steps around the age of",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.616925954818726
+    },
+    {
+      "question": "Lewinsohn’s behavioral model proposes a causal link between ______________ and depression.",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.617390155792236
+    },
+    {
+      "question": "When using factor analysis, a major concern of personality theorists has been specifying the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.617817163467407
+    },
+    {
+      "question": "Parkinson’s disease is caused by a progressive degeneration of dopamine-producing cells in the:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.618519067764282
+    },
+    {
+      "question": "Studies of persons in their 70s, 80s, and 90s indicate thar intellectual functioning is most closely related to",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.618762016296387
+    },
+    {
+      "question": "The primary value underlying the existence of ethical principles is:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.618858098983765
+    },
+    {
+      "question": "While treating a client, you decide that you want to consult with a colleague to discuss a specific aspect of the case that is giving you trouble. According to APA’s Ethics Code and the Canadian Code of Ethics:",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.618952035903931
+    },
+    {
+      "question": "\"Smith, Glass, and Miller’s (1980) meta-analysis of the psychotherapy outcome research found that people receiving therapy are \"\"better off\"\" than about _____% of people who need treatment but do not receive it.\"",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.619045972824097
+    },
+    {
+      "question": "The _______ is the least developed area of the brain at birth.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.619138240814209
+    },
+    {
+      "question": "Feminist therapy is characterized by all of the following except",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.619229078292847
+    },
+    {
+      "question": "Which of the following relies on internal resources to cope with a problem?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.379651308059692
+    },
+    {
+      "question": "The flaw in Anderson’s ACT theory was that some considered it ___________.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.380200386047363
+    },
+    {
+      "question": "\"According to Hersey and Blanchard’s situational leadership model, a leader should use a \"\"participative\"\" style for subordinates who have:\"",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.38034725189209
+    },
+    {
+      "question": "The 80% rule is used to determine if:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.380444288253784
+    },
+    {
+      "question": "A 15-year-old consistency engaging in unprotected sexual intercourse and denying the possibility of pregnancy and/or contracting sexually transmitted diseases is an example of",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.380558252334595
+    },
+    {
+      "question": "When a highly cohesive group under directive leadership reaches a decision before completely assessing available information or considering alternative solutions, the group may be exhibiting the influence of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.380651235580444
+    },
+    {
+      "question": "Gestalt therapy is designed to achieve integration of",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.380746126174927
+    },
+    {
+      "question": "Prochaska and DiClemente’s (1982) stages of change (transtheoretical) model predicts that a person in the ________ stage plans to take action within the next six months that will alter his/her problematic behavior.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.380843162536621
+    },
+    {
+      "question": "What is termed “catharsis” in psychoanalytic theory might be described by behaviorists as",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.380935192108154
+    },
+    {
+      "question": "Research on EMDR (eye movement desensitization and reprocessing) suggests that its effectiveness for alleviating the symptoms of PTSD is attributable to which of the following?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.381030321121216
+    },
+    {
+      "question": "The items for 2 machinist proficiency test have been based on 2 job analysis of machinists in 50 plants, each employing five or more machinists doing comparable work. Such 2 procedure would contribute directly to the test's",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.610037088394165
+    },
+    {
+      "question": "The procedure involving repeated presentation of a stimulus to the client until the attractiveness of that stimulus is reduced is best described as",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.610580921173096
+    },
+    {
+      "question": "Exposing individuals to arguments against their views, arguments that are then strongly refuted, may serve to",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.611057996749878
+    },
+    {
+      "question": "The function of the correction for attenuation is to",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.611426115036011
+    },
+    {
+      "question": "In a study in which depressed individuals presenting for outpatient mental health treatment are randomly assigned to either cognitive behavioral or brief dynamic treatment and both groups are assessed at pretest and posttest:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.6118199825286865
+    },
+    {
+      "question": "As described by Kobasa et al. (1982), the personality characteristic of hardiness is characterized by which of the following?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.611936092376709
+    },
+    {
+      "question": "Humanistic and existential therapists view ulcers, hypertension, and tension headaches as",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.612030982971191
+    },
+    {
+      "question": "The belief that a child's misbehavior has one of four goals — i.e., attention, revenge, power, or to display inadequacy — is most consistent with:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.612123966217041
+    },
+    {
+      "question": "When serving as an expert witness in a child custody case, a psychologist's primary concern should be:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.612220048904419
+    },
+    {
+      "question": "Selye (1956) proposed that which of the following endocrine glands mediate the general adaptation syndrome?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.612311124801636
+    },
+    {
+      "question": "During a Developmental Research, the variables are assessed as a function of time. How does the cross-sectional design works?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.189751863479614
+    },
+    {
+      "question": "You receive a call from Mrs. Wang who is very upset because her 14-year-old daughter witnessed the assault of her best friend three days ago and is very distraught. The girl hasn’t slept, won’t eat, and can’t stop crying. You have limited experience working with adolescents and in providing crisis intervention services. However, there is no one else in the community who is more experienced than you are. As an ethical psychologist, you will:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.190684080123901
+    },
+    {
+      "question": "The correlation between two sets of test scores indicates the",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.191226959228516
+    },
+    {
+      "question": "The following measure of general cognitive abilities would be most appropriate for use with a nonverbal adolescent:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.191771030426025
+    },
+    {
+      "question": "Dr. A. Praise is hired to perform a court-ordered evaluation of a defendant in a criminal case. She discusses the purpose of the evaluation with the defendant who then says he does not want to cooperate. According to the Specialty Guidelines for Forensic Psychology, Dr. Praise should:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.192450046539307
+    },
+    {
+      "question": "A student who is chronically depressed is most likely to attribute the low score she received on her final exam to:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.192669153213501
+    },
+    {
+      "question": "When using the Premack Principle to modify a behavior, the reinforcer is:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.192766904830933
+    },
+    {
+      "question": "American Psychological Association?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.192863941192627
+    },
+    {
+      "question": "According to Irvin Yalom, ________in group therapy is the analogue of the therapist-client relationship in individual therapy.",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.192955017089844
+    },
+    {
+      "question": "\"A 14-year old boy is arrested for the third time for shoplifting. His mother seems unconcerned and says \"\"he's just going through a phase.\"\" His father decides to go fishing on the day of the boy's court hearing, and his sister says she can't attend his court hearing because she has too much homework. From the perspective of structural family therapy, this family is best described as:\"",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.193043947219849
+    },
+    {
+      "question": "Magical thinking would predispose a child of what age range to infer chat his or her father died because of the child’s own misbehavior",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.517925024032593
+    },
+    {
+      "question": "Which of the following is true?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.518316030502319
+    },
+    {
+      "question": "The largest proportion of variation in therapy outcome is accounted for by",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.518862962722778
+    },
+    {
+      "question": "In contrast to traditional approaches to psychotherapy, culturally sensitive approaches attempt to understand a client’s experience of an illness within the client’s cultural context. In other words, culturally sensitive approaches adopt an ______ perspective.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.519217014312744
+    },
+    {
+      "question": "LISREL (linear structural relations analysis) would be the appropriate method of analysis if your causal model:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.519814968109131
+    },
+    {
+      "question": "When evaluating a defendant’s competence to stand trial, the focus of the evaluation is on the defendant’s:",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.519935846328735
+    },
+    {
+      "question": "The match between a child’s temperament and the demands and responses of the environment in which she develops is known as ___________.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.520035982131958
+    },
+    {
+      "question": "Replacing a “failure identity” with a “success identity” is a goal of treatment for practitioners of _______ therapy.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.520129919052124
+    },
+    {
+      "question": "Bartering as a form of payment for psychological services is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.520222902297974
+    },
+    {
+      "question": "The most dangerous physiological complication of Bulimia Nervosa is",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.52031397819519
+    },
+    {
+      "question": "The major advantage of using a forced-choice method as an employee performance appraisal technique is that:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.281105995178223
+    },
+    {
+      "question": "Social influence occurs when an individual’s attitude, thoughts, feelings, or behaviors are affected by the persuasive effect of others. There are many responses. Which type of social influence represents the Milgram effect?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.281588077545166
+    },
+    {
+      "question": "A psychologist is asked to see a 10-year-old child for counseling in a school setting. Which of the following statements describes the best way for the psychologist to meet the prescribed ethical responsibility",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.28200888633728
+    },
+    {
+      "question": "If a client has difficulty in learning new adaptive responses due to interference from old learning, this is a case of",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.28280782699585
+    },
+    {
+      "question": "__________ is the most frequent cause of many of the ethical complaints brought against psychotherapy supervisors.",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.282915830612183
+    },
+    {
+      "question": "Alice A., who has a master's degree in clinical psychology but is not licensed, is hired by a community mental health clinic to, among other things, administer several standard psychological tests to adult clients. According to ethical guidelines, this is:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.2830119132995605
+    },
+    {
+      "question": "It is characteristic of brief crisis-oriented therapy to",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.283106803894043
+    },
+    {
+      "question": "A child with an insecure/anxious-avoidant pattern of attachment:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.283198118209839
+    },
+    {
+      "question": "In order to deal with the legal issue of age discrimination, iris important for the psychologist to know that, with regard to the firing of an employee, evidence of age discrimination exists",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.283288955688477
+    },
+    {
+      "question": "According to Kubler-Ross, when a terminally ill patient is informed of his/her condition, the patient's initial reaction will likely be",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.2833778858184814
+    },
+    {
+      "question": "In terms of EEOC guidelines, a substantially different rate of selection or promotion that results in disadvantage to people of a particular gender, race, or ethnicity is evidence of:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.7006518840789795
+    },
+    {
+      "question": "Students in an introductory psychology class are required to participate in one of the university's ongoing research projects. This practice is:",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.70111083984375
+    },
+    {
+      "question": "The central ingredient of the most effective behavioral treatment for agoraphobic is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.701672792434692
+    },
+    {
+      "question": "The primary function of the psychology licensing board is best described as:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.701797723770142
+    },
+    {
+      "question": "A rattle that a 4-month-old is playing with is hidden underneath a blanket in front of the child. She looks at her mother. This child has not yet developed ___________.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.701910018920898
+    },
+    {
+      "question": "Tonic-clonic seizures most frequently occur in which type of epilepsy",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.702025890350342
+    },
+    {
+      "question": "When a qualitative research is done, the theory is developed from the data, not before and helps refine hypotheses. From your knowledge about this type of research, which one out of the following statements about CASE STUDIES can not be correct?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.702213764190674
+    },
+    {
+      "question": "What factors increase the likelihood of burnout?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.70235276222229
+    },
+    {
+      "question": "\"You would use a \"\"multitrait-multimethod matrix\"\" in order to:\"",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.702448844909668
+    },
+    {
+      "question": "A client whom Dr. Oliver Olivetti has been seeing for several months has recently changed jobs, and the client has learned that her new insurance plan does not begin covering pre-existing conditions for 12 months. The client asks Dr. Olivetti if he could write his bills so that it appears that she has just started therapy. If Dr. Olivetti complies with the client's request, he is acting:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.702539920806885
+    },
+    {
+      "question": "A person in the pseudoindependent stage of White racial identity is currently ___________.",
+      "model_answer": "D.",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.8117640018463135
+    },
+    {
+      "question": "The most common treatment for ADHD is drug treatment using CNS stimulants. In relation to treatment for ADHD which of the following statements is incorrect?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.811874866485596
+    },
+    {
+      "question": "The empirical literature suggests that when mothers give their children’s developmental and social histories, the mothers’ memories are most accurate about",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.811969995498657
+    },
+    {
+      "question": "An examinee who makes a number of confabulatory responses on the Rorschach has overgeneralized from a part of the inkblot to the whole. Such responses suggest which of the following?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.812065124511719
+    },
+    {
+      "question": "In research study, a mother and her infant are alone in a room. A stranger enters and the mother leaves the room. When the mother returns to the room, the infant begins to cry and initially continues to do so even after being picked up by the mother. Eventually the infant settles down and returns to playing, apparently happily, with the toys provided. Which attachment classification is most likely to be appropriate for this infant",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.812157869338989
+    },
+    {
+      "question": "The following has been shown to be the most effective means of symptom reduction for obsessive-compulsive disorder:",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.812251806259155
+    },
+    {
+      "question": "A psychologist is appointed by the Court to examine a defendant. The psychologist should",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.812343120574951
+    },
+    {
+      "question": "Which of the following best describes elaborative rehearsal?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.812431812286377
+    },
+    {
+      "question": "A functional analysis is conducted in order to identify _______ variables.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.812524080276489
+    },
+    {
+      "question": "Whenever her clients cancel an appointment with Dr. Penny Pincher within less than 24 hours of the appointment, Dr. Pincher routinely bills the client’s insurance company for her full hourly fee. This practice is:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.812612771987915
+    },
+    {
+      "question": "In terms of the parenting styles identified by Baumrind and her colleagues (1991), independent self-confident adolescents are most likely to have parents who are:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.88815712928772
+    },
+    {
+      "question": "The primary goal of a newly-developed community-based mental health program is to help people recently released from a psychiatric hospital adjust to life in the community. This is an example of:",
+      "model_answer": "B.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.88881516456604
+    },
+    {
+      "question": "In classical conditioning, experimental extinction will occur when the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.888952016830444
+    },
+    {
+      "question": "Persons who have work-related accidents tend to",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.889055967330933
+    },
+    {
+      "question": "A mother complains thar her 15-year-old daughter “lives like a pig, she is so sloppy and dirty.” She adds, “The more I yell at her, the worse she gets.” In operant conditioning terms, the yelling can best be explained as",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.8891613483428955
+    },
+    {
+      "question": "Unlike play activities for adults, play activities for children",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.8892600536346436
+    },
+    {
+      "question": "During the latter part of their first year, children’s language- learning ability changes in thar they",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.889350175857544
+    },
+    {
+      "question": "Psychologist’s 35-year-old patient admits to sexually molesting a nine-year-old child in the neighborhood. This patient has prior history of such behavior. The psychologist should",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.889445066452026
+    },
+    {
+      "question": "Fechner’s Jaw assumes that “just noticeable differences” are",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.889544248580933
+    },
+    {
+      "question": "If the objectives of psychological research conducted in a laboratory dictate that certain information be withheld from the participant, consent by the participant",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.889638185501099
+    },
+    {
+      "question": "Wayne W. tells Dr. Pete Pannick that his partner is threatening to harm Dr. Panniclc because he's not happy with the advice that Wayne is getting in therapy. Dr. Panniclc knows that Wayne's partner has engaged in violent behavior in the past and believes the threat is serious. Dr. Panniclc:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.507143020629883
+    },
+    {
+      "question": "A graduate student designed and conducted a research project for her dissertation and subsequently wrote a journal article describing the study and its results. The original idea for the study was derived from the work of the student’s faculty advisor who also provided the facilities for the student's research. The faculty advisor wants to be listed as first author on the article when it is published. In this situation:",
+      "model_answer": "B.",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.507552862167358
+    },
+    {
+      "question": "According to HERSEY and BLANCHARD’S SITUATIONAL LEADERSHIP MODEL, leader style is described in terms of task and relationship orientation and optimal style depends on job maturity and subordinates. How is it the Delegating Style?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.508008241653442
+    },
+    {
+      "question": "A woman transmits color blindness to her son although she herself displays normal color vision. The defect transmitted by this woman represents a characteristic of her",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.508610010147095
+    },
+    {
+      "question": "You are a psychologist in a state/province that grants the right of privileged communication to clients of psychologist. The attorney of the spouse of a client you are seeing requests that you testify in their divorce hearing. What is the most appropriate course of action if divorce is not specifically covered under the privilege law",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.50872802734375
+    },
+    {
+      "question": "The assignment of a term paper with a known due date employs a ___________ schedule of reinforcement.",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.508825063705444
+    },
+    {
+      "question": "Nonverbal and primarily nonculturally biased abilities are referred to as:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.508918046951294
+    },
+    {
+      "question": "In an immigrant family, serious conflict between the mother and an adolescent child will most likely be due to",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.509011268615723
+    },
+    {
+      "question": "The primary goal of quality assurance is best described as:",
+      "model_answer": "C.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.509099960327148
+    },
+    {
+      "question": "The External Validity refers to the the generalizability of results. In what does the INTERACTION BETWEEN SELECTION AND TREATMENT consist as an external threat for validity?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.509189128875732
+    },
+    {
+      "question": "The information that family members continuously exchange and that helps minimize deviation and maintain the family's stability is referred to as ________ feedback.",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.500520944595337
+    },
+    {
+      "question": "A psychologist completes an assessment, then refers the patient to another psychologist for therapy. The therapist requests and receives a consultation from the referring psychologist regarding the assessment, and pays for the consultation. This action is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.501041889190674
+    },
+    {
+      "question": "Over the course of many months, a series of test items is administered to people of varying ages, races, and social backgrounds, to determine which questions will be retained on the final version of a test. This process is called",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.501201868057251
+    },
+    {
+      "question": "A supervisor has declared, “My position gives me a great deal of authority, my subordinates know that I expect that my orders will be followed.” This supervisor's statement refers to",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.501298904418945
+    },
+    {
+      "question": "“Time-out” procedures in manipulating behaviors are based on the conditioning concept of",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.5014050006866455
+    },
+    {
+      "question": "Most people who are suicidal are more dangerous to themselves",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.5014989376068115
+    },
+    {
+      "question": "For Kohlberg, morality:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.501590013504028
+    },
+    {
+      "question": "You have been hired to assist with a research project on process variables in group psychotherapy. The psychologist who is the principal investigator tells you to discourage participants from leaving the group prior to the end of the study because, if too many participants drop out, the study's potential usefulness will be seriously compromised. As an ethical psychologist, you should:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.50180983543396
+    },
+    {
+      "question": "Which of the following is NOT a component of Weiner’s attributional style theory?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.501909971237183
+    },
+    {
+      "question": "The primary focus of the “systems approach” to the problems of business and industry is to improve",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.502003908157349
+    },
+    {
+      "question": "When it comes to STATISTICAL DECISION-MAKING, rejecting a false null is the goal of most researches. From your knowledge about TYPE I ERROR, which statement out of the following ones is about it?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.871554136276245
+    },
+    {
+      "question": "\"The basic premise of the “Zeigarnik effect\"\" is that:\"",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.8716721534729
+    },
+    {
+      "question": "Which of the following training methods will develop 2 response most resistant to extinction",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.871772289276123
+    },
+    {
+      "question": "Unilateral damage to the left (dominant) hemisphere is least likely to result in an inability to:",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.8718671798706055
+    },
+    {
+      "question": "The most automatic of the proposed memory systems is ___________.",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.871958017349243
+    },
+    {
+      "question": "A 20-month old clings nervously to her mother and does not want to explore a new play environment. She suddenly pushes her mother away and does not engage in any hugs her mother tries to give her. The infant’s facial expression shows anxiety but she looks away from her mother. The mother turns away from the baby as well. This child most likely has which type of attachment to her mother?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.872049331665039
+    },
+    {
+      "question": "Which of the following is an example of anterograde amnesia?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.87214207649231
+    },
+    {
+      "question": "The primary purpose of a(n) ____________ is to obtain detailed information about job requirements in order to facilitate decisions related to compensation.",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.87223219871521
+    },
+    {
+      "question": "There are certain ways to increase external validity as well. From your knowledge about this ways, to what does the CLUSTER SAMPLING refer to?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.872322082519531
+    },
+    {
+      "question": "Electroconvulsive therapy (ECT) is most successfully used with",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.87241005897522
+    },
+    {
+      "question": "Which of the following is the essential feature of Conduct Disorder",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.80375599861145
+    },
+    {
+      "question": "Which of the following values is least characteristic of Asians and Asian Americans?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.804354190826416
+    },
+    {
+      "question": "According to the theory of cognitive dissonance, greater change of belief will occur in forced compliance situations",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.8044962882995605
+    },
+    {
+      "question": "You receive an e-mail from Dr. Brenda Browne, a licensed psychologist, who is currently seeing one of your former clients for a substance abuse disorder. Dr. Browne asks you to forward the client’s file to her and states that the client has signed a release authorizing you to do so. You should:",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.804593086242676
+    },
+    {
+      "question": "A non-custodial parent asks Dr. Maxine Miller, a school psychologist, for the results of the tests she recently administered to his 5th grade son. If Dr. Miller complies with the father’s request, she will have acted:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.804692983627319
+    },
+    {
+      "question": "For practitioners of humanistic psychotherapy, psychopathology is the result of:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.804786920547485
+    },
+    {
+      "question": "Ethical standards for varying professions differ with regard to their emphasis and perspective. As a psychologist working in a multidisciplinary setting, you should:",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.80488395690918
+    },
+    {
+      "question": "At the outset of group counseling, the therapist should explain char the obligation of the group member to respect confidentiality is",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.804978132247925
+    },
+    {
+      "question": "There are several differences between Parametric and Nonparametric Statistical Tests, for ex. Nonparametric Statistical Tests are less powerful than parametric tests. From your knowledge about the parametric tests, which statement can not be correct?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.805072069168091
+    },
+    {
+      "question": "In most cases, statutory responsibility for establishing minimal standards for professional competency to protect the public from harm rests with",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.805167198181152
+    },
+    {
+      "question": "An individual’s genotype is ___________.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.6903791427612305
+    },
+    {
+      "question": "Studies on persuasion have shown that when a communicator is credible, the degree to which the receiver's initial position will change is",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.690892219543457
+    },
+    {
+      "question": "Images and sounds are maintained in sensory memory for:",
+      "model_answer": "C.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.691417932510376
+    },
+    {
+      "question": "A colleague, a licensed psychologist, confides in you that he has just ended a sexual relationship with one of his clients. As he describes the client, you realize that she is someone you referred to him about 18 months ago. As an ethical psychologist, you should:",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.691543817520142
+    },
+    {
+      "question": "When a nicotine patch is used in conjunction with behavioral techniques in smoking cessation programs, the rate of success is likely to",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.691640138626099
+    },
+    {
+      "question": "\"\"\"Vicarious liability\"\" is most likely to be a concern when a psychologist is acting in the role of:\"",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.69173002243042
+    },
+    {
+      "question": "The neurotransmitter most directly involved with voluntary muscle movement is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.69182014465332
+    },
+    {
+      "question": "On the WAIS-III, a Verbal IQ that is substantially higher than the Performance IQ is most suggestive of which of the following?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.691909074783325
+    },
+    {
+      "question": "Which of the following is true of strong organizational culture?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.691999197006226
+    },
+    {
+      "question": "According to Noam Chomsky’s nativist theory, language is largely the result of:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.692086219787598
+    },
+    {
+      "question": "If a researcher conducted a study in which the criterion for statistical significance was set to 0.05 and statistical power was equal to 0.85:",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.63690972328186
+    },
+    {
+      "question": "What are the facets of primary prevention?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.63703989982605
+    },
+    {
+      "question": "________ involves mental retardation and extreme obesity and is caused by a chromosomal deletion.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.6371400356292725
+    },
+    {
+      "question": "___________ is a communication disorder that is characterized by difficulties in regulating the rate, rhythm, pitch, and loudness of speech.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.637233018875122
+    },
+    {
+      "question": "The inability to understand words, without any loss of ability to speak or hear words, is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.637331008911133
+    },
+    {
+      "question": "In aversive counterconditioning of a sexual fetish using electric shock, the conditioned stimulus is the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.637422800064087
+    },
+    {
+      "question": "In personnel selection, it is appropriate to ask a person's age when",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.637512922286987
+    },
+    {
+      "question": "The most frequent training types are occupation-specific technical training, computer related and managerial/supervision training; Needs Analysis is used for determining if and what kind of training is necessary. Which component out of the following ones is not of the Need Analysis?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.637602806091309
+    },
+    {
+      "question": "\"A transformational leader uses \"\" framing\"\" in order to:\"",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.637700796127319
+    },
+    {
+      "question": "As defined in the APA's General Guidelines for Providers of Psychological Services and the CPA’s Practice Guidelines for Providers of Psychological Services, “psychological services” include all of the following except?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.637787818908691
+    },
+    {
+      "question": "In a classroom setting, behaviors that are overt, lack a clear-cut beginning and end, and occur with moderate frequency, are best assessed by which of the following types of observational recording techniques",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.695068836212158
+    },
+    {
+      "question": "A psychologist decides to use a computerized test service to facilitate scoring and interpretation of the MMPI-2, which he frequently administers to his clients. The psychologist should be aware that:",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.69563102722168
+    },
+    {
+      "question": "Research on bystander intervention indicates that a person in an emergency will be most likely to receive help when the number of bystanders is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.696277856826782
+    },
+    {
+      "question": "A person who is actively rejecting the dominant culture and holds rigid, positive beliefs about the minority culture is most likely in what stage of racial/cultural identity development according to Atkinson, Morten, and Sue?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.696700811386108
+    },
+    {
+      "question": "________ racism is occurring when members of minority groups consistently have less access than members of the majority group to quality education, good jobs, appropriate medical care, and adequate housing.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.696818113327026
+    },
+    {
+      "question": "According to Gregory Herek (1992), violence against gays and lesbians is attributable to:",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.696913003921509
+    },
+    {
+      "question": "Assessment Centers differ most sharply from other methods of personnel selection in their use of",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.697006940841675
+    },
+    {
+      "question": "The INTER-SCORER RELIABILITY is used for essay tests or behavioral observation scales and usually involves a coefficient between rater’s scores. What is the Kappa Coefficient?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.697096824645996
+    },
+    {
+      "question": "Asking the “miracle question” is an initial intervention in which type of therapy?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.697196006774902
+    },
+    {
+      "question": "When consulting with a colleague about a “therapeutic impasse” you are having with a therapy client:",
+      "model_answer": "C.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.6972877979278564
+    },
+    {
+      "question": "When the spread of scores increases, the variance",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.510925054550171
+    },
+    {
+      "question": "Electrical stimulation of the brain for the treatment of chronic pain",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.511564016342163
+    },
+    {
+      "question": "Which of the following is the strongest evidence of a patient's addiction to a substance",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.5119309425354
+    },
+    {
+      "question": "The major difference between job enrichment and job enlargements thar job enrichment",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.512408971786499
+    },
+    {
+      "question": "Attentional load theory posits:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.512918949127197
+    },
+    {
+      "question": "Tourette’s syndrome has been most consistently linked to abnormalities in which of the following structures of the brain?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.513033151626587
+    },
+    {
+      "question": "The most common functional psychiatric disorder of later life is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.513136148452759
+    },
+    {
+      "question": "Which of the following objective criteria for assessing job performance has/have the greatest validity",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.513228893280029
+    },
+    {
+      "question": "Frustration always leads to aggression/aggression always predicated by frustration. What does the CATHARSIS THEORY states in this issue, but is unsupported by research?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.513321161270142
+    },
+    {
+      "question": "In learned helplessness research, it was found that giving solvable problems eliminated the helplessness caused by unsolvable problems. It is argued thar this is due to",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.513411998748779
+    },
+    {
+      "question": "__________ memory is the aspect of memory that is involved in the recall of information acquired within the past few hours to days.",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.126379013061523
+    },
+    {
+      "question": "Milgram (1965) found that participants in his study were more willing to administer electric shocks to another person when they couldn't see the victim and the victim couldn't see them. This ﬁnding is predicted by Zimbardo’s notion of:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.1267619132995605
+    },
+    {
+      "question": "After studying for an examination, retention of the learned material is best facilitated by",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.127573013305664
+    },
+    {
+      "question": "Dr. Harry Holliday, a clinical psychologist, is planning to take a three-week cruise. In terms of his clinical practice, Dr. Holliday’s best course of action would be to:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.127772808074951
+    },
+    {
+      "question": "In conducting a study on the relationship between depression and academic achievement, you are collecting third-grade children’s self- report data and their scores on a standardized achievement test. Parents have given informed consent to allow you to assess their children, but two children tell you that they do not want to participate in the study. At this point, which of the following is your most appropriate course of action regarding these two children",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.12787389755249
+    },
+    {
+      "question": "Dr. Marcos Manzetti uses a “sliding scale” that is based on a client’s current income to set his fees for therapy. Dr. Manzetti’s practice is:",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.127969980239868
+    },
+    {
+      "question": "From the perspective of feminist therapy, therapist self-disclosure is:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.128062963485718
+    },
+    {
+      "question": "A student participant in a research study involving matched pairs decides to withdraw from the study. The chief investigator (who is a licensed psychologist) stresses to the student the importance of the student’s data to the study, but he insists that his data be withdrawn. The investigator should:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.128154993057251
+    },
+    {
+      "question": "A psychologist is designing a study that will investigate the impact of age on intelligence. The results of the psychologist’s study will most likely indicate that intelligence test scores begin to decline in early adulthood if she uses which of the following research designs?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.128247976303101
+    },
+    {
+      "question": "Cerebral spinal fluid is secreted by the ___________.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.1283369064331055
+    },
+    {
+      "question": "Your new ‘client is a 37-year-old woman whose symptoms meet the diagnostic criteria for Major Depressive Disorder. After your third session with her, she tells you that she was in treatment with another psychologist but terminated after the psychologist made sexual advances toward her. She does not want you to discuss this matter with anyone. To be consistent with the provisions of the ethics codes of the American and Canadian Psychology Association, your best course of action would be to:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.092247009277344
+    },
+    {
+      "question": "The principal effect of the current concern co improve the employment opportunities of the educationally or socially disadvantaged has been to encourage the use in employment testing of",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.092943906784058
+    },
+    {
+      "question": "The notion that there are three major life tasks – friendship, occupation, and love – is MOST consistent with the philosophy of:",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.093902826309204
+    },
+    {
+      "question": "Awareness that traditional healers (e.g., shamans, curanderos, expititistas) have an important place in many minority communities would suggest that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.094537973403931
+    },
+    {
+      "question": "A psychologist obtains a statistically significant F-ratio for the interaction between two independent variables. This means that:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.094658136367798
+    },
+    {
+      "question": "A supervisor attempts to increase his inﬂuence by being sensitive to the needs of his subordinates and by acting as a role model. This supervisor is relying on which of the bases of power identiﬁed by French and Raven?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.09475302696228
+    },
+    {
+      "question": "Which of the following is the most common neuropsychological complication of AIDS",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.094849109649658
+    },
+    {
+      "question": "A correct statement regarding the many different types of treatment available for alcohol abuse is that",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.094942092895508
+    },
+    {
+      "question": "Self-control procedures such as those used for controlling alcohol abuse are most easily implemented",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.095032215118408
+    },
+    {
+      "question": "A group's performance on a(n) __________ task is limited by the performance of the least skilled or knowledgeable member of the group.",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.095120906829834
+    },
+    {
+      "question": "Dr. Delbert Dinwoody is currently treating a 35-year-old client who has received a diagnosis of Alcohol Dependence. With the client's permission, Dr. Dinwoody invites the client's wife to participate in couple therapy. Inviting the wife to participate in therapy is:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.855352163314819
+    },
+    {
+      "question": "The most common cause of cerebral palsy is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.855867147445679
+    },
+    {
+      "question": "At the termination of an extensive training program, management may expect to find chat",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.855986833572388
+    },
+    {
+      "question": "Which of the following strategies would probably be least effective for reducing aggressiveness in children?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.856089115142822
+    },
+    {
+      "question": "Individuals with Moderate Mental Retardation",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.85618782043457
+    },
+    {
+      "question": "A psychiatrist sends a signed patient release form to a psychologist requesting a copy of a report on a patient who was assessed 7 years earlier. The psychologist should",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.856281042098999
+    },
+    {
+      "question": "A research study finds that instituting a law that raises the minimum age for purchasing alcohol from 18 to 21 increases underage drinking among college students. This finding is consistent with the predictions of:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.85637903213501
+    },
+    {
+      "question": "What two theories provide the conceptual framework for the evolution of mating adaptations?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.856474161148071
+    },
+    {
+      "question": "According to Carl Rogers, a therapist is “congruent” when the therapist:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.856565952301025
+    },
+    {
+      "question": "When the corpus callosum is cut in a right-handed patient, often the patient",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.856665134429932
+    },
+    {
+      "question": "\"A \"\"cover story\"\" that causes research participants to think that the purpose of the study they are participating in is something other than what it really is would be most helpful for controlling which of the following?\"",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.91520094871521
+    },
+    {
+      "question": "A student has recently completed a dissertation and is submitting a draft for publication. The student’s advisor contributed by assisting with data analysis and writing a major part of the first publication draft. If the manuscript is published, the student should receive",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.915863037109375
+    },
+    {
+      "question": "The diagnosis of Alzheimer's disease can be most accurately verified by",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.916240930557251
+    },
+    {
+      "question": "The “needs” of both Murray and Maslow can be considered similar to ___________ from operant conditioning theory.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.916985750198364
+    },
+    {
+      "question": "Equity theory predicts that a person's satisfaction in a close personal relationship is related to the person's:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.917111873626709
+    },
+    {
+      "question": "A widely used procedure for matching client aptitudes to job requirements is the",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.917204856872559
+    },
+    {
+      "question": "In Gestalt therapy, transference is usually",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.91729998588562
+    },
+    {
+      "question": "If a psychologist acts as both a fact witness for the plaintiff and an expert witness for the court in a criminal trial, she has acted:",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.91739296913147
+    },
+    {
+      "question": "When helping a patient to resolve ambivalence, build commitment, and reach a decision to change, which of the following basic principle is not used at Motivational Interviewing:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.917484760284424
+    },
+    {
+      "question": "The Frequency Distribution provides a summary of a set of data and indicates the number of cases that fall at a given score within a given range. From your knowledge about this topic, which statement out of the following ones is about the SKEWED DISTRIBUTION?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.917571783065796
+    },
+    {
+      "question": "A research project compared the performance of learning disabled and of normal students on ten scales of the Wechsler Intelligence Scale for Children ~ Revised (WISC-R). Ten univariate analyses of variance (ANOVAs) were run to test for differences between the two groups, but use of a multivariate analysis of variance (MANOVA) would have been more desirable because MANOVA",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.854109287261963
+    },
+    {
+      "question": "An employee is receiving counseling from a psychologist through his company's employee assistance program. In this situation, the psychologist can let the employee's supervisor know that the employee is receiving treatment:",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.854706287384033
+    },
+    {
+      "question": "Group A consists of people whose measured interests are highly similar to the interests of engineers, Group B consists of people whose measured interests are highly dissimilar to those of engineers. Which of the following statements would be justified, given that both Group A and Group B entered engineering",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.8551013469696045
+    },
+    {
+      "question": "You have been seeing Leticia Lopez in therapy for several months. Leticia is 24 years old and lives with her widowed mother, who is paying for Leticia’s therapy. One day, Leticia's mother calls and says she is very concerned about Leticia and wants to know what she can do to help Leticia feel better about herself. Mrs. Lopez asks that you not tell Leticia that she has called. Your best course of action in this situation would be to:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.855441331863403
+    },
+    {
+      "question": "\"On the basis of the results of the t-test a psychologist uses to analyze the data she collects, the psychologist concludes that her results are \"\"significant at the .01 level.\"\" This means that:\"",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.855568170547485
+    },
+    {
+      "question": "You have been treating a teenage male you suspect may have some neurologic difficulties. You inform his parents about your concerns and suggest they send him to a neurologist for an evaluation. Sometime later, the neurologist contacts you and requests your progress notes. You should ___________.",
+      "model_answer": "B.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.855664253234863
+    },
+    {
+      "question": "Studies show that the effect of the presence of others on an individual's performance is to",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.855760097503662
+    },
+    {
+      "question": "A psychologist is subpoenaed to testify at a deposition about a current therapy client. This means that the psychologist:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.855851173400879
+    },
+    {
+      "question": "An employee expects greater consistency in the behavior of his boss than is warranted. The employee’s expectation is best accounted for by which of the following?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.855939149856567
+    },
+    {
+      "question": "The term “insanity” is a:",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.856032133102417
+    },
+    {
+      "question": "Amnesic Disorders describe conditions where there is memory impairment with no other significant cognitive impairments. Which of the following statements is incorrect in relation to Amnesic Disorders?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.800511121749878
+    },
+    {
+      "question": "An assessment that uses primarily observational methods to examine and understand the physical and psychological variables that impact behavior in a given environment or setting is a:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.800626039505005
+    },
+    {
+      "question": "In classical psychoanalytic theory, a maladaptive behavior that emerges as a compromise between an unconscious impulse and the resulting defense process is called",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.800718069076538
+    },
+    {
+      "question": "\"According to the elaboration likelihood model, a person is most likely to rely on the “central route\"\" for processing information when:\"",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.800962209701538
+    },
+    {
+      "question": "For deception in an experiment to be permissible, it is essential that the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.8010759353637695
+    },
+    {
+      "question": "Research that demonstrates parents who play more roughly with male children and are more protective of female children is most consistent with which theory of gender-role identity development?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.8011698722839355
+    },
+    {
+      "question": "Children begin to deliberately and regularly use rehearsal, elaboration, and organization as memory strategies by _____ years of age.",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.80126428604126
+    },
+    {
+      "question": "You regularly waive the co-payment for your low-income clients who are covered by insurance and believe this is acceptable since you normally bill your clients on a sliding fee scale. This is:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.801353931427002
+    },
+    {
+      "question": "Among women, which of the following subgroups has been shown to be the most frequent users of suicide prevention services",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.801446914672852
+    },
+    {
+      "question": "You are conducting a multiple regression analysis and find that one of your predictors has a negative regression coefficient. This means that:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.801537990570068
+    },
+    {
+      "question": "In a two-variable situation in which one variable is dichotomous and the other is interval and continuous, which of the following correlation procedures is most appropriate",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.035614967346191
+    },
+    {
+      "question": "Dr. Sam Stone has been hired by a consulting firm to assist with an ongoing research project being conducted at a large company. Dr. Stone is to work directly under the project director, Dr. Thompson, a licensed organizational psychologist. Dr. Thompson asks Dr. Stone to review the preliminary report she has prepared for the project; and, in doing so, Dr. Stone discovers that some of the reported data is misleading and may be inaccurate. Dr. Stone expresses his concerns to Dr. Thompson and is told that “it will be taken care of.” Subsequently, Dr. Stone learns that the report was submitted to the company without any changes. Dr. Stone reviews the ethical guidelines and decides that pursuing the matter further isn't necessary. Dr. Stone's conclusion:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.0361199378967285
+    },
+    {
+      "question": "In personnel selection, the selection ratio is defined as the",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.036438941955566
+    },
+    {
+      "question": "Quasi-experimental designs are distinguished from true experimental designs on the basis of whether there is",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.0365400314331055
+    },
+    {
+      "question": "To serve as an expert witness in a court case, a psychologist must:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.036633014678955
+    },
+    {
+      "question": "The reticular formation and reticular activating system are associated with all of the following functions, EXCEPT:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.036723852157593
+    },
+    {
+      "question": "Which is NOT an example of children actively shaping their own development?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.036819934844971
+    },
+    {
+      "question": "If adverse impact on some minority group has been observed, which of the following types of tests probably has the best chance of withstanding legal challenge",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.036910057067871
+    },
+    {
+      "question": "The Buckley Amendment establishes:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.0370049476623535
+    },
+    {
+      "question": "In a study where groups of children competed against each other, intergroup hostility was lessened by finding tasks that required the efforts of all the children. This approach is an example of",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.037096977233887
+    },
+    {
+      "question": "According to Bronfenbrenner’s (1979) ecological model, the ______ consists of interactions between elements of the microsystem (e.g., between the family and the school).",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.328287601470947
+    },
+    {
+      "question": "When preparing a psychological testing report, a psychologist is ethically bound to include",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.3288116455078125
+    },
+    {
+      "question": "Which of the following is the best example of constant error",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.329229831695557
+    },
+    {
+      "question": "A 38-year-old person is afraid to travel on public transportation. A program of treatment that relies on graduated exposure to traveling by bus, with actual real-life behavioral activities increased across trials, is called",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.329680919647217
+    },
+    {
+      "question": "You want to start treating clients who believe they have been abducted by aliens, but you have never worked with members of this population before. Your best course of action would be to:",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.329797744750977
+    },
+    {
+      "question": "A 40-year-old therapist becomes attracted to a 38-year-old client and soon realizes that the feelings are mutual. They discuss the situation and agree to terminate therapy and begin dating. They eventually get married. This is:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.329890727996826
+    },
+    {
+      "question": "Transformed scores increase the interpretability of raw scores and allow comparison to the rest of the distribution. From your knowledge about Transformed Scores, which statement is not about the Z SCOREs?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.3299829959869385
+    },
+    {
+      "question": "Down Syndrome is caused by:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.330071687698364
+    },
+    {
+      "question": "Stress Inoculation Training involves both skills training and modification of maladaptive cognitions. Which of the following steps is incorrectly defined by a young inexperienced therapist:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.330163955688477
+    },
+    {
+      "question": "Which of the following best describes ethical guidelines regarding barter as a substitute for the collection of fees for professional psychological services?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.330255746841431
+    },
+    {
+      "question": "According to the theory of planned behavior, the three components of a person's behavioral intention are:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.294860124588013
+    },
+    {
+      "question": "The 1976 Tarasoff decision established:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.2952821254730225
+    },
+    {
+      "question": "According to one criterion of discrimination, under which of the following conditions would it be safe to assume that a selection test does not discriminate against a particular racial group",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.295690059661865
+    },
+    {
+      "question": "A measure of __________ would be most useful for determining the likelihood that employees will remain on the job for a long period of time.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.29615592956543
+    },
+    {
+      "question": "Which of the following contributes to a favorable prognosis for psychotherapy",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.296270847320557
+    },
+    {
+      "question": "In some circumstances, it is proposed chat heredity determines the timing and general nature of a behavior, bur thar environmental experiences at a critical time determine the specific stimulus-response connection which is learned. This form of learning is called",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.296366214752197
+    },
+    {
+      "question": "In the research on leadership of children’s groups, which of the following was a major finding concerning group behavior",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.296459197998047
+    },
+    {
+      "question": "Longitudinal studies of children with specific reading disabilities show that",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.296553134918213
+    },
+    {
+      "question": "Which of the following changes would be characteristic of the “classic aging pattern” as it applies to performance on psychometric tests of intelligence",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.296640157699585
+    },
+    {
+      "question": "The inability to recognize objects by touch alone is most likely the result of damage to the",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.296730041503906
+    },
+    {
+      "question": "Long-term potentiation is believed to play a critical role in which of the following?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.794649839401245
+    },
+    {
+      "question": "Kurt Lewin's ﬁeld theory predicts that human behavior is:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.794775009155273
+    },
+    {
+      "question": "Although concurrent individual and group therapy may be necessary for some patients, many therapists do not support it. One of the major concerns is that",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.7948830127716064
+    },
+    {
+      "question": "The Leiter International Performance Scale would be most useful for measuring the intelligence of:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.794978857040405
+    },
+    {
+      "question": "\"The statement, “You tripped, but I was pushed\"\" BEST illustrates which of the following?\"",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.795132875442505
+    },
+    {
+      "question": "A senior psychologist hires a junior psychologist to conduct a research study. The junior psychologist “runs the experiment” and helps analyze and write up the results. When the research is submitted for publication, professional ethics require thar the junior psychologist be",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.795238971710205
+    },
+    {
+      "question": "Piaget’s theory describes stages of cognitive development ___________.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.795336008071899
+    },
+    {
+      "question": "A child is using a spoon in much the same way that the child had used a rattle in the past. In Piaget's theoretical framework, this is an example of",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.79542875289917
+    },
+    {
+      "question": "It is a 3-year-old’s first day of preschool. When she arrives at her classroom, she holds on tightly to her mother’s hand and watches the other children play. After a few minutes and some coaxing from her teacher, she begins to help another child complete a puzzle. According to Thomas and Chess, what temperament style does this child have?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.79551887512207
+    },
+    {
+      "question": "In which of the following psychotherapies is self-disclosure by the psychologist a specifically recommended and frequently applied technique",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.79561185836792
+    },
+    {
+      "question": "Which of the following terms is the best synonym for test validity",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.715735912322998
+    },
+    {
+      "question": "___________ is caused by an abnormal accumulation of cerebrospinal fluid in the ventricles.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.716161012649536
+    },
+    {
+      "question": "The mother of a 31-year-old client that you have been seeing for six months calls to check on her son's progress. She says that she is very concerned about her son and wants to know if there is anything she can do to help him. As an ethical psychologist, you:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.716502904891968
+    },
+    {
+      "question": "The scoring criterion categories for the Exner Scoring System used to score the Rorschach Inkblot Test include all of the following except:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.717288970947266
+    },
+    {
+      "question": "MRI is preferred over CT (computed tomography) in all of the following scenarios, EXCEPT:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.717429876327515
+    },
+    {
+      "question": "Benzodiazepines must be used cautiously as ___________.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.717529058456421
+    },
+    {
+      "question": "Teddy Roosevelt was weak and ill as a child but grew up to be a robust adult and coined the term “rugged individualism.” He also became associated with the slogan “speak softly but carry a big stick.” This outcome is predicted by _________ theory of personality.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.717619895935059
+    },
+    {
+      "question": "Trainability tests are:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.717725992202759
+    },
+    {
+      "question": "The Systems Theory claims that a group of interaction components constitute together an entire organization. Which of the following properties of a family system is incorrectly defined:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.717816114425659
+    },
+    {
+      "question": "As a child, Fara’s responsibilities were to help her mother in the kitchen while her brother and father mowed the lawn. She was expected to do the housework like her mother while her brother did yard work like their father. What part of Feminist Therapy addresses these issues?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.717905044555664
+    },
+    {
+      "question": "People rely on which of the following to determine how to act in specific situations (e.g., at a faculty meeting, at a wedding, or in a restaurant)?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.739667892456055
+    },
+    {
+      "question": "In comparing Asian and Asian-American therapy clients to Anglo clients, the experts frequently point out that the former:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.740161895751953
+    },
+    {
+      "question": "The neuropsychological evaluation of a 70-year-old retired professional indicates low average intelligence with poor problem-solving, word- finding difficulty, poor visuomotor coordination, and definite memory impairment. The patient has limited awareness of these deficits. The most probable diagnosis is",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.7406158447265625
+    },
+    {
+      "question": "Asking an obese person to restrict eating to limited situations, such as a specific place in the kitchen at particular predetermined times of day, is best described as an example of",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.741073846817017
+    },
+    {
+      "question": "Which is NOT a contributor to individual differences in the development of vocal language skills?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.7411949634552
+    },
+    {
+      "question": "When the correlation between high school students’ GPA and amount of time they spend studying each week is ____, this means that about 15% of variability in GPA is accounted for by amount of time spent studying.",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.741289854049683
+    },
+    {
+      "question": "Numerous factor-analytic studies have been performed on tests of motor function (e.g., Purdue Pegboard). In general, these studies have revealed that",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.741390943527222
+    },
+    {
+      "question": "The rational-economic model of decision-making is based on the assumption that:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.741486072540283
+    },
+    {
+      "question": "After 6 months of once-2-week therapy and several attempts to evaluate and adjust treatment goals and strategies, a patient continues to complain over several sessions thar therapy has not helped and that therapy goals have not been met. The psychologist should",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.741573810577393
+    },
+    {
+      "question": "Which of the following vocational interest inventories is not tied to Holland’s theory of vocational interest?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.741661787033081
+    },
+    {
+      "question": "TYPE II ERROR is the failure to reject a false null hypothesis. The Power is the probability of NOT making a Type II error and is effected by several factors. Which factor out of the following ones that have influence on the power is incorrectly defined?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.1842358112335205
+    },
+    {
+      "question": "Although itis rarely feasible to engage in such a practice, the most valid way for psychotherapists to monitor the quality of their own services is to",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.184936761856079
+    },
+    {
+      "question": "The goodness-of-fit developmental mode! proposed by Alexander Thomas and Stella Chess describes",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.185359954833984
+    },
+    {
+      "question": "A female client finds her financial circumstances altered drastically after her divorce and she can no longer afford your fee. Your responsibility is to",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.186259031295776
+    },
+    {
+      "question": "Babbling ordinarily begins at about 4 to 5 months of age and initially includes:",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.186415910720825
+    },
+    {
+      "question": "Which of the following has the highest predictive validity in personnel selection in industry",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.1865129470825195
+    },
+    {
+      "question": "A primary concern about the long-term use of chlorpromazine is that it may result in the development of which of the following?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.186605930328369
+    },
+    {
+      "question": "the study‘s prospective value.",
+      "model_answer": "B.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.186697006225586
+    },
+    {
+      "question": "According to EQUITY THEORY in any work situation, people assess both their inputs and outcomes and compare the ratio to other workers and underpayment has a greater impact on worker performance than overpayment. To what does the PROCEDURAL JUSTICE refer to?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.1867921352386475
+    },
+    {
+      "question": "In Bandura's social learning theory, the concept of seif-reinforcement is critical for explaining how in the absence of external reward",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.186880826950073
+    },
+    {
+      "question": "A meta-analysis of the research by Baltes and his colleagues (1999) indicates that instituting flexitime in an organization is likely to have the greatest beneficial effects on which of the following?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.372357130050659
+    },
+    {
+      "question": "Of the following, the most accurate statement about hypnotic induction is that it",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.373204946517944
+    },
+    {
+      "question": "The denominator term in the F-ratio is reduced in magnitude by:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.373838186264038
+    },
+    {
+      "question": "With regard to minority and nonminority clients, psychotherapy is",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.374652147293091
+    },
+    {
+      "question": "\"A friend of yours says, “Every time I plan a vacation, there's always a crisis at home or work so that I can't go.\"\" Assuming that this is not really true, your friend's statement best illustrates which of the following?\"",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.3747780323028564
+    },
+    {
+      "question": "Kohlberg’s cognitive-developmental theory identifies which of the following as the initial stage of gender-role acquisition?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.374880075454712
+    },
+    {
+      "question": "Analyses of social power in consulting relationships emphasize the importance of which two forms of power",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.374974012374878
+    },
+    {
+      "question": "Psychoanalytic theory states that anxiety arises from",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.375064134597778
+    },
+    {
+      "question": "In general, children who have a high activity level tend to react to pressure by",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.375152111053467
+    },
+    {
+      "question": "Agraphia, acalculia, finger agnosia, and right-left confusion are symptoms of which of the following?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.37523889541626
+    },
+    {
+      "question": "Parametric Tests are used when data is interval or ration. There are 3 types of T-tests; from your knowledge about T-tests, for what is the t-test for Independent Samples used?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.12804913520813
+    },
+    {
+      "question": "According to ethics codes published by the American and Canadian Psychological Associations, if a psychologist knows of an ethical violation of a minor nature by a colleague, the psychologist",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.1285669803619385
+    },
+    {
+      "question": "For a Gestalt therapist, a primary goal of treatment is to help the client:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.128995180130005
+    },
+    {
+      "question": "When it comes to Controlling for Threats to Internal Validity, there is a certain difference between RANDOM ASSIGNMENT AND RANDOM SELECTION. From your knowledge about this topic, in what does it consist?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.129641056060791
+    },
+    {
+      "question": "Which of the following is most likely to produce symptoms similar to those resulting from anxiety",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.129767179489136
+    },
+    {
+      "question": "According to empirical research, which of the following is the best psychological treatment for obsessive—compulsive and agoraphobic disorders",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.129863262176514
+    },
+    {
+      "question": "There are different forms of the ANOVA (FACTORIAL ANOVA, MANOVA, ANCOVA etc). When is the ACOVA form used?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.1299591064453125
+    },
+    {
+      "question": "The belief that an unhealthy style of life stems from self-centered, competitive goals is most consistent with the theory of personality proposed by whom?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.130048990249634
+    },
+    {
+      "question": "Dr. Isaac Ibraham, a licensed psychologist, wants to expand his private practice. When doing so, he should keep in mind that uninvited in-person solicitations for therapy clients are:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.130139112472534
+    },
+    {
+      "question": "h former therapy clients.",
+      "model_answer": "B.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.130228042602539
+    },
+    {
+      "question": "An organizational psychologist would most likely recommend the use of vestibule training for which of the following jobs?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.4565582275390625
+    },
+    {
+      "question": "Self-verification theory predicts that a husband who has low self-esteem and is overweight and chronically depressed will prefer his wife to:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.457784175872803
+    },
+    {
+      "question": "A parent in family A delays for a long time before responding to a crying infant. In family B, a crying infant receives immediate attention. At night, a crying infant receives no attention in either family. According to traditional leaning theories, it would be anticipated that",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.4582929611206055
+    },
+    {
+      "question": "In a research study, a social psychologist offers participants either $1.00 or $20.00 to tell potential participants that a dull experiment was very interesting. With regard to cognitive dissonance theory and self-perception theory, which of the following is true?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.458437204360962
+    },
+    {
+      "question": "You are subpoenaed to appear at a deposition to testify about a former client of yours. During the deposition, the attorney for the opposing party asks you to provide confidential client information. You should:",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.458534240722656
+    },
+    {
+      "question": "HOUSE’S PATH-GOAL THEORY OF LEADERSHIP predicts that subordinate satisfaction and motivation are maximized when they believe the leader is helping. How is the Instrumental leadership style?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.458629131317139
+    },
+    {
+      "question": "The following are methods of increasing reliability and validity in qualitative research designs, EXCEPT:",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.458725214004517
+    },
+    {
+      "question": "In terms of training program evaluation, Kirkpatrick (1976) contends that _______ criteria are the most important criteria to evaluate but are often the most difficult to develop and, therefore, the most infrequently used.",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.458815097808838
+    },
+    {
+      "question": "The vocalizations of deaf and normal children differ in that",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.458920955657959
+    },
+    {
+      "question": "For all sensory systems except olfaction, the afferent sensory pathways include the",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.459012031555176
+    },
+    {
+      "question": "In which type of research there is no manipulation of research done and variables are just measured, not manipulated? From your knowledge about research designs and strategies, choose the correct answer.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.849456310272217
+    },
+    {
+      "question": "The first standardized measure of assessment was:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.849597930908203
+    },
+    {
+      "question": "As director and practicing professional psychologist for a North American Indian mental health center on a reservation, which of the following programmatic efforts should you incorporate into your culturally sensitive model of mental health care",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.849698066711426
+    },
+    {
+      "question": "The Standard for Educational and Psychological Testing provides",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.84985613822937
+    },
+    {
+      "question": "You would use the Solomon four-group design in order to:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.849958896636963
+    },
+    {
+      "question": "If, during a postexamination discussion with parents, a psychologist establishes that a child’s new pediatrician is apparently unaware of the child's history of brain damage. which is very important in understanding the problem situation, the psychologist should",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.850057125091553
+    },
+    {
+      "question": "Life span developmental theories, such as Baltes’s Selective Optimization with Compensation theory,",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.850157022476196
+    },
+    {
+      "question": "The most likely use of an “in-basket” technique in personnel selection would be with which type of employee",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.850251197814941
+    },
+    {
+      "question": "Berkowitz (1971) revised the original frustration-aggression hypothesis by proposing that frustration leads to aggression when:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.8503501415252686
+    },
+    {
+      "question": "A psychologist places an ad in a local newspaper claiming a guaranteed cure for anxiety.",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.850443124771118
+    },
+    {
+      "question": "Psychologists call the pathway that connects the past with the present and the future a(n) ___________.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.420594215393066
+    },
+    {
+      "question": "The psychology licensing exam (EPPP) is best described as:",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.4209699630737305
+    },
+    {
+      "question": "A college freshman obtains a score of 150 on his English final exam, a score of 100 on his math exam, a score of 55 on his chemistry exam, and a score of 30 on his history exam. The means and standard deviations for these tests are, respectively, 125 and 20 for the English exam, 90 and 10 for the math exam, 45 and 5 for the chemistry exam, and 30 and 5 for the history exam. Based on this information, you can conclude that the young man's test performance was best on which exam?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.421358108520508
+    },
+    {
+      "question": "The classic aging pattern is defined as 2 decline on which subtest(s) of the Wechsler Adult Intelligence Scale-Revised",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.42195200920105
+    },
+    {
+      "question": "A couple brings their ten-year-old son to therapy at the suggestion of his school counselor who is concerned because the boy has started arguing with his teacher and getting into physical fights with his classmates. After several sessions with the boy and his family, you receive a letter from the school principal requesting information about the boy's condition, and a signed release from the boy's parents is included with the letter. As an ethical psychologist, you should:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.422069072723389
+    },
+    {
+      "question": "Which of the following is an example of a double-bind message",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.422169208526611
+    },
+    {
+      "question": "With respect to the relationship between achievement and anxiety in schoolchildren, it appears that",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.422261953353882
+    },
+    {
+      "question": "The emotional state of the mother during pregnancy",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.4223551750183105
+    },
+    {
+      "question": "A person who recognizes a need to change certain behavior but exhibits ambivalence would most likely be in which stage of change?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.422447204589844
+    },
+    {
+      "question": "Which of the following correctly completes the analogy: “Vision is to hearing as",
+      "model_answer": "B.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.422538995742798
+    },
+    {
+      "question": "Dr. Ryan is a psychotherapist in a small town. She receives a phone call from a man she was sexually involved with several years ago. The relationship lasted only three months and ended amicably. The man is now married and is having problems unrelated to their past relationship. He has called to see if he can begin seeing Dr. Ryan in therapy. Dr. Ryan should:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.21620512008667
+    },
+    {
+      "question": "When there is a conflict between ethical obligations and legal requirements, a psychologist should ordinarily:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.216663122177124
+    },
+    {
+      "question": "Which of the following is NOT true about the difference between traditional research and program evaluation?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.2171430587768555
+    },
+    {
+      "question": "Alice, age 14, is certain that everyone is looking at her because she has a large blemish in the middle of her forehead. According to Elkind (1967), Alice’s belief is a manifestation of:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.217905044555664
+    },
+    {
+      "question": "According to ethics codes published by the American and Canadian Psychological Associations, psychologists participating in forensic activities should avoid misleading testimony or reports by",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.218012094497681
+    },
+    {
+      "question": "Which of the following statements is most closely related to the projective hypothesis",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.218106031417847
+    },
+    {
+      "question": "Emic approaches to multicultural counseling training are often advocated on the basis of",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.218201160430908
+    },
+    {
+      "question": "Which concept and stage are appropriately matched according to Piaget’s theory of cognitive development?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.218295097351074
+    },
+    {
+      "question": "When subjected to moderate punishment, an instrumental response of moderate strength will",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.218388080596924
+    },
+    {
+      "question": "A ten-year-old boy, tested with a paper-and-pencil intelligence test, obtained an IQ score of 130. Two years later, he was tested with an alternate form of the same test. Most likely, the obtained score on the second testing would be",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.218477249145508
+    },
+    {
+      "question": "Your client is on probation and your ongoing treatment is a condition of his probation. He informs you that he wishes to terminate treatment. You should ___________.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.888203859329224
+    },
+    {
+      "question": "The ____________ provides information on the four cognitive abilities identified by Luria (1980) – i.e., planning, attention, simultaneous processing, and sequential processing.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.888775825500488
+    },
+    {
+      "question": "Which of the following statements best characterizes short-term memory",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.889257907867432
+    },
+    {
+      "question": "Spinal cord injury at the ________ level is most likely to result in quadriplegia.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.889896869659424
+    },
+    {
+      "question": "While the nature and extent of measured intellectual decline during aging is not well established, a consistent finding is a/an",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.890061616897583
+    },
+    {
+      "question": "Dr. Donald Dreadmire is starting a therapy group for recently divorced men. He tells the editor of the local newspaper (who has just divorced his wife) that he can attend the group for free if the editor includes an article about the program in the newspaper. Dr. Dreadmire has acted:",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.890160799026489
+    },
+    {
+      "question": "Job satisfaction is an accurate predictor of:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.8902587890625
+    },
+    {
+      "question": "Operant extinction would NOT be the treatment-of-choice when:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.890350818634033
+    },
+    {
+      "question": "The research suggests that people who frequently view TV shows that depict violent acts:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.890442848205566
+    },
+    {
+      "question": "Margaret Mahler proposed that the development of a sense of self is the related to:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.890536785125732
+    },
+    {
+      "question": "Job satisfaction appears to be most negatively correlated with",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.5312581062316895
+    },
+    {
+      "question": "Which of the following is not represented in DSM-5 diagnostic criteria for problem gambling?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.531373023986816
+    },
+    {
+      "question": "A psychologist who is teaching a graduate course in counseling techniques at a state university has not updated the lecture notes or textbook selection for 7 years. This behavior is ethically questionable with respect to",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.531471252441406
+    },
+    {
+      "question": "An evaluation of a particular treatment fails to show an overall effect. However, the experimenter does find thar the most severely disturbed do show considerable improvement, and therefore concludes that the treatment is effective with extreme cases. This conclusion",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.531565189361572
+    },
+    {
+      "question": "Research on gender differences in conversation style indicates that, when compared to men, women:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.5316572189331055
+    },
+    {
+      "question": "When cross-validation of a set of predictors results in great shrinkage of an initially encouraging multiple correlation coefficients, it is most likely chat",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.531754970550537
+    },
+    {
+      "question": "Which of the following satisfies the criteria for tertiary prevention in a school setting",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.531847238540649
+    },
+    {
+      "question": "\"According to Hersey and Blanchard's situational leadership model, \"\"employee maturity\"\" is a function of the employee’s:\"",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.531937122344971
+    },
+    {
+      "question": "In most situations, the “holder of the privilege” is:",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.532133102416992
+    },
+    {
+      "question": "Experiencing intense feelings of shame and guilt upon admitting to a counselor that a family problem exists is common among traditional",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.532242298126221
+    },
+    {
+      "question": "Dr. Ja-Hoon Jang is conducting a research study that involves interviewing junior high school students about their relationships with peers. Prior to beginning the study, Dr. Jang obtained informed consents from the parents of the students as well as assents from the students themselves. During the course of the study, one of the students says he doesn’t want to complete the interview. Dr. Jang should:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.343914985656738
+    },
+    {
+      "question": "The research on leadership indicates that",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.34454607963562
+    },
+    {
+      "question": "Konrad Lorenz’s (1957) research on “imprinting” led to the search for __________ in human infants.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.345064163208008
+    },
+    {
+      "question": "According to the Standards for Educational and Psychological Testing, when interpreting and reporting test results, one should",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.345184087753296
+    },
+    {
+      "question": "Compared to individuals in their 20s, which of the following is an advantage to having children after the age of 30?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.345279216766357
+    },
+    {
+      "question": "The belief that a child's misbehavior has one of four goals — i.e., attention, revenge, power, or to display inadequacy — is most consistent with:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.345371246337891
+    },
+    {
+      "question": "The best conclusion that can be drawn about the four-day ( compressed) workweek is that it has:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.345463037490845
+    },
+    {
+      "question": "One of the key areas of debate in the early stages of Developmental Psychology was the so called, Nature vs. Nurture debate. Academics agreed that there was interaction between these two factors but there was wide disagreement concerning the degree of interaction. Which of the following terms, that relate to either genetic or environmentally caused changes, describes the differences in timing of physical changes that are found in children belonging to different cohorts?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.345552206039429
+    },
+    {
+      "question": "A person with Wernicke's aphasia has impaired language comprehension and:",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.345660209655762
+    },
+    {
+      "question": "The primary purpose of a realistic job preview is to:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.34574818611145
+    },
+    {
+      "question": "Most babies say their first words at about _____ months of age.",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.948703050613403
+    },
+    {
+      "question": "Which of the following best describes the best ethical position on bartering with clients?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.949300050735474
+    },
+    {
+      "question": "A psychologist has been asked to oversee a group that will be designing training programs to enable outplaced workers to fil existing jobs in community organizations. The firs: step the group should cake is to",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.949665069580078
+    },
+    {
+      "question": "Which of the following is most likely a violation of ethical guidelines?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.949784994125366
+    },
+    {
+      "question": "Information disclosed by a child client to a psychologist may be kept confidential except when the client reports",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.949882984161377
+    },
+    {
+      "question": "Vocational interest inventories are generally not recommended as",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.949976921081543
+    },
+    {
+      "question": "Which of the following is the proper comparison rate for studying the effectiveness of a new psychotherapy",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.950068950653076
+    },
+    {
+      "question": "In a skewed smooth distribution with a tail exended to the left, the statistic with the highest value is the",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.950162172317505
+    },
+    {
+      "question": "Carol and Jim are experiencing marital difficulties. They have two school-aged children, a boy and a gid. According to meta-analysis of research on the relationship between marital discord and child behavior problems, it would be expected that",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.950252056121826
+    },
+    {
+      "question": "What are the four tenets of analytical psychotherapy according to Jung?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.950340986251831
+    },
+    {
+      "question": "Anxiety induced by reading about an automobile accident some months after having had such an accident best described as an instance of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.321850299835205
+    },
+    {
+      "question": "A psychologist who shares an office with another psychologist reruns around midnight to retrieve some papers and unexpectedly comes upon the colleague engaging in sexual relations with one of that colleague's clients. According to ethics codes published by the American and Canadian Psychological Associations, the first psychologist should",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.322494029998779
+    },
+    {
+      "question": "An educational psychologist designs a screening test to identify underachieving first- and second-grade children who have a learning disability. The psychologist will probably be most concerned that her test has adequate __________ validity.",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.322880029678345
+    },
+    {
+      "question": "Following the retirement of his business partner, Dr. Sheldon Smythe is the only psychologist in a small town, and the next closest mental health professional works in a town that is over 100 miles away. Several of Dr. Smythe’s new clients have problems for which he has limited training and experience. Dr. Smythe should:",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.323279142379761
+    },
+    {
+      "question": "Research into ___________ has helped us understand paradoxical reward.",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.323882102966309
+    },
+    {
+      "question": "Dr. Mansfield Mayhem receives a subpoena requiring him to testify about a current therapy client at a trial. Dr. Mayhem contacts the client who states that she does not want him to release any confidential information to the court. Dr. Mayhem should:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.324005126953125
+    },
+    {
+      "question": "A psychologist working in an elementary school setting asked to evaluate the effectiveness of a new school program that has served 200 to 300 children per year for the past 5 years. Appropriate pre- and postintervention measures are available for each child. The psychologist should choose the dependent variables for the evaluation by",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.3241050243377686
+    },
+    {
+      "question": "Non- Parametric Tests are used when a study involves nominal or ordinal data or when assumptions of a parametric test are severely violated. When are the CHI-SQUARE TESTS used?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.324197292327881
+    },
+    {
+      "question": "A small bit of meat powder in the dog’s mouth was Pavlov’s ___________.",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.3242881298065186
+    },
+    {
+      "question": "The American health care system is primarily dominated by which network?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.324380159378052
+    },
+    {
+      "question": "Which of the following is the primary ethical principle guiding the conduct of the practitioner's professional life",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.712762117385864
+    },
+    {
+      "question": "The classic triad of symptoms in Parkinson’s disease is:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.712939977645874
+    },
+    {
+      "question": "The research indicates that which of the following therapist factors has the greatest impact on therapy progress?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.713057994842529
+    },
+    {
+      "question": "According to Moscovici (1985), group members espousing the minority position are most likely to change the opinion of the majority when:",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.713153123855591
+    },
+    {
+      "question": "A person who is low in self-monitoring (Snyder, 1987) will rely on which of the following when deciding how to act in a particular social situation?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.7132651805877686
+    },
+    {
+      "question": "When one uses a time-series design to evaluate a program, fluctuation in the outcome slope can be accounted for by various alternative hypotheses. According to Campbell and Stanley, the most probable alternative is that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.713373899459839
+    },
+    {
+      "question": "There are specific research designs and strategies used to gain the desired information. From your knowledge about the research designs and strategies, how does the CORRELATIONAL RESEARCH work?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.713468074798584
+    },
+    {
+      "question": "According to Harry Stack Sullivan, which of the following cognitive experiences characterizes schizophrenic behavior:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.713559150695801
+    },
+    {
+      "question": "The research indicates that, when Total Quality Management (TQM) fails to live up to its potential, this is most often because:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.713648080825806
+    },
+    {
+      "question": "Tonotopic processing of auditory stimuli occurs at which site:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.7137370109558105
+    },
+    {
+      "question": "A person who has difficulty performing a purposeful skilled movement, such as opening a door with a key, despite having intact motor and sensory functioning, most likely has which of the following disorders:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.905334234237671
+    },
+    {
+      "question": "One of the most frequent findings of studies on human beings with “split brains” is that",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.905780076980591
+    },
+    {
+      "question": "The risk of withdrawal delirium is greatest following discontinuation of which of the following substances",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.9061431884765625
+    },
+    {
+      "question": "In organizations, the level of affective commitment is likely to be least predictive of which of the following?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.906651973724365
+    },
+    {
+      "question": "___________ has implications for internal validity and ___________ has implications for external validity.",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.906774044036865
+    },
+    {
+      "question": "Form A of a standardized personality test was given in the fall and again in the spring co the same group of people. The reliability estimate that resulted from this research is referred to as",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.90687108039856
+    },
+    {
+      "question": "The term “privilege” is best described as:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.906965017318726
+    },
+    {
+      "question": "You receive a letter from the Ethics Committee asking for information about a former client who has filed a complaint against her current therapist. You stopped seeing the client over seven years ago you should:",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.9070799350738525
+    },
+    {
+      "question": "In terms of age, Erikson’s ________ stage of psychosocial development corresponds to Freud’s phallic stage.",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.907170057296753
+    },
+    {
+      "question": "Dr. Pavel Petrovich, a licensed psychologist, has been seeing a client in therapy for over fourteen months with no apparent change in the client's symptoms. Dr. Petrovich should:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.907262086868286
+    },
+    {
+      "question": "According to Freud's notion of______, dreams and slips of the tongue are meaningful goal-directed phenomena.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.916361093521118
+    },
+    {
+      "question": "Research comparing heterogeneous and homogeneous work groups has found that, in general, heterogeneous groups:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.91648006439209
+    },
+    {
+      "question": "A psychologist emphasizes that parents should use appropriate consequences when dealing with their children’s misbehavior. In addition, the psychologist explains that the goal of misbehavior can be to confirm an assumed disability, or to get attention, power, or revenge. Which of the following theoretical orientations is being used",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.916682958602905
+    },
+    {
+      "question": "There are specific research designs and strategies used to gain the desired information. From your knowledge about the research designs and strategies, in which case is the MULTIPLE BASELINE DESIGN used?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.9168009757995605
+    },
+    {
+      "question": "To incorporate the value of personalismo into therapy, a therapist will:",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.916896104812622
+    },
+    {
+      "question": "The mother of a previous client of yours asks for a copy of her daughter's records. The daughter saw you for two years and died three months ago when she was 38 years old. You should:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.91698694229126
+    },
+    {
+      "question": "According to Fiedler’s contingency model of leadership, high LPC leaders:",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.91707706451416
+    },
+    {
+      "question": "Which of the following is true about the use of deception in a research study that may cause participants pain?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.917168855667114
+    },
+    {
+      "question": "At birth, the least developed part of the brain is the",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.917255878448486
+    },
+    {
+      "question": "The relationship of preadolescent siblings is best described as:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.917340993881226
+    },
+    {
+      "question": "Assessment centers are most commonly used to:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.9851508140563965
+    },
+    {
+      "question": "Which of the following assessment measures is not used to assess symptom validity or malingering?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.985692024230957
+    },
+    {
+      "question": "Of the following, the best way to increase the amount of helping behavior within a community is to",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.986979007720947
+    },
+    {
+      "question": "Berscheid’s (1983) emotion-in-relationship model proposes that strong positive emotions are LESS likely to be elicited during the later stages of an intimate relationship than in its initial stages because:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.98707914352417
+    },
+    {
+      "question": "A score of 50 on the Beck Depression Inventory-II suggests:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.9871790409088135
+    },
+    {
+      "question": "In most situations, the “holder of the privilege” is:",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.98727011680603
+    },
+    {
+      "question": "Studies into the etiology of Schizophrenia indicated a genetic predisposition to the condition but other factors are involved. From your knowledge of the subject identify which of the following statements is incorrect.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.987361907958984
+    },
+    {
+      "question": "An employee of large manufacturing firm finds the work dull, and pursues the job only for the money. The employee performs minimally, and is not motivated so produce highest quantity or better quality. According to F. Herzberg's two-factor theory, the best way 10 increase this worker's self-motivation would be to",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.987451076507568
+    },
+    {
+      "question": "Which of the following best describes ethical guidelines regarding sexual intimacies with former therapy clients?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.987541913986206
+    },
+    {
+      "question": "Research on second-language acquisition has shown which of the following about children who acquire a second language",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.987630128860474
+    },
+    {
+      "question": "In cognitive dissonance theory, individuals will change their ___________ to match their ___________.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.751605033874512
+    },
+    {
+      "question": "The Self-Concept is the individual’s belief about their own attributes. What can happen according to the OVERJUSTIFICATION HYPOTHESIS?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.752341032028198
+    },
+    {
+      "question": "What is pertinent in the effort to promote and enhance health?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.752816200256348
+    },
+    {
+      "question": "Which of the following statements best paraphrases Thorndike’s Law of Effect",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.752953052520752
+    },
+    {
+      "question": "Providing education and job training to adolescents and young adults who have recently been released from a drug treatment program is an example of:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.753058195114136
+    },
+    {
+      "question": "According to Howard et al.’s (1996) phase model, which of the following is most likely to be affected during the first few sessions of psychotherapy?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.753154039382935
+    },
+    {
+      "question": "Research on explicit (intentional) and implicit (automatic) memory indicates that",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.753247022628784
+    },
+    {
+      "question": "When basic survival needs have been met, money as a motivator",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.753337144851685
+    },
+    {
+      "question": "Research on Helms’s White Racial Identity Development Model suggests that a White therapist will usually be most successful when working with a client from an ethnic/racial minority group when the therapist is in which stage?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.753483057022095
+    },
+    {
+      "question": "Heteroscedasticity in a scattergram suggests that:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.753597974777222
+    },
+    {
+      "question": "In general, it can be said that job satisfaction",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.332046031951904
+    },
+    {
+      "question": "\"To \"\"inoculate\"\" someone against a persuasive message. you would:\"",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.332527160644531
+    },
+    {
+      "question": "A community bank consists of four branch offices with approximately 60 employees each. The general management would like to institute 2 health risk-reduction program by encouraging weight loss and smoking cessation among the employees. Which of the following programs would be most effective",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.332947254180908
+    },
+    {
+      "question": "Of the following, the best predictor of a child’s post-divorce adjustment during the 2 years following divorce is the",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.333322286605835
+    },
+    {
+      "question": "Dr. Bertha Black's advertisement for her seminar on relaxation techniques invites the public to “come hear an in-depth lecture on techniques to help reduce the stress of daily living.” The advertised cost for her four-hour seminar is $50. While preparing her lecture the night before the presentation, Dr. Black decides it would be valuable to demonstrate some of her techniques with the group. She decides that, instead of lecturing for the full four hours, she will have attendees divide into groups for the last two hours to experiment with the techniques. According to ethical standards, this is:",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.333813190460205
+    },
+    {
+      "question": "Which of the following statements best describes a researcher’s obligations regarding the use of animals in psychological research?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.333941221237183
+    },
+    {
+      "question": "Object relations therapy is similar to Freudian psychodynamic therapy in its primary focus on",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.334038019180298
+    },
+    {
+      "question": "Family therapy is probably contraindicated in which of the following situations?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.334133148193359
+    },
+    {
+      "question": "Behavioral treatments for depression typically include:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.334226131439209
+    },
+    {
+      "question": "The idea that individuals may have different possible developmental trajectories, given the timing of an environmental experience or lack thereof, is the concept of ___________.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.334316968917847
+    },
+    {
+      "question": "CONTINGENCY CONTRACTING refers to establishing a formal, written contract that specifies target behaviors and the reinforcers and contractors. Which element out of the following ones is not one of an effective contract?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.322271823883057
+    },
+    {
+      "question": "\"Samuel S., age 43, says, \"\"Even though I've just been given a bonus at work, I feel like I’m about to be fired.” As defined by Aaron Beck, Samuel is exhibiting which of the following cognitive distortions?\"",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.322750806808472
+    },
+    {
+      "question": "The highest levels of learning and performance are usually associated with:",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.323117017745972
+    },
+    {
+      "question": "Attempting to teach a new behavior through the use of aversive techniques is difficult because of which of the following",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.323763847351074
+    },
+    {
+      "question": "A key accomplishment of Piaget's preoperational stage is the emergence of:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.323885917663574
+    },
+    {
+      "question": "One of the key features for making a differential diagnosis between bulimia nervosa and anorexia nervosa is:",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.323982000350952
+    },
+    {
+      "question": "A problem with relying on the representativeness heuristic when making a judgment about the characteristics of another person is that doing so:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.324075937271118
+    },
+    {
+      "question": "Which of the following factors appears to have the strongest influence on learning in people with antisocial personalities",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.324168920516968
+    },
+    {
+      "question": "Ethical behavior in the practice of individual psychologists is regulated by",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.324259996414185
+    },
+    {
+      "question": "Which of the following possible outcomes of an experiment is least informative",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.324347019195557
+    },
+    {
+      "question": "Donald Super’s _____________ graphically depicts the correspondence between an individual’s life roles and life stages.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.092498779296875
+    },
+    {
+      "question": "Ethnic identity refers to",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.093170881271362
+    },
+    {
+      "question": "Atkinson, Morten, and Sue’s (1993) Racial/Cultural Identity Development Model proposes that people in which of the following stages begin to question their rejection of all aspects of the dominant culture and absolute loyalty to their own culture?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.093620777130127
+    },
+    {
+      "question": "Therapists considering working with elderly persons should especially keep in mind that, on most variables, the elderly",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.0940468311309814
+    },
+    {
+      "question": "Dr. Vic Vasquez, a licensed psychologist, provides secretarial services and office space to Dr. Bernice Banquist in exchange for 20% of the fee that Dr. Banquist collects from her therapy clients. When Dr. Vasquez finds that he does not have time to see all of the clients who want to begin therapy with him, he begins referring some of them to Dr. Banquist and charges her 30% of the fee that Dr. Banquist collects from these referred clients. Acording to the ethics codes published by the American and Canadian Psychological Associations, charging more for referred clients is:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.0944178104400635
+    },
+    {
+      "question": "Erich Fromm states that the society prevents you from realizing true nature to be loving, creative, and productive. Which of the responses to societal demands allow a person to realize that?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.095124959945679
+    },
+    {
+      "question": "Vicarious liability is most likely to be an issue when a psychologist is acting in which of the following capacities?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.095239877700806
+    },
+    {
+      "question": "Autocorrelation is most likely to be a problem when using which of the following research designs?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.095333814620972
+    },
+    {
+      "question": "When a communicator is mildly to moderately credible, attitude change is greatest when the level of discrepancy between the initial positions of the communicator and the recipient of the communication is:",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.095426797866821
+    },
+    {
+      "question": "The Wonderlic Personnel Test is a:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.095517873764038
+    },
+    {
+      "question": "You have been hired as a research assistant for a study that will compare two brief treatments for Social Phobia. The procedures and methods used in the study are ethically sound; however, your supervisor is not informing participants that they may withdraw from the study at any time if they desire to do so. Your best course of action would be to:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.445566892623901
+    },
+    {
+      "question": "In an approach-approach conflict, a discernible move in a given direction should",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.446454048156738
+    },
+    {
+      "question": "A female psychologist provides a 2-month course of brief behavior therapy for a driving phobia to a male client. Six months after termination they meet at an art opening reception and begin to date. Over the next few months, the relationship progresses and they become sexual. In this situation, the psychologist has acted:",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.44694709777832
+    },
+    {
+      "question": "All of the following brain regions are considered part of the limbic system except ___________.",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.447288990020752
+    },
+    {
+      "question": "In a cross-sectional study designed to assess the effects of age on reaction time, you have adults belonging to different age groups respond to visual stimuli on a computer screen. A colleague suggests that the results of your study might be confounded by the fact that older participants may have less experience using a computer than do younger participants. This potential source of error is best described as a:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.448986053466797
+    },
+    {
+      "question": "In counseling and psychotherapy, the trend since 1980 has been toward",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.449120998382568
+    },
+    {
+      "question": "You are asked by an attorney to evaluate the woman he is representing in a custody case and then testify on her behalf in court. As an ethical psychologist, you should:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.449213981628418
+    },
+    {
+      "question": "A psychologist is the supervisor of several interns at a community hospital in a small town and notices that one of the interns seems unenthusiastic and depressed. When he talks to her, she tells him that she’s been very unhappy lately and feels she has no one to turn to. The intern asks the psychologist to see her in therapy, and he agrees to do so. The psychologist has acted:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.449305057525635
+    },
+    {
+      "question": "A correct statement about the early babbling of infants from different language communities is chat it",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.449399948120117
+    },
+    {
+      "question": "Child abuse and neglect are most associated with which of the following attachment patterns?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.449488162994385
+    },
+    {
+      "question": "In the context of research design, external validity refers to the researcher’s ability to:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.61922287940979
+    },
+    {
+      "question": "Which is NOT a criticism of Piaget’s theory of cognitive development?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.6196019649505615
+    },
+    {
+      "question": "According to attribution theorists, an error observers make in formulating causal attributions about the behavior of others is",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.6201171875
+    },
+    {
+      "question": "Individuals who profit most from crisis group intervention are those who",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.621163845062256
+    },
+    {
+      "question": "From a Jungian standpoint, which of the following phenomena is taking place when contents of either the personal or collective unconscious are projected onto the analyst",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.621288061141968
+    },
+    {
+      "question": "Expectancy theory predicts that worker motivation depends on several factors including “valence,” which refers to:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.621385097503662
+    },
+    {
+      "question": "Sampling error refers to the",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.621483087539673
+    },
+    {
+      "question": "For most children, stranger anxiety begins at about _____ months of age.",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.6215760707855225
+    },
+    {
+      "question": "The body’s stress response system:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.62166690826416
+    },
+    {
+      "question": "There are several methods for estimating the test reliability, like the INTERNAL CONSISTENCY RELIABILITY for example. From your knowledge about this topic, find the correct definition of it.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 6.621760129928589
+    },
+    {
+      "question": "In client-centered case consultation, the consultant's primary goal is to:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 1.4067718982696533
+    },
+    {
+      "question": "Physiologically based drives such as rage and fear reactions are regulated by the",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 1.4092738628387451
+    }
+  ]
+}

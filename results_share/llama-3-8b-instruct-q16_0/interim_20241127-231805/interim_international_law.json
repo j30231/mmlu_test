@@ -1,0 +1,860 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct-q16_0",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-000327"
+  },
+  "subject": "international_law",
+  "category": "humanities",
+  "correct_rate": 74.3801652892562,
+  "evaluation_results": [
+    {
+      "question": "Which State ordinarily exercises jurisdiction in respect of crimes committed on board vessels?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.714216947555542
+    },
+    {
+      "question": "What is the meaning of justiciability?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.7147910594940186
+    },
+    {
+      "question": "In what way is Responsibility to Protect (R2P) different from humanitarian intervention?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.715146064758301
+    },
+    {
+      "question": "What is the 'Lotus principle'?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.7156660556793213
+    },
+    {
+      "question": "Which of these statements best describes the UK Constitution?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.7247560024261475
+    },
+    {
+      "question": "What is the obligation of the peaceful settlement of disputes?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.7284910678863525
+    },
+    {
+      "question": "Which one of the following statements is false?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.72863507270813
+    },
+    {
+      "question": "Which is a 'rock' under the UN Convention of the Law of the Sea (UNCLOS)?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.7287487983703613
+    },
+    {
+      "question": "What is the meaning of international legal personality?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.7288620471954346
+    },
+    {
+      "question": "Which of the following is a treaty-based human rights mechanism?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.728972911834717
+    },
+    {
+      "question": "The UN Vienna Declaration 1993 declared that",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.20127010345459
+    },
+    {
+      "question": "What is the principal source of immunity in respect of international organisations (IOs)?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.201767921447754
+    },
+    {
+      "question": "Is there any hierarchy or priority among States under international law?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.20219087600708
+    },
+    {
+      "question": "What is the declaratory theory of recognition?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.202620983123779
+    },
+    {
+      "question": "What is the function of \"standard-setting in human rights diplomacy?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.213653087615967
+    },
+    {
+      "question": "What dimension did the Kadi judgment introduce with respect to the incorporation of UN Security Council resolutions?",
+      "model_answer": "C.",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.215034008026123
+    },
+    {
+      "question": "Magna Carta was",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.2151830196380615
+    },
+    {
+      "question": "Do individuals (physical) persons enjoy international legal personality in the same manner as States and international organisations?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.2152979373931885
+    },
+    {
+      "question": "Is there any hierarchy or priority among the various methods of peaceful settlement of disputes?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.215409994125366
+    },
+    {
+      "question": "Which of the following statements is false?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.2155210971832275
+    },
+    {
+      "question": "What is the meaning of proportionality in relation to the options available to the victim State?",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.23952317237854
+    },
+    {
+      "question": "What is the ordinary geographical scope of jurisdiction?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.239885091781616
+    },
+    {
+      "question": "Which are the formal sources of international law?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.240270137786865
+    },
+    {
+      "question": "What is the purpose of baselines under the law of the sea?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.252057075500488
+    },
+    {
+      "question": "What is the difference between conciliation and mediation?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.252584218978882
+    },
+    {
+      "question": "In Osman v UK (1998), the European Court laid down a test, which can be used to apply a general positive obligation on a state. Which of the following statements is not part of the Osman test?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.2529730796813965
+    },
+    {
+      "question": "Who is entitled to request an advisory opinion of the ICJ?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.253583192825317
+    },
+    {
+      "question": "What is the purpose of universal jurisdiction?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.253921031951904
+    },
+    {
+      "question": "Are all acts of State organs attributed to the State under the law international responsibility?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.25408411026001
+    },
+    {
+      "question": "What is a 'treaty' according to the Vienna Convention on the Law of Treaties (VCLT)?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.2542290687561035
+    },
+    {
+      "question": "Is the unlawful homicide committed by Minister of country X abroad an act jure imperii or jure gestionis?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.814744710922241
+    },
+    {
+      "question": "What was the outcome before the European Court of Human Rights in the Al-Adsani case?",
+      "model_answer": "B.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.830291986465454
+    },
+    {
+      "question": "What other criteria were imposed by the Badinter Commission on the former Yugoslav republics?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.8307547569274902
+    },
+    {
+      "question": "How treaties are to be interpreted?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.8311378955841064
+    },
+    {
+      "question": "When coastal States do enforce their criminal jurisdiction over foreign vessels in their ports?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.8315298557281494
+    },
+    {
+      "question": "What is the value of the Resolutions of the UN General Assembly in terms as a 'source' of international law?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.8320398330688477
+    },
+    {
+      "question": "Do treaties bind third States, ie non-State parties?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.8324646949768066
+    },
+    {
+      "question": "Which of the following articles are not qualified rights?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.832826852798462
+    },
+    {
+      "question": "What is dualism?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.8331618309020996
+    },
+    {
+      "question": "What is an act jure imperii?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.833606719970703
+    },
+    {
+      "question": "What is the relationship between the formal sources of international law?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.865863084793091
+    },
+    {
+      "question": "What was the particular advantage of UNSC Resolution 678 over a collective defensive action under Article 51 UN Charter during the Gulf War?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.8663949966430664
+    },
+    {
+      "question": "How can customary law be related to treaty provisions?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.866763114929199
+    },
+    {
+      "question": "What does it mean for a State to be sovereign?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.8671491146087646
+    },
+    {
+      "question": "What is the meaning of functional recognition?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.8675761222839355
+    },
+    {
+      "question": "What is the meaning of \"act of State\" doctrine?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.8682072162628174
+    },
+    {
+      "question": "How can the structure of the international society be displayed?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.868802070617676
+    },
+    {
+      "question": "Are there any limitations to the incorporation of customary crimes under English law?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.8694841861724854
+    },
+    {
+      "question": "What is the function of the contiguous zone?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.869838237762451
+    },
+    {
+      "question": "Which of the examples below has not been developed by the European Court of Human Rights as a situation where the state has a positive obligation to protect?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.8703250885009766
+    },
+    {
+      "question": "Which case was the first to define the meaning of the doctrine of 'margin of appreciation' as applied by the European Court of Human Rights?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.8563151359558105
+    },
+    {
+      "question": "How are the members of the arbitral tribunal appointed?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.856700897216797
+    },
+    {
+      "question": "Are the peremptory norms of international law the only norms that set out obligations erga omnes?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.857067108154297
+    },
+    {
+      "question": "What is the constitutive theory of recognition?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.857745885848999
+    },
+    {
+      "question": "The enforcement mechanism of the International Covenant on Civil and Political Rights (and Protocol) consists of",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.858105182647705
+    },
+    {
+      "question": "Is piracy under international (jure gentium) law subject to universal jurisdiction?",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.8696560859680176
+    },
+    {
+      "question": "What are self-executing treaties?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.8701090812683105
+    },
+    {
+      "question": "Is the ICJ hostile to the idea that an armed attack may arise through a series of lower intensity, yet cumulative, instances of armed force?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.8705883026123047
+    },
+    {
+      "question": "Is there any priority among international courts and tribunals?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.870760917663574
+    },
+    {
+      "question": "Do third States enjoy any fishing rights within the Exclusive Economic Zone of another State?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.8709421157836914
+    },
+    {
+      "question": "What is the purpose of sovereign immunity?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.7945120334625244
+    },
+    {
+      "question": "What is passive personality jurisdiction?",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.795022964477539
+    },
+    {
+      "question": "Which of the following types of rights have been described as first generation rights?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.795639991760254
+    },
+    {
+      "question": "What is the problem of 'fragmentation' of international law?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.796199083328247
+    },
+    {
+      "question": "What is functional (ratione materiae) immunity?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.796563148498535
+    },
+    {
+      "question": "What is the meaning of implied authorisation?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.7993719577789307
+    },
+    {
+      "question": "Which philosopher called the idea of natural rights 'nonsense on stilts'?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.8140451908111572
+    },
+    {
+      "question": "Who has the authority to conclude a treaty on the part of States?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.8147921562194824
+    },
+    {
+      "question": "Who is a 'persistent objector'?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.8150739669799805
+    },
+    {
+      "question": "What is the meaning of collective security?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.8152081966400146
+    },
+    {
+      "question": "The European Convention on Human Rights is predominantly concerned with which of the following?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.017920017242432
+    },
+    {
+      "question": "Is the jurisdiction of international tribunals regulated by the same principles applicable to national courts?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.01828932762146
+    },
+    {
+      "question": "What is the meaning of collective rights?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.0186450481414795
+    },
+    {
+      "question": "Are States under any obligation when they conduct negotiations?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.019053220748901
+    },
+    {
+      "question": "What is the major difference between naturalism and positivism?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.0194010734558105
+    },
+    {
+      "question": "What is an 'internationally wrongful conduct'?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.019783973693848
+    },
+    {
+      "question": "What is the effects doctrine?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.020130157470703
+    },
+    {
+      "question": "Which persons are considered as 'de facto' organs of the State under the law of international responsibility?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.032711029052734
+    },
+    {
+      "question": "What is the fundamental prerequisite for the incorporation of custom under English law?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.0330891609191895
+    },
+    {
+      "question": "Was the use of armed force permitted prior to the United Nations Charter?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.033433198928833
+    },
+    {
+      "question": "What is the protective principle of jurisdiction?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.95849609375
+    },
+    {
+      "question": "Which one of the following statements is correct?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.9593589305877686
+    },
+    {
+      "question": "What is the 'equitable result' in the law and practice of maritime delimitation?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.9598019123077393
+    },
+    {
+      "question": "What is a derogation?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.960139036178589
+    },
+    {
+      "question": "What is an act jure gestionis?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.96047306060791
+    },
+    {
+      "question": "What is the meaning of cultural relativism?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.961487054824829
+    },
+    {
+      "question": "Is recognition of governments prevalent in contemporary international practice?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.971492052078247
+    },
+    {
+      "question": "What is the legal nature of the Universal Declaration of Human Rights (UDHR)?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.972561836242676
+    },
+    {
+      "question": "Under what circumstances do human rights violations taking place outside the territory of ECHR member States fall within the remit of the ECHR?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.9729390144348145
+    },
+    {
+      "question": "What does the principle 'pacta sunt servanda' mean?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.9745750427246094
+    },
+    {
+      "question": "What was the consequence from the absence of implementing legislation in the Tin Council case?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.087463855743408
+    },
+    {
+      "question": "Which of the following statements is true?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.088098049163818
+    },
+    {
+      "question": "What forms may the obligation of reparation take?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.088469982147217
+    },
+    {
+      "question": "What is jus cogens?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.088893890380859
+    },
+    {
+      "question": "What is 'unilateral acts'?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.089239120483398
+    },
+    {
+      "question": "Is extra-territorial abduction a ground for refusal of otherwise lawful jurisdiction by English courts?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.08961296081543
+    },
+    {
+      "question": "What is the meaning of 'secondary rules' in the law of international responsibility?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.090038061141968
+    },
+    {
+      "question": "What does the doctrine of incorporation suggest in respect of treaties?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.090378999710083
+    },
+    {
+      "question": "Are the provisional measures issued by the ICJ binding upon the parties?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.0907158851623535
+    },
+    {
+      "question": "When are countermeasures illegal?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.091052055358887
+    },
+    {
+      "question": "What is the difference between political and legal means of dispute settlement?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.399654865264893
+    },
+    {
+      "question": "What is the rationale for the exhaustion of local remedies in international human rights?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.400017738342285
+    },
+    {
+      "question": "Which of the following cases best illustrates the 'living instrument principle' used by the European Court of Human Rights?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.400371789932251
+    },
+    {
+      "question": "Is the recognition of foreign judgments subject to the same rules as those applicable to the incorporation and transformation of treaties?",
+      "model_answer": "D.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.400725841522217
+    },
+    {
+      "question": "What was the most important finding by the House of Lords in the Pinochet case?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.401235818862915
+    },
+    {
+      "question": "Which one of the statements below is false?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.4015679359436035
+    },
+    {
+      "question": "Which State exercises jurisdiction over vessels on the high seas?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.402084827423096
+    },
+    {
+      "question": "Should treaties assume a particular form?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.403145790100098
+    },
+    {
+      "question": "What is the fundamental premise of monist theory?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.4035937786102295
+    },
+    {
+      "question": "Where do we find the 'general principles of law recognized by civilized nations' (article 38 ICJ Statute)?",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.403939723968506
+    },
+    {
+      "question": "When does an illegal act of violence on the high seas fall short of qualifying as piracy?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.043254852294922
+    },
+    {
+      "question": "What is the meaning of \"armed attack\" in Article 51 UN Charter?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.045660018920898
+    },
+    {
+      "question": "Who is an 'injured State' in the law of international responsibility?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.046018838882446
+    },
+    {
+      "question": "What is personal (ratione personae) immunity?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.0471351146698
+    },
+    {
+      "question": "Which of the following statements best describes the UN Human Rights Council?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.047622919082642
+    },
+    {
+      "question": "When a reservation is considered as invalid under the law of treaties?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.04796290397644
+    },
+    {
+      "question": "What kind of rights do coastal States enjoy over their continental shelf?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.048325061798096
+    },
+    {
+      "question": "Are there any limits to the application of article 103 of the UN Charter?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.048877954483032
+    },
+    {
+      "question": "Can countries rely on their domestic law as an excuse to violate their obligations under international law?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.0493128299713135
+    },
+    {
+      "question": "What is meant by an international organisation's implied powers?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.0499107837677
+    },
+    {
+      "question": "What are the criteria for statehood under the 1933 Montevideo Convention?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 0.3113420009613037
+    }
+  ]
+}

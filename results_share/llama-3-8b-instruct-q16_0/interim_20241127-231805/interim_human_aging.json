@@ -1,0 +1,1574 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct-q16_0",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-000142"
+  },
+  "subject": "human_aging",
+  "category": "other (business, health, misc.)",
+  "correct_rate": 67.71300448430493,
+  "evaluation_results": [
+    {
+      "question": "The study of older adults and aging is referred to as",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.647174835205078
+    },
+    {
+      "question": "Which of the following factors is associated with a decreased risk of Alzheimer's?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.647845983505249
+    },
+    {
+      "question": "The docility hypothesis is that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6482810974121094
+    },
+    {
+      "question": "Normal memory seems to be improved by",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.6488471031188965
+    },
+    {
+      "question": "The perspective that development is embedded in history means that",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6499269008636475
+    },
+    {
+      "question": "The answer \"both play an important role\" is clearly applicable to the question of",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.6503260135650635
+    },
+    {
+      "question": "Which of the following does NOT usually occur to the lens of the eye as one grows older?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.6509718894958496
+    },
+    {
+      "question": "The houses of the future may allow you to operate virtually everything in the house from a central terminal; such a house is already in production and is referred to as",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.6515698432922363
+    },
+    {
+      "question": "The reaction time difference between younger and older adults is reduced when older adults",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.6519110202789307
+    },
+    {
+      "question": "A major difference between programmed and unprogrammed theories of senescence is that programmed theories",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.6522839069366455
+    },
+    {
+      "question": "One reason that older adults show high levels of optimism is that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.669416904449463
+    },
+    {
+      "question": "Bu is often late for appointments but says it's because she had more important things on her mind. This is an example of which coping strategy?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.6698548793792725
+    },
+    {
+      "question": "Which of the following is most strongly associated with loss of bone density?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.670503854751587
+    },
+    {
+      "question": "That super sweet iced tea that your grandmother gives you might be that way because she",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.68505597114563
+    },
+    {
+      "question": "A shortage of these two vitamins can produce symptoms that mimic dementia:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.685659885406494
+    },
+    {
+      "question": "Which of the following is one of McAdam's levels of personality?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.686038017272949
+    },
+    {
+      "question": "In this chapter's Senior View, Dr. Donham told us that mental stimulation, exercise, diet, and what other factor is important for long life?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.68644380569458
+    },
+    {
+      "question": "Surveys of older adults who are living together show that they tend to view cohabitation as",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.6867799758911133
+    },
+    {
+      "question": "Older adults may be more attached to a place than younger adults because",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.687548875808716
+    },
+    {
+      "question": "The Hayflick number for human cells is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6878998279571533
+    },
+    {
+      "question": "High levels of self-care behaviors have been associated with high levels of",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.6423821449279785
+    },
+    {
+      "question": "Research has offered some longitudinal as well as cross sectional support for the theory put forth by",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.64319109916687
+    },
+    {
+      "question": "Which of the following is more likely to be a cohort, rather than an age, difference?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.643860101699829
+    },
+    {
+      "question": "Fear of aging has been associated with high levels of",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.644270181655884
+    },
+    {
+      "question": "In which dementia are cognitive symptoms less likely?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.646210193634033
+    },
+    {
+      "question": "In this chapter's Senior View, Dr. Shealy advises you to",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.6492600440979004
+    },
+    {
+      "question": "When your sister Patricia was feeling depressed, you comforted her and reminisced about happier times. You provided which type of social support?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.655355215072632
+    },
+    {
+      "question": "Hearing loss occurs more frequently for",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.657525062561035
+    },
+    {
+      "question": "Continued stress is damaging to health and longevity because it leads to",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6579291820526123
+    },
+    {
+      "question": "One difference that seems to be mostly cohort rather than age is the difference in ____ for different age groups",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.6583731174468994
+    },
+    {
+      "question": "According to Tat Kleckley of this chapter's Senior View, the most important part of the healing process for those who are bereaved is to",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.545182943344116
+    },
+    {
+      "question": "Social support is most likely to have a positive influence on health and well being when it is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.54585599899292
+    },
+    {
+      "question": "Free radicals are produced by",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5462050437927246
+    },
+    {
+      "question": "Prejudice or bias against older adults is referred to as",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.54666805267334
+    },
+    {
+      "question": "The program that takes over care for those with 6 or fewer months to live, attempts to keep them at home, provides pain relief, and ends all life-prolonging technologies is called",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5475857257843018
+    },
+    {
+      "question": "Loss of smell for adults 80 and older is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5479249954223633
+    },
+    {
+      "question": "Activation of a class of genes called sirtuins may help to",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5489118099212646
+    },
+    {
+      "question": "Elder abuse most frequently comes from the older adult's",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.549285888671875
+    },
+    {
+      "question": "Projective tests generally ___ than objective tests of personality.",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.5499918460845947
+    },
+    {
+      "question": "Cells in the eye that respond to low levels of illumination are called",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5505599975585938
+    },
+    {
+      "question": "Some work on age stereotypes suggests that",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4829299449920654
+    },
+    {
+      "question": "Which of the following could very well be a cohort difference rather than a change that occurs with age?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4833431243896484
+    },
+    {
+      "question": "The major question concerning aging and personality is:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.483994960784912
+    },
+    {
+      "question": "A researcher who wants to examine both age and cohort differences is advised to use a _____ design.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.484584093093872
+    },
+    {
+      "question": "Which of the following is NOT one of the most rewarding aspects of being a grandparent as reported by grandparents?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.487036943435669
+    },
+    {
+      "question": "Of the following animals, which has the longest life span by current measures?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.487436056137085
+    },
+    {
+      "question": "One advantage of an expected death over an unexpected death is that",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4878499507904053
+    },
+    {
+      "question": "Changes in the reproductive system are more _____ for men but not for women",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.490144968032837
+    },
+    {
+      "question": "Which of the following hormones has not yet been claimed to ward off senescence?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4938929080963135
+    },
+    {
+      "question": "The majority of older widows live",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4974279403686523
+    },
+    {
+      "question": "Centenarians are people who",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5404481887817383
+    },
+    {
+      "question": "Quantitative analyses of TV shows have shown that",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.541080951690674
+    },
+    {
+      "question": "Which of the following groups of Americans have the lowest rate of alcohol abuse?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.541417121887207
+    },
+    {
+      "question": "If you believe that changes occur slowly and steadily throughout life, you would be holding the _____ side of this view of development.",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.541964054107666
+    },
+    {
+      "question": "All other things being equal, which of the following persons is likely to live the longest?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.5426199436187744
+    },
+    {
+      "question": "Which of the following age differences could be, in part, a cohort effect? Differences in",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5430312156677246
+    },
+    {
+      "question": "Clifford and Lucia Pauling, in Senior View, told us that physical changes",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5559120178222656
+    },
+    {
+      "question": "The biggest and most dangerous changes in the cardiovascular system take place in the",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.556436061859131
+    },
+    {
+      "question": "Older adults generally perform very well when their _____ memory is tested.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.556770086288452
+    },
+    {
+      "question": "With respect to marital satisfaction, most long lasting marriages",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.557122230529785
+    },
+    {
+      "question": "Theories",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.888805866241455
+    },
+    {
+      "question": "The least favored theory of senescence among researchers is the _____ theory",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8894460201263428
+    },
+    {
+      "question": "A researcher finds that age is negatively correlated with cigarette smoking; this means that",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.889798879623413
+    },
+    {
+      "question": "When a researcher takes part in the situation he or she is observing, he or she is said to be a(n)",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.890211820602417
+    },
+    {
+      "question": "The term \"work-family conflict\" for middle-aged adults can occur when they must",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.890578031539917
+    },
+    {
+      "question": "Do traits change with age?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.896622896194458
+    },
+    {
+      "question": "The cause of Alzheimer's appears to be",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8970589637756348
+    },
+    {
+      "question": "Older married men have been found to have",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.8974008560180664
+    },
+    {
+      "question": "Within the United States, which location has the longest life expectancy?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.8980369567871094
+    },
+    {
+      "question": "The largest proportion of older adults living alone reside in",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.898650884628296
+    },
+    {
+      "question": "Which level of personality description appears to show the most change with age?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.8929479122161865
+    },
+    {
+      "question": "The positive relationship between religion and physical health is NOT thought to be due to",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.894291877746582
+    },
+    {
+      "question": "Human factors examines the performance of different tasks by examining",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8946640491485596
+    },
+    {
+      "question": "Prospective memory refers to memory",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8950488567352295
+    },
+    {
+      "question": "The total number of people who have some disorder divided by the total number of people gives you the ____ rate.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8957479000091553
+    },
+    {
+      "question": "Remarriages are",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.896178960800171
+    },
+    {
+      "question": "With respect to job training, younger workers",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8966307640075684
+    },
+    {
+      "question": "About how many grieving individuals seem to require some professional help?",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.897091865539551
+    },
+    {
+      "question": "People with which of the following forms of control are least likely to have accessibility problems where they live?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8976809978485107
+    },
+    {
+      "question": "Which of the following has been found to improve balance for older adults?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.9082577228546143
+    },
+    {
+      "question": "The most frequent chronic condition for older adults is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7303268909454346
+    },
+    {
+      "question": "Hypokinesia refers to",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7307538986206055
+    },
+    {
+      "question": "What percentage of older adults report feeling very or often lonely?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.7313547134399414
+    },
+    {
+      "question": "An example of a discontinuous change over the adult years is the change in",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.7325477600097656
+    },
+    {
+      "question": "Which leg of the three-legged stool do most retirees have",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.732921838760376
+    },
+    {
+      "question": "One of the most important points made in this chapter is that physical changes",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.733262777328491
+    },
+    {
+      "question": "Which of the following forms of dementia has the highest prevalence rate?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.7360048294067383
+    },
+    {
+      "question": "High levels of social support are strongly associated with",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.7365498542785645
+    },
+    {
+      "question": "The term \"cohort\" refers to",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7462568283081055
+    },
+    {
+      "question": "Middle-aged adults appear to be more ____ than older or younger adults",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.7467026710510254
+    },
+    {
+      "question": "Which of the following improves attitudes toward aging and older adults?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8433640003204346
+    },
+    {
+      "question": "A problem for immune system theories of senescence is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.844205141067505
+    },
+    {
+      "question": "Those more likely to experience depression after a loss are those who",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.8445980548858643
+    },
+    {
+      "question": "Which of the following appears to lower bad cholesterol?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.844959020614624
+    },
+    {
+      "question": "Most people who have used physician assisted suicide have had",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.84591007232666
+    },
+    {
+      "question": "A researcher who is interested in the differences between two or more groups of people is most likely to use which of the following approaches?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.8462681770324707
+    },
+    {
+      "question": "Being in bright light during the later parts of the day seems to",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.847823143005371
+    },
+    {
+      "question": "A major reason for studying human aging is that",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.84850811958313
+    },
+    {
+      "question": "The model of social support that says that those who are close to you now are likely to be close for the rest of your days is called the ____ model",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.851076126098633
+    },
+    {
+      "question": "When older and younger workers have lost their jobs, older workers typically",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8516950607299805
+    },
+    {
+      "question": "Our social network refers to",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.651052713394165
+    },
+    {
+      "question": "Those who survive the loss of another are called the",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.654193878173828
+    },
+    {
+      "question": "Financial adjustment to retirement has been most difficult for",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.6552536487579346
+    },
+    {
+      "question": "Socioemotional selectivity theory says that older adults have smaller social networks because they",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6556007862091064
+    },
+    {
+      "question": "The gender gap is likely to be associated with male/female differences in",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.656813859939575
+    },
+    {
+      "question": "Those cells that build bone are called",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.657174825668335
+    },
+    {
+      "question": "An increase in neuroticism later in life is a strong predictor of",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.6575119495391846
+    },
+    {
+      "question": "Which of the following countries has the longest life expectancy?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.657846689224243
+    },
+    {
+      "question": "Which type of reaction time results in the biggest age differences?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.6584630012512207
+    },
+    {
+      "question": "Gary says he won $1000 in the lottery because he really knows how to pick those numbers. Gary would be said to have a strong ____ locus of control",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6589269638061523
+    },
+    {
+      "question": "The advanced directive where one specifies the types of medical intervention that are and are not desired is called a",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.664346933364868
+    },
+    {
+      "question": "If links between various diseases are found, then future older adults will probably",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.6647770404815674
+    },
+    {
+      "question": "With respect to hair loss",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.6651291847229004
+    },
+    {
+      "question": "In this chapter's Senior View, Pat Shelley told us that you shouldn't retire if",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.666490077972412
+    },
+    {
+      "question": "A person who is not very well organized, rarely sets goals, and frequently puts things off until the last minute would be said to be low on which trait?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6669580936431885
+    },
+    {
+      "question": "As working people get closer to retirement they are more likely to",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.6673030853271484
+    },
+    {
+      "question": "Older adults may show less major depression than younger adults because they",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.667668104171753
+    },
+    {
+      "question": "The different components of memory should be thought of as",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.6682231426239014
+    },
+    {
+      "question": "Very rapid disposal of the body, before sundown on the day of the death, is typical of which religion?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.6687710285186768
+    },
+    {
+      "question": "An example of an objective test of personality is the",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6821951866149902
+    },
+    {
+      "question": "When a measure actually quantifies what it claims to measure, we say that it has good",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9203150272369385
+    },
+    {
+      "question": "In which country do most individuals choose to be cremated?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.9214820861816406
+    },
+    {
+      "question": "A possible positive effect of moderate alcohol consumption is that it may",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.922258138656616
+    },
+    {
+      "question": "The environmental design that brings pets and plants to nursing homes and young people and children as regular visitors is referred to as",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9238970279693604
+    },
+    {
+      "question": "Excess disability refers to symptoms that are",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.9242501258850098
+    },
+    {
+      "question": "Well being for younger adults is positively related to which form of control?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.9245822429656982
+    },
+    {
+      "question": "Which of the following is NOT one of the major reasons for the increase in numbers of older adults?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.925394058227539
+    },
+    {
+      "question": "Before we can collect data from other human beings we must make sure that they",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.9257400035858154
+    },
+    {
+      "question": "In this chapter's Senior View, May Lee told us that we should all respect our elders because",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9260809421539307
+    },
+    {
+      "question": "One line of evidence against antagonistic pleiotropy is that",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.9265830516815186
+    },
+    {
+      "question": "Loss of muscle fiber may be due to loss of neurons which may be due to",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.8463947772979736
+    },
+    {
+      "question": "After losing a spouse, the surviving spouse often dies within the first year because of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8467519283294678
+    },
+    {
+      "question": "Which of the following factors has NOT received as much support as the others in research investigating why social support is related to better health?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.847108840942383
+    },
+    {
+      "question": "Older adults' coping strategies are generally",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8522980213165283
+    },
+    {
+      "question": "Men are more likely than women to die from",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.855311870574951
+    },
+    {
+      "question": "The slowing that occurs with advanced age appears to be centered in",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.855863094329834
+    },
+    {
+      "question": "One possible reason that time seems to pass more rapidly for older adults is that",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.861046075820923
+    },
+    {
+      "question": "If we found that adult age was significantly and positively correlated with consumption of herbal teas, we could conclude that",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.861701726913452
+    },
+    {
+      "question": "The initials ADL stand for",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.861846923828125
+    },
+    {
+      "question": "The dementia that results from a long-term deficiency of thiamine is one type of ____ dementia",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.861966848373413
+    },
+    {
+      "question": "The initial length of telomere stand for members of a species is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7267158031463623
+    },
+    {
+      "question": "The current record for longest lived human being is held by",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.7268500328063965
+    },
+    {
+      "question": "Glaucoma refers to the condition in which",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.7269680500030518
+    },
+    {
+      "question": "Workers in which of the following jobs still have mandatory retirements once they reach a certain age?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7270820140838623
+    },
+    {
+      "question": "Validation therapy refers to treatments in which the person with dementia",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7271969318389893
+    },
+    {
+      "question": "Surveys of bereaved individuals have found that one of the things that is reported as being most helpful is when others",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.727307081222534
+    },
+    {
+      "question": "An example of a gain, rather than a loss, that occurs as we grow older is our gain in",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.727419853210449
+    },
+    {
+      "question": "Which of the following appears to remain relatively stable over the adult years?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.7275331020355225
+    },
+    {
+      "question": "Which of the following is always the longest?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.727644920349121
+    },
+    {
+      "question": "Of the following, which is the more frequent stereotype of older adults?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.727756977081299
+    },
+    {
+      "question": "One reason that older adults may have difficulty in retrieving memories is that",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1025211811065674
+    },
+    {
+      "question": "Even a small amount of sleep deprivation seems to",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.103516101837158
+    },
+    {
+      "question": "NEAT may be one way in which some people are able to maintain a healthy BMI; NEAT refers to",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.1071560382843018
+    },
+    {
+      "question": "Over the last decade or two, which of the following causes of death has shown a huge increase?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.111898183822632
+    },
+    {
+      "question": "Which of the following statements is TRUE concerning older workers' job performance?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.120147943496704
+    },
+    {
+      "question": "Older adults' negative beliefs about their own memories seem to be more influenced by _____ than by their actual performance on memory tests",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1210711002349854
+    },
+    {
+      "question": "Which of the following is NOT one of the more frequently named activities by those who are retired?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.1214420795440674
+    },
+    {
+      "question": "The retirement phase that occurs least frequently is the ____ phase",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.1218600273132324
+    },
+    {
+      "question": "Which of the following is the most important variable for gerontological researchers?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1222031116485596
+    },
+    {
+      "question": "Which of the following does NOT increase the risk of falling?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.1225368976593018
+    },
+    {
+      "question": "The main reason given by men and women for their long lasting marriage is that",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.919006824493408
+    },
+    {
+      "question": "An older adult who has received a message (e.g., it's going to rain tomorrow) would be most likely to remember what when telling another person?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.919373035430908
+    },
+    {
+      "question": "The lifespan perspective says that development is composed of gains and losses; this means that",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9204368591308594
+    },
+    {
+      "question": "Identity refers to one's",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9212229251861572
+    },
+    {
+      "question": "Current estimates of how many people exercise on a regular basis suggest that _____ do",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.921564817428589
+    },
+    {
+      "question": "An increased frequency of urination in older adults is most likely caused by",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9218978881835938
+    },
+    {
+      "question": "Some research has found that later cognitive decline is predicted by earlier",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.9224319458007812
+    },
+    {
+      "question": "The law that requires all healthcare institutions that receive Medicaid funds to inform patients about advance directives is called the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.922795057296753
+    },
+    {
+      "question": "Which of the following is NOT among the top 10 causes of death in the U. S.?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.9288110733032227
+    },
+    {
+      "question": "Presbyopia refers to",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.9342551231384277
+    },
+    {
+      "question": "The design of products and environments to fit the capabilities of people who use them or live there is called _____ design",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.6981570720672607
+    },
+    {
+      "question": "The insurance program for poor people of all ages is called",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6985280513763428
+    },
+    {
+      "question": "When damage to the brain is irreversible and increasing we refer to the disorder as",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.6990249156951904
+    },
+    {
+      "question": "Grandparents with grandchildren in college report feeling especially loved when such grandchildren",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.699445962905884
+    },
+    {
+      "question": "The influence of genetics on longevity is estimated to be about",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.69991397857666
+    },
+    {
+      "question": "Older adults are most likely to be involved in a traffic accident when they are",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.700268030166626
+    },
+    {
+      "question": "Life stories are more likely for people who have a sense of",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.7114880084991455
+    },
+    {
+      "question": "The idea that the ability to complete a task depends on the fit between the environment and the person undertaking the task is a basic tenet of which of the following theories of aging?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.712750196456909
+    },
+    {
+      "question": "Neuroticism has been found to be correlated with which of the following?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.7137160301208496
+    },
+    {
+      "question": "The Apo-E 2 protein is very prevalent in people who",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.714060068130493
+    },
+    {
+      "question": "Information coming into our cognitive system is thought to first enter a",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.842095136642456
+    },
+    {
+      "question": "Omega 3 appears to reduce the risk of",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8430771827697754
+    },
+    {
+      "question": "The term \"senescence\" refers to",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.8437492847442627
+    },
+    {
+      "question": "Which of the following is caused by a prion?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8441803455352783
+    },
+    {
+      "question": "A difference between the social networks of older and younger adults is that older adults have",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.8445801734924316
+    },
+    {
+      "question": "The first person to measure and compare the response times of young and old was",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8449363708496094
+    },
+    {
+      "question": "About what percentage of people who have had bridge jobs say it was better than their career job?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.845384359359741
+    },
+    {
+      "question": "We want our measures to be as reliable as possible; reliability refers to",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8562612533569336
+    },
+    {
+      "question": "A problem in comparing older adults' memory for recent events and events that happened a long time ago is that recent events",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.858638048171997
+    },
+    {
+      "question": "Of the following types of memory, which shows the biggest deficit with advanced age?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8591532707214355
+    },
+    {
+      "question": "The loss of a ____ is regarded in the U. S. as the most severe loss and frequently produces guilt in addition to other emotions.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.800665855407715
+    },
+    {
+      "question": "DNA damage/repair theory claims that senescence is due to cells getting incorrect instructions from DNA damaged by sources such as",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.801063060760498
+    },
+    {
+      "question": "Comorbidity is a problem for older adults because it",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.801414966583252
+    },
+    {
+      "question": "With respect to theories of senescence, it's probably safe to say that",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.801823139190674
+    },
+    {
+      "question": "Current life expectancy in the United States is about",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.802385091781616
+    },
+    {
+      "question": "A burial site where the body is allowed to decompose naturally without a casket is called a _____ cemetery",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8100621700286865
+    },
+    {
+      "question": "Older adults with higher education and self-esteem are more likely to be",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8101871013641357
+    },
+    {
+      "question": "BMI is regarded as a better measure of health than weight by itself because BMI is based on weight and",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.810299873352051
+    },
+    {
+      "question": "Morbidity refers to",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8104121685028076
+    },
+    {
+      "question": "Older adults are able to improve their memories and reduce their anxiety about declining memory when",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.810520887374878
+    },
+    {
+      "question": "Hearing loss for higher pitch is referred to as",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7465312480926514
+    },
+    {
+      "question": "In this chapter's Senior View, Tolly Kleckley told us that personality",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.7469162940979004
+    },
+    {
+      "question": "The Kingbergs give us several keys to successful aging; which of the following is one that they did not name?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.747251033782959
+    },
+    {
+      "question": "Those who have lost a close family member to suicide most often experience",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.7476890087127686
+    },
+    {
+      "question": "Our bodies have a natural, built in defense against free radicals that is referred to as",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7480850219726562
+    },
+    {
+      "question": "Open-ended questions on a survey often make it difficult to",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.748462200164795
+    },
+    {
+      "question": "Which of the following groups is likely to have the more positive view of aging and older adults?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.748814105987549
+    },
+    {
+      "question": "The paradox of well-being refers to the finding of high levels of happiness among",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7503790855407715
+    },
+    {
+      "question": "The Supreme Court has now ruled that older workers need no longer prove _____________ to win a job discrimination suit.",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.751645088195801
+    },
+    {
+      "question": "The decline in working memory with advanced age seems to be due to",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.7520010471343994
+    },
+    {
+      "question": "A disadvantage of institutional care is that the staff frequently teach older residents to be",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.795758008956909
+    },
+    {
+      "question": "If you believe that we are mostly in control of our own development and that our behaviors, good or bad, determine how successful our aging with be, you would be said to have which of the following perspectives?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.796160936355591
+    },
+    {
+      "question": "The age at which one can receive full benefits from social security",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.798537015914917
+    },
+    {
+      "question": "Loss of stomach lining can lead to symptoms that resemble",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.798949956893921
+    },
+    {
+      "question": "Which of the following has NOT been shown to be an effective treatment for depression in older adults?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.7993149757385254
+    },
+    {
+      "question": "The term Baby Boom Generation refers to people who",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.802051067352295
+    },
+    {
+      "question": "Older workers are more likely to",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.8024260997772217
+    },
+    {
+      "question": "Mabel Davis, in this chapter's Senior View, would agree with which of the following?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.803023099899292
+    },
+    {
+      "question": "The information stored in memory, according to research and our Senior View interviewees, is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8033809661865234
+    },
+    {
+      "question": "When speaking with an older adults with some hearing loss, you should",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8037209510803223
+    },
+    {
+      "question": "Longevity is strongly associated with higher levels of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 0.8052589893341064
+    },
+    {
+      "question": "The hypothesis that says adults will remain healthy until very old age and then quickly become ill and die is the ____ hypothesis",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 0.8053939342498779
+    },
+    {
+      "question": "The woman who conducted a longitudinal study on herself and found increased retrieval difficulty as she got older was named",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 0.8055081367492676
+    }
+  ]
+}

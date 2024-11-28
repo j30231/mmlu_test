@@ -1,0 +1,958 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct-q16_0",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241127-231926"
+  },
+  "subject": "anatomy",
+  "category": "other (business, health, misc.)",
+  "correct_rate": 67.4074074074074,
+  "evaluation_results": [
+    {
+      "question": "A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.0586297512054443
+    },
+    {
+      "question": "A \"dished face\" profile is often associated with",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.058990955352783
+    },
+    {
+      "question": "Which of the following best describes the structure that collects urine in the body?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.0593600273132324
+    },
+    {
+      "question": "Which of the following structures is derived from ectomesenchyme?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.05985689163208
+    },
+    {
+      "question": "Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.074354887008667
+    },
+    {
+      "question": "A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.0745608806610107
+    },
+    {
+      "question": "Which of the following anatomical regions of abdomen lies just distal to the sternum?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.0746800899505615
+    },
+    {
+      "question": "Which of the following best describes the human body's defense mechanism against environmental bacteria?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0747928619384766
+    },
+    {
+      "question": "The palatine processes begin to fuse at",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.074903964996338
+    },
+    {
+      "question": "Primary motor cortex activity results in",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.0750138759613037
+    },
+    {
+      "question": "You notice that your patient's submandibular lymph nodes are enlarged. You would look for potential infection sites in the",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.4710400104522705
+    },
+    {
+      "question": "A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which of the following signs will be present?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.4714102745056152
+    },
+    {
+      "question": "Which of the following statements is true of the temporomandibular joint?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.471745014190674
+    },
+    {
+      "question": "Laryngoscopic examination of the vocal folds after suspected recurrent laryngeal nerve damage usually shows that the vocal fold on the injured side is tensed and in an intermediate position between adduction and abduction. This is because",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.4727301597595215
+    },
+    {
+      "question": "Which one of the following statements about the growth of the mandible is correct?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.473137140274048
+    },
+    {
+      "question": "Which of the following statements is true of the pupillary light reflex?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.473520278930664
+    },
+    {
+      "question": "Which muscles are normally active during quiet inspiration?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.473860263824463
+    },
+    {
+      "question": "Male hormones are produced by which of the following?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.474195957183838
+    },
+    {
+      "question": "Oxygenated blood is carried to the heart by which of the following structures?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.474900007247925
+    },
+    {
+      "question": "Which of the following allows air to pass into the lungs?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.4759013652801514
+    },
+    {
+      "question": "Where is the sinoatrial node located?",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.5697340965270996
+    },
+    {
+      "question": "In relation to the rib, the corresponding intercostal nerve lies",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.5703601837158203
+    },
+    {
+      "question": "The regional lymphatic drainage of the left side of the tip of the tongue is to the",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.5707359313964844
+    },
+    {
+      "question": "Gastrulation is the process of",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.5710811614990234
+    },
+    {
+      "question": "The spheno-occipital synchondrosis",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.571453094482422
+    },
+    {
+      "question": "Which of the following substances is found in greater quantity in exhaled air?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.5720291137695312
+    },
+    {
+      "question": "Which of the following conditions is characterized by the presence of kidney stones (renal calculi)?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.572664260864258
+    },
+    {
+      "question": "A pulse may be felt on a patient's face where the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.5751430988311768
+    },
+    {
+      "question": "A patient sustains severe blunt trauma to the left upper abdomen and requires surgery. Which one of the following organs is most likely to be involved?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.5851690769195557
+    },
+    {
+      "question": "Which statement concerning the atrioventricular bundle is correct?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.5862700939178467
+    },
+    {
+      "question": "Which of the following terms describes the motion of bending the forearm toward the body?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.9468700885772705
+    },
+    {
+      "question": "Food is prevented from entering the larynx during the pharyngeal phase of swallowing by",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.9472367763519287
+    },
+    {
+      "question": "At which of the following locations does bile enter the digestive tract?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9477739334106445
+    },
+    {
+      "question": "In which of the following positions does a patient lie face down?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.948237895965576
+    },
+    {
+      "question": "Complete bilateral cleft palate is due to failure of fusion of the",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.948657989501953
+    },
+    {
+      "question": "The auditory tube",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.949016809463501
+    },
+    {
+      "question": "Which of the following is the lymphoid organ that is a reservoir for red blood cells and filters organisms from the blood?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9493560791015625
+    },
+    {
+      "question": "Which of the following cavities are separated by the diaphragm?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.9496889114379883
+    },
+    {
+      "question": "The walls of bronchioles contain",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.9502170085906982
+    },
+    {
+      "question": "Which of the following organs removes bilirubin from the blood, manufactures plasma proteins, and is involved with the production of prothrombin and fibrinogen?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.9573628902435303
+    },
+    {
+      "question": "Which of the following conditions is characterized by incompetence of the esophageal sphincter?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.392037868499756
+    },
+    {
+      "question": "The muscles of the soft palate are innervated by branches of the",
+      "model_answer": "B.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.392745018005371
+    },
+    {
+      "question": "Which of the following is the large bone found superior to the patella and inferior to the ischium?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.393325090408325
+    },
+    {
+      "question": "A successful inferior alveolar nerve block will produce anaesthesia of the",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3936851024627686
+    },
+    {
+      "question": "The mucosa of the upper larynx is innervated by the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.3949379920959473
+    },
+    {
+      "question": "The bones of the viscerocranium develop initially by",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.409183979034424
+    },
+    {
+      "question": "The physician directs the medical assistant to complete a request form for an X-ray study of the fibula. The procedure will be performed on which of the following structures?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.40972900390625
+    },
+    {
+      "question": "Which cells in the blood do not have a nucleus?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.4102840423583984
+    },
+    {
+      "question": "The coronal suture joins the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.4104039669036865
+    },
+    {
+      "question": "If you run your finger down the anterior midline of a patient's extended neck from chin to sternal notch, you should be able to palpate, in order, the",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.410517930984497
+    },
+    {
+      "question": "Which of the following bony structures may be palpated in a live patient?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9854748249053955
+    },
+    {
+      "question": "Which of the following structures accompany the oesophagus through the diaphragm?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9861679077148438
+    },
+    {
+      "question": "Which sequence describes the systemic circulation?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.998304843902588
+    },
+    {
+      "question": "The anatomic location of the spinal canal is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9984500408172607
+    },
+    {
+      "question": "The parotid duct runs",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.998569965362549
+    },
+    {
+      "question": "If the foot is abducted, it is moved in which direction?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.998682975769043
+    },
+    {
+      "question": "The infraorbital nerve",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.9987969398498535
+    },
+    {
+      "question": "Which of the following best describes the process whereby the stomach muscles contract to propel food through the digestive tract?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.9989068508148193
+    },
+    {
+      "question": "Which of the following is the point at which an impulse is transmitted from one neuron to another neuron?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.99902081489563
+    },
+    {
+      "question": "Which of the following muscles initiates elevation of the mandible?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.999131917953491
+    },
+    {
+      "question": "Which of the following is an accessory organ of the gastrointestinal system that is responsible for secreting insulin?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.2940120697021484
+    },
+    {
+      "question": "A malignant tumour is damaging the patient's glossopharyngeal nerve. They will experience",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.2943949699401855
+    },
+    {
+      "question": "A possible effect of damage to the third cranial nerve by trauma to the orbit is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.2948660850524902
+    },
+    {
+      "question": "Blood flows from the right ventricle of the heart into which of the following structures?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.2960448265075684
+    },
+    {
+      "question": "A patient is stabbed in the neck. You suspect damage to the accessory nerve in the posterior triangle. You would test nerve function by asking the patient to",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.2976717948913574
+    },
+    {
+      "question": "Which of the following muscles are derived from the first brachial arch?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.298283815383911
+    },
+    {
+      "question": "Which of the following best describes the location where the carotid pulse can be found?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.2991011142730713
+    },
+    {
+      "question": "In the brain stem, pathways for:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.299489974975586
+    },
+    {
+      "question": "The respiratory tract is crossed by the isthmus of the thyroid gland at the level of the",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3010830879211426
+    },
+    {
+      "question": "You notice a lesion on the labial alveolar mucosa of the lower right lateral incisor tooth of one of your patients and decide to take a biopsy to send for oral pathology report Which nerve would require local anaesthesia in order to carry out a pain-free biopsy?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.3014168739318848
+    },
+    {
+      "question": "The major concentrations of proprioceptive receptors providing information about position of the TMJ are located in",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.793621063232422
+    },
+    {
+      "question": "Which of the following is a substance that aids the transmission of nerve impulses to the muscles?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.794301986694336
+    },
+    {
+      "question": "In the spinal cord, motor neuron cell bodies are located in",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.7948410511016846
+    },
+    {
+      "question": "When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.8052239418029785
+    },
+    {
+      "question": "Examination of a patient indicates that they have a medially directed strabismus (squint). This could be due to damage to the",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.806612968444824
+    },
+    {
+      "question": "A patient cuts a peripheral motor nerve in their wrist when they fall through a plate glass window. If the nerve does not regenerate, after about 6 months the muscles it normally innervates will show signs of which of the four options below?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.807178020477295
+    },
+    {
+      "question": "A patient suffers a CVA in the area of the left internal capsule conveying motor neurons to the right leg. The patient's leg will exhibit",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.807638168334961
+    },
+    {
+      "question": "The crown of a very carious tooth suddenly fractures while the patient is standing eating at a take-away food outlet and a fragment is inhaled. It is more likely to enter the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.8081469535827637
+    },
+    {
+      "question": "Calcium, potassium, and sodium are classified as which of the following?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.808289051055908
+    },
+    {
+      "question": "Noradrenaline is the neurotransmitter between which of the two structures below?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.808403968811035
+    },
+    {
+      "question": "Which of the following are mucus-producing glands located on each side of the vaginal opening?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.2456772327423096
+    },
+    {
+      "question": "When an emergency opening into the airway is required, the cricothyroid membrane should be pierced immediately",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.24580717086792
+    },
+    {
+      "question": "Cerebrospinal fluid circulates around the brain between the",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.245920181274414
+    },
+    {
+      "question": "Which of the following closes and seals off the lower airway during swallowing?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.246032238006592
+    },
+    {
+      "question": "Which orbital wall is most likely to collapse in a 'blow out' fracture?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.246140241622925
+    },
+    {
+      "question": "The walls of the maxillary sinus are sinus is related to",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2462480068206787
+    },
+    {
+      "question": "Which of one of the following statements about the postnatal growth of the maxilla is correct?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2463560104370117
+    },
+    {
+      "question": "The seventh cranial nerve supplies",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2464640140533447
+    },
+    {
+      "question": "Which of the following paranasal sinuses open into the middle meatus?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.246579170227051
+    },
+    {
+      "question": "Which of the following is a structural, fibrous protein found in the dermis?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.246687173843384
+    },
+    {
+      "question": "Palatine shelf elevation is due to the effect of",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.541491985321045
+    },
+    {
+      "question": "On which surfaces of the teeth is dental plaque most likely to accumulate in the mouth of a patient with poor oral hygiene?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.54187273979187
+    },
+    {
+      "question": "Laryngeal oedema is usually confined to the larynx above the vocal folds because",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.5424728393554688
+    },
+    {
+      "question": "The coronary arteries",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.549813985824585
+    },
+    {
+      "question": "Which muscle is the most active during a right lateral excursion of the mandible?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.551438808441162
+    },
+    {
+      "question": "The phrenic nerves innervate the",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.551644802093506
+    },
+    {
+      "question": "Parasympathetic preganglionic nerves leave the central nervous system with the",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.551827907562256
+    },
+    {
+      "question": "In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandibular teeth to be",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.5521347522735596
+    },
+    {
+      "question": "Macrostomia results from failure of fusion of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.5522539615631104
+    },
+    {
+      "question": "You suspect that your patient has an enlarged submandibular salivary gland. You expect the enlarged gland",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.552365779876709
+    },
+    {
+      "question": "Osteoclasts",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.2808618545532227
+    },
+    {
+      "question": "The lateral pterygoid muscle",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.2809948921203613
+    },
+    {
+      "question": "In the fetus, the ductus arteriosus passes blood from the",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.2811129093170166
+    },
+    {
+      "question": "Which of the following bones develop by endochondral ossification?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.281226873397827
+    },
+    {
+      "question": "The mucosa of the hard palate is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.281342029571533
+    },
+    {
+      "question": "The head of the sixth rib articulates with",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2814548015594482
+    },
+    {
+      "question": "Which of the following is located beneath the diaphragm in the left upper quadrant of the abdominal cavity?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.2815680503845215
+    },
+    {
+      "question": "Proprioceptive nerve endings in synovial joints are located in",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.281682014465332
+    },
+    {
+      "question": "The thoracic cage is a structural unit important for which of the following functions?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.281794786453247
+    },
+    {
+      "question": "A patient is admitted after a head injury and sinks rapidly into a coma. An MRI scan indicates an extradural haemorrhage because extravasated blood can be detected between the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2819080352783203
+    },
+    {
+      "question": "A successful infraorbital nerve block will produce anaesthesia of the",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2443251609802246
+    },
+    {
+      "question": "Which of the following foramina pierce the sphenoid bone?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.244691848754883
+    },
+    {
+      "question": "Which of the following is a disorder characterized by uncontrollable episodes of falling asleep during the day?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.24584698677063
+    },
+    {
+      "question": "Which of the following allows gas exchange in the lungs?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2462990283966064
+    },
+    {
+      "question": "A patient has a fracture in which the radius is bent but not displaced, and the skin is intact. This type of fracture is known as which of the following?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.246645927429199
+    },
+    {
+      "question": "Fertilization of an ovum by a spermatozoon occurs in which of the following structures?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.247117042541504
+    },
+    {
+      "question": "Ectoderm gives rise to",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.2587220668792725
+    },
+    {
+      "question": "In men, which of the following structures is located at the neck of the bladder and surrounds the urethra?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.2592508792877197
+    },
+    {
+      "question": "Which of the following options completes the following statement? \"The right atrioventricular valve…\"",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.259589195251465
+    },
+    {
+      "question": "Which one of the following brain areas is supplied by branches of the subclavian arteries?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.260155200958252
+    },
+    {
+      "question": "Which of the following structures is part of the small intestine?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8869099617004395
+    },
+    {
+      "question": "During an inferior alveolar nerve block the needle ideally passes",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8870460987091064
+    },
+    {
+      "question": "Patients with which of the following diseases are treated with injections of vitamin B-12?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.887242078781128
+    },
+    {
+      "question": "Which of the following bones has a process that joins with the zygomatic bone to form the zygomatic arch?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8873720169067383
+    },
+    {
+      "question": "Parasympathetic preganglionic axons leave the CNS with the",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.8874900341033936
+    },
+    {
+      "question": "A patient with damage to their cervical sympathetic chain will show the following signs and symptoms.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8877451419830322
+    },
+    {
+      "question": "Which of the following cranial nerves is related to the sense of smell?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8878660202026367
+    },
+    {
+      "question": "Where are the vital centres located in the brainstem?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8879811763763428
+    },
+    {
+      "question": "Saliva contains an enzyme that acts upon which of the following nutrients?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8882761001586914
+    },
+    {
+      "question": "During swallowing the",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.888396978378296
+    },
+    {
+      "question": "The dorsal roots of all spinal nerves contain",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 1.5807747840881348
+    },
+    {
+      "question": "Which of the following is the master gland of the endocrine system?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 1.5831170082092285
+    },
+    {
+      "question": "Loss of somatic sensation over the anterior two-thirds of the tongue indicates damage to the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 1.5835919380187988
+    },
+    {
+      "question": "In men, specimens for gonococcal cultures are most commonly obtained from which of the following structures?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 1.5839319229125977
+    },
+    {
+      "question": "Which of the following structures should be visible on a dental panoramic radiograph?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 1.5844638347625732
+    }
+  ]
+}
