@@ -1,0 +1,769 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct-q16_0",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-000404"
+  },
+  "subject": "jurisprudence",
+  "category": "humanities",
+  "correct_rate": 73.14814814814815,
+  "evaluation_results": [
+    {
+      "question": "Which statement best explains the purpose of Hart's distinction between 'being obliged' and 'having an obligation'?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6273281574249268
+    },
+    {
+      "question": "Maine's famous aphorism that 'the movement of progressive societies has hitherto been a movement from Status to Contract' is often misunderstood. In what way?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.627692222595215
+    },
+    {
+      "question": "Which of the following factors contributed significantly to the revival of natural law in the 20th century?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.6280572414398193
+    },
+    {
+      "question": "Which of the following criticisms of Llewellyn's distinction between the grand and formal styles of legal reasoning is the most compelling?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.6283912658691406
+    },
+    {
+      "question": "Which proposition below is the most consistent with what Rawls claims the POP would opt for in respect of 'social primary goods'?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.6287460327148438
+    },
+    {
+      "question": "The ________ School believes that promoting market efficiency should be the central goal of legal decision-making.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.629272222518921
+    },
+    {
+      "question": "Which statement below is the least likely to follow logically from Austin's argument that a sanction consists of the smallest chance of incurring the smallest evil?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6297683715820312
+    },
+    {
+      "question": "How does Weber solve the 'England problem'?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.630127191543579
+    },
+    {
+      "question": "Cicero's conception of natural law is 'based on the idea that 'true law is right reason in agreement with Nature.' Reason is a key element because:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.630526065826416
+    },
+    {
+      "question": "Catharine MacKinnon argues that since men dominate women, the question is ultimately one of power. Which proposition below is the most inconsistent with this argument?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.6456823348999023
+    },
+    {
+      "question": "Who was an exponent of “natural law with a variable content”?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.4219160079956055
+    },
+    {
+      "question": "The ________ School of jurisprudence asserts that the law is a means of achieving and advancing certain sociological goals.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.422827959060669
+    },
+    {
+      "question": "According to Malinowski, the Trobriand Islanders organized their society around what concept?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.4238009452819824
+    },
+    {
+      "question": "In Justice for Hedgehogs Dworkin endorses 'Hume's principle'. What does he understand by this idea?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.4241559505462646
+    },
+    {
+      "question": "Lyotard's dictum 'I define postmodern as incredulity toward meta-narratives' means:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.424562931060791
+    },
+    {
+      "question": "Habermas distinguishes between 'law as medium' and 'law as institution'. Which statement below most accurately describes this distinction?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.4355521202087402
+    },
+    {
+      "question": "To claim that one has a prima facie duty to obey the law is to assert that:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.435692071914673
+    },
+    {
+      "question": "Dworkin contends that to every legal question there is only one right answer. Which proposition below is most inconsistent with this claim?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.4358091354370117
+    },
+    {
+      "question": "Robert makes the following statement while negotiating the sale of his car, 'This is the sharpest car on the market.' His statement may support a claim for:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.4359209537506104
+    },
+    {
+      "question": "According to Austin the science of jurisprudence is concerned with",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.43603515625
+    },
+    {
+      "question": "Which of the following statements best captures the nature of Fuller's 'inner morality of law'?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.4828431606292725
+    },
+    {
+      "question": "Hart argues that secondary rules are 'power-conferring' but this seems unconvincing in the case of the rule of recognition because:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.48321795463562
+    },
+    {
+      "question": "Adherence to precedent is called the doctrine of ________.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.4835541248321533
+    },
+    {
+      "question": "Which proposition below may be characterized as the most powerful refutation by Hart of Lord Devlin's argument?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.484084129333496
+    },
+    {
+      "question": "What relationships to the type of law that exists in society does Durkheim identify between (1) mechanical and (2) organic solidarity?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.4845261573791504
+    },
+    {
+      "question": "Which of the following quotations best describes the central thesis of difference feminism?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.485556125640869
+    },
+    {
+      "question": "Which statement below is the least likely to follow logically from Dworkin's notion of law as integrity?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.4861881732940674
+    },
+    {
+      "question": "Which statement best describes one of Dworkin's central arguments in Justice for Hedgehogs?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.4870500564575195
+    },
+    {
+      "question": "Which statement best describes the nature and function of Kelsen's Grundnorm?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.4876561164855957
+    },
+    {
+      "question": "Critical Legal Studies (CLS) is often compared to (or with) American realism. Which of the following statements is inaccurate?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.4888529777526855
+    },
+    {
+      "question": "Which of the following best describes Dworkin's distinction between principles and policies?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.603557825088501
+    },
+    {
+      "question": "Statutes are often called ________ law.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.6037089824676514
+    },
+    {
+      "question": "Which is the least accurate description of legal positivism?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.603825807571411
+    },
+    {
+      "question": "Which proposition below is the most powerful refutation of Bentham's felicific calculus?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.6039419174194336
+    },
+    {
+      "question": "Donny threw a knife at Sally, intending to injure her severely. However, Donny missed Sally. Sally saw the knife just as it whizzed by her head, missing it by about one inch. As a result, Sally was very scared. Sally sued Donny for assault and battery. Which of the following is most correct?",
+      "model_answer": "C.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.6040561199188232
+    },
+    {
+      "question": "Why does a Marxist account of law reject individual rights?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.604167938232422
+    },
+    {
+      "question": "Kelsen’s theory of law is called pure theory because Kelsen :",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.604279041290283
+    },
+    {
+      "question": "Which of the following purposes does the 'internal point of view' play in Hart's concept of law?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.6043949127197266
+    },
+    {
+      "question": "The body of law which establishes rights between persons and provides for redress for violation of those rights is known as:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.604504108428955
+    },
+    {
+      "question": "Why does Parfit oppose equality?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.604612112045288
+    },
+    {
+      "question": "The most fundamental of positivism's key commitments,' writes Ken Himma, 'is the Social Fact Thesis.' What does it claim?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.232296943664551
+    },
+    {
+      "question": "How does Nozick answer the criticism of his historical entitlement theory that if the distribution of goods in society is unjust those at the bottom always lose?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.2327589988708496
+    },
+    {
+      "question": "The ________ School of jurisprudence maintains that the law is shaped by logic.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.2475478649139404
+    },
+    {
+      "question": "Dworkin argues that it is only a conception of equality of resources that can secure the ideal of equality of welfare. How does he suggest this aspect of equality to be measured?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.247968912124634
+    },
+    {
+      "question": "Which statement best describes the relationship between law and morality among non-positivist legal theorists?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.248486042022705
+    },
+    {
+      "question": "Why does communitarianism resemble Aristotle's philosophy more than Kant's?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.2495129108428955
+    },
+    {
+      "question": "Which proposition below is the most inconsistent with a consequentialist justification of punishment?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.2501327991485596
+    },
+    {
+      "question": "The philosophers of the ________ School of jurisprudence believe that the law is a set of rules developed, communicated, and enforced by the ruling party rather than a reflection of the society's morality, history, logic, or sociology.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.250464916229248
+    },
+    {
+      "question": "Which statement below best represents Durkheim's view of the function of punishment?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.251210927963257
+    },
+    {
+      "question": "What does Dworkin mean by the 'semantic sting'?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.251682996749878
+    },
+    {
+      "question": "The expression to signify any assumption which conceals of affects to conceal the fact that a rule of law has undergone alteration, its letter being unchanged, its operation being modified is :",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.706085205078125
+    },
+    {
+      "question": "Hume's attack on natural law is founded on his argument that:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.706508159637451
+    },
+    {
+      "question": "Why does Dworkin support liberal egalitarianism?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.706845283508301
+    },
+    {
+      "question": "Why do the Scandinavian realists reject a metaphysical approach to law?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.7071800231933594
+    },
+    {
+      "question": "Which statement below is the least consistent with the argument that judges in an unjust legal system ought to resign?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.707984209060669
+    },
+    {
+      "question": "Normative legal theory is most accurately summarized by which of the following statements?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.708515167236328
+    },
+    {
+      "question": "Hart writes: '[T]he certification of something as legally valid is not conclusive of the question of obedience ... however great the aura of majesty or authority which the official system may have, its demands must in the end be submitted to a moral scrutiny.' What does this say about the nature of legal positivism?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.7097012996673584
+    },
+    {
+      "question": "Which of the following propositions would be rejected by those who describe themselves as critical legal theorists?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.7110252380371094
+    },
+    {
+      "question": "Posner denies the autonomy of law on two grounds. Name one of them.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.711632251739502
+    },
+    {
+      "question": "Bill purchased a can of Sipep from the Ajax Minimart. After he finished drinking the Sipep, Bill noticed that the can contained dead insects stuck on the inside bottom of the can. In a strict product liability tort action against Ajax, Bill must prove, among other things, that:",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.7121782302856445
+    },
+    {
+      "question": "The ________ School of jurisprudence believes that the law is an aggregate of social traditions and customs that have developed over the centuries.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.5166573524475098
+    },
+    {
+      "question": "Point out the most accurate response : According to Austin, law has the following attributes :",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.517263174057007
+    },
+    {
+      "question": "Which one of the following schools supports the view that a custom becomes law when it receives the stamp of judicial recognition by courts",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.5176010131835938
+    },
+    {
+      "question": "The will theory of rights maintains that the enforcement of Y's duty requires the exercise of will by X. It assumes the correlativity of rights and duties. Which of the following succeeds in formulating the interest theory without this correlativity?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.517932176589966
+    },
+    {
+      "question": "Which statement is closest to characterizing the principal difference between the positions adopted by Hobbes and Locke?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.519073009490967
+    },
+    {
+      "question": "Which of the following statements best describes the postmodernist project?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.5194292068481445
+    },
+    {
+      "question": "Which of the following best describes Lon Fuller's objective in his hypothetical case of the Speluncean Explorers?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.5197582244873047
+    },
+    {
+      "question": "Which of the following arguments against the 'fair play' argument in support of a duty to obey the law is the most persuasive?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.520113229751587
+    },
+    {
+      "question": "What is the main reason why many Critical Race Theorists are hostile to concepts such as 'justice', 'neutrality', and 'truth'?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.5205771923065186
+    },
+    {
+      "question": "On what grounds does John Finnis reject Hume's conception of practical reason?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.5209152698516846
+    },
+    {
+      "question": "The distinction between general and particular jurisprudence was recognized by",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.25954008102417
+    },
+    {
+      "question": "Lex iniusta non est lex' has which of the following meanings?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.2628231048583984
+    },
+    {
+      "question": "In which of the following the idea of ‘natural law’ first appeared",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.263622999191284
+    },
+    {
+      "question": "Tom and Jerry entered into a contract whereby Tom agreed to sell Jerry $1,000 worth of heroin, an illegal substance. This is an example of a:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.2640299797058105
+    },
+    {
+      "question": "Which statement best describes Tom Regan's 'sentimental anthropomorphicism' in support of animals rights?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.264410972595215
+    },
+    {
+      "question": "Hart dismissed American realism as 'the claim that talk of rules is a myth, cloaking the truth that law consists simply of the decisions of courts and predictions of them.' What is the strongest reason for regarding this remark as unfair?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2648401260375977
+    },
+    {
+      "question": "The following person is the author of the book ‘The Concept of Law’ :",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2657392024993896
+    },
+    {
+      "question": "Which description below most accurately captures the distinction between Gemeinschaft and Gesellschaft?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.2795650959014893
+    },
+    {
+      "question": "The judicial branch of the United States government has the power to ________ the law.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.279758930206299
+    },
+    {
+      "question": "“Natural law is based on the nature of man and on his inward need of living in society.” Who said it?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.2798759937286377
+    },
+    {
+      "question": "‘Law consists of set of principles or body of rules recognized and applied by the State in the administration of justice’. The statement is made by :",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.99507999420166
+    },
+    {
+      "question": "Why does the 'capability' approach to justice reject Rawls' theory?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.995490074157715
+    },
+    {
+      "question": "Which of the following apparent correlatives contradicts Hohfeld's scheme of 'jural relations'?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.995858907699585
+    },
+    {
+      "question": "Why is it important to separate the concept of punishment from its justification?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.9962539672851562
+    },
+    {
+      "question": "According to Hobbes, peace is the first law of nature because of which of the following situations?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.996649980545044
+    },
+    {
+      "question": "The United States Supreme Court's decision in Roe v Wade is highly controversial because:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.997016191482544
+    },
+    {
+      "question": "The focus of liberal feminists on equality is denounced by radical feminists as mistaken because:",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.9975380897521973
+    },
+    {
+      "question": "Who said that “Jurisprudence is the eye of law”",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.9987740516662598
+    },
+    {
+      "question": "Who amongst the following said that jurisprudence is the philosophy of positive law",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.9991629123687744
+    },
+    {
+      "question": "Hart’s analysis of law distinguishes between",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.9995882511138916
+    },
+    {
+      "question": "Who defined jurisprudence as the knowledge of things divine and human, the science of right and wrong",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9815001487731934
+    },
+    {
+      "question": "Which of the factors below contributed significantly to the revival of natural law in the 20th century?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.9844980239868164
+    },
+    {
+      "question": "The U.S. Congress is empowered by the Commerce Clause and other provisions of the U.S. Constitution to enact ________ to regulate foreign and interstate commerce.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9851129055023193
+    },
+    {
+      "question": "Who amongst the following said that “right with me is a child of law…..a natural right is a son that never had a father\"",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9854819774627686
+    },
+    {
+      "question": "American realists argued that formalism devalued the authority of the judge to make law, because:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9859700202941895
+    },
+    {
+      "question": "Which of the following most accurately describes Hart's response to Fuller's argument concerning the invalidity of Nazi law?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.9863011837005615
+    },
+    {
+      "question": "Which of the following is the strongest argument against ethical relativism's hostility to human rights?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.986631155014038
+    },
+    {
+      "question": "Robert Nozick's proposes the formula r x H as a guide to determine the appropriate punishment. What does it mean?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9869589805603027
+    },
+    {
+      "question": "Who says that “Social Contract is not a historical fact but a hypothetical construction of reason”",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9881927967071533
+    },
+    {
+      "question": "The legislative branch of the United States government has the power to ________ the law.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9885590076446533
+    },
+    {
+      "question": "Leopold Pospisil identifies four elements manifested by law: authority, universality, 'obligatio' - and fourthly?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7986133098602295
+    },
+    {
+      "question": "What is Kant's 'categorical imperative?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.7990739345550537
+    },
+    {
+      "question": "Which of the following statements is correct concerning the \"reasonable person\" standard in tort law?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.803583860397339
+    },
+    {
+      "question": "What is the purpose of politics, according to Aristotle?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8039631843566895
+    },
+    {
+      "question": "Which of the following statements most accurately explains Ross' comparison of social life to the game of chess?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.8043429851531982
+    },
+    {
+      "question": "Which statement below is the least likely to follow logically from Savigny's notion of a Volksgeist?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8048171997070312
+    },
+    {
+      "question": "The ________ School proposes that legal rules are unnecessary and are used as an obstacle by the powerful to maintain the status quo.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8051629066467285
+    },
+    {
+      "question": "Austin has been described as a 'naive empiricist.' Why?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8073089122772217
+    }
+  ]
+}

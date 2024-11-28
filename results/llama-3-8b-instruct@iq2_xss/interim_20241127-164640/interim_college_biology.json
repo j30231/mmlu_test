@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq2_xss",
+    "ntrain": 0,
+    "ntest": 1,
+    "timestamp": "20241127-164651"
+  },
+  "subject": "college_biology",
+  "category": "STEM",
+  "correct_rate": 0.0,
+  "evaluation_results": [
+    {
+      "question": "Based on the characteristic population curves that result from plotting population growth of a species, the most effective means of controlling the mosquito population is to",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 0.488889217376709
+    }
+  ]
+}

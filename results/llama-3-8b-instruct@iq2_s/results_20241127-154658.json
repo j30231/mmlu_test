@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq2_s",
+    "ntrain": 5,
+    "ntest": -1,
+    "timestamp": "20241127-113538"
+  },
+  "categories": {
+    "STEM": {
+      "correct_rate": 34.18,
+      "subjects": [
+        {
+          "subject": "abstract_algebra",
+          "correct_rate": 31.0
+        },
+        {
+          "subject": "astronomy",
+          "correct_rate": 44.07894736842105
+        },
+        {
+          "subject": "college_biology",
+          "correct_rate": 50.69444444444444
+        },
+        {
+          "subject": "college_chemistry",
+          "correct_rate": 28.999999999999996
+        },
+        {
+          "subject": "college_computer_science",
+          "correct_rate": 33.0
+        },
+        {
+          "subject": "college_mathematics",
+          "correct_rate": 24.0
+        },
+        {
+          "subject": "college_physics",
+          "correct_rate": 26.47058823529412
+        },
+        {
+          "subject": "computer_security",
+          "correct_rate": 51.0
+        },
+        {
+          "subject": "conceptual_physics",
+          "correct_rate": 45.1063829787234
+        },
+        {
+          "subject": "electrical_engineering",
+          "correct_rate": 38.62068965517241
+        },
+        {
+          "subject": "elementary_mathematics",
+          "correct_rate": 30.952380952380953
+        },
+        {
+          "subject": "high_school_biology",
+          "correct_rate": 43.54838709677419
+        },
+        {
+          "subject": "high_school_chemistry",
+          "correct_rate": 30.541871921182267
+        },
+        {
+          "subject": "high_school_computer_science",
+          "correct_rate": 37.37373737373738
+        },
+        {
+          "subject": "high_school_mathematics",
+          "correct_rate": 23.333333333333332
+        },
+        {
+          "subject": "high_school_physics",
+          "correct_rate": 21.192052980132452
+        },
+        {
+          "subject": "high_school_statistics",
+          "correct_rate": 23.14814814814815
+        },
+        {
+          "subject": "machine_learning",
+          "correct_rate": 32.142857142857146
+        }
+      ]
+    },
+    "humanities": {
+      "correct_rate": 44.93,
+      "subjects": [
+        {
+          "subject": "formal_logic",
+          "correct_rate": 30.158730158730158
+        },
+        {
+          "subject": "high_school_european_history",
+          "correct_rate": 53.333333333333336
+        },
+        {
+          "subject": "high_school_us_history",
+          "correct_rate": 45.588235294117645
+        },
+        {
+          "subject": "high_school_world_history",
+          "correct_rate": 53.58649789029536
+        },
+        {
+          "subject": "international_law",
+          "correct_rate": 50.413223140495866
+        },
+        {
+          "subject": "jurisprudence",
+          "correct_rate": 43.51851851851852
+        },
+        {
+          "subject": "logical_fallacies",
+          "correct_rate": 47.85276073619632
+        },
+        {
+          "subject": "moral_disputes",
+          "correct_rate": 43.641618497109825
+        },
+        {
+          "subject": "moral_scenarios",
+          "correct_rate": 26.145251396648046
+        },
+        {
+          "subject": "philosophy",
+          "correct_rate": 49.839228295819936
+        },
+        {
+          "subject": "prehistory",
+          "correct_rate": 48.148148148148145
+        },
+        {
+          "subject": "professional_law",
+          "correct_rate": 29.335071707953063
+        },
+        {
+          "subject": "world_religions",
+          "correct_rate": 62.57309941520468
+        }
+      ]
+    },
+    "social sciences": {
+      "correct_rate": 45.47,
+      "subjects": [
+        {
+          "subject": "econometrics",
+          "correct_rate": 24.561403508771928
+        },
+        {
+          "subject": "high_school_geography",
+          "correct_rate": 49.494949494949495
+        },
+        {
+          "subject": "high_school_government_and_politics",
+          "correct_rate": 49.22279792746114
+        },
+        {
+          "subject": "high_school_macroeconomics",
+          "correct_rate": 35.128205128205124
+        },
+        {
+          "subject": "high_school_microeconomics",
+          "correct_rate": 40.7563025210084
+        },
+        {
+          "subject": "high_school_psychology",
+          "correct_rate": 57.798165137614674
+        },
+        {
+          "subject": "human_sexuality",
+          "correct_rate": 50.38167938931297
+        },
+        {
+          "subject": "professional_psychology",
+          "correct_rate": 43.95424836601307
+        },
+        {
+          "subject": "public_relations",
+          "correct_rate": 47.27272727272727
+        },
+        {
+          "subject": "security_studies",
+          "correct_rate": 34.285714285714285
+        },
+        {
+          "subject": "sociology",
+          "correct_rate": 54.72636815920397
+        },
+        {
+          "subject": "us_foreign_policy",
+          "correct_rate": 57.99999999999999
+        }
+      ]
+    },
+    "other (business, health, misc.)": {
+      "correct_rate": 46.53,
+      "subjects": [
+        {
+          "subject": "anatomy",
+          "correct_rate": 46.666666666666664
+        },
+        {
+          "subject": "business_ethics",
+          "correct_rate": 56.99999999999999
+        },
+        {
+          "subject": "clinical_knowledge",
+          "correct_rate": 45.660377358490564
+        },
+        {
+          "subject": "college_medicine",
+          "correct_rate": 43.35260115606936
+        },
+        {
+          "subject": "global_facts",
+          "correct_rate": 28.999999999999996
+        },
+        {
+          "subject": "human_aging",
+          "correct_rate": 46.18834080717489
+        },
+        {
+          "subject": "management",
+          "correct_rate": 54.36893203883495
+        },
+        {
+          "subject": "marketing",
+          "correct_rate": 71.7948717948718
+        },
+        {
+          "subject": "medical_genetics",
+          "correct_rate": 45.0
+        },
+        {
+          "subject": "miscellaneous",
+          "correct_rate": 62.57982120051086
+        },
+        {
+          "subject": "nutrition",
+          "correct_rate": 40.52287581699346
+        },
+        {
+          "subject": "professional_accounting",
+          "correct_rate": 36.52482269503546
+        },
+        {
+          "subject": "professional_medicine",
+          "correct_rate": 38.970588235294116
+        },
+        {
+          "subject": "virology",
+          "correct_rate": 33.734939759036145
+        }
+      ]
+    }
+  },
+  "subjects": {
+    "abstract_algebra": {
+      "correct_rate": 31.0,
+      "category": "STEM",
+      "details": [
+        {
+          "subject": "abstract_algebra",
+          "question": "Find the degree for the given field extension Q(sqrt(2), sqrt(3), sqrt(18)) over Q.",
+          "choices": [
+            "0",
+            "4",
+            "2",
+            "6"
+          ],
+          "model_answer": "B",
+          "correct_answer": 

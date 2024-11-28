@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq2_xss",
+    "ntrain": 0,
+    "ntest": 1,
+    "timestamp": "20241127-164733"
+  },
+  "subject": "professional_psychology",
+  "category": "social sciences",
+  "correct_rate": 0.0,
+  "evaluation_results": [
+    {
+      "question": "Which of the following statements expresses a relationship between aging and sexual functioning",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 0.534372091293335
+    }
+  ]
+}

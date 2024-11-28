@@ -1,0 +1,713 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@q2_k",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241127-201818"
+  },
+  "subject": "business_ethics",
+  "category": "other (business, health, misc.)",
+  "correct_rate": 49.0,
+  "evaluation_results": [
+    {
+      "question": "_______ such as bitcoin are becoming increasingly mainstream and have a whole host of associated ethical implications, for example, they are______ and more ______. However, they have also been used to engage in _______.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 5.336773872375488
+    },
+    {
+      "question": "Typical advertising regulatory bodies suggest, for example that adverts must not: encourage _________, cause unnecessary ________ or _____, and must not cause _______ offence.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.3374457359313965
+    },
+    {
+      "question": "______ are the obligations of workers towards their employer, based on individual contracts and wider employment laws.",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.337991952896118
+    },
+    {
+      "question": " ______ is an employee's preferred ratio between work-related and non-work-related activities which, due to intensification of work and technological shifts, has become a hotly contested issue in recent years.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.338564157485962
+    },
+    {
+      "question": " _______ can be a likened to their natural counterparts, comprising of a balanced network of interdependent organisms and their environments thus adding value to sustainability thinking due to the consideration of companies and industries as being bound together, and interdependent due to all kinds of resources and wastes.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.339085102081299
+    },
+    {
+      "question": "________, where for example one party possess more resources, unfair distribution of ________, where one party gains more from the relationship, and CSOs being ________, are all limitations and risks of business-CSO collaborations.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.339515924453735
+    },
+    {
+      "question": "Although corporate profit maximization is not directly prescribed by major normative theories to which normative theory is it most similar?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.3398520946502686
+    },
+    {
+      "question": "What does Milton Friedman believe to be the sole responsibility of business?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.340188980102539
+    },
+    {
+      "question": "______ regulation goes further than the ______ that CSOs have with businesses, as it also concerns _______of such processes.",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.340548992156982
+    },
+    {
+      "question": "_______ working practices refer to working patterns which involve temporal, spatial and task related fluidity.",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 5.3408849239349365
+    },
+    {
+      "question": " What, according to Schnackenberg and Tomlinson (2014), are the three criteria which can be used to assess the quality of corporate transparency?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.633697032928467
+    },
+    {
+      "question": "A corporation is ________ from its managers, employees, investors and customers. It therefore has _______ succession and also ________.",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.634212017059326
+    },
+    {
+      "question": "The UK Public Services (Social Value) Act 2013 requires those procuring ______ to consider how they can secure wider _____, _____and _____ benefits.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.63440203666687
+    },
+    {
+      "question": "When the true cost an item is deliberately obscured by a company this is known as?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.6345531940460205
+    },
+    {
+      "question": "What are the three differing types of stakeholder theory according to Donaldson and Preston (1995)?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.6347010135650635
+    },
+    {
+      "question": "The Right to _______ has been a long-standing ethical concern for employees which today are addressed in most developed countries through a dense network of occupational health, safety and environmental regulations companies must abide by.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.634846210479736
+    },
+    {
+      "question": "Which of the following would most effectively act as the primary objective of a business organisation?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.634993076324463
+    },
+    {
+      "question": "What is the enlightened self-interest model of CSR?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.635135889053345
+    },
+    {
+      "question": "________ is the right of a consumer to control what information companies can collect about them and how it is stored, used and shared.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.635277986526489
+    },
+    {
+      "question": "The Anglo-American model being considered the best model in light of the recession in the late 2000s.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.635419130325317
+    },
+    {
+      "question": "_______ economy is the term used to describe individuals being hired for a specific task rather than on a long-term basis. While this results in _________ which is beneficial for businesses, issues for those employed in such a manner relate to increased ________, uncertainty and a lack of _______.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.537009239196777
+    },
+    {
+      "question": "The Theory of _________ posits that 3 three levels of moral reasoning exist which an individual can engage in to assess ethical issues, dependant on their cognitive capacity.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.537208080291748
+    },
+    {
+      "question": "_______ theory can be described as a code of conduct to which all rational beings should adhere. This contrasts with ________ morality which is the code of conduct adopted by a particular group or society.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.537364959716797
+    },
+    {
+      "question": "___________, ___________ and __________ are all factors which can impact the moral intensity",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.537545919418335
+    },
+    {
+      "question": "Better access to certain markets, differentiation of products, and the sale of pollution-control technology are ways in which better environmental performance can:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.537708044052124
+    },
+    {
+      "question": "_______ is the term used to describe the ongoing approval and acceptance of a company's activities by society, especially among local communities and civil societies.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.537865877151489
+    },
+    {
+      "question": "The degree to which corporate decisions, policies, activities and impacts are acknowledged and made visible to relevant stakeholders is known as ________",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.538027048110962
+    },
+    {
+      "question": " _________, such as _______ and _______ are processes by which organisations implement environmental goals, policies and responsibilities and ensure regular auditing and reporting, which go beyond legal compliance.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.538177013397217
+    },
+    {
+      "question": "The so-called BRIC countries (Brazil, Russia, India and _______) tend to follow a __________ approach to corporate governance. However, recently this has tended to move towards more _______-based mechanisms.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.53848123550415
+    },
+    {
+      "question": "A stakeholder orientation includes all of the following activities except:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.538754940032959
+    },
+    {
+      "question": "Ethical issues related to marketing communications include the fact that they are _________ and unavoidable, they create ________ needs, reinforce _________ and perpetuate _________ and ______.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 5.394597291946411
+    },
+    {
+      "question": "In order to try and align the interest of shareholders and senior management of a company, _________ are often made available to _______ of a company, to ensure that it is in their interests to increase _______ and dividend performance.",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 5.395050048828125
+    },
+    {
+      "question": "Predatory pricing.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.395406246185303
+    },
+    {
+      "question": "There are a number of means by which can influence _______. These include _________to decision maker, varying from very direct modes to indirect modes, _________, being either public or private and ________ of communication.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 5.395755052566528
+    },
+    {
+      "question": "Pick the correct description of the following term: Utilitarianism is…",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.396106958389282
+    },
+    {
+      "question": "Cognitive ______ models such as the Theory of _________ serve to try and explain consumer behaviour, but arguably somewhat oversimplify and overestimate individual ________.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.396500110626221
+    },
+    {
+      "question": "____________ refers to a strategic process involving stakeholder assessment to create long-term relationships with customers, while maintaining, supporting, and enhancing the natural environment.",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.397217035293579
+    },
+    {
+      "question": "Sustainability can broadly be defined as",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.397616147994995
+    },
+    {
+      "question": "Which of the three following organisational characteristics of small businesses tend to characterise their engagement with business related issues?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 5.397953987121582
+    },
+    {
+      "question": "A(n) __________ is a ________, __________ framework which goes beyond linear functions, operations and transactions to produce a certain commodity or product",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 5.398362874984741
+    },
+    {
+      "question": "Demand reduction.",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.575746059417725
+    },
+    {
+      "question": " Although the benefit and contribution of civil society in encouraging sustainability, lobbying on important issues and helping the needy are taken for granted in many places, in many other countries, such as _____ and ______ civil society is far less developed than in, for instance, _______.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.5763959884643555
+    },
+    {
+      "question": "The extent to which an individual is able to creatively consider the consequences of, resolutions to, and issues associated with moral decision making is known as _________.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.576759099960327
+    },
+    {
+      "question": "When negotiating using unethical practices, businesses can risk _______, if the negotiations are part of a longer-term business association, as well as a ___________ and __________, as negotiations can impact company image and stymy progress.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.57785701751709
+    },
+    {
+      "question": "________ is the use of language of to mask or expose the ethical nature of decisions, actions and behaviours.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.57845401763916
+    },
+    {
+      "question": "The extent to which an individual believes they can control their life is determined by their __________.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.578634977340698
+    },
+    {
+      "question": "The enforcement of company privacy is complex as corporations are somewhat __________, as there are few clear barriers to define their limits, it is difficult to _________ due to the number of individuals involved and much corporate activity takes place in ________.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.578783273696899
+    },
+    {
+      "question": "What term can be used to describe 'the hypothetical agreement between member of society and those who govern it which establishes the inter-relationships, rights and responsibilities on a fair basis'?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.578933000564575
+    },
+    {
+      "question": "Businesses have _____ within society and have the potential to provide a ____ to society while ____ has the potential to inflict enormous harm on individuals, communities and the environment.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.5790791511535645
+    },
+    {
+      "question": "According Carroll what four categories or aspects can corporate social responsibility be broken down into?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.579220294952393
+    },
+    {
+      "question": "Affirmative action involves ________ attempts to target ______ who are _________ within an organisation's workforce, for instance by trying to ______ the proportion of women, disabled or racial minorities in senior management positions.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 5.278943061828613
+    },
+    {
+      "question": "Traditionally consumer rights were based on the notion of _______ or _______ where the responsibility lay with consumer to avoid subpar products. However, this has gradually eroded due to increased ________ at a ________, EU and UN level.",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.279428958892822
+    },
+    {
+      "question": "The state of being unable to make an informed, reasoned decision about a product purchase is known as?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.280130863189697
+    },
+    {
+      "question": "According to Mitchell et al (1997) ______, the perceived ability of a stakeholder to influence organisational action, ________ whether the organisation perceives the stakeholder's actions as desirable, proper and appropriate and ________, the immediacy of attention the stakeholder claims require, determine stakeholder ________.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 5.280516862869263
+    },
+    {
+      "question": "_______ and _______ are both examples of _______ -based theories which are based on basic universal principles of right and wrong.",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 5.281436920166016
+    },
+    {
+      "question": "The complexity of the theory.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.281606912612915
+    },
+    {
+      "question": "________ is any business effort to influence government or public policy. It includes activities such as __________, political advertising, financial contributions, ________ action and political ________.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 5.28175687789917
+    },
+    {
+      "question": "_________ such as the ________ in the United States is a key factor in driving ethical business practices.",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 5.281904935836792
+    },
+    {
+      "question": " _______, where actors are convinced that their actions harms nobody, _______ where actors argue that their norm violation is an attempt to realize higher-order values and ________ , where actors argue they are owed something, are all strategies for justifying or denying unethical behaviour.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.282048940658569
+    },
+    {
+      "question": "Which of the following is not one the underlying principles of the corporate governance Combined Code of Practice?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.282193899154663
+    },
+    {
+      "question": "Factors that impact ethical decision making can be broadly broken down into ________ factors, related to the unique characteristics of a person, and _________ factors, which are features of the person's environment or the particular issue.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.976886749267578
+    },
+    {
+      "question": "_____ is a key driving force shaping the current and future state of business ethics, in particular regarding _____, ______ and _____ related issues.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.977263927459717
+    },
+    {
+      "question": "CSO's frequently spend too much time communicating their performance measures and too much time devising them with input from beneficiaries.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.978631973266602
+    },
+    {
+      "question": "The race to the ______ is when, due to increased ________, countries compete for foreign investment through companies' relocation decisions by weakening their ______ and _____ standards.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.979068994522095
+    },
+    {
+      "question": "Managers are entrusted to run the company in the best interest of ________. Specifically, they have a duty to act for the benefit of the company, as well as a duty of ________ and of _______.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.979826927185059
+    },
+    {
+      "question": "Replacing supply chains with _______ enhances the importance of product _______as well as a fundamental redesign of every activity a firm engages in that produces _______.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.9805238246917725
+    },
+    {
+      "question": "A company may become insolvent if it",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.9806969165802
+    },
+    {
+      "question": "The ISO 26000 standard on ________ is emblematic of a number of trends emerging within the shared global governance space. Specifically, these trends concern, more deliberation and ________, greater focus on the _______ rather than outcomes and more _______ rather than specific norms.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.9808430671691895
+    },
+    {
+      "question": "The ___________, otherwise known as _________ was launched in 1997 and is a global workplace standard that covers key labour rights such as working hours, forced labour and discrimination, with compliance being certified by independent auditors.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.980985879898071
+    },
+    {
+      "question": "Managers and directors have a fiduciary responsibility to protect the investment of shareholders.",
+      "model_answer": "C.",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.981129884719849
+    },
+    {
+      "question": "Cultural homogenization.",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.806804895401001
+    },
+    {
+      "question": "Insider trading undermines the fiduciary relationship.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.807196855545044
+    },
+    {
+      "question": "There are two main issues associated with _____ sizing. _______ is a key issue as due to the information policy of the corporation it can be argued that employees have a right to know if they are being made redundant. _______ is a second issue, particularly the ________ package that employees receive when laid off.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.808452129364014
+    },
+    {
+      "question": "_______ locate morality beyond the sphere of rationality in an emotional 'moral impulse' towards others.",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.808639049530029
+    },
+    {
+      "question": "Under ethical ________ objective moral principles can be rationally determined, while ethical under ________ morality is both context dependant and subjective.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.808793067932129
+    },
+    {
+      "question": " Some of key differences between Islamic finance and conventional finance include - prohibition of charging and paying _______, prohibition on ______ and ______ transactions, prohibition of sinful investment and requirement for all financial products to be backed by __________.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.808943748474121
+    },
+    {
+      "question": "________ reasoning is considered by many to be prevalent within society and particularly within businesses, where it is often referred to in the form of a ___________.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.809091091156006
+    },
+    {
+      "question": "Which of the following areas is not covered by the principles enshrined in the UN Global Compact?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.8092360496521
+    },
+    {
+      "question": "What are, according to Wood (1991), the three outcomes of CSR?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.809376955032349
+    },
+    {
+      "question": "Businesses engage in social accounting due to demands from _________, in order to identify ________, to improve ___________ and to encourage _________ and ___________",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.80951714515686
+    },
+    {
+      "question": "Post-modern ethics assert that ethics are context and individual specific and as such have an internal guide to ethics.",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.318158149719238
+    },
+    {
+      "question": "The focus on issues, the intended audience extending beyond shareholders and the voluntary nature of ___________ distinguish it from _________.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.318624019622803
+    },
+    {
+      "question": "Negative advertising, stealing or poaching customers and predatory pricing are all strategies employed by businesses described using the umbrella term ________.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.319142818450928
+    },
+    {
+      "question": "______ the workplace involves empowering employees through, for example, 'job enrichment' where employees are given a larger scope for deciding how to organize their work or 'job enlargement' where employees are given a wider range of tasks to do.",
+      "model_answer": "D.",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.319546937942505
+    },
+    {
+      "question": "The need to head off negative publicity.",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.319936037063599
+    },
+    {
+      "question": "The rise in business led, private regulation can be attributed to: encouragement of a _______ approach from industry, _________ and _______ achievement of objectives.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.320453882217407
+    },
+    {
+      "question": " The ________ perspective on sustainability resulted from growth models that analysed the carrying capacity of the planet, overall concluding that the finite capacity of the earth and_______, ________ and _______ by current and past generations could reduce quality of life for future generations. This contrasts with the environmental perspective with focuses on the need to maintain and preserve the natural environment.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.3208088874816895
+    },
+    {
+      "question": "Healthy eating, particularly relating to sugar and salt consumption, food and packaging waste and supply chain CO2 emissions are all business ethics issues facing the ________.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.32119607925415
+    },
+    {
+      "question": "_______ is a system of exchange based on guaranteeing producers in developing countries a living wage, decent working conditions and opportunities for community development.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.321349859237671
+    },
+    {
+      "question": "_________ are individual beliefs about desirable behaviours and goals that are stable over time and which influence decision making.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.321494102478027
+    },
+    {
+      "question": "They are too irrational and uncodified.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.803286790847778
+    },
+    {
+      "question": "The purposes for which the information is used is in the public's interest.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.803692102432251
+    },
+    {
+      "question": "The Private Sector Social Enterprise Model.",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.804059982299805
+    },
+    {
+      "question": "______ is the corporate role in governing citizenship rights for the individual",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.8045079708099365
+    },
+    {
+      "question": "How the code is enforced.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.8049280643463135
+    },
+    {
+      "question": "According to Evan and Freeman (1993), the Principle of ________ and the Principle of _______ can be used in a specific situation to determine who constitutes a _______.",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.8051159381866455
+    },
+    {
+      "question": "The relationship between ethics and the law can be described as…",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.805270671844482
+    },
+    {
+      "question": "In a business to business context, conflicts of interest can arise in two main ways: conflict of _______ and _______ interests, which might arise, for example, when a firm is hired as a supplier of professional services by another firm or conflict of _________ and ________ interests, such as where an individual's interests may conflict with that of their employer.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.805424928665161
+    },
+    {
+      "question": "________ are a business ethics management tool that have grown over the last few decades. Areas which these typically cover are compliance, corruption and environmental issues. However, they are constantly evolving, with for example, the onus on __________ having grown in recent years.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.805569887161255
+    },
+    {
+      "question": "Which of the following statements is correct?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.805716037750244
+    }
+  ]
+}

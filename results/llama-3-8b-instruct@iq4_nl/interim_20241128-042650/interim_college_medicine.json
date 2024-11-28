@@ -1,0 +1,1224 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq4_nl",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-043351"
+  },
+  "subject": "college_medicine",
+  "category": "other (business, health, misc.)",
+  "correct_rate": 60.115606936416185,
+  "evaluation_results": [
+    {
+      "question": "A police officer carries out hundreds of traffic stops every year. When his supervisor is reviewing the officer’s records for the past year, he notices that the officer is equally likely to stop people of various genders, ages, and races. However, he is significantly more likely to write tickets for middle-aged white males with dark hair and eyes. When confronted with this fact, the officer truthfully states that he has no idea why that is, and that it must simply be a coincidence. Unbeknownst to the officer, this behavior is tied to the fact that these men look like his father, with whom he had an abusive relationship as a child. What psychological framework would directly address the unconscious bias in his behavior? ",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 5.886388063430786
+    },
+    {
+      "question": "Who set the world record for the mile race in 1886?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.88679313659668
+    },
+    {
+      "question": "Which of the following statements identifies a chemically based sensory system?\nI. Gustatory system\nII. Auditory system\nIII. Olfactory system",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.887126207351685
+    },
+    {
+      "question": "The complete resynthesis of phosphocreatine after very high intensity exercise normally takes:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.887606143951416
+    },
+    {
+      "question": "A race car attempting to jump a series of 8 buses is set up on a flat track with a ramp at the end. Engineers assigned to the project have determined that, in order to jump the buses, the car must reach a velocity of 130 km/h. If the distance of the track is 50m, at what rate must the car accelerate to reach this velocity?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 5.888008117675781
+    },
+    {
+      "question": "Fatty acids are transported into the mitochondria bound to:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.888129234313965
+    },
+    {
+      "question": "Sauna use, sometimes referred to as \"sauna bathing,\" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia – an increase in the body's core temperature – that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors… In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease… The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits – and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week… The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)…Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40°C (104°F), and then changes in core body temperature occur, rising slowly from 37°C (98.6°F, or normal) to 38°C (100.4°F) and then rapidly increasing to 39°C (102.2°F)…  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance… Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors… The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]\n\nBased on the article, which of the following statements is the author likely to agree with?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.888223171234131
+    },
+    {
+      "question": "Diisopropylfluorophosphate (DFP) binds to the active site of acetylcholinesterase (ACE) in the synapses of neurons. When DFP binds to ACE, the ACE enzyme is rendered permanently inactive. This makes DFP a potent toxin, with lethal amounts at less than 100 mg. The interaction between DFP and ACE can best be characterized as:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 5.888321161270142
+    },
+    {
+      "question": "The process of translation requires the presence of:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.888410329818726
+    },
+    {
+      "question": "Performance enhancing synthetic steroids are based on the structure of the hormone:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.888498067855835
+    },
+    {
+      "question": "Perchloric acid (HClO4) is considered one of the stronger acids in existence. Which of the following statements corresponds most accurately with strong acids?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2744431495666504
+    },
+    {
+      "question": "A descript amount of 2-bromobutane is placed into a strong solution of ethanol and allowed to complete a reaction. The result of this reaction produces a major product of 2-butene and a minor product of 1-butene. Which of the following descriptions of the starting compound explains why 2-butene is the major product?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.274895191192627
+    },
+    {
+      "question": "A hedonic teenager of wayward morals, in one night, sequentially i) has consensual sexual intercourse with his sister, ii) leaves no tip at the bar, iii) has non-censual sexual relations with an unknown woman, and iv) vomits on the steps to the door of a local church. The teenager has violated society’s norms sequentially (to the greatest degree) on the order of:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.275519371032715
+    },
+    {
+      "question": "The maximum sustainable power:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.2758913040161133
+    },
+    {
+      "question": "A patient comes into the ER looking extremely agitated. They are acting aggressive, and claiming they need medication or “bad things will happen”. What is the likely state of this patient’s dopamine system?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.2762343883514404
+    },
+    {
+      "question": "A scientist carrying out experiments on hearing aids fits 30 mice that were genetically modified to lose their hearing with the latest technology and were tested to press a lever when they heard a bell. This was set to varying levels of power. At 80% power, 20 mice pressed the lever. At 70% power, 15 mice pressed the lever. At 60% power, 10 mice pressed the lever. Which of the following power levels corresponds to the absolute threshold for hearing the decibels produced by the bell?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.276578187942505
+    },
+    {
+      "question": "The transcription of DNA to a molecule of messenger RNA occurs:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.2769222259521484
+    },
+    {
+      "question": "A new enzyme is found in a transgenic mice that participates in synthesis of an unknown product using two reactants. When using radiolabeled compounds to study the enzyme, it is found that the enzyme catalyzes a process that switches a nitrogen group on one reactant to the other reactant. Which of the following categories would this new enzyme fall under?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.277310371398926
+    },
+    {
+      "question": "For a very weak base, the pKb of a solution would likely be:",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.2777302265167236
+    },
+    {
+      "question": "The genome is:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.2778592109680176
+    },
+    {
+      "question": "Which of the following are steroid-based molecules?\nI. Testosterone\nII. Triglycerides\nIII. Progesterone\nIV. DNA",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.47917103767395
+    },
+    {
+      "question": "Most of the free fatty acids are transported in the blood:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.4798271656036377
+    },
+    {
+      "question": "Which of the following factors can affect enzyme activity?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.4805171489715576
+    },
+    {
+      "question": "Living cells require constant interaction with the outside environment in order to attain the materials they need for survival, as well as to rid themselves of waste. Of the following processes, which uses only the gradient of material to control the direction in which the material moves across the cell membrane?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.480628252029419
+    },
+    {
+      "question": "Embedded in the inner membrane of the mitochondrion are:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.4807233810424805
+    },
+    {
+      "question": "A segment of DNA from a lab mouse is determined to be 5’ – GGATCCTCATG – 3’. Which of the following DNA segments would be the result of this original DNA sequence experiencing both a point mutation and a deletion?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.480814218521118
+    },
+    {
+      "question": "While working on a scene for an action movie, a sound technician is given the task of changing the frequency of a gunshot to more accurately reflect the normal speed of sound. The gunshot came from an actor inside a car traveling 108 km/h, and it was recorded by a camera on a platform 200 meters away traveling at 72 km/h in the same direction. If the frequency of the gunshot is normally 800Hz, what is the perceived frequency which the camera picks up the gunshot at?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.480908155441284
+    },
+    {
+      "question": "An object rests on a plane, with an angle of incline, ?, an acceleration due to gravity, g, and a coefficient of friction µ between the object and the plane. Which of the following gives the acceleration of the object?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.481001377105713
+    },
+    {
+      "question": "David is a nationally ranked cellist who recently accepted a scholarship to a major college to perform in the orchestra. Over the summer, he has been given a packet of sheet music to be proficient in by fall semester. David is a perfectionist when it comes to his craft. He always compares himself to better players, and is very hard on himself when he cannot master a section of one of his pieces. Which of the following answers best describes David?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.481091022491455
+    },
+    {
+      "question": "A common heart defect in humans is a ventricular septal defect, in which there is a hole in the septum between the right and left ventricles. If a patient were to have this defect, which of the following statements is correct?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.4811811447143555
+    },
+    {
+      "question": "When preparing for the MCAT exam, a student begins studying electrochemical cells. He learns the basic information needed by actively relating it to previous information he has learned about redox reactions. He then builds from that knowledge to learn the advanced concepts needed. The student’s process is best characterized as:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9206960201263428
+    },
+    {
+      "question": "Two scientists at a conference on evolution take to the stage on day 3 to argue their theories against one other. Each is a devout student of their own philosophy. The first scientist contends that organisms evolved via the increase of organs that were used the most during their time. They would then pass these on to subsequent generations. The second scientist, however, believed that advantages each organism possessed were absent for a long time, randomly occurred, and when they were beneficial, that organism would rapidly populate the population over a short period of time, evolutionarily speaking. Which of the following statements would strengthen the second scientist’s argument?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9211459159851074
+    },
+    {
+      "question": "A source emits a sound from one medium with a certain velocity, intensity, frequency and wavelength. When the sound exits the first medium and enters a denser medium, all of the following changes EXCEPT:",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.921710968017578
+    },
+    {
+      "question": "The energy charge of the cell is:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.922590970993042
+    },
+    {
+      "question": "The body compensates for increased environmental temperature by:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.9227511882781982
+    },
+    {
+      "question": "Which of the following releases most energy when completely oxidised in the body?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.9228460788726807
+    },
+    {
+      "question": "An individual is born with a mutation causing her to partially retain a form of fetal hemoglobin into adulthood. Compared to a normal individual, this person would exhibit:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9229369163513184
+    },
+    {
+      "question": "Women's world record performances have improved rapidly in recent years mainly because:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.923029899597168
+    },
+    {
+      "question": "During muscular contraction, interactions between myosin and actin allow for shortening of each sarcomere. In addition to the power stroke, what other process of muscle contraction requires ATP?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9231209754943848
+    },
+    {
+      "question": "The activity of creatine kinase is:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.9232099056243896
+    },
+    {
+      "question": "A teacher sets up a reward system for her elementary school students. At the end of each day, she gives a sticker to each student who showed up on time that morning. At the end of each week, she gives a sticker to any student who got above a 90% on three quizzes in a row. After months of this regimen, she finds that performance on the quizzes has increased significantly but that tardiness has only decreased slightly. Which of the following best explains the teacher’s observation?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.688857078552246
+    },
+    {
+      "question": "The net production of ATP via substrate-level phosphorylation in glycolysis is:",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.6893200874328613
+    },
+    {
+      "question": "Pregnancy tests are extremely sensitive and function by detecting levels of B-hCG, or human chorionic gonadotropin, in urine. This hormone is secreted by what tissue, and what is its function?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.6900458335876465
+    },
+    {
+      "question": "The son of a bricklayer goes to college and i) becomes a teacher at a medical school, ii) gets promoted to tenured professor, and iii) moves across the country for a new tenured professor position at a different school. Sequentially, this man has experienced:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.691148042678833
+    },
+    {
+      "question": "DNA polymerase creates new DNA by adding complimentary nucleotides to a template strand from the original double-stranded DNA. If a section of the template strand had a ration of 3:2 of A:T bases, what is the ration of A:T in the newly synthesized complimentary strand of DNA?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.6912710666656494
+    },
+    {
+      "question": "How many CO2 and ATP molecules are formed during one complete turn of the tricarboxylic acid cycle (Krebs' cycle)?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6913671493530273
+    },
+    {
+      "question": "A young child is brought to a psychologist for evaluation of their home situation. The child is placed in the middle of the floor, with the mother on one side and the psychologist on the other. The mother then leaves for a short while, and then returns. Which of the following would be a concerning sign during this evaluation?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.6914589405059814
+    },
+    {
+      "question": "In a fit of passion, the spectator of a political debate exclaims that “welfare recipients are all lazy.” The spectator’s thought process is an example of:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.6915509700775146
+    },
+    {
+      "question": "Neonatal Respiratory Distress Syndrome (NRDS) is a serious complication seen in infants born prematurely who have a compromised ability to facilitate oxygen diffusion across their alveolar membranes. This is caused by inadequate surfactant production. What role does surfactant play in facilitating oxygen diffusion?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.691642999649048
+    },
+    {
+      "question": "Using this formula, if a reaction was provided with 84g of ethane and unlimited oxygen, how many grams of carbon dioxide would result (Carbon atomic weight: 12amu, Hydrogen atomic weight: 1amu, Oxygen atomic weight: 16amu)?\n﻿\nThe unbalanced reaction of ethane gas to carbon dioxide and water is as follows:\n\n C2H4 + O2 —> CO2 + H2O",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.6917312145233154
+    },
+    {
+      "question": "Sauna use, sometimes referred to as \"sauna bathing,\" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia – an increase in the body's core temperature – that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors… In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease… The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits – and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week… The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)…Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40°C (104°F), and then changes in core body temperature occur, rising slowly from 37°C (98.6°F, or normal) to 38°C (100.4°F) and then rapidly increasing to 39°C (102.2°F)…  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance… Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors… The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]\n\nBased on the article, what would be an important thing for a person to do after sauna use?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.257449150085449
+    },
+    {
+      "question": "Which of the following is not an amino acid?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.257941007614136
+    },
+    {
+      "question": "Approximately how many kJ of energy are expended if an athlete's steady-rate oxygen uptake averages 3.0 l/min for 5 minutes of exercise?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.258296966552734
+    },
+    {
+      "question": "The low intake of carbohydrate in the diet:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 5.258647918701172
+    },
+    {
+      "question": "Which of the following processes is not used to modify protein structure after translation has occurred?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 5.259058952331543
+    },
+    {
+      "question": "Which of the following promotes glucose and amino acid uptake by muscle?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 5.259408950805664
+    },
+    {
+      "question": "When branched chain amino acids are deaminated in muscle, the ammonia produced is mostly:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 5.259880065917969
+    },
+    {
+      "question": "A certain molecule acts by binding to cytochrome oxidase A3, the final enzyme in the electron transport chain. Administration of a large dose of this substance to a human would likely:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.25999903678894
+    },
+    {
+      "question": "In response to period of extreme psychological trauma, a patient begins experiencing a feeling of detachment. He says, “I felt like it wasn’t real while it was happening. I was just watching myself do it without any control. I mean, you know, I knew it was happening but I didn’t feel like it was.” The patient is describing:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 5.260093927383423
+    },
+    {
+      "question": "Endurance training increases the muscle's capacity to:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 5.260190010070801
+    },
+    {
+      "question": "Metabolism is determined by the:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 5.547378063201904
+    },
+    {
+      "question": "In order to determine the doppler shift in perceived sound frequency, the following variables must be known:\nI. speed of sound in medium\nII. Time of interaction between sound source and detector\nIII. distance between source and detector\nIV. frequency of emitted sound",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.547821044921875
+    },
+    {
+      "question": "The key attribute in successful marathon running is:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.548177242279053
+    },
+    {
+      "question": "Which of the following phases are common to cells undergoing meiosis and mitosis?\nI. G0\nII. phase G2\nIII. phase S phase",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.548708200454712
+    },
+    {
+      "question": "If the mean rate of oxygen consumption of a male athlete during a training session is 2 l/min, then his rate of energy expenditure is approximately:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.548901081085205
+    },
+    {
+      "question": "In a double stranded molecule of DNA, the ratio of purines : pyrimidines is:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.549005031585693
+    },
+    {
+      "question": "Sauna use, sometimes referred to as \"sauna bathing,\" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia – an increase in the body's core temperature – that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors… In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease… The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits – and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week… The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)…Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40°C (104°F), and then changes in core body temperature occur, rising slowly from 37°C (98.6°F, or normal) to 38°C (100.4°F) and then rapidly increasing to 39°C (102.2°F)…  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance… Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors… The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]\n\nThe review article sources a lot of data from Finland population studies, where the incidence of sauna use is substantially higher than most countries. Using the data, which of the following is something that is more plausible in Finland than elsewhere?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 5.549106121063232
+    },
+    {
+      "question": "Karen is a college student working on developing a stronger sense of self-esteem and self-efficacy with her therapist. She has noticed a great change in her ability to handle situations after 3 months of therapy. Which of the following would NOT be a strategy that her therapist would ask her to employ to raise her sense of self-efficacy?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.549223899841309
+    },
+    {
+      "question": "Phophocreatine resynthesis during recovery from exercise is inhibited by:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.549317121505737
+    },
+    {
+      "question": "A thin layer chromatography is performed on both the reactants and products of a reaction. It is found that the products have an Rf value that is significantly higher than the reactants. Which of the following could adequately describe this reaction:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.549404144287109
+    },
+    {
+      "question": "The synthesis of glucose from lactate, glycerol, or amino acids is called:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.468816041946411
+    },
+    {
+      "question": "After what period of time does maximal dynamic exercise become predominantly aerobic?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.469604015350342
+    },
+    {
+      "question": "Which of the following best accounts for the negative slope of the liquid-solid equilibrium line in the phase diagram for water?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.470781087875366
+    },
+    {
+      "question": "Mg(OH)2 is slowly dissolved in 500 mL of 25 oC water until the solution becomes fully saturated. Which of the following occurs when 10.0 mL of 0.1 M HCl is added?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.4715919494628906
+    },
+    {
+      "question": "Myoclonic epilepsy and ragged-red fiber (MERRF) is an extremely rare disorder that affects neuromuscular systems. MERRF results from a mutation in mitochondrial DNA (mtDNA) that impairs protein synthesis, oxygen consumption, and energy production. When an affected male and a normal female reproduce, which of the following best predicts the expected phenotypic ratios of the offspring?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.4719479084014893
+    },
+    {
+      "question": "Selective Androgen Receptor Modulators (SARMs) are:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.472292900085449
+    },
+    {
+      "question": "An action potential arriving at the motor endplate causes release of:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.472641944885254
+    },
+    {
+      "question": "All of the following are example of sensory, or neural, adaptation EXCEPT:",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.4730708599090576
+    },
+    {
+      "question": "A scientist, using electrodes, is stimulating a group of neurons in the hypothalamus and recording their membrane potential changes. She observes a sharp rise in membrane potential when she first stimulates them, the the difference of 100mV. When she tries another stimulation immediately after the first, there is no response. However, when she increase the amount of voltage she supplies to the second shock, she observes a similar response to the first. What time period of stimulation would the second shock be characterized in regards to membrane potential?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.47330904006958
+    },
+    {
+      "question": "The β-oxidation of a molecule of palmitic acid, CH3(CH2)14CO2H:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.473419189453125
+    },
+    {
+      "question": "What is the most likely outcome of this modification?\n﻿\nAn RNA strand that normally produces a transmembrane protein that facilitates potassium entry into muscle cells is modified to produce a different strand. The original strand is as follows:\n\n GAAUAGAUGGGAAGCGCCAGAUACAGUAACAGA… \n\nThe modified sequence is as follows:\n\n GAAUAGAUGGGAAGCGCCAGAUACAGUACCAGA…",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6025049686431885
+    },
+    {
+      "question": "Glycolysis is the name given to the pathway involving the conversion of:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.602638006210327
+    },
+    {
+      "question": "A psychologist conducts an experiment in which subjects are asked to learn a series of “facts” which are actually statements that have been fabricated by the research team. The subjects consist of undergraduate students at the university where the experiment is being conducted. The subjects are randomly assigned to groups that are compensated either $10 or $20 for their participation, are given either 15 minutes or 30 minutes to learn the facts, and are asked to recall the facts either in the same room in which they learned the facts or in a very different, unfamiliar setting. Which of the following are dependent variables in this experiment?\nI. The amount the subjects were compensated.\nII. The room in which the subjects were asked to recall facts.\nIII. The number of facts the subjects can recall.\nIV. The time the subjects were given to learn the facts.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.602734088897705
+    },
+    {
+      "question": "Which of the following is thought to be implicated in the development of peripheral muscle fatigue during multiple sprint activities?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.602832078933716
+    },
+    {
+      "question": "A muscle fibre relaxes when:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.6029272079467773
+    },
+    {
+      "question": "The pyruvate dehydrogenase complex:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.603025197982788
+    },
+    {
+      "question": "Hydrogen ions are formed when:",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6031219959259033
+    },
+    {
+      "question": "Our genetic material is made up of:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.60321307182312
+    },
+    {
+      "question": "A dentist that is performing procedures in his clinic is brought out to the front desk one day to handle a dispute between one of his patients and the clerk. The patient is a middle-aged businessman who is irate and creating a scene because he was told he would have to see the dental hygienist instead of the dentist. The patient loudly rants that he makes too much money to be subjected to treatment by a half-trained associate. The clerk explains to the dentist that the patient was 40 minutes late to his appointment, and the only opening now was with the hygienist. The patient snaps back that his time is worth more than any of the people in the office. What personality disorder is this patient likely exhibiting?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.6033029556274414
+    },
+    {
+      "question": "Vygotsky’s sociocultural development theory attempts to describe the interaction between the mental function children are born with and how they develop those into what they possess as adults. One of the important components of this is the zone of proximal development. Which of the following statements accurately describes an individual in the zone of proximal development?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.603394031524658
+    },
+    {
+      "question": "A young man working with a therapist on becoming more productive is expressing many of his desires throughout growing up and how he feels that it has affected him. Through discernment, the therapist states that he believes the young man’s development is stuck in a stage that reflects itself by his inability to keep his house clean. According to Freud’s theory of psychosexual development, what stage would this young man be fixated in?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.923629999160767
+    },
+    {
+      "question": "What type of covalent bonds link the amino acids in a protein?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.924095153808594
+    },
+    {
+      "question": "Walking down a street late at night, an adult male pedestrian notices a young female on the ground, not moving. The female is on the opposite side of the street. Crossing the street, the pedestrian notices that the young woman appears both much wealthier than he is and is of a different ethnicity. Seeing no one else present, the pedestrian renders aid. According to the bystander effect, which of the following would change how the pedestrian reacts?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.924432039260864
+    },
+    {
+      "question": "Sauna use, sometimes referred to as \"sauna bathing,\" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia – an increase in the body's core temperature – that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors… In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease… The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits – and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week… The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)…Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40°C (104°F), and then changes in core body temperature occur, rising slowly from 37°C (98.6°F, or normal) to 38°C (100.4°F) and then rapidly increasing to 39°C (102.2°F)…  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance… Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors… The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]\n\nWhich of the following is a likely paragraph that follows this excerpt in the article?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 5.92488694190979
+    },
+    {
+      "question": "Muscle lactate production increases when:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.92586612701416
+    },
+    {
+      "question": "Triacylglycerides consist of I. A ribose backbone II. a glycerol backbone III. three phosphodiester linkages IV. three ester linkages",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.926328897476196
+    },
+    {
+      "question": "Noncompetitive inhibition differs from uncompetitive inhibition in that a noncompetitive inhibitor binds to an allosteric site on the enzyme and prevents it from catalyzing a reaction, whereas uncompetitive inhibitors bind to the enzymesubstrate complex and prevent catalysis. Increasing the substrate concentration would have which of the following effects?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.926452159881592
+    },
+    {
+      "question": "Tyler is a high school student who is planning on becoming an engineer. In his calculus II class sophomore year, he receives an F on his first test. Which of the following responses to this event would indicate that Tyler has a higher likelihood of improving in subsequent exams?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 5.926547050476074
+    },
+    {
+      "question": "In nerve cells, microtubule-associated proteins (MAPs), most notably MAP2 and MAP tau, act to stabilize microtubules. In a mouse model, a mutant is developed that vastly reduced function across all families of MAPs, leading to increased microtubule degradation. Which cellular activity would likely be most affected?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.926646947860718
+    },
+    {
+      "question": "The trigger to initiate the contractile process in skeletal muscle is:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.926735877990723
+    },
+    {
+      "question": "The sarcoplasmic reticulum in muscle cells acts as a:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4446699619293213
+    },
+    {
+      "question": "Alterations in which neurotransmitters in the brain by pharmacological agents has been shown to influence fatigue development?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.4451708793640137
+    },
+    {
+      "question": "Oxygen is used:",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4455208778381348
+    },
+    {
+      "question": "Mutations are errors in DNA that:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4459588527679443
+    },
+    {
+      "question": "The enzymes of glycolysis are located in the:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.446232795715332
+    },
+    {
+      "question": "Rational choice theory is premised on the concept that actions are chosen based on the benefit to the individual. The three main assumptions of rational theory are completeness, transitivity, and independence of variables. This is most accurately described as what kind of system?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4463298320770264
+    },
+    {
+      "question": "Which products of ADP degradation increase in concentration in the blood during multiple sprint sports?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.446423053741455
+    },
+    {
+      "question": "The rate limiting enzyme of glycolysis is:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.446511745452881
+    },
+    {
+      "question": "A fundamental cause of fatigue in high intensity exercise is:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4466018676757812
+    },
+    {
+      "question": "The rate of blood lactate accumulation is determined by:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.446690797805786
+    },
+    {
+      "question": "Type I muscle fibres have the following characteristics:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.164674997329712
+    },
+    {
+      "question": "If a gas occupies 0.1L at 200atm, what will its volume be at 1atm?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.165026903152466
+    },
+    {
+      "question": "Assuming the circulatory system in humans obeys Bernoulli’s principle of fluid dynamics, which of the statements most accurately compares the blood pressure in a capillary of the neck to a capillary with an equal crosssectional area in the right knee?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.165144920349121
+    },
+    {
+      "question": "Sodium bicarbonate ingestion improves middle distance running performance by:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1652448177337646
+    },
+    {
+      "question": "An individual presents to the clinic for initial evaluation and establishment of care. The patient was born 46, XY, but identifies as a female. Her preferred pronouns are She/Her. Additionally, she is sexually active with females only. What would describe the gender and orientation of this individual?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.1653449535369873
+    },
+    {
+      "question": "Which of the following can act as an intracellular buffer to limit pH changes when the rate of glycolysis is high?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.165436029434204
+    },
+    {
+      "question": "A team of engineers constructing signal lights for airplanes that they can use to guide them to runways are attempting to determine the brightness needed for the pilot to be able to detect the tower at 1 mile away. They set the light to a test brightness and establish communication with an inbound pilot. When the pilot is 1 mile away from the tower, he says he cannot see the light. In terms of Signal Detection Theory, what would this be called?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.165526866912842
+    },
+    {
+      "question": "New York City is home to over 7 million inhabitants from a diverse range of backgrounds. Although the city itself has characteristics, there are several smaller areas, usually congregations of people from the same nationality, who adhere to customs from their prior country of inhabitance. For example, in Little Italy, a small town in the city, it is still customary to greet people with cheek kisses. This is an example of what kind of phenomenon?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.165616989135742
+    },
+    {
+      "question": "Prosthetic groups are:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.1657049655914307
+    },
+    {
+      "question": "Codons are composed of:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1657919883728027
+    },
+    {
+      "question": "In games like soccer the blood lactate concentration:",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.003629684448242
+    },
+    {
+      "question": "All of the following are true regarding the function of neurons EXCEPT:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.004046678543091
+    },
+    {
+      "question": "Which of the following is true?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0043866634368896
+    },
+    {
+      "question": "Which of the following statements is false?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0047359466552734
+    },
+    {
+      "question": "The most rapid method to resynthesize ATP during exercise is through:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0050768852233887
+    },
+    {
+      "question": "The electron transport chain, which is embedded in the mitochondrial membrane, exists primarily to generate new molecules of ATP for use by the cell. This is accomplished by a positive gradient of H+ ions that are formed outside the membrane which then pass back through a specialized channel known as ATP synthase. The energy created from this phosphorylates an ATP to an ATP, known as oxidative phosphorylation. The mechanism by which H+ returns to the inside of the mitochondria is known as what?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.0054967403411865
+    },
+    {
+      "question": "Which of the following molecules will stop being produced first when oxygen is no longer supplied to the cell?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.005854845046997
+    },
+    {
+      "question": "As a result of substance abuse throughout adolescence, a young adult suffers from a number of psychological symptoms reflecting diminished executive functioning. Which of the following are likely true of this patient?\nI. Pathological changes to the prefrontal cortex.\nII. Increased susceptibility to auditory hallucinations.\nIII. Reduced behavioral impulse control.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.005974054336548
+    },
+    {
+      "question": "Glycogen breakdown in muscle initially results in the formation of:",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.006072759628296
+    },
+    {
+      "question": "A wrestler attempting to lose weight for a match in December commits himself to dropping 30lbs over 2 months. Which of the following is NOT a good method to restrict his caloric intake?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.006165027618408
+    },
+    {
+      "question": "In an SDS-PAGE procedure, the SDS serves as a detergent. Why are the proteins treated with a detergent before being run through the electrophoresis gel?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.812680959701538
+    },
+    {
+      "question": "For very high force contractions lasting 1-2 seconds, the initial energy source is from:",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.813011884689331
+    },
+    {
+      "question": "Which of the following factors does not influence success in sport?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.8131320476531982
+    },
+    {
+      "question": "The lining of the digestive tract and the respiratory tract develops from which germ layer? I. Endoderm II. Mesoderm III. Ectoderm",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.8132259845733643
+    },
+    {
+      "question": "A transmembrane protein being isolated in the laboratory is found to be composed of four different amino acids in varying quantity. They are, in order of frequency, glycine, tyrosine, arginine, and isoleucine. Of these amino acids, which is most likely to be inside the transmembrane domain?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.8133208751678467
+    },
+    {
+      "question": "Which of the following nucleotide bases is not found in RNA?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.8134169578552246
+    },
+    {
+      "question": "Fast-twitch fibres contain:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8135087490081787
+    },
+    {
+      "question": "The conversion of one molecule of glucose to two molecules of pyruvate results in the net formation of:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8136000633239746
+    },
+    {
+      "question": "Acute Myeloid Leukemia is a malignant cancer in which myeloid progenitor cells become rapidly dividing and retain their semi-stem cell state. Under normal circumstances, which of the following cell types would arise from this stem cell?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8136909008026123
+    },
+    {
+      "question": "Lactate and hydrogen ions leave the muscle:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8137829303741455
+    },
+    {
+      "question": "There are five stages of mitosis that must be carried out correctly for a cell to properly divide. Match the stage of mitosis with its proper component:\nProphase — Dissolution of nucleoli",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.965226650238037
+    },
+    {
+      "question": "A study examined admissions to exceptionally selective colleges. When examining the correlates of admission acceptance, two obvious factors that strongly correlated with admissions were GPA and standardized test scores, with correlation values of +0.41 and +0.55 respectively. However, the study also demonstrated that those students who had social networks that overlapped with the alumni networks of the selective colleges were even more likely to be admitted, with a correlation between social network and alumni network of +0.61. This correlation demonstrates:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.9656848907470703
+    },
+    {
+      "question": "A patient comes into the hospital after being bit by a dog who he stated was “acting crazy”. The wound is open and bleeding. Animal control captured the dog and said that it was foaming at the mouth and extremely aggressive. Suspecting a rabies infection, the patient is given a serum that contains rabies antibodies that were grown inside a horse. This is an example of what kind of immunity?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.9660418033599854
+    },
+    {
+      "question": "The World Systems Theory divides the world as a unit into three subcategories: core countries, periphery countries, and semi-periphery countries. Which of the following answers correlates best with semi-periphery countries?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.9666848182678223
+    },
+    {
+      "question": "Kinase reactions:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9671778678894043
+    },
+    {
+      "question": "The main fate of lactate that leaves muscle and enters the circulation is:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9675018787384033
+    },
+    {
+      "question": "The ATP store in muscle can only supply energy in high intensity exercise for about:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.967615842819214
+    },
+    {
+      "question": "Glycogen breakdown in exercising muscle is activated by:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.967710018157959
+    },
+    {
+      "question": "According to attachment theory, which of the following children is most likely to attach to a male psychologist, previously unknown to the child, in the course of a psychological study?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.9678027629852295
+    },
+    {
+      "question": "Creatine is synthesized from:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.96789288520813
+    },
+    {
+      "question": "The hypothalamus controls the stress response of the body by releasing CRF, which leads to eventual release of cortisol, the body’s stress hormone, systemically. This trigger is eventually suppressed by which mechanism?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.0810251235961914
+    },
+    {
+      "question": "A local politician starts a task force to reduce prejudice and hate crimes, and the task force provides recommendations for increased access to education, paid community improvement projects open to people from different, possibly conflicted, groups, and stricter anti-hate ordinances to be passed at the local level. These recommendations are based on:\nI. Self-esteem hypothesis\nII. Contact hypothesis\nIII. Hypothesis\nIV. Legal hypothesis",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.0814032554626465
+    },
+    {
+      "question": "The energy for all forms of muscle contraction is provided by:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.0819849967956543
+    },
+    {
+      "question": "How can several different proteins be produced from the same gene?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.082304000854492
+    },
+    {
+      "question": "Phosphocreatine in the muscle cell is found in:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.0824100971221924
+    },
+    {
+      "question": "A scientist using mouse models to determine the response of blood hormones to large levels of glucose in the body discovers a new hormone not previously described. According to his data, this hormone is found both inside and out of cells when carrying out its function, increase the amount of nucleic acid in the cell while functioning, and are derived from a structure containing four hydroxycarbon rings. This will likely be categorized as which type of hormone?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.082504987716675
+    },
+    {
+      "question": "The coding sequences of genes are called:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.08259916305542
+    },
+    {
+      "question": "Each of the following is an example of the transmission of knowledge through symbolic culture EXCEPT:\nI. A young macaque monkey learning to rinse off food in the ocean from an older monkey, even when the food is not covered in dirt or sand.\nII. A child learning the rules of baseball from a parent.\nIII. A new group of inductees in a military organization experiencing hazing rituals from older students, which they then later carry out on new recruits.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.0826902389526367
+    },
+    {
+      "question": "One of the many reasons that the eukaryotic cell can possess so much information in its DNA is the ability to condense coding regions when they are not being expressed. When acting on DNA, which of the following processes will usually lead to a decrease in gene expression?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.0827791690826416
+    },
+    {
+      "question": "Anaerobic metabolism refers to the generation of ATP:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.082869052886963
+    },
+    {
+      "question": "Which of the following molecules does not form part of DNA?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.134448051452637
+    },
+    {
+      "question": "How many electrons does gold (Au) possess that have a quantum number l = 2?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 5.135014057159424
+    },
+    {
+      "question": "Sauna use, sometimes referred to as \"sauna bathing,\" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia – an increase in the body's core temperature – that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors… In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease… The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits – and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week… The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)…Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40°C (104°F), and then changes in core body temperature occur, rising slowly from 37°C (98.6°F, or normal) to 38°C (100.4°F) and then rapidly increasing to 39°C (102.2°F)…  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance… Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors… The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]\n\nAccording to the article, which of the following is NOT a benefit of sauna use?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.135348081588745
+    },
+    {
+      "question": "With an increasing number of sprints the:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.136014223098755
+    },
+    {
+      "question": "Fire hoses always have a nozzle on the end of the hose, which in part works by decreasing the area of the water exiting the fire hydrant to create a more forceful stream. If the starting velocity of water from a fire hydrant is 2 m/s, pressure is kept constant, and the end of the nozzle is 1/3 the area of the start of the hose, what is the final velocity of water as it exits?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.136910915374756
+    },
+    {
+      "question": "Pairs of electrons carried in the form, FADH2 and NADH+H, collectively contain enough free energy to rephosphorylate:",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.137198209762573
+    },
+    {
+      "question": "The energy released from the breakdown of the high-energy phosphates, ATP and phosphocreatine, can sustain maximal exertion exercise for about:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 5.1372950077056885
+    },
+    {
+      "question": "The sex of a child is dictated by the inheritance of:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.137388229370117
+    },
+    {
+      "question": "The blood glucose concentration during 80-90 minutes of intermittent high intensity exercise:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.137476921081543
+    },
+    {
+      "question": "During DNA replication, mistakes are coded into the leading strand about once every 100,000/1 million copies. This DNA is subject to proofreading by several mechanisms. If a mistake is noted and the incorrect base is removed shortly following the time RNA primer is removed, this would most likely be the work of which repair mechanism?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 5.137563943862915
+    },
+    {
+      "question": "Which of the following statements is false?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 0.798288106918335
+    },
+    {
+      "question": "Each of the following are aspects of the McDonaldization of Society EXCEPT:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 0.7986588478088379
+    },
+    {
+      "question": "The descending loop of Henle of the nephron of the kidney is permeable to which of the following substances?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 0.799001932144165
+    }
+  ]
+}

@@ -1,0 +1,5494 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@q4_k_m",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-064549"
+  },
+  "subject": "miscellaneous",
+  "category": "other (business, health, misc.)",
+  "correct_rate": 80.33205619412516,
+  "evaluation_results": [
+    {
+      "question": "An important source of information on the credit rating of retail businesses is",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.6027321815490723
+    },
+    {
+      "question": "In preparation for a writing unit on short stories, a teacher presents students with several examples of short stories and works with them to identify defining characteristics of the genre. Which of the following best describes this instructional strategy?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6032581329345703
+    },
+    {
+      "question": "Paper will burn at approximately what temperature in Fahrenheit?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.6042492389678955
+    },
+    {
+      "question": "The Apple iMac computer is available in all of the following colors except which?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.6047563552856445
+    },
+    {
+      "question": "What were the first names of the early American explorers Lewisand Clark?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.604877233505249
+    },
+    {
+      "question": "A teacher provides support for small, flexible groups of beginning readers. As students read a text or a book that is unfamiliar to them, the teacher works with the students to teach them how to use a variety of reading strategies. Which of the following reading approaches is described?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.604973077774048
+    },
+    {
+      "question": "What is varicella?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.605067014694214
+    },
+    {
+      "question": "Which of the following materials has a resistance that is LEAST affected by temperature changes?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6051552295684814
+    },
+    {
+      "question": "A second-year college student is usually called a what?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.60524320602417
+    },
+    {
+      "question": "In the film 'The Talented Mr Ripley' who plays Mr Ripley?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.605333089828491
+    },
+    {
+      "question": "A hard-edge painting is most likely to be characterized by",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4911692142486572
+    },
+    {
+      "question": "Who was president of the United States when Bill Clinton was born?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4916880130767822
+    },
+    {
+      "question": "Which of the following lists includes minerals only?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.492086172103882
+    },
+    {
+      "question": "Which of the following is a likely outcome of the development and use of genetically modified plants?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.492919921875
+    },
+    {
+      "question": "A teacher reads aloud Where the Wild Things Are, a picture storybook in which a boy named Max encounters wild monsters that are vividly portrayed. The teacher then shows the students picture cards depicting scenes from the beginning, middle, and end of the story. Which of the following concepts of literary structure is the teacher helping students understand?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4930341243743896
+    },
+    {
+      "question": "Which movie popularized the phrase \"You talkin' to me?\"",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.493129014968872
+    },
+    {
+      "question": "Which of the following most likely indicates the presence of water in the hydraulic system in a piece of farm machinery?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4932188987731934
+    },
+    {
+      "question": "What animal represents the year 2000 on the Chinese calendar?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.493306875228882
+    },
+    {
+      "question": "Which of the following is part of a farm combine?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.493393898010254
+    },
+    {
+      "question": "According to legend in what country are you most likely to meet a leprechaun?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4934821128845215
+    },
+    {
+      "question": "During which of the following processes within the hydrologic cycle do water molecules absorb energy?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2552411556243896
+    },
+    {
+      "question": "What French city is home to a famous international film festival each spring?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.255681037902832
+    },
+    {
+      "question": "What do you call three consecutive strikes in bowling?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.256131172180176
+    },
+    {
+      "question": "Which of the boys on the TV show 'My Three Sons' is adopted?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.2562601566314697
+    },
+    {
+      "question": "Which of these horror films spawned the most sequels?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.256359338760376
+    },
+    {
+      "question": "What is the name of the female character played by comedian Flip Wilson on his 1970s TV show?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2564501762390137
+    },
+    {
+      "question": "What kind of animal is a peregrine?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2565412521362305
+    },
+    {
+      "question": "What part of the human body does a gastroenterologist examine?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.25662899017334
+    },
+    {
+      "question": "A piece of paper that appears blue in sunlight is illuminated solely by a red light that is passed through a green filter. What color does the paper appear under this illumination?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.2567172050476074
+    },
+    {
+      "question": "Meat should be kept frozen at what temperature in degrees Fahrenheit?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2568089962005615
+    },
+    {
+      "question": "What kind of animal is cartoon character Tennessee Tuxedo?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.1672661304473877
+    },
+    {
+      "question": "What US president is mentioned by name in the opening theme song of TV's 'All in the Family'?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.1677608489990234
+    },
+    {
+      "question": "What is the heaviest confirmed noble gas?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.168492078781128
+    },
+    {
+      "question": "How many moles of HCl must be added to sufficient water to form 3 liters of a 2 M HCI solution?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.1689810752868652
+    },
+    {
+      "question": "Who led the 1831 slave insurrection in SouthamptonVirginia?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.1691038608551025
+    },
+    {
+      "question": "For what purpose would you use an awl?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.1691980361938477
+    },
+    {
+      "question": "Which of these bones is located in the wrist?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.1692891120910645
+    },
+    {
+      "question": "What do you call a young cow?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1693780422210693
+    },
+    {
+      "question": "Which of these is an Italian Design firm?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.169473171234131
+    },
+    {
+      "question": "Operant conditioning would be most useful for",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.169560194015503
+    },
+    {
+      "question": "Which of these countries was not a member of the Axis alliance during World War II?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.452064037322998
+    },
+    {
+      "question": "The demand for labor is called derived demand because it is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.452440023422241
+    },
+    {
+      "question": "Which of the following actions is most important before removing the blade from a gas-powered lawn mower?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4530189037323
+    },
+    {
+      "question": "Which of the following is a force that is most responsible for causing a fixed-wing aircraft to move forward?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4534409046173096
+    },
+    {
+      "question": "Which of the following heavenly bodies have never had a spacecraft landed on it?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4538497924804688
+    },
+    {
+      "question": "The labor force primarily consists of all",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.454256772994995
+    },
+    {
+      "question": "Which of the following is an example of persuasive speech?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4547650814056396
+    },
+    {
+      "question": "What is the name of the POW camp where 'Hogan's Heroes' are held?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4550628662109375
+    },
+    {
+      "question": "Which value is the most reasonable estimate of the volume of air an adult breathes in one day?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4551689624786377
+    },
+    {
+      "question": "What is a Dutch oven?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4552597999572754
+    },
+    {
+      "question": "What does it mean to work 'probono'?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.315359115600586
+    },
+    {
+      "question": "What is the largest animal ever to live on Earth?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3158011436462402
+    },
+    {
+      "question": "Which of these is not a Hindudeity?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3161561489105225
+    },
+    {
+      "question": "What kind of angle is formed where two perpendicular lines meet?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3165791034698486
+    },
+    {
+      "question": "The nineteenth-century photographic process used to create a daguerreotype was notable for its",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3190882205963135
+    },
+    {
+      "question": "A business teacher has students analyze a scenario in which a few firms in the gas industry produce a homogeneous product and dominate the market. This situation would primarily produce a market structure representative of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3192241191864014
+    },
+    {
+      "question": "In traditional English puppet shows who is married to the character Punch?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.319319009780884
+    },
+    {
+      "question": "In what sport do athletes compete for the Walker Cup?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3194100856781006
+    },
+    {
+      "question": "A pita is a type of what?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.31950306892395
+    },
+    {
+      "question": "What is the oldest permanent European settlement in the United States?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.319591999053955
+    },
+    {
+      "question": "As seen from Earth, the Moon goes through a series of phases due to changes in which of the following?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5519120693206787
+    },
+    {
+      "question": "In which of the following fields did Islamic civilization most influence Europeans at the time of the Crusades?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.552325963973999
+    },
+    {
+      "question": "Which of the following is not a flavor of Ben & Jerry's Ice Cream?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.552711009979248
+    },
+    {
+      "question": "Which of the following terms refers to the use of distortion to create the illusion of an object extending into space?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.5530638694763184
+    },
+    {
+      "question": "How much energy do Americans waste each year by throwing out the unused ice in their drinks?",
+      "model_answer": "B.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.553410053253174
+    },
+    {
+      "question": "Who wrote 'A Tale of Two Cities'?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5537500381469727
+    },
+    {
+      "question": "What is your astrological sign if you were born on Halloween?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.554305076599121
+    },
+    {
+      "question": "In an adult human how long is the large intestine?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.554615020751953
+    },
+    {
+      "question": "The purpose of an amicus curiae brief is to",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5547258853912354
+    },
+    {
+      "question": "What are the names of the two primary M&M's spokes-candies?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.554819107055664
+    },
+    {
+      "question": "The accumulation of stress along the boundaries of lithospheric plates results in which of the following?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.819385051727295
+    },
+    {
+      "question": "In bowling how many pins must you knock down to get a strike?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.820617914199829
+    },
+    {
+      "question": "Which of the following geometric shapes is most commonly used to give strength to the structure of truss bridges?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.820956230163574
+    },
+    {
+      "question": "What kind of item is a ginsu?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8210811614990234
+    },
+    {
+      "question": "Which of these words is a synonym for 'perambulate'?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8211820125579834
+    },
+    {
+      "question": "After a visit to a rescue squad, Ms. Espinosa asks her 3-year-old students to help her write a thank-you letter to the rescue squad employees. She records the students' responses on a large sheet of chart paper as the students share their ideas. While writing, Ms. Espinosa focuses the students' attention on several early literacy skills. Which of the following is the most appropriate focus for 3-year-old students?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8212761878967285
+    },
+    {
+      "question": "What's the third letter of the Greek alphabet?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.821369171142578
+    },
+    {
+      "question": "A well on the side of a hill penetrates the water table at an elevation of 550 feet above sea level. If someone plans to drill on the top of the hill, where would the water table most likely be found?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8214590549468994
+    },
+    {
+      "question": "Before he went into coaching Phil Jackson played for which of the following NBA teams?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8215479850769043
+    },
+    {
+      "question": "Old-fashioned steam engines were powered by coal transferred from the tender to the engine by human stokers using a shovel. What is the maximum power such an engine could attain?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.8216350078582764
+    },
+    {
+      "question": "People are supposed to drive on the left-hand side of the road in which country?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.1543807983398438
+    },
+    {
+      "question": "In the famous ballet 'The Nutcracker' who does the hero defeat?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.1555979251861572
+    },
+    {
+      "question": "An airplane's black box is usually what color?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.156181812286377
+    },
+    {
+      "question": "Which of these sentences is written in the subjunctive?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.1563010215759277
+    },
+    {
+      "question": "Which of the following terms refers to the process of using thick applications of paint?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.15639591217041
+    },
+    {
+      "question": "What was Richard Nixon's middle name?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.1564879417419434
+    },
+    {
+      "question": "In what country did Pokemon originate?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.156580924987793
+    },
+    {
+      "question": "What important food crop is grown in fields called paddies?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1566720008850098
+    },
+    {
+      "question": "A triad on a color wheel can be described as",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.1567609310150146
+    },
+    {
+      "question": "Which of these famous baseball figures was once acquitted at court-martial for insubordination?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.1568479537963867
+    },
+    {
+      "question": "Which of the following best describes an effect of the green revolution in the 1960s?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.37992000579834
+    },
+    {
+      "question": "In what forest did Robin Hood live?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3807342052459717
+    },
+    {
+      "question": "If a piece of music is in 'common time' how many quarter notes are there per measure?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3818390369415283
+    },
+    {
+      "question": "Which of these countries does not participate in NAFTA?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3824989795684814
+    },
+    {
+      "question": "President Abraham Lincoln's Emancipation Proclamation declared free only those slaves who",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3830339908599854
+    },
+    {
+      "question": "Which of the following terms refers to Archaic Greek statues whose poses‚Äîrigidly frontal with clenched fists‚Äîrecall the stance of ancient Egyptian statues?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3833870887756348
+    },
+    {
+      "question": "In 1978 who became the youngest jockey ever to win horse racing's triple crown?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.383524179458618
+    },
+    {
+      "question": "What does the Latin phrase 'e pluribus unum' mean?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3836252689361572
+    },
+    {
+      "question": "In the United States what is the first day of spring?",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3837180137634277
+    },
+    {
+      "question": "Which of the following is an example of a concurrent power?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.383807897567749
+    },
+    {
+      "question": "Which of these animals shares its name with a luxury car?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4346141815185547
+    },
+    {
+      "question": "Who were the Know-Nothings?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4349849224090576
+    },
+    {
+      "question": "Which of the following poses the greatest safety risk while being heated in a school laboratory?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4368929862976074
+    },
+    {
+      "question": "Who is the star of the TV show 'Everybody Loves Raymond'?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4373531341552734
+    },
+    {
+      "question": "In what sport do you find 'steel cage' matches?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.437469959259033
+    },
+    {
+      "question": "Which of the following best helps explain why volcanoes tend to form along subduction zones?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.437562942504883
+    },
+    {
+      "question": "How many sides does a rhombus have?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4376540184020996
+    },
+    {
+      "question": "Which of the following degrees can be awarded by the local chapter of the FFA? I. Greenhand FFA Degree II. Chapter FFA Degree III. State FFA Degree IV. American FFA Degree",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.437743902206421
+    },
+    {
+      "question": "From whom does the Lutheran Church get its name?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4378392696380615
+    },
+    {
+      "question": "What is the only metal that is a liquid at normal atmospheric pressure and temperature?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4379310607910156
+    },
+    {
+      "question": "Which of the following has provided the most information about the structure of Earth's core, mantle, and lower crust?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9438791275024414
+    },
+    {
+      "question": "When the production of a good generates negative externalities, the private market will",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.9442501068115234
+    },
+    {
+      "question": "Some observers argue that a limitation of the official unemployment rate is that it understates the true unemployment level because it fails to include which of the following?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.944591999053955
+    },
+    {
+      "question": "Which fast food chain used the advertising slogan 'Where's the beef?'",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.945003032684326
+    },
+    {
+      "question": "What city is known as 'the rubber capital of the world'?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.94553804397583
+    },
+    {
+      "question": "What was the first American college to become coeducational?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.9460060596466064
+    },
+    {
+      "question": "What color is Uncle Sam's goatee?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.946132183074951
+    },
+    {
+      "question": "According to a famous line from the existentialist play 'No Exit' what is hell?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.9462289810180664
+    },
+    {
+      "question": "A passage from Zora Neale Hurston's Their Eyes Were Watching God is as follows. The people all saw her come because it was sundown. The sun was gone, but he had left his footprints in the sky. It was the time for sitting on porches beside the road. It was the time to hear things and talk. These sitters had been tongueless, earless, eyeless conveniences all day long. Mules and other brutes had occupied their skins. But now, the sun and the bossman were gone, so the skins felt powerful and human. They became lords of sounds and lesser things. They passed nations through their mouths. They sat in judgment. Zora Neale Hurston is associated with which of the following literary movements?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.946320056915283
+    },
+    {
+      "question": "What is the 7-Eleven company's trademarked name for its super-large sodas?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9464120864868164
+    },
+    {
+      "question": "The sport of judo comes from what Asian country?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.138360023498535
+    },
+    {
+      "question": "The demand for which of the following products is likely to be the most elastic?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.1388111114501953
+    },
+    {
+      "question": "What country is the rock group U2 from?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.139241933822632
+    },
+    {
+      "question": "Elephant tusks are made of what material?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.1395950317382812
+    },
+    {
+      "question": "What city did the Beatles originally call home?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.1399779319763184
+    },
+    {
+      "question": "Which of these is not one of the three branches of the US government?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.1404080390930176
+    },
+    {
+      "question": "In British currency how many pence make a pound?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.1405251026153564
+    },
+    {
+      "question": "How are actors Charlie Sheen and Emilio Estevez related?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.140617847442627
+    },
+    {
+      "question": "Which of the following requires the use of at least two needles?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.140709161758423
+    },
+    {
+      "question": "In 1909 Frederick Cook claimed to be the first explorer to reach what location?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1407971382141113
+    },
+    {
+      "question": "A clothes dryer that is set to run for 30 minutes is an example of which of the following control systems?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6402907371520996
+    },
+    {
+      "question": "How many stars are on the American flag?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.64078688621521
+    },
+    {
+      "question": "Who was the English king at the time of the American Revolution?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.6411359310150146
+    },
+    {
+      "question": "Which of these animals lays eggs?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.641587972640991
+    },
+    {
+      "question": "An enterprise analysis shows an average return of $151 for each $100 of feed fed to hogs last year and a return of $130 for each $100 of feed fed to hogs this year. Assuming that feed costs are stable and there are no major death losses, which of the following is the most likely explanation for the difference in returns?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.641859769821167
+    },
+    {
+      "question": "If tickets to a baseball game generally cost between $10 and $30, a season has about 150 games, and each game is attended by 50,000-75,000 people, which of the following is a good estimate for ticket sales revenue for the 150 games combined?",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.641957998275757
+    },
+    {
+      "question": "Which of these is not a breed of cat?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.6420507431030273
+    },
+    {
+      "question": "Approximately how many movies are watched in homes in the United States in one year?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.6421408653259277
+    },
+    {
+      "question": "Which of these is not found in a Snickers candy bar?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6422300338745117
+    },
+    {
+      "question": "In the children's game what color is 'Rover'?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.642317771911621
+    },
+    {
+      "question": "Which of the following breakfast cereals is shaped like the letter O?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.354792833328247
+    },
+    {
+      "question": "Normally, S-P arrival intervals from a minimum of how many seismic stations are required to uniquely locate the epicenter of an earthquake?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.355285882949829
+    },
+    {
+      "question": "Which character on the TV show 'Friends' is a chef?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3556337356567383
+    },
+    {
+      "question": "If the tax rate for a single person with $25,000 in taxable income is 24 percent, and the tax rate for a single person with $20,000 in taxable income is 20 percent, the tax rate over this income range is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.355983018875122
+    },
+    {
+      "question": "The aesthetic philosophy that claims that the value of a work of art is determined by museums and galleries is known as",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3563289642333984
+    },
+    {
+      "question": "What is your hallux?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3567159175872803
+    },
+    {
+      "question": "What metal device is used by police to immobilize the wheels of repeat parking offenders?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.357055902481079
+    },
+    {
+      "question": "What disease is sometimes referred to as the 'royaldisease'?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3575198650360107
+    },
+    {
+      "question": "Which of the following statements accurately describes a JPEG compressed digital photograph?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3576340675354004
+    },
+    {
+      "question": "What do herpetologists study?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3577258586883545
+    },
+    {
+      "question": "Which of these is a virus?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2385950088500977
+    },
+    {
+      "question": "What new token was recently added to the Monopoly board game?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.2389698028564453
+    },
+    {
+      "question": "What is considered the proper way to address a duke?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2393109798431396
+    },
+    {
+      "question": "Which of the following is about the Watergate scandal?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2396621704101562
+    },
+    {
+      "question": "What causes the disease toxoplasmosis?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.240004777908325
+    },
+    {
+      "question": "Which of these rock guitarists designed a colorful line of men's neckties?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2403459548950195
+    },
+    {
+      "question": "In mobster lingo if you 'sing like a canary' what are you doing?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.240846872329712
+    },
+    {
+      "question": "Where did Lewis and Clark begin their famous expedition in 1804?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2409589290618896
+    },
+    {
+      "question": "According to a popular slogan what state should people not 'mess with'?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2410497665405273
+    },
+    {
+      "question": "Each year in pro baseball the player voted as the best fielder at his position wins what?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2411398887634277
+    },
+    {
+      "question": "Of the following objectives, which is most appropriate for a technology education program that has a goal of enabling students to develop creative technical solutions to present and future societal problems?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5340490341186523
+    },
+    {
+      "question": "Who was the first US president to resign from that office?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5344619750976562
+    },
+    {
+      "question": "How much kale would be needed to provide enough calories for a person for an entire year?",
+      "model_answer": "B.",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.536057233810425
+    },
+    {
+      "question": "How long has the average United States citizen spent as president?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.5365991592407227
+    },
+    {
+      "question": "What is the proletariat?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5368759632110596
+    },
+    {
+      "question": "According to the proverb necessity is the mother of what?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5369820594787598
+    },
+    {
+      "question": "What rank entitles a general in the US Army to wear three stars?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.537073850631714
+    },
+    {
+      "question": "What is another way of writing-'six feet'?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5371639728546143
+    },
+    {
+      "question": "In construction, the plates are horizontal structures at the top and bottom of a wall. Which of the following are the vertical structures?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.537255048751831
+    },
+    {
+      "question": "What part of the world was once known as Cathay?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5373470783233643
+    },
+    {
+      "question": "What is a shaddock?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4292569160461426
+    },
+    {
+      "question": "How many innings are there in a regular Major League Baseball game?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4296839237213135
+    },
+    {
+      "question": "Which of the following statements is correct about a trophic structure in which a leaf-eating grasshopper is eaten by a frog, which in turn is eaten by a snake?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4308407306671143
+    },
+    {
+      "question": "People who believe their political views are important, that government will respect these views, and that their views can influence political affairs are said to have a strong sense of",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4313390254974365
+    },
+    {
+      "question": "What was the average life expectancy of white males born in the U.S. just before the Civil War?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4319818019866943
+    },
+    {
+      "question": "What does the Yiddish word\"'meshuga' mean?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.432131052017212
+    },
+    {
+      "question": "What is the last letter of the Greek alphabet?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4322268962860107
+    },
+    {
+      "question": "An elementary school student is able to follow fast and slow songs by playing appropriate rhythm patterns on the drum. Which of the following attributes of music does the student understand?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4323179721832275
+    },
+    {
+      "question": "When FDR carried states in the presidential election of 1932 how many states did he not carry?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4324097633361816
+    },
+    {
+      "question": "Which of these is a member of the cucumber family?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4324989318847656
+    },
+    {
+      "question": "I became what I am today at the age of twelve, on a frigid overcast day in the winter of 1975. I remember the precise moment, crouching behind a crumbling mud wall, peeking into the alley near the frozen creek. That was a long time ago, but it's wrong what they say about the past, I've learned, about how you can bury it. Because the past claws its way out. Looking back now, I realize I have been peeking into that deserted alley for the last twenty-six years. The excerpt is an example of which of the following types of writing?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.8266451358795166
+    },
+    {
+      "question": "Which of the following defenses may NOT be used to legally avoid payment on a negotiable instrument?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.8270328044891357
+    },
+    {
+      "question": "Simple accompaniments, light texture and smooth melodies are qualities of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8274598121643066
+    },
+    {
+      "question": "Which of the following is true about a monopoly?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.82784104347229
+    },
+    {
+      "question": "Which of these names has never belonged to a Pope?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.827960968017578
+    },
+    {
+      "question": "Which of the following best helps explain why some localities have normally large tidal ranges (up to 60 feet) and others have one- to two-foot tidal ranges?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8280558586120605
+    },
+    {
+      "question": "Which of these is typically not \"used as a spice?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8281490802764893
+    },
+    {
+      "question": "Who is the patron saint of animals?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.828239917755127
+    },
+    {
+      "question": "The dissolved salts in Earth's oceans are principally derived from",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.828329086303711
+    },
+    {
+      "question": "What is the baseball term for a batter who substitutes for another batter?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.8284177780151367
+    },
+    {
+      "question": "In 1960 Nazi official Adolph Eichmann was finally captured in what country?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2807421684265137
+    },
+    {
+      "question": "What is the square root of 81 squared?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.281102180480957
+    },
+    {
+      "question": "Which of the following has provided evidence that the Sun's atmosphere contains sodium atoms?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.281442165374756
+    },
+    {
+      "question": "What letters are on the '3' button of a touch-tone telephone?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.2817883491516113
+    },
+    {
+      "question": "To best encourage student engagement in the classroom, a teacher should select texts based on which of the following?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.2825052738189697
+    },
+    {
+      "question": "When born a Dalmatian puppy is always?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2826151847839355
+    },
+    {
+      "question": "Which of these countries is not in Europe?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2827072143554688
+    },
+    {
+      "question": "What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby-Doo'?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.28279709815979
+    },
+    {
+      "question": "Many scientists think that some of the dinosaurs did not go extinct but rather evolved into what kind of creature?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.282886266708374
+    },
+    {
+      "question": "What are fans of the TV show 'Mystery Science Theater 3000' known as?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2829742431640625
+    },
+    {
+      "question": "What automobile company makes the Sonata?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.307494878768921
+    },
+    {
+      "question": "Force equals mass times what?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3078830242156982
+    },
+    {
+      "question": "To create a tapestry one must traditionally engage in what activity?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3084068298339844
+    },
+    {
+      "question": "What element do organic compounds contain?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.308741807937622
+    },
+    {
+      "question": "What is the technical term for someone who studies fish?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.309536933898926
+    },
+    {
+      "question": "A person uses a remote control to change the volume level on a television. The signal that travels from the remote to the television is most likely encoded in a",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3102688789367676
+    },
+    {
+      "question": "When it comes to measuring horses how long is a 'hand'?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.310554027557373
+    },
+    {
+      "question": "What is the (approximate) value of lemon juice on the pH scale?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3106539249420166
+    },
+    {
+      "question": "Which of the following best describes the situation after the price is raised on a product that has an inelastic demand?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3107450008392334
+    },
+    {
+      "question": "Which of the following statements reflects the Confucian worldview that figured prominently in classical Chinese culture?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.310835838317871
+    },
+    {
+      "question": "Which of these Democrats lost to Ronald Reagan in the 1984 presidential elections?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.8961410522460938
+    },
+    {
+      "question": "Real gross domestic product (GDP) is defined as the ratio of nominal GDP to the",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.896528720855713
+    },
+    {
+      "question": "Which of these is another name for a golf course?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8968749046325684
+    },
+    {
+      "question": "When Corporation X pays out $300,000 in salaries, which of the following is the impact on assets and liabilities?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8976798057556152
+    },
+    {
+      "question": "Who was not one of the Cartwright sons on the TV series 'Bonanza'?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.898094654083252
+    },
+    {
+      "question": "How long is a single term in the US Senate?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.898441791534424
+    },
+    {
+      "question": "On what body part should you wear a babushka?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8988678455352783
+    },
+    {
+      "question": "A kindergarten teacher has students determine the following. ‚Ä¢ How many students are absent that day ‚Ä¢ If there are enough snack cups for each student to have one during snack time ‚Ä¢ How many balls are taken outside during recess and how many are brought back inside after recess. Which of the following concepts is most closely aligned with the determinations the teacher is having the students make?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8992178440093994
+    },
+    {
+      "question": "Grammar may be taught in two main ways‚Äî by experience with discourse that entails the varieties of word forms and sentence construction, or by analyzing dummy sentences and diagramming parts. Plentiful discursive experience is what really teaches grammar, for it exercises judgment and provides language intake, whereas formal grammar study has been proved irrelevant. Politics more than pedagogy retards the changing of the curriculum to fit this truth. The author of the passage above argues that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8995418548583984
+    },
+    {
+      "question": "Who was the mother of the Greek god Zeus?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8996448516845703
+    },
+    {
+      "question": "Which of these evangelists is a cousin of rocker Jerry Lee Lewis?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.436720132827759
+    },
+    {
+      "question": "Which of the following prescribes standards for wages and overtime pay that affect most private and public employment?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4372801780700684
+    },
+    {
+      "question": "What organelle is primarily responsible for photosynthesis?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.43768310546875
+    },
+    {
+      "question": "In what city is TV's 'The Mary Tyler Moore Show' set?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4380390644073486
+    },
+    {
+      "question": "What Greek poet wrote 'The Iliad' and 'The Odyssey'?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.438375234603882
+    },
+    {
+      "question": "What is Delta Burke's character's job on the sitcom 'Designing Women'?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4387052059173584
+    },
+    {
+      "question": "Which of the following activities will best help a teacher collect data that will inform instruction to meet the individual needs of students?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4394261837005615
+    },
+    {
+      "question": "On average what length of time passes between high tides?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.439760208129883
+    },
+    {
+      "question": "An increase in the real interest rate in the United States relative to its trading partners will most likely result in which of the following?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.439892053604126
+    },
+    {
+      "question": "The legal basis for the escalation of United States involvement in the Vietnam War was the",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.440009117126465
+    },
+    {
+      "question": "What professional sports team plays its home games in the Alamodome?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.243446111679077
+    },
+    {
+      "question": "What is the name of Howard Stern's female on-air sidekick?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.243921995162964
+    },
+    {
+      "question": "In what decade did Israel become an independent state?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2442848682403564
+    },
+    {
+      "question": "In cooking the term 'au gratin' is sometimes used to describe a dish with what topping?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.24468994140625
+    },
+    {
+      "question": "Which of the following is the most effective way to evaluate the development of a student's drafting skills throughout the school year?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.245037078857422
+    },
+    {
+      "question": "In the sci-fi movie 'Fantastic Voyage' where do the voyagers travel?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2453789710998535
+    },
+    {
+      "question": "What would be the most likely thing one would do with the compound MgSO4 7H2O?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2457220554351807
+    },
+    {
+      "question": "Who originally proposed the idea of daylight-saving time?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.246245861053467
+    },
+    {
+      "question": "If you ask for 'gai' at a Thai restaurant what will you get?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.2463560104370117
+    },
+    {
+      "question": "On a set of jumper cables what color designates the negative connector?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2464489936828613
+    },
+    {
+      "question": "Which of these is a commonly-known investment account?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.342388153076172
+    },
+    {
+      "question": "If you are 'riding fakie' inside a 'half pipe' what are you probably doing?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.342787265777588
+    },
+    {
+      "question": "Which of these people was not alive in the 20th century?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.343327045440674
+    },
+    {
+      "question": "What color is cartoon character Marge Simpson's hair?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.34350323677063
+    },
+    {
+      "question": "Which of these is not a fabric?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.343597173690796
+    },
+    {
+      "question": "How is 4:00 pm expressed in military time?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.343686103820801
+    },
+    {
+      "question": "Which of the following is most likely to cause a rise in the average temperature of Earth's atmosphere in the future?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.343794345855713
+    },
+    {
+      "question": "Which of the following activities is likely to have the greatest impact on biodiversity?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3438830375671387
+    },
+    {
+      "question": "Whom did Billie Jean King defeat in the famous 'Battle of the Sexes' tennis match?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3439712524414062
+    },
+    {
+      "question": "Which of the following structures is most susceptible to damage by acid precipitation?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3440582752227783
+    },
+    {
+      "question": "Who is an archenemy of the cartoon superhero Underdog?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.0278189182281494
+    },
+    {
+      "question": "Mohair is made from the fleece of what animal?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.028182029724121
+    },
+    {
+      "question": "The Burgess Shale is a rock formation in Canada that has a large number of fossils from the Cambrian period preserved in exquisite detail. Many primitive members of modern phyla, including arthropods, mollusks, and chordates, can be found among the fossils exposed in this region. Based on these fossils, it can be concluded that most of the modern groups of animal life first appeared roughly",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.028547763824463
+    },
+    {
+      "question": "The Strauss family of composers popularized what dance?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.028899908065796
+    },
+    {
+      "question": "What was Ludwig Van Beethoven's final symphony?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.029740810394287
+    },
+    {
+      "question": "A portrait that comically exaggerates a person's physical traits is called a what?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0298588275909424
+    },
+    {
+      "question": "The government establishes a price floor in a market for a good in order to",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.029952049255371
+    },
+    {
+      "question": "A student is standing in front of the class delivering a presentation. Some students in the back of the room note that they are having trouble hearing what the presenter is saying. Which of the following suggestions to the presenter would best address this problem?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.030042886734009
+    },
+    {
+      "question": "A passage from Zora Neale Hurston's Their Eyes Were Watching God is as follows. The people all saw her come because it was sundown. The sun was gone, but he had left his footprints in the sky. It was the time for sitting on porches beside the road. It was the time to hear things and talk. These sitters had been tongueless, earless, eyeless conveniences all day long. Mules and other brutes had occupied their skins. But now, the sun and the bossman were gone, so the skins felt powerful and human. They became lords of sounds and lesser things. They passed nations through their mouths. They sat in judgment. The description of the sun in the second sentence contains which of the following literary devices?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.0301339626312256
+    },
+    {
+      "question": "Which of these is not one of the 3 methods of heat transfer?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.0302248001098633
+    },
+    {
+      "question": "Which of these is not an ingredient in Yorkshire pudding?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.269177198410034
+    },
+    {
+      "question": "Anna feels that she is confusing \"who\" and \"whom\" in her narrative. She wants to correct her error. Which of the following reference materials will best help Anna accomplish such a task?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.269287347793579
+    },
+    {
+      "question": "Where was the chicken First domesticated?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.269381284713745
+    },
+    {
+      "question": "Which of the following is not in Nevada?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2694711685180664
+    },
+    {
+      "question": "What famous folksinger founded the Institute for the Study of Non-Violence in 1965?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2695651054382324
+    },
+    {
+      "question": "Phoebe Dione and Helene are moons of what planet?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.269656181335449
+    },
+    {
+      "question": "Which of these companies is not an online stock brokerage?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.269747018814087
+    },
+    {
+      "question": "Which of these is not the name of one of rock musician Frank Zappa's children?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.269836187362671
+    },
+    {
+      "question": "How much does Peanuts character Lucy charge for her psychiatric advice?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.2699263095855713
+    },
+    {
+      "question": "Which of the following is the most reasonable action to take for an artist whose work requires the use of a specific hazardous product?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2700140476226807
+    },
+    {
+      "question": "What children's storybook character believes that the sky is falling?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.150192975997925
+    },
+    {
+      "question": "Pop icon Tiny Tim was famous for playing what musical instrument?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.1505789756774902
+    },
+    {
+      "question": "Which of the following is the highest level taxonomic rank?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.151075839996338
+    },
+    {
+      "question": "When daylight-saving time arrives in the spring how do most Americans turn their clocks?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.151500940322876
+    },
+    {
+      "question": "Which of these fashion designers was born in the United States?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.151916027069092
+    },
+    {
+      "question": "Who was on the $500 bill?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.152326822280884
+    },
+    {
+      "question": "For a man and woman on a date 'dutch treat' means what?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.1528120040893555
+    },
+    {
+      "question": "What city's residents are known as 'Knickerbockers'?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.153140068054199
+    },
+    {
+      "question": "Which of these college football programs has produced the most Heisman Trophy winners?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.1532490253448486
+    },
+    {
+      "question": "What does a pH level measure?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.1533398628234863
+    },
+    {
+      "question": "If a hertz is equal to one cylce per second how many cycles per second does a megahertz equal?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3870129585266113
+    },
+    {
+      "question": "Every day was a happy day, and every night was peaceful. The sentence above can best be classified as",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3874621391296387
+    },
+    {
+      "question": "Which of these holidays is not attached to a specific date?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3878729343414307
+    },
+    {
+      "question": "Where is the Louvre museum?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3883440494537354
+    },
+    {
+      "question": "Which of the following guidance systems is principally a materials-handling device?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3889050483703613
+    },
+    {
+      "question": "A preschool teacher is teaching students about a color wheel, which is an organization of hues around a circle. Red, yellow, and blue are examples of which of the following kinds of colors on the color wheel?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.389112949371338
+    },
+    {
+      "question": "A second-grade teacher has each student select a card at random that is marked with a three-digit number. Students then model their numbers with base ten blocks on a place value mat. Which of the following whole number concepts does the lesson best reinforce?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3892109394073486
+    },
+    {
+      "question": "Which brand of cat food claims it's so tasty that 'cats ask for it by name'?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3893039226531982
+    },
+    {
+      "question": "In the phrase 'Y2K' what does 'K' stand for?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3893959522247314
+    },
+    {
+      "question": "What is the approximate speed of light?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.389488935470581
+    },
+    {
+      "question": "Which of these people was buried in the Valley of the Kings?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2470180988311768
+    },
+    {
+      "question": "After Prince Charles who is next in line to be the king of England?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2473881244659424
+    },
+    {
+      "question": "The disco band ABBA comes from what country?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2477221488952637
+    },
+    {
+      "question": "When it's noon in New York during daylight-saving time what time is it in Honolulu?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.248056173324585
+    },
+    {
+      "question": "The total retail market value of all the goods and services produced in a nation, usually stated in annual terms, is the",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.24838924407959
+    },
+    {
+      "question": "What is the world‚Äôs most venomous fish?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2487223148345947
+    },
+    {
+      "question": "What force causes an ice cream cone to fly off of a spinning merry-go-round?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.249066114425659
+    },
+    {
+      "question": "Which of these words is spelled correctly?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.249406099319458
+    },
+    {
+      "question": "The term 'chili con carne' refers to chili with what?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.249746322631836
+    },
+    {
+      "question": "At what age can someone first attend an R-rated movie without an accompanying adult?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.2500791549682617
+    },
+    {
+      "question": "On TV's 'Seinfeld' what type of doctor did Mr Costanza go to when he sat on 'fusilli Jerry'?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4278650283813477
+    },
+    {
+      "question": "In the comic strip 'Peanuts' what is Schroeder known for doing?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4284307956695557
+    },
+    {
+      "question": "How is the Arabic numeral for '2' written?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4285449981689453
+    },
+    {
+      "question": "What country gave us the fashionable headgear called the beret?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4286370277404785
+    },
+    {
+      "question": "How many spikes are on the Statue of Liberty's crown?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.428725004196167
+    },
+    {
+      "question": "In a game with no wild cards what is the highest possible poker hand?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4288170337677
+    },
+    {
+      "question": "Moderate and frequent irrigation is normally most appropriate for a corn crop growing in a",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4289040565490723
+    },
+    {
+      "question": "What is the capital of North Dakota?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4289910793304443
+    },
+    {
+      "question": "A fiscal policy to combat a recession would call for",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.429081916809082
+    },
+    {
+      "question": "An electric fence installed to keep both mature cattle and sheep in a field should have a wire placed at which of the following heights? I. 6 inches II. 18 inches III. 40 inches IV. 60 inches",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4291698932647705
+    },
+    {
+      "question": "How much chicken excrement is produced in the United States every year?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4355552196502686
+    },
+    {
+      "question": "According to the American Kennel Club what is the most popular breed Of dog in the US as of 1999?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.43625807762146
+    },
+    {
+      "question": "What singer appeared in the 1992 baseball film 'A League of Their Own'?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4363930225372314
+    },
+    {
+      "question": "How is the word 'ambulance' normally written on the front of American ambulances?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.436491012573242
+    },
+    {
+      "question": "What is the colored part of the eye called?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4365832805633545
+    },
+    {
+      "question": "If you work as a 'dolly grip' what business are you in?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.436674118041992
+    },
+    {
+      "question": "Who was the longest reigning monarch in French history?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.436774253845215
+    },
+    {
+      "question": "The principles of xeriscaping are best exemplified by a homeowner who",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.436864137649536
+    },
+    {
+      "question": "What was the revenue for flat screen televisions sold in Australia in the past 12 months (as of 2013)?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4369542598724365
+    },
+    {
+      "question": "What native empire controlled Large areas of South African Territory during the 19th century?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4370412826538086
+    },
+    {
+      "question": "How many keys are on a Standard piano?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2304561138153076
+    },
+    {
+      "question": "The most important consideration in designing successful messages to be transmitted through graphic communications is knowledge and understanding of",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2309072017669678
+    },
+    {
+      "question": "Which one of these world leaders was assassinated?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.231330156326294
+    },
+    {
+      "question": "Which of these candy bars was named for a baseball player?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.231761932373047
+    },
+    {
+      "question": "The common term for someone who has difficulty seeing objects in the distance is what?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.233124256134033
+    },
+    {
+      "question": "Where did jazz great Sun Ra claim he was born?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2332401275634766
+    },
+    {
+      "question": "By what name is Bob Keeshan better known?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2333340644836426
+    },
+    {
+      "question": "Where would you typically find a bailiff?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.233426094055176
+    },
+    {
+      "question": "Girls of what religious community traditionally wear bonnets?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.233516216278076
+    },
+    {
+      "question": "What New Age musician released a 1998 album titled 'King of the Pan3Flute'?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2336041927337646
+    },
+    {
+      "question": "Which of these is a fish?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2450149059295654
+    },
+    {
+      "question": "How many airplanes are in the air worldwide right now (as of 2014)?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.24550199508667
+    },
+    {
+      "question": "Reindeer herding as an economic activity of the Sami in Norway is an example of which of the following types of diffusion?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.245865821838379
+    },
+    {
+      "question": "When cool air flows from a high mountain region to a region of lower elevation, the air will",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2462220191955566
+    },
+    {
+      "question": "In Greek mythology what is the name of Zeus' father?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2466201782226562
+    },
+    {
+      "question": "What disease does a carcinogen cause?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2469680309295654
+    },
+    {
+      "question": "Who sang lead vocals for the band Big Brother and the Holding Company?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.247304916381836
+    },
+    {
+      "question": "Which Pope immediately preceded John Paul II?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2478079795837402
+    },
+    {
+      "question": "Which of these is not a spice?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.248089075088501
+    },
+    {
+      "question": "Which of the following protocols is used to transport HTML pages from Web servers to Web browsers?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2481861114501953
+    },
+    {
+      "question": "What is the correct spelling of New Mexico's largest city?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4567320346832275
+    },
+    {
+      "question": "Which of the following best defines federalism?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.457365036010742
+    },
+    {
+      "question": "What sport is known as 'The Sport of Kings'?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.458515167236328
+    },
+    {
+      "question": "Which of the following is matched with its correct function?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4586141109466553
+    },
+    {
+      "question": "Which of the following protocols is usually associated with hyperinflation?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4587082862854004
+    },
+    {
+      "question": "In which century was the greatest number of chemical elements discovered?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.458801031112671
+    },
+    {
+      "question": "The term \"Cold War\" refers to the",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4589030742645264
+    },
+    {
+      "question": "Which of the following articles of clothing has a hood?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4589951038360596
+    },
+    {
+      "question": "Which of these measurements is equal to one square foot?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4590890407562256
+    },
+    {
+      "question": "Which of the following is a disorder in ruminants that is characterized by an excessive accumulation of gas in the rumen?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.459177255630493
+    },
+    {
+      "question": "_Whenever the mood strikes her_, Angela takes a short walk around the block. In the sentence above, the underlined portion can best be described as",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.413126230239868
+    },
+    {
+      "question": "What term is used to describe a\"group of geese?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4136769771575928
+    },
+    {
+      "question": "If you dial '411' on a telephone who are you calling?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.415708065032959
+    },
+    {
+      "question": "Which of these are not legumes?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.416081190109253
+    },
+    {
+      "question": "In 1989 scientists from Norway discovered that there are far more viruses in oceans lakes, and streams than previously believed. How many viruses did they find that a milliliter of natural water might contain?",
+      "model_answer": "B.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.4165451526641846
+    },
+    {
+      "question": "Which company holds an annual self-named 'Bake-Off'?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4166641235351562
+    },
+    {
+      "question": "Which of the following fiscal policy actions is most expansionary?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.416754961013794
+    },
+    {
+      "question": "Which of the following steps should be taken first to effectively present new information to coworkers?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4168472290039062
+    },
+    {
+      "question": "What is the name of the character Played by Woody Allen in the 1967 James Bond film 'Casino Royale'?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.416943073272705
+    },
+    {
+      "question": "Which of the following is generally the first step taken in a large-scale commercial construction venture?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.4170329570770264
+    },
+    {
+      "question": "How many eyes does a Giraffe have?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3889410495758057
+    },
+    {
+      "question": "What pro wrestler grapples with Sylvester Stallone in the movie-'Rocky III'?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3893351554870605
+    },
+    {
+      "question": "Which of the following activities will be most effective in introducing kindergartners to the concept of how plants transport water?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3907270431518555
+    },
+    {
+      "question": "What is the function of mitochondria in the cell?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.391817092895508
+    },
+    {
+      "question": "Which of these is not one of the four basic forces in nature?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3921401500701904
+    },
+    {
+      "question": "Which of these is a slang term for 'police'?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3922529220581055
+    },
+    {
+      "question": "What is the name of the fruit that is half tangerine and half grapefruit?",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3923451900482178
+    },
+    {
+      "question": "What are the Smothers Brothers'(first names?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3924360275268555
+    },
+    {
+      "question": "Which of the following great apes (the Hominidae) is NOT native to Africa?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3925282955169678
+    },
+    {
+      "question": "In the movie 'Star Wars' what kind of creature is Chewbacca?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3926169872283936
+    },
+    {
+      "question": "In the film 'Easy Rider' what emblem is on the back of Peter Fonda's leather jacket?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.1655452251434326
+    },
+    {
+      "question": "What are the tallest trees on Earth?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.1660332679748535
+    },
+    {
+      "question": "Which of these painting tools has bristles on it?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.1663882732391357
+    },
+    {
+      "question": "Astronaut John Glenn served as a pilot in what branch of the military?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.166738271713257
+    },
+    {
+      "question": "On the TV show 'CHiPs' what was Officer Frank Poncherello's-nickname?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.1670761108398438
+    },
+    {
+      "question": "Which of the following criteria is the most important when assessing reading comprehension?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.167520046234131
+    },
+    {
+      "question": "Which of these games is not played with cards?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.1678521633148193
+    },
+    {
+      "question": "In American football how many points is a touchdown worth?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.1679751873016357
+    },
+    {
+      "question": "What is the most likely impact of an increase in interest rates?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.168070077896118
+    },
+    {
+      "question": "Whose profile can you see on the front of dimes that are currently in circulation?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.168159246444702
+    },
+    {
+      "question": "Who is considered the owner of a 'publicly held' company?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.266810178756714
+    },
+    {
+      "question": "Which of the following candies is traditionally fruit flavored?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.267174243927002
+    },
+    {
+      "question": "In 1926 the Harlem Globetrotters basketball team was formed in what city?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2675671577453613
+    },
+    {
+      "question": "Which of the following steps in the design of a dog house would be earliest?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.268273115158081
+    },
+    {
+      "question": "What was the name of the 1999 art exhibit that sparked a national debate about censorship?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.268702983856201
+    },
+    {
+      "question": "What was the title of Beethoven's only completed opera?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2688140869140625
+    },
+    {
+      "question": "What is the name of the StarKist tuna mascot?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.268903970718384
+    },
+    {
+      "question": "Which of the following groups was converted to Christianity in the tenth century C.E. by missionaries from the Byzantine Empire?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.268994092941284
+    },
+    {
+      "question": "Which of these words is an adverb?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.269083023071289
+    },
+    {
+      "question": "On which part of a car would you find the 'caliper'?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2691709995269775
+    },
+    {
+      "question": "Which of these plants is the national emblem of Scotland?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.615521192550659
+    },
+    {
+      "question": "How much does it cost to air condition all American automobiles for a year (as of 2018)?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.6159141063690186
+    },
+    {
+      "question": "What fictional character claims to be 'smarter than the average bear'?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.6162521839141846
+    },
+    {
+      "question": "If you are truly afraid of the dark what do you suffer from?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.6165852546691895
+    },
+    {
+      "question": "Which of the following is a way in which Congress can influence the federal bureaucracy?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.617037057876587
+    },
+    {
+      "question": "What country was once ruled by shoguns?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.617441177368164
+    },
+    {
+      "question": "On what continent can you find tigers in the wild?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6175382137298584
+    },
+    {
+      "question": "The construction of a transportation network that included roads, canals, and steamboats that took shape in the United States in the early decades of the nineteenth century had which of the following effects in the years before the Civil War?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.617629289627075
+    },
+    {
+      "question": "What is the more common name for the disease 'pertussis'?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6177210807800293
+    },
+    {
+      "question": "The primary purpose of a Supervised Agricultural Experience ( SAE ) program is to",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.617814064025879
+    },
+    {
+      "question": "An early-nineteenth-century railroad steam engine is an excellent example of which of the following power systems?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2514257431030273
+    },
+    {
+      "question": "With which of the following statements would both Thomas Hobbes and John Locke most probably have agreed?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.251814842224121
+    },
+    {
+      "question": "In the classic song 'Take Me Out to the Ballgame' for whom do we 'root root root'?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2522618770599365
+    },
+    {
+      "question": "Who was Charlie McCarthy?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2526628971099854
+    },
+    {
+      "question": "How many states were in the Confederate States of America?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.253227710723877
+    },
+    {
+      "question": "Who were the Chicago Seven?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.253666877746582
+    },
+    {
+      "question": "Which dwarf planet is closest to the Sun?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2540128231048584
+    },
+    {
+      "question": "What company makes perfumes called 'Beautiful' and 'Pleasures'?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.2545270919799805
+    },
+    {
+      "question": "What nationality was Karl Marx?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.254633903503418
+    },
+    {
+      "question": "In America what is the main ingredient in pepperoni?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2547338008880615
+    },
+    {
+      "question": "A student in the process of solving a fabrication problem in the manufacturing laboratory asks the teacher what assembly procedures should be used. The teacher's best response would be to",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.7150959968566895
+    },
+    {
+      "question": "If the government places a price ceiling on leather garments that is below the equilibrium price, which of the following will occur in the market for leather garments?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.7155230045318604
+    },
+    {
+      "question": "During President Dwight Eisenhower's administration in the 1950s, the federal government promoted significant changes in transportation in the United States by",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.7164230346679688
+    },
+    {
+      "question": "Animals in which of the following groups may have a backbone and a spinal cord?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.716578960418701
+    },
+    {
+      "question": "Which of the following statements best illustrates active listening on the part of a second-grade teacher who is helping a student solve a personal problem?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.716671943664551
+    },
+    {
+      "question": "Which of the following stages is the first step in the writing cycle?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.716762065887451
+    },
+    {
+      "question": "Which of these is a government agency established to protect investors?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.716851234436035
+    },
+    {
+      "question": "What character did Woody replace on the TV show 'Cheers'?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.716939926147461
+    },
+    {
+      "question": "Which of the following rocks would most likely form from the metamorphism of a shale?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.7170281410217285
+    },
+    {
+      "question": "Which of the following states of matter is characterized by a closely packed arrangement of particles, resulting in a stable, definite shape and definite volume?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.717116117477417
+    },
+    {
+      "question": "How old is the Earth approximately?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.6278738975524902
+    },
+    {
+      "question": "As part of a staffing strategy, a human resources manager hires new personnel through a hidden market. Which of the following best represents the use of a hidden market?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.628361940383911
+    },
+    {
+      "question": "What liqueur is used to make a Pink Lady cocktail pink?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6287238597869873
+    },
+    {
+      "question": "What is the proper nautical use of an anchor?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.6290738582611084
+    },
+    {
+      "question": "In ice hockey which of the following is not a penalty?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.629525899887085
+    },
+    {
+      "question": "Ethan, a new preschool student, does not talk or play with other students during center time. Which of the following strategies will best help him develop interpersonal relationships?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.629952907562256
+    },
+    {
+      "question": "If a business files under Chapter 11 what is it doing?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.630246877670288
+    },
+    {
+      "question": "How many $100 bills does it take to equal one million dollars?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.630361795425415
+    },
+    {
+      "question": "A prekindergarten teacher is planning a lesson with a teaching objective of categorizing geometric objects by type of shape. Which of the following actions must children be able to perform successfully before the teacher teaches the lesson?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.63045597076416
+    },
+    {
+      "question": "What former 'Today' show personality played a neighbor on the TV sitcom 'The Hogan Family'?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6305489540100098
+    },
+    {
+      "question": "If one party to a contract is forced to sign, the contract is defined as",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2807822227478027
+    },
+    {
+      "question": "What was the name of the first ship to sail around the world?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.281162977218628
+    },
+    {
+      "question": "Which of the following was a direct result of the First Opium War of 1839-1842?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.281623125076294
+    },
+    {
+      "question": "What animal is considered sacred in India?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2819740772247314
+    },
+    {
+      "question": "In computer terminology what does the acronym 'FTP' stand for?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2820749282836914
+    },
+    {
+      "question": "What is the art of elegant handwriting called?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2821671962738037
+    },
+    {
+      "question": "By what collective name do Christians refer to God the Father God the Son and the Holy Ghost?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2822558879852295
+    },
+    {
+      "question": "In what year did the United States last win an Olympic gold medal in men's ice hockey?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.282348155975342
+    },
+    {
+      "question": "What term describes the passing of genetic traits from one generation to the next?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2824389934539795
+    },
+    {
+      "question": "Modern computer microchips are primarily composed of what element?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2825260162353516
+    },
+    {
+      "question": "The film 'Stand By Me' is based on a novel by what author?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4218571186065674
+    },
+    {
+      "question": "What kind of car did Burt Reynolds drive in the movie 'Smokey and the Bandit'?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.422304153442383
+    },
+    {
+      "question": "Which of the following is the best description of traditional phonics instruction?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.422659158706665
+    },
+    {
+      "question": "Who composed the 'Moonlight Sonata'?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.423013210296631
+    },
+    {
+      "question": "The first commercial radio station was located in what city?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.423354148864746
+    },
+    {
+      "question": "Which of these is not a position on an American football team?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4238929748535156
+    },
+    {
+      "question": "Which of these is not a type of primate?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4240598678588867
+    },
+    {
+      "question": "In 1986 Libyan leader Muammar Qaddafi drew a so-called 'Line of Death' overwhat body of water?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4241530895233154
+    },
+    {
+      "question": "What is the nickname of Florida's controversial death row electric chair?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4242441654205322
+    },
+    {
+      "question": "The dance known as the 'fandango' is of what origin?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4243340492248535
+    },
+    {
+      "question": "In what restaurant can you order a Grand Slam breakfast?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2499887943267822
+    },
+    {
+      "question": "Which of these minerals is hardest on the Mohs scale?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2535269260406494
+    },
+    {
+      "question": "Which of the following beverages is brewed from the leaves of a plant?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.254673957824707
+    },
+    {
+      "question": "According to Erik Erikson, the primary dilemma faced in adolescence is",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.2551279067993164
+    },
+    {
+      "question": "What literary work is the source of the quote 'Abandon every hope all you who enter here'?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2554359436035156
+    },
+    {
+      "question": "What's the popular name of the breakfast meal consisting of sausages wrapped in pancakes?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2555649280548096
+    },
+    {
+      "question": "Which of the following is not a TV cartoon duo?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.255657911300659
+    },
+    {
+      "question": "Which of these is not a 'lock' function on a standard desktop computer keyboard?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.255753993988037
+    },
+    {
+      "question": "The American patriot Paul Revere was named for his father whose original name was what?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.255842685699463
+    },
+    {
+      "question": "Which of these movies does not star Jim Carrey?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.2559309005737305
+    },
+    {
+      "question": "What is the name of Mario's brother in the 'Super Mario' video games?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.344555616378784
+    },
+    {
+      "question": "Who wrote the lyrics of the Frank Sinatra anthem 'My Way'?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3450188636779785
+    },
+    {
+      "question": "In the movie Austin Powers: The Spy Who Shagged Me what is the name of Dr Evil's diminutive clone?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3453567028045654
+    },
+    {
+      "question": "What is the chemical process wherein a solid is turned to a liquid via the application of heat?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3456907272338867
+    },
+    {
+      "question": "In what state is the 1999 movie Magnolia' set?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3460237979888916
+    },
+    {
+      "question": "How long is the time on an NBA shot clock?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3463568687438965
+    },
+    {
+      "question": "The Pointillist paintings of Georges Seurat are most notable for containing which of the following characteristics?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.346721649169922
+    },
+    {
+      "question": "Backgammon is a how many player game?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3470568656921387
+    },
+    {
+      "question": "According to the children's nursery rhyme what type of ocean did Columbus sail in 1492?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3475139141082764
+    },
+    {
+      "question": "Which of these refers to an alcoholic drink laced with a knockout drug?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.347822904586792
+    },
+    {
+      "question": "Students are reading the following passage from the National Park Service's Web site. Ten miles long and nearly 500 feet deep (152.4 m meters), Lake McDonald, the largest lake in the park, is a direct result of glacial carving. High peaks surrounding the lake all show evidence of the power of glaciers to carve even the hardest of rock. The powerful glaciers that carved the broad U-shaped valley that Lake McDonald sits in also carved smaller hanging valleys with wonderful waterfalls that are accessible by numerous hiking trails. Which of the following best identifies the intended audience of the passage?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.8121402263641357
+    },
+    {
+      "question": "How do you express 3/4 as a decimal?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.812732219696045
+    },
+    {
+      "question": "What tea is known for its distinctive bergamot flavor?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.813110113143921
+    },
+    {
+      "question": "Science fiction: readers claim to either love it or loathe it; either they avoid it like poison or they devour favorite works and authors like chocolate addicts gulping down fudge truffles. The author of the passage compares certain readers with \"chocolate addicts\" primarily in order to",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8134961128234863
+    },
+    {
+      "question": "Which of these foods could contain small amounts of naturally occurring opium?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.813929319381714
+    },
+    {
+      "question": "What is the slowest wind speed a hurricane can have according to the Saffir-Simpson scale?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.814263105392456
+    },
+    {
+      "question": "In which of the following bands did Jimmy Page not play guitar?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.814561128616333
+    },
+    {
+      "question": "Which of these magazines does not focus on natural science?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8146841526031494
+    },
+    {
+      "question": "Which of the following artists is an English landscape painter who created a poetic sense of changing atmospheric effects by using tiny applications of local color?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8148012161254883
+    },
+    {
+      "question": "A flashing red traffic light signifies that a driver should do what?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.814897298812866
+    },
+    {
+      "question": "Which composer was famous for writing approximately 600 lieder?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.364985942840576
+    },
+    {
+      "question": "Students in a fourth-grade science class are learning about processes that change Earth's surface. Which of the following is the best example of an agent that gradually shapes Earth's surface by taking bits of rock, soil, and other substances away from their original locations and depositing them in other locations?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3653550148010254
+    },
+    {
+      "question": "What country does Bordeaux wine come from?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3658599853515625
+    },
+    {
+      "question": "What is the loudest animal on earth?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.366813898086548
+    },
+    {
+      "question": "Which of these household pets should be vaccinated for parvovirus?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3673558235168457
+    },
+    {
+      "question": "Which color is not considered to be one of the primary colors of light?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3678698539733887
+    },
+    {
+      "question": "If someone has cataracts what part of their body might need an operation?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.368206024169922
+    },
+    {
+      "question": "\"I counted seven ministers all preaching at once . . . . Some of the people were singing, others praying, some crying for mercy in the most piteous accents.\" The quotation above describes group participation in an event that was most characteristic of which of the following?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3685407638549805
+    },
+    {
+      "question": "In baseball how many balls make a walk?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.36893892288208
+    },
+    {
+      "question": "What term describes a tribe that has no set homeland and wanders from place to place?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.369062900543213
+    },
+    {
+      "question": "What is the official language of The Netherlands?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.290748119354248
+    },
+    {
+      "question": "Which of these foods is not traditionally considered kosher?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.291962146759033
+    },
+    {
+      "question": "The use of inexpensive labor in Asian countries by footwear companies based in the United States and Europe is an example of which of the following?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.292316198348999
+    },
+    {
+      "question": "Which one of the following instruments is used to measure humidity?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2926759719848633
+    },
+    {
+      "question": "Jacques, Hedwig, and Reyes want to form a business entity through which they can raise capital by selling equity shares to the public. Which of the following business structures should they adopt?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.29301118850708
+    },
+    {
+      "question": "In the Arthurian legend who is married to Guinevere?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.2934441566467285
+    },
+    {
+      "question": "What does the 'ROM' in CD-ROM stand for?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.293560028076172
+    },
+    {
+      "question": "In the card game blackjack how much are a queen and a king worth-together?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2936549186706543
+    },
+    {
+      "question": "Which of these performers made her film debut in Spike Lee's 'Dothe Right Thing'?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.293747901916504
+    },
+    {
+      "question": "A farmer buys a new tractor for $40,000 and expects to use it for 20 years, after which the tractor will have a salvage value of $10,000. What is the straight-line depreciation that can be taken for the first year of ownership?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.293837070465088
+    },
+    {
+      "question": "In which kind of geometry is the sum of the angles inside a triangle exactly equal to 180 degrees?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3801517486572266
+    },
+    {
+      "question": "Which of the following short-run costs always increases as output increases?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3805229663848877
+    },
+    {
+      "question": "The book announced an insane world of dehumanization through terror in which the individual was systematically obliterated by an all-powerful elite. Its key phrases‚ÄîBig Brother, doublethink, Newspeak, the Ministry of Peace (devoted to war), the Ministry of Truth (devoted to lies), the Ministry of Love (devoted to torture)‚Äîburned their way at once into the modern consciousness. The passage above discusses",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3808629512786865
+    },
+    {
+      "question": "What is the capital of New Zealand?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.381276845932007
+    },
+    {
+      "question": "What popular toy is featured in the film 'The Hudsucker Proxy'?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.381626844406128
+    },
+    {
+      "question": "What is the most popular month for weddings in America?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.382147789001465
+    },
+    {
+      "question": "Which of the Three Stooges was not related to the others?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.382261037826538
+    },
+    {
+      "question": "What is the name for the thin board used to mix colors while painting?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.382352828979492
+    },
+    {
+      "question": "Which of these foods could you catch at sea?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3824429512023926
+    },
+    {
+      "question": "If a ring has the number 925 stamped into it it is most likely made of what material?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.382532835006714
+    },
+    {
+      "question": "Which of the following questions can a student ask to best determine whether an author is using the persuasive technique of pathos in a passage?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.8305141925811768
+    },
+    {
+      "question": "During which war did US troops fight the Battle of New Orleans?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.8308777809143066
+    },
+    {
+      "question": "What animal is used to make lard?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.831218957901001
+    },
+    {
+      "question": "If the permeability of subsoil is rapid, the subsoil texture is most likely classified as",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.8315680027008057
+    },
+    {
+      "question": "A passage Jane Eyre is as follows. This was all the account I got from Mrs. Fairfax of her employer and mine. There are people who seem to have no notion of sketching a character, or observing and describing salient points, either in persons or things: the good lady evidently belonged to this class; my queries puzzled, but did not draw her out. Mr. Rochester was Mr. Rochester in her eyes, a gentleman, a landed proprietor‚Äìnothing more: she inquired and searched no further, and evidently wondered at my wish to gain a more definite notion of his identity. Mrs. Fairfax differs from the speaker in that Mrs. Fairfax",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8319101333618164
+    },
+    {
+      "question": "Earth's seasons are caused by which of the following?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.832267999649048
+    },
+    {
+      "question": "According to the Bible Moses and Aaron had a sister named what?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.832782030105591
+    },
+    {
+      "question": "Where is the Frank Lloyd Wright-designed house known as Falling Water?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8328921794891357
+    },
+    {
+      "question": "In the story 'Jack and the Beanstalk' what does Jack trade to get the magic beans?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8329830169677734
+    },
+    {
+      "question": "Which of these vitamins was the first to be named?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8330740928649902
+    },
+    {
+      "question": "How many water molecules are in a human head?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4282710552215576
+    },
+    {
+      "question": "Who wrote musicals with Oscar Hammerstein II?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4286468029022217
+    },
+    {
+      "question": "If Christmas Day is on a Saturday then the following New Year's Day falls on what day of the week?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.429152011871338
+    },
+    {
+      "question": "What Mexican holiday takes place on May 5th?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4295690059661865
+    },
+    {
+      "question": "Which of the following is a type of bacterium that produces a toxin in food under anaerobic conditions?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.429919958114624
+    },
+    {
+      "question": "Which of the following lists the gases that were most likely the largest components of Earth's early atmosphere?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4304239749908447
+    },
+    {
+      "question": "What disease is characterized by a body's inability to properly metabolize glucose?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.430546760559082
+    },
+    {
+      "question": "Who co-founded Microsoft with Bill Gates?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.430640697479248
+    },
+    {
+      "question": "Who was the first First Lady to run for political office?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4307339191436768
+    },
+    {
+      "question": "Who or what was Big Bertha?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4308269023895264
+    },
+    {
+      "question": "To ward off bad luck what do many people do to wood?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3624258041381836
+    },
+    {
+      "question": "What kind of flying contraption is featured in the movie 'Chitty Chitty Bang Bang'?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3625316619873047
+    },
+    {
+      "question": "What is the name of the disease that has been referred to as the \"disease of kings\"?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.362623929977417
+    },
+    {
+      "question": "Among these elements which one has the highest atomic mass?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.362717866897583
+    },
+    {
+      "question": "What car company once manufactured and sold the 'Datsun' line of automobiles?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3628077507019043
+    },
+    {
+      "question": "Which part of the electromagnetic spectrum has the shortest wavelength?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.362898826599121
+    },
+    {
+      "question": "Which of the following is a renewable energy source?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3629868030548096
+    },
+    {
+      "question": "A _ is a plant cell that helps control the passage of materials into and out of the stomates.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3630778789520264
+    },
+    {
+      "question": "Which of the following has reduced the power of political parties?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.363165855407715
+    },
+    {
+      "question": "Poverty as defined by the United States government is best understood as",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.363252878189087
+    },
+    {
+      "question": "What internet company goes by the acronym AOL?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8370230197906494
+    },
+    {
+      "question": "What was the original name of the Apple Macintosh XL computer?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.837496757507324
+    },
+    {
+      "question": "What country is famous for making wooden shoes?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8378686904907227
+    },
+    {
+      "question": "A knish is traditionally stuffed with what filling?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8382468223571777
+    },
+    {
+      "question": "Including the bottom how many sides are on a square-based pyramid?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8385837078094482
+    },
+    {
+      "question": "Which of these is not a traditional Greek dish?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.8390867710113525
+    },
+    {
+      "question": "What color is Pepto-Bismol liquid?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8393406867980957
+    },
+    {
+      "question": "Which of the following groups was converted to Christianity in the tenth century AD by missionaries from the Byzantine Empire?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8394389152526855
+    },
+    {
+      "question": "A passage from Zora Neale Hurston's Their Eyes Were Watching God is as follows. The people all saw her come because it was sundown. The sun was gone, but he had left his footprints in the sky. It was the time for sitting on porches beside the road. It was the time to hear things and talk. These sitters had been tongueless, earless, eyeless conveniences all day long. Mules and other brutes had occupied their skins. But now, the sun and the bossman were gone, so the skins felt powerful and human. They became lords of sounds and lesser things. They passed nations through their mouths. They sat in judgment. Which of the following is the best way of describing the last three sentences of the passage (\"They became . . . in judgment\") ?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8395299911499023
+    },
+    {
+      "question": "What Native American tribe did chief Crazy Horse lead?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.83962082862854
+    },
+    {
+      "question": "Which of the following people would benefit most if the value of the United States dollar increased relative to the Japanese yen?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.414108991622925
+    },
+    {
+      "question": "What is the fundamental basis of competition in a market with poorly differentiated products?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.414595127105713
+    },
+    {
+      "question": "The phrase 'hospital corners' refers to what?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4149410724639893
+    },
+    {
+      "question": "What sporting event is held annually on Memorial Day weekend?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4152791500091553
+    },
+    {
+      "question": "A student comes across the unfamiliar words \"intercontinental,\" \"interglacial,\" \"interface,\" and \"intercept\" in his reading. The student can use his knowledge of affixes to understand that all of the words share which meaning?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.415611982345581
+    },
+    {
+      "question": "Ballad opera, opera buffa and opéra comique shared which feature?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.416173219680786
+    },
+    {
+      "question": "What is the national animal of Australia?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.416965961456299
+    },
+    {
+      "question": "In weaving, the vertical and horizontal threads in a loom are called the",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.417393922805786
+    },
+    {
+      "question": "The majority of calcium in the human body is found where?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.417581081390381
+    },
+    {
+      "question": "Which of these is made from cacao seeds?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4176790714263916
+    },
+    {
+      "question": "Which of the following charts is used in advanced manufacturing to record results data for a preproduction process?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.336441993713379
+    },
+    {
+      "question": "A first-grade teacher is planning activities to introduce students to nonstandard units of measurement. Which of the following activities will best meet the teacher's goal?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3394391536712646
+    },
+    {
+      "question": "When scanning a drive for viruses, it is typically important to check files having which of the following extensions?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3395471572875977
+    },
+    {
+      "question": "What term describes a word created by rearranging the letters of another word?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.33964204788208
+    },
+    {
+      "question": "What biological process replicates DNA?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3397350311279297
+    },
+    {
+      "question": "Louis Pasteur developed which vaccine?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3398261070251465
+    },
+    {
+      "question": "Which of these planets has no known moon?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3399200439453125
+    },
+    {
+      "question": "According to a Yale University study what smell is the most recognizable to American adults?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.340008020401001
+    },
+    {
+      "question": "According to the USDA which food group should you eat the most servings of per day?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3400959968566895
+    },
+    {
+      "question": "Which of these organs comes in A pair?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3401849269866943
+    },
+    {
+      "question": "Carmen spends her entire weekly income on two goods: X and Y. At her current consumption level of the two goods, the marginal utility of the last dollar spent on good X is 5 and the marginal utility of the last dollar she spent on good Y is 10. To maximize her utility, Carmen should",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.7191922664642334
+    },
+    {
+      "question": "The British dish 'bangers and mash' is made up of sausage and what?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.7196500301361084
+    },
+    {
+      "question": "Where are fireworks first known to have been developed?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7200071811676025
+    },
+    {
+      "question": "What is the name of the Swedish company that specializes in affordable furniture?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.7203571796417236
+    },
+    {
+      "question": "A committee of middle school teachers is meeting to begin the process of finding a software program to improve students' drafting skills. Which of the following steps should the committee take first in the process?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.7206993103027344
+    },
+    {
+      "question": "Which of the following words cannot be decoded through knowledge of letter-sound relationships?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.72151517868042
+    },
+    {
+      "question": "In what country are police officers referred to as 'bobbies'?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.721811056137085
+    },
+    {
+      "question": "The ability to do which of the following is a characteristic of all living organisms?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7219111919403076
+    },
+    {
+      "question": "In 1924 the United States Congress passed a bill that significantly altered immigration patterns by",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.7220041751861572
+    },
+    {
+      "question": "Astronomers have proposed that the solar system formed from a vast rotating cloud of gas and dust. This explanation is known as which of the following?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.722093105316162
+    },
+    {
+      "question": "The term that best describes an artwork that incorporates theatrical elements such as body movement, audience participation, music, and projected images is",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5442988872528076
+    },
+    {
+      "question": "What substance was used for blood in the famous shower scene from the movie 'Psycho'?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5445780754089355
+    },
+    {
+      "question": "What is actor Antonio Banderas native language?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5446760654449463
+    },
+    {
+      "question": "A preschool teacher is teaching students to forward roll. Which of the following is a problem most characteristic of preschoolers' forward rolling?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5447680950164795
+    },
+    {
+      "question": "John Rockefeller made his fortune in what industry?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.544857978820801
+    },
+    {
+      "question": "What is the name of the South African political party that was headed by Nelson Mandela?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5449469089508057
+    },
+    {
+      "question": "A kindergarten teacher notices that a new student who is from a foreign country is being excluded from play by a majority of the other students. Which of the following activities is best to help the class become aware of the common interests they share with the new student?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5450360774993896
+    },
+    {
+      "question": "How many periods are there in an ice hockey game?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5451269149780273
+    },
+    {
+      "question": "Which of the following parts of the Sun is easily visible only during a total solar eclipse?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.545214891433716
+    },
+    {
+      "question": "In what decade was the Hula-Hoop invented?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.545301914215088
+    },
+    {
+      "question": "Which of the following sequences of events is consistent with the presence of a layer of sandstone in bedrock just above a layer of shale?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.9255731105804443
+    },
+    {
+      "question": "In what US city can you find the Basketball Hall of Fame?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.926180124282837
+    },
+    {
+      "question": "Which of the following concepts in Robert's Rules of Order requires that motions be dealt with in order of importance?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.926663875579834
+    },
+    {
+      "question": "When it first appeared on the Internet amazoncom sold only what?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.92720890045166
+    },
+    {
+      "question": "How many digits are in a standard Visa credit card number?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.930072069168091
+    },
+    {
+      "question": "A passage Jane Eyre is as follows. This was all the account I got from Mrs. Fairfax of her employer and mine. There are people who seem to have no notion of sketching a character, or observing and describing salient points, either in persons or things: the good lady evidently belonged to this class; my queries puzzled, but did not draw her out. Mr. Rochester was Mr. Rochester in her eyes, a gentleman, a landed proprietor‚Äìnothing more: she inquired and searched no further, and evidently wondered at my wish to gain a more definite notion of his identity. The passage suggests that the speaker would describe the \"account\" mentioned in the first sentence as",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.930185079574585
+    },
+    {
+      "question": "What is the birthstone for the month of January?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.930286169052124
+    },
+    {
+      "question": "Who kills Tony at the end of the film 'West Side Story'?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9303810596466064
+    },
+    {
+      "question": "In what country did Magic Johnson play professional basketball during the 1999 season?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.930471897125244
+    },
+    {
+      "question": "According to the Mother Goose nursery rhyme which child is full of woe?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9305641651153564
+    },
+    {
+      "question": "What is called a 'lorry' in Britain?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.400580883026123
+    },
+    {
+      "question": "What newspaper do Lois Lane and Clark Kent work for?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.400946855545044
+    },
+    {
+      "question": "Which of the following should a computer user do to prevent screen-induced eyestrain?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.40128493309021
+    },
+    {
+      "question": "What percent of the observable universe has received radio transmissions from Earth?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.4016339778900146
+    },
+    {
+      "question": "Where is Ghirardelli Square located?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.4019739627838135
+    },
+    {
+      "question": "A research report states that a special education program for children aged 3-5 under study increases their chances of success in future schooling. Therefore, implementing a similar education program for all children will improve them in the future opportunities for success in school education. Which of the following best illustrates the logical loopholes summarized above?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.402432918548584
+    },
+    {
+      "question": "The traitor is a traitor, so you are a traitor, so I am a patriot.The words of a patriot are the most valuable, so my words are good.Since my words are good, you are undoubtedly a traitor! Which of the following makes the same logical mistake as above?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.402724027633667
+    },
+    {
+      "question": "The tobacco industry has a lot of money, and it is expected to continue to do so. Last year, the total amount of tobacco sold by American tobacco farmers increased significantly, but the number of smokers in the country continued to decline. If the following are true, they can be the reason for the above phenomenon, except:",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.4028217792510986
+    },
+    {
+      "question": "Which of the following is most characteristic of gesture drawing?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.402914047241211
+    },
+    {
+      "question": "What type of meat is on a traditional Reuben sandwich?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.4030039310455322
+    },
+    {
+      "question": "Which of the following is the best source of objective information about a prospective employer that is publicly traded?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4180471897125244
+    },
+    {
+      "question": "What children's TV character is known as 'Da Niao' in China?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.418154001235962
+    },
+    {
+      "question": "On Valentine's Day 2000 NASA's NEAR spacecraft began a yearlong orbit of what asteroid?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.418246269226074
+    },
+    {
+      "question": "The gasoline tank in a car holds 15 gallons when full. If there are 7 gallons of gasoline in the tank, how many gallons of gasoline are needed to fill the tank? Which of the following is most appropriate to use to correctly answer the question shown?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4183402061462402
+    },
+    {
+      "question": "What cartoon character traveled in a time machine with Mr Peabody?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4184322357177734
+    },
+    {
+      "question": "Which of these is a type of a artwork consisting of pieces of wood inlaid in geometric patterns?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4185221195220947
+    },
+    {
+      "question": "What term describes someone who does not believe in the existence of God?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.418612003326416
+    },
+    {
+      "question": "What animated character has a crush on the Little Red Haired Girl?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.418701171875
+    },
+    {
+      "question": "Which of these dishes is made from pig intestines?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.418788194656372
+    },
+    {
+      "question": "Water's high heat capacity allows it to",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4188742637634277
+    },
+    {
+      "question": "Which of the following is the government regulator for all securities firms operating in the United States?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.0098559856414795
+    },
+    {
+      "question": "Which of the following elements is a metal?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.0113189220428467
+    },
+    {
+      "question": "How many ribs are there in the human body?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.0120480060577393
+    },
+    {
+      "question": "Which of these snakes is poisonous?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.0125091075897217
+    },
+    {
+      "question": "What's unique about a skeleton key?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.013723134994507
+    },
+    {
+      "question": "What color is a ruby?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.0138258934020996
+    },
+    {
+      "question": "In the 1960s 'Batman' TV series who was not a guest villain?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.0139200687408447
+    },
+    {
+      "question": "Which of these is commonly used to treat allergies?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.014009952545166
+    },
+    {
+      "question": "How many ships did Columbus set sail with on his initial voyage to \"the New World\"?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.01409912109375
+    },
+    {
+      "question": "What does the acronym 'REM' stand for?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.014188051223755
+    },
+    {
+      "question": "Where did the Exxon Valdez run aground in March of 1989?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4524929523468018
+    },
+    {
+      "question": "What is the name of the baby who appears in cartoons and comic strips with Popeye the Sailor?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.453547954559326
+    },
+    {
+      "question": "A geographer beginning a study of the cultural landscape within a specific region would most likely benefit from which of the following activities?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.454263925552368
+    },
+    {
+      "question": "Fragile works of sculpture can be displayed most securely by placing the works",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.454803943634033
+    },
+    {
+      "question": "In the Jimmy Buffet song 'Margaritaville' what is the singer searching for?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4551727771759033
+    },
+    {
+      "question": "Which of the following actions by the Federal Reserve System would be most likely to increase consumer spending?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4555158615112305
+    },
+    {
+      "question": "Which one of these is NOT a mineral?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.455854892730713
+    },
+    {
+      "question": "According to the title of a popular children's TV show what color is Bear's big house?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.4562699794769287
+    },
+    {
+      "question": "Which of these rocks will float In water?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4563848972320557
+    },
+    {
+      "question": "Who is the twin sister of 'Dear Abby' columnist Abigail VanBuren?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.456476926803589
+    },
+    {
+      "question": "Which of the following would be provided in the marketing segment of a business plan?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.9336178302764893
+    },
+    {
+      "question": "From the very beginning, I wrote to explain my own life to myself, and I invited any readers who chose to make the journey with me to join me on the high wire. I would work without a net and without the noise of the crowd to disturb me. The view from on high is dizzying, instructive. I do not record the world exactly as it comes to me but transform it by making it pass through a prism of fabulous stories I have collected on the way. I gather stories the way a lepidopterist hoards his chloroformed specimens of rare moths, or Costa Rican beetles. Stories are like vessels I use to interpret the world to myself. ----------Pat Conroy Which of the following best describes the organization of the passage?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.9340620040893555
+    },
+    {
+      "question": "What is the normal playback speed of a 12'' long-playing record?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.937356948852539
+    },
+    {
+      "question": "During what war did Francis Scott Key write the words to 'The Star-Spangled Banner'?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9374730587005615
+    },
+    {
+      "question": "What are the names of Donald Duck's three nephews?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.937566041946411
+    },
+    {
+      "question": "What company makes Oreo cookies?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.937657117843628
+    },
+    {
+      "question": "A student is conducting a research project and has learned of a website that may have useful information. The domain extension for the site is .org. Which of the following assumptions about the website is correct?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.9377458095550537
+    },
+    {
+      "question": "To make an international telephone call from within the US what are the first numbers you should dial?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.9378371238708496
+    },
+    {
+      "question": "The 'Arkansas toothpick' is better known by what name?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.937924861907959
+    },
+    {
+      "question": "What colors are the two circles in the MasterCard logo?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9380109310150146
+    },
+    {
+      "question": "Which of the following was a significant reason for the electoral success of Franklin Roosevelt's New Deal coalition during the 1930s?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.5361249446868896
+    },
+    {
+      "question": "What is the name of the mountain where the mythological Greek gods live?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.536498785018921
+    },
+    {
+      "question": "The first sound recording to be made and reproduced was a recitation of what nursery rhyme?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5368359088897705
+    },
+    {
+      "question": "Which actress played a pointy-eared Vulcan in the movie 'Star Trek II: The Wrath of Khan'?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.5373549461364746
+    },
+    {
+      "question": "Which of the following is most likely to result from a collision between a continental lithospheric plate and an oceanic lithospheric plate?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.537466049194336
+    },
+    {
+      "question": "The process of drilling holes in the skull is called what?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5375590324401855
+    },
+    {
+      "question": "Who is the creator of the comic strip 'The Far Side'?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5376486778259277
+    },
+    {
+      "question": "Which of these is not a type of chili pepper?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5377368927001953
+    },
+    {
+      "question": "In the definition of a public good, the term \"nonrival\" means that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5378239154815674
+    },
+    {
+      "question": "Which of these foods is poisonous to dogs?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5379109382629395
+    },
+    {
+      "question": "What type of substance is 'terra-cotta'?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2417221069335938
+    },
+    {
+      "question": "What disease causes a buildup of fluid pressure in the eyeball and damages the optic nerve at the back of the eye?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.242259979248047
+    },
+    {
+      "question": "What article of clothing best describes a 'pashmina'?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.242729902267456
+    },
+    {
+      "question": "Who was the first American in space?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2431910037994385
+    },
+    {
+      "question": "Stevie Wonder and Michael Jackson have both recorded duets with which former Beatle?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.244174003601074
+    },
+    {
+      "question": "In which layer of Earth is the geomagnetic field generated?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2444491386413574
+    },
+    {
+      "question": "Which of these is not one of Aesop's fables?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.2445461750030518
+    },
+    {
+      "question": "An accounts payable entry appears in the",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.244637966156006
+    },
+    {
+      "question": "What is a balalaika?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2447259426116943
+    },
+    {
+      "question": "From what language does the term 'RSVP' originate?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.244814157485962
+    },
+    {
+      "question": "Which of the following is a true statement about the flow of energy in an ecosystem?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.349581718444824
+    },
+    {
+      "question": "The Federal Reserve implements an expansionary policy by doing which of the following?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.350029706954956
+    },
+    {
+      "question": "Determining how a product can be useful, identifying the target price, finding a place to sell the product, and deciding how to promote it best exemplifies using",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.350395917892456
+    },
+    {
+      "question": "In golf what is one stroke overpar called?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.350749969482422
+    },
+    {
+      "question": "What actress starred on 'Charlie's Angels' for the show's entire run?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3511388301849365
+    },
+    {
+      "question": "If you are watching a Shavian play who is the author?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.351486921310425
+    },
+    {
+      "question": "In which of these sports do competitors use a 'funny car'?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.351825714111328
+    },
+    {
+      "question": "The TV show 'House of Style' airs on what network?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.35237193107605
+    },
+    {
+      "question": "By what nickname is the Federal National Mortgage Association known?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.352494716644287
+    },
+    {
+      "question": "In computer terminology what does the acronym 'ISP' stand for?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3525898456573486
+    },
+    {
+      "question": "Which of these television series was not set in the United States?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.7183680534362793
+    },
+    {
+      "question": "What day of the week is sometimes called 'hump day'?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.718809127807617
+    },
+    {
+      "question": "Which of the following figures is a contemporary installation artist who uses image projection and videos?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.719215154647827
+    },
+    {
+      "question": "Scientists believe that a worldwide catastrophic event occurred during the late Cretaceous period and that this event likely caused which of the following?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7197670936584473
+    },
+    {
+      "question": "According to Article III, Section 1, of the United States Constitution, judges \"shall hold their offices during good behavior...\" A consequence of this clause is that:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.720268964767456
+    },
+    {
+      "question": "How many cups of coffee were consumed in the United States in the past week (as of 2013)?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.7203922271728516
+    },
+    {
+      "question": "In what city would you find people studying art and design at the Fashion Institute of Technology?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.720491886138916
+    },
+    {
+      "question": "What is the traditional 20th wedding anniversary gift?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.7205920219421387
+    },
+    {
+      "question": "Many employers rely on temporary workers to provide flexibility in times of fluctuating need. However, an important consideration in hiring temporary workers is that they",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.7206871509552
+    },
+    {
+      "question": "Someone would most likely contract salmonella poisoning from eating which of the following?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.720781087875366
+    },
+    {
+      "question": "Amps are a unit of measurement of what?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.356566905975342
+    },
+    {
+      "question": "The maximum depth that plant roots can readily penetrate without encountering a restrictive soil layer is referred to as the",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3570055961608887
+    },
+    {
+      "question": "How much more electrical energy will the United States need to generate if everyone drives electric cars?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.357722759246826
+    },
+    {
+      "question": "Which of the following must be obtained by foreigners wishing to permanently reside in the US?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3585727214813232
+    },
+    {
+      "question": "What is the largest moon in the Solar System?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3587048053741455
+    },
+    {
+      "question": "Islam first spread to Indonesia through",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.358797788619995
+    },
+    {
+      "question": "Which of these is not a city in the state of New York?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.358888864517212
+    },
+    {
+      "question": "In the original 'Get Smart' TV series what is agent Maxwell Smart's code name?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.358978748321533
+    },
+    {
+      "question": "In horse racing what is the term for a wager on the 1st 2nd and 3rd place finishers in a specific race?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3590667247772217
+    },
+    {
+      "question": "What principle explains why cold food warms up and hot food cools off when stored at room temperature?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.359156847000122
+    },
+    {
+      "question": "How much does our highway gas mileage decrease in a heavy rain?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4247560501098633
+    },
+    {
+      "question": "What quantity of oxygen, O_2 , contains very nearly the same number of molecules as 36.0 grams of water, H_2O ?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.425128936767578
+    },
+    {
+      "question": "The loss of water in the form of vapor from plants is referred to as the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4257121086120605
+    },
+    {
+      "question": "In a holistic evaluation of student essays, evaluations are made on the basis of the",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.4260642528533936
+    },
+    {
+      "question": "Which of the following scenarios does not include a producer?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4264020919799805
+    },
+    {
+      "question": "In soccer which player is allowed to use his or her hands in the field of play?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.426738977432251
+    },
+    {
+      "question": "As of 1999 which state has the most Girl Scouts?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.4270761013031006
+    },
+    {
+      "question": "In the 1992 animated film 'Aladdin' what device does the hero use to travel from place to place?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4278481006622314
+    },
+    {
+      "question": "Which one of these World War II leaders was not at the Yalta Conference?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4279561042785645
+    },
+    {
+      "question": "What is the technical term for the offspring of a female donkey and a male horse?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4280471801757812
+    },
+    {
+      "question": "The atmospheric concentration of which of the following gases is most likely to be directly affected by widespread deforestation?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.495903968811035
+    },
+    {
+      "question": "Which of the following words does not appear in the Lewis Carroll poem 'Jabberwocky'?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.49627423286438
+    },
+    {
+      "question": "What is the final word of the Pledge of Allegiance?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.496612071990967
+    },
+    {
+      "question": "Which of the following is a sports award?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4969630241394043
+    },
+    {
+      "question": "What term is used to describe a group of fish?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4973039627075195
+    },
+    {
+      "question": "Assume that the marginal propensity to consume increased from 0.75 in year 1 to 0.80 in year 2. Based on this information, which of the following is a correct conclusion?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4979960918426514
+    },
+    {
+      "question": "At the equator how fast is the earth's surface turning?",
+      "model_answer": "B.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.49812912940979
+    },
+    {
+      "question": "Which of the following components is present in both pneumatic and hydraulic systems?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.498223066329956
+    },
+    {
+      "question": "The primary purpose of antitrust laws is to",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4983129501342773
+    },
+    {
+      "question": "How many pairs of chromosomes are in the genome of a typical person?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4984021186828613
+    },
+    {
+      "question": "What was the acronym for the first computer, made back in 1946?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2296502590179443
+    },
+    {
+      "question": "When a gas turns into a liquid, the process is called",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2300961017608643
+    },
+    {
+      "question": "Which of the following types of stress dominates at divergent boundaries?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2304470539093018
+    },
+    {
+      "question": "Which of the following terms refers to pottery that has not been bisque fired?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.23079514503479
+    },
+    {
+      "question": "In what year did the Great Depression begin?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2312381267547607
+    },
+    {
+      "question": "Cheddar cheese got its name from a village in what country?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2315011024475098
+    },
+    {
+      "question": "Who is the mythological Roman goddess of flowers?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2316031455993652
+    },
+    {
+      "question": "According to legend if you give someone the 'evil eye' what are you doing?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2317051887512207
+    },
+    {
+      "question": "Which of these rivers flows\"through France?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.231795310974121
+    },
+    {
+      "question": "What condition is caused by malfunctioning sebaceous glands?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.231882095336914
+    },
+    {
+      "question": "What was the name of Huey Lewis band?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2449700832366943
+    },
+    {
+      "question": "What high school does the gang from the 'Archie' comic strip attend?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.246145248413086
+    },
+    {
+      "question": "Cheese is a necessary ingredient in which of these dishes?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2465879917144775
+    },
+    {
+      "question": "What city's airport uses the code ORD?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.246932029724121
+    },
+    {
+      "question": "Which of the following digital camera settings can be used to keep colors accurate under a variety of light conditions?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2472710609436035
+    },
+    {
+      "question": "At what speed will a sedan flip over when it slides sideways into a curb?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.248277187347412
+    },
+    {
+      "question": "The intention of making traditional, saleable art objects was abandoned by",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.248702049255371
+    },
+    {
+      "question": "Which of these popular games relies on bluffing?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.248824119567871
+    },
+    {
+      "question": "What sport is featured in the 1996 movie 'Kingpin'?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2489218711853027
+    },
+    {
+      "question": "Which of the following is an example of a chemical change?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.249011993408203
+    },
+    {
+      "question": "Soil structure refers to which of the following?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.332319974899292
+    },
+    {
+      "question": "At the border of two countries there is a port where fishermen work. The fishermen do not speak the same language, so they communicate using one that has been invented by them for the purpose of trade. The scenario above most accurately describes which of the following types of language?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.332426071166992
+    },
+    {
+      "question": "With what would you use a\"wah-wah pedal?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3325202465057373
+    },
+    {
+      "question": "Who is the career hit leader among players never elected to Baseball's Hall of Fame?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3326191902160645
+    },
+    {
+      "question": "Which of these is not one of the official languages of the United Nations?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.332709312438965
+    },
+    {
+      "question": "What people ruled the Andes Mountains until they were conquered by the Spanish in 1532?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3327982425689697
+    },
+    {
+      "question": "Which of these organizations is not part of the US government?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.332886219024658
+    },
+    {
+      "question": "Which of these men has never been a head coach in the NFL?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3329741954803467
+    },
+    {
+      "question": "Which of these is not a style of shoe?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.333062171936035
+    },
+    {
+      "question": "Which of these words means 'yes'-in French?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.333148241043091
+    },
+    {
+      "question": "Which of these sounds is commonly associated with owls?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3469812870025635
+    },
+    {
+      "question": "What do the initials 'E E' in poet E E Cummings' name stand for?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3474302291870117
+    },
+    {
+      "question": "The true length of a block of wood is 1.010 cm. Three measurements of this block produced the following values: 1.4 cm, 1.2 cm, and 0.9 cm. Which of the following statements is true concerning these measurements?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.347781181335449
+    },
+    {
+      "question": "What is the medical term for a doctor's identification of a disease?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3481342792510986
+    },
+    {
+      "question": "Gerry Adams is the president of what organization?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3484790325164795
+    },
+    {
+      "question": "What was the birth name of civil rights leader Malcolm?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3488481044769287
+    },
+    {
+      "question": "Which of the following dental topics is developmentally appropriate for toddlers?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.348950147628784
+    },
+    {
+      "question": "What topic does Spin magazine primarily cover?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.349045991897583
+    },
+    {
+      "question": "What is the name of Raggedy Ann's doll brother?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3491361141204834
+    },
+    {
+      "question": "Which of the following tools is LEAST likely to be used in the process of creating a wood sculpture?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3492259979248047
+    },
+    {
+      "question": "What exercise apparatus is used during a 'Spinning' class?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.549614191055298
+    },
+    {
+      "question": "In the 1976 remake of the classic film 'KingKong' what New York landmark does the giant ape climb?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5501389503479004
+    },
+    {
+      "question": "Which of these items is useful for removing ink stains?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5504870414733887
+    },
+    {
+      "question": "How much angular momentum did Hurricane Florence have when it hit land?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.553429126739502
+    },
+    {
+      "question": "Which of the following responsibilities of a human resources manager would have the most negative impact on a company if performed incorrectly?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5535409450531006
+    },
+    {
+      "question": "A car-manufacturing factory is considering a new site for its next plant. Which of the following would community planners be most concerned with before allowing the plant to be built?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.553642988204956
+    },
+    {
+      "question": "What team has won the most World Series?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5537400245666504
+    },
+    {
+      "question": "What is the name of the Newtonian law that states 'An object in Motion tends to stay in motion'?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5538320541381836
+    },
+    {
+      "question": "Who was the WNBA's Most Valuable Player of 1999?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.553922176361084
+    },
+    {
+      "question": "Ada Lovelace is credited with being the first person to have made what?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5540108680725098
+    },
+    {
+      "question": "Which of the following is true of a profitmaximizing firm in the short run?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.615433931350708
+    },
+    {
+      "question": "From 1971 to 1997 the Democratic Republic of Congo was known as what?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.615960121154785
+    },
+    {
+      "question": "What is New Mexico's nickname?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.6168930530548096
+    },
+    {
+      "question": "A kindergarten teacher sets up a literacy center with an activity that asks students to match pictures of objects with pictures of letters to correctly indicate the beginning sound. Which of the following is the teacher trying to develop in students through the center?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.6170079708099365
+    },
+    {
+      "question": "Which of the following is the best description of a consumer checking account?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.617105007171631
+    },
+    {
+      "question": "What was the name of the first nuclear-powered submarine?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6171951293945312
+    },
+    {
+      "question": "What is Andromeda?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.617283821105957
+    },
+    {
+      "question": "Which of these is not one of superhero Captain Marvel's abilities?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.617372989654541
+    },
+    {
+      "question": "Which of these animals is a rodent?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.617462158203125
+    },
+    {
+      "question": "Which two planets are most similar in size diameter wise?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6175501346588135
+    },
+    {
+      "question": "Which of these stores is not owned by Gap Inc?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 0.8539199829101562
+    },
+    {
+      "question": "What is the largest city in Pennsylvania?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 0.8543298244476318
+    },
+    {
+      "question": "A prekindergarten teacher uses a basket of red and yellow apples to reinforce concepts during a mathematics lesson. Which of the following tasks is best targeted at teaching students to compare quantities?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 0.8548059463500977
+    }
+  ]
+}

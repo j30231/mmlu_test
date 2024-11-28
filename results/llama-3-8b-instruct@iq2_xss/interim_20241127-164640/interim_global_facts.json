@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq2_xss",
+    "ntrain": 0,
+    "ntest": 1,
+    "timestamp": "20241127-164702"
+  },
+  "subject": "global_facts",
+  "category": "other (business, health, misc.)",
+  "correct_rate": 0.0,
+  "evaluation_results": [
+    {
+      "question": "As of 2016, about what percentage of adults aged 18 years or older were overweight?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 0.5162596702575684
+    }
+  ]
+}

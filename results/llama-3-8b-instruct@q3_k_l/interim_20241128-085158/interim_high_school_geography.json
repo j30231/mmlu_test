@@ -1,0 +1,1399 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@q3_k_l",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-091306"
+  },
+  "subject": "high_school_geography",
+  "category": "social sciences",
+  "correct_rate": 70.70707070707071,
+  "evaluation_results": [
+    {
+      "question": "The main factor preventing subsistence economies from advancing economically is the lack of",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3870201110839844
+    },
+    {
+      "question": "The tendency for a population to continue to grow long after replacement fertility has been achieved is called",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3874270915985107
+    },
+    {
+      "question": "The tendency for migration to decrease with distance is called",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.387911081314087
+    },
+    {
+      "question": "Which zone contains low-income slums, ethnic ghettos, and general deterioration in Burgess's concentric zone model of urban form?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.38826322555542
+    },
+    {
+      "question": "Which of the following statements is TRUE concerning women in the labor force?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3886260986328125
+    },
+    {
+      "question": "All the following factors can be considered pull factors of migration EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3889682292938232
+    },
+    {
+      "question": "Which of the following countries does NOT have a well-known example of a relict boundary?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3893091678619385
+    },
+    {
+      "question": "Which form of migration below are farm workers from another country most likely to be practicing during the year?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3896801471710205
+    },
+    {
+      "question": "Which of the following is a centrifugal force in a country?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.390197992324829
+    },
+    {
+      "question": "Early settlements and high population density along coastlines and rivers are best attributed to which of the following?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3907198905944824
+    },
+    {
+      "question": "The first stage of the demographic transition exhibits",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.298604965209961
+    },
+    {
+      "question": "What is the population statistic that tells us the level of fertility at which a population will have just enough births to replace parents and compensate for early deaths?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.2989659309387207
+    },
+    {
+      "question": "What is the most rapidly growing religion in the United States today?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2994301319122314
+    },
+    {
+      "question": "The outlying area serviced by a urban center is referred to as a",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3012731075286865
+    },
+    {
+      "question": "The best definition of an urban area is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3018100261688232
+    },
+    {
+      "question": "Which of the following religions developed first?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3021950721740723
+    },
+    {
+      "question": "Which one of the following is NOT a characteristic of world cities?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3025529384613037
+    },
+    {
+      "question": "Which type of transportation system created the star-shaped city pattern?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.302901029586792
+    },
+    {
+      "question": "In which urban US setting below would you expect to find planned communities?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3032400608062744
+    },
+    {
+      "question": "The latitude and longitude coordinates of a place are an example of",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.303720235824585
+    },
+    {
+      "question": "The voluntary association of three or more countries willing to give up some measure of sovereignty is called",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.432487964630127
+    },
+    {
+      "question": "The key factor Thomas Malthus failed to recognize in his population theory was",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.432858943939209
+    },
+    {
+      "question": "Which pair of religions are both universalizing religions?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.433241844177246
+    },
+    {
+      "question": "Which urban model theorizes that high-rent residential areas grow outward from the center of the city along major highways with lower-rent inhabitants taking over sequentially?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.4335830211639404
+    },
+    {
+      "question": "When a country combines its religion with its government, it is called a",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4339218139648438
+    },
+    {
+      "question": "What is the chief religion practiced in Europe?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.434256076812744
+    },
+    {
+      "question": "Which group enacted the first effective settlement in the eastern United States?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4346039295196533
+    },
+    {
+      "question": "A population pyramid, or age-sex structure, displays all the following information about a country's population EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.434957981109619
+    },
+    {
+      "question": "The Rhine River is an example of which type of boundary?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4353060722351074
+    },
+    {
+      "question": "Which type of economic activity is most closely tied to the physical environment?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4359288215637207
+    },
+    {
+      "question": "The majority of workers in periphery countries are probably employed in which type of activities?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4358012676239014
+    },
+    {
+      "question": "All of the following are non-basic jobs in the city EXCEPT",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.436171054840088
+    },
+    {
+      "question": "Transnational corporations distribute their operations",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.436518907546997
+    },
+    {
+      "question": "Which of the following is LEAST associated with the development of alluvial landscapes?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4369091987609863
+    },
+    {
+      "question": "Which of the following is LEAST self-sufficient in the natural resources needed for modern industry?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4372591972351074
+    },
+    {
+      "question": "One of the effects of the east–west orientation of the Alpine mountain system and the northern plains of western and central Europe is that it",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4376111030578613
+    },
+    {
+      "question": "The largest Hindu temple complex ever constructed is found in",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4379782676696777
+    },
+    {
+      "question": "Which term describes the forces that unify and strengthen a country?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.438322067260742
+    },
+    {
+      "question": "Which one of the following statements best describes an application of the S-curve?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.438660144805908
+    },
+    {
+      "question": "Which of the following items is NOT a challenge to the state?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.43947696685791
+    },
+    {
+      "question": "National sports teams, flags, national anthems, and national holidays all promote",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2727091312408447
+    },
+    {
+      "question": "The process whereby immigrants learn the values, language, and customs of their new country is called",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.273123025894165
+    },
+    {
+      "question": "On which of the following can one most accurately depict true geographical distance, true direction, true size, and true shape?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2735369205474854
+    },
+    {
+      "question": "Which of the following could be considered a higher-order central place function?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.2741780281066895
+    },
+    {
+      "question": "Which geographer viewed the US urban community of the 1920s as a set of concentric rings radiating outward from a central core?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2745330333709717
+    },
+    {
+      "question": "To get to school in the morning, we ALL use this as our guide:",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.274880886077881
+    },
+    {
+      "question": "Of these, the map using the smallest map scale would be the map of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.275228977203369
+    },
+    {
+      "question": "An earlier boundary formed before meticulous geographic knowledge and mapping was available is known as",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.2755699157714844
+    },
+    {
+      "question": "Which of the following jobs is in the non-basic employment sector?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.275911808013916
+    },
+    {
+      "question": "In which of the following regions is subsistence agriculture being replaced by large-scale commercial development?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.276251792907715
+    },
+    {
+      "question": "A strong movement away from all religions is called",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5419070720672607
+    },
+    {
+      "question": "Regions share all of these characteristics EXCEPT",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.542283058166504
+    },
+    {
+      "question": "Which of the following U.S. main immigration flow associations is NOT correct?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.542850971221924
+    },
+    {
+      "question": "Which one of the statements below is characteristic of most African cities?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5436480045318604
+    },
+    {
+      "question": "Which country faces a serious trade disadvantage due to its location?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5440149307250977
+    },
+    {
+      "question": "In which zone of Burgess's concentric zone model would one find better houses, single-family homes, and higher-rent apartments?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.544442892074585
+    },
+    {
+      "question": "The theory that every society develops economically according to a five-stage pattern of growth is attributed to",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.544912815093994
+    },
+    {
+      "question": "Which of the following would NOT be considered a barrier to diffusion of a cultural trait?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.54526686668396
+    },
+    {
+      "question": "The process of invasion and succession is a process involving migration and is best described as when",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5456089973449707
+    },
+    {
+      "question": "Which of the following best illustrates the definition of a functional region?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5459628105163574
+    },
+    {
+      "question": "New stores opening around a large shopping mall reflect which concept?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3837032318115234
+    },
+    {
+      "question": "The birth of an urban industrial workforce in Europe contributed to the start of the",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3840830326080322
+    },
+    {
+      "question": "Which of the following statements about East Asia's industrial regions is true?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.384425163269043
+    },
+    {
+      "question": "Which of the following statements best describes the United Nations?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3852829933166504
+    },
+    {
+      "question": "Which of the following is a formal region?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3857481479644775
+    },
+    {
+      "question": "The concentration of production activities and people spatially to benefit everyone is called",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3860950469970703
+    },
+    {
+      "question": "Which language family contains Italian, Spanish, Portuguese, and Romanian?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.386444091796875
+    },
+    {
+      "question": "Ankara, Turkey and Islamabad, Pakistan are both examples of",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3867831230163574
+    },
+    {
+      "question": "Which of the following is NOT an example of syncretism?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3871209621429443
+    },
+    {
+      "question": "The theory that whoever controlled the landmass of Europe would rule the world is called the",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3874661922454834
+    },
+    {
+      "question": "Which group represents the Persian (Iranian) variation of Islam and believes in the infallibility and divine right to authority of the Imams descended from Ali?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.441965103149414
+    },
+    {
+      "question": "The multiplier effect is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4423418045043945
+    },
+    {
+      "question": "The sacred book of the Hindu is called the",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4426870346069336
+    },
+    {
+      "question": "Which of the following is a distinct characteristic of an East European city?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4430580139160156
+    },
+    {
+      "question": "Which of the following countries is actively trying to preserve the purity of their native language from contamination by English or other languages?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4434149265289307
+    },
+    {
+      "question": "Which of the following is an example of a bulk-gaining industry?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4437849521636963
+    },
+    {
+      "question": "Which of the following is NOT a feature of an export processing zone (EPZ)?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4446158409118652
+    },
+    {
+      "question": "Which of the following characteristics is NOT true of a state?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4453389644622803
+    },
+    {
+      "question": "You are planning to move from your hometown to Pittsburgh. Along the way, you stop in Columbus, Ohio to visit a relative and fall in love with the city! You decide to stay and make Columbus your new home. This is an example of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4460489749908447
+    },
+    {
+      "question": "A large node of office and commercial land use outside the central city with more jobs than residents is a(n)",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.446777820587158
+    },
+    {
+      "question": "Which crop began the Third Agricultural Revolution?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4555649757385254
+    },
+    {
+      "question": "Which factor in the last quarter century greatly destabilized Eastern Europe and led to ethnic conflict?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.455972909927368
+    },
+    {
+      "question": "If I wanted to ship a small piece of very valuable jewelry to my aunt who lives in Poughkeepsie, which mode of transportation makes the most sense?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4563241004943848
+    },
+    {
+      "question": "Which of the following is a functional region?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.456676959991455
+    },
+    {
+      "question": "Which type of city model contains a distinct residential spine proceeding outward from center city along the main boulevard?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.457031011581421
+    },
+    {
+      "question": "What family do most European languages belong to?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4576549530029297
+    },
+    {
+      "question": "What do the terms apartheid, ethnic cleansing, and integration all have in common?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4583699703216553
+    },
+    {
+      "question": "Which one of the statements below correctly describes immigrants living in Europe?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4590868949890137
+    },
+    {
+      "question": "Which of the following activities are NOT secondary economic activities?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.460034132003784
+    },
+    {
+      "question": "Johnny and Susie are moving to Scotland to renovate and live in the family castle. What makes their move a migration?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4608099460601807
+    },
+    {
+      "question": "Which of the following entities is a state?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.533903121948242
+    },
+    {
+      "question": "What is the most abundant fossil fuel?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.534271001815796
+    },
+    {
+      "question": "A rejection of or indifference to religion in a country is called",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5348598957061768
+    },
+    {
+      "question": "In a postindustrial economy, which of the following resources is considered most important to increase productivity?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.535301923751831
+    },
+    {
+      "question": "A city that is more than twice as large as the next largest city in a country is called a",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5356500148773193
+    },
+    {
+      "question": "Every country with a seacoast has an exclusive economic zone (EEZ) under the UN Convention on the Law of the Sea. Which one of the following statements regarding the Law of the Sea and the EEZ is NOT correct?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.5359890460968018
+    },
+    {
+      "question": "Which of the following is MOST likely to experience population pressure?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.53640079498291
+    },
+    {
+      "question": "Part of the boundary between the United States and Mexico is the Rio Grande, an example of",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.536747932434082
+    },
+    {
+      "question": "When we talk about diffusion of a cultural trait, what do we mean by \"hearth\"?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5370800495147705
+    },
+    {
+      "question": "The distance north and south of the equator is the",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.537419080734253
+    },
+    {
+      "question": "Why are perceptual or vernacular regions so difficult to identify?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.350436210632324
+    },
+    {
+      "question": "Which structure(s) traditionally occupies the center of a historic Asian city?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3513131141662598
+    },
+    {
+      "question": "Which description best describes the urban hierarchy model in which the population of a city is inversely proportional to its rank in the hierarchy?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.351813316345215
+    },
+    {
+      "question": "Which of the following is a major concern in countries with a large and rapidly aging population?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3521862030029297
+    },
+    {
+      "question": "Which of the following capital cities is located OUTSIDE the central core area of the country?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3525261878967285
+    },
+    {
+      "question": "Spanish colonial architecture, uneven economic development, and rural-to-urban migration flows are most commonly found in which of the following?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.352872371673584
+    },
+    {
+      "question": "The purpose for the creation of NATO was to",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3532233238220215
+    },
+    {
+      "question": "Which of the following is NOT a key milestone reached by the EU?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3539271354675293
+    },
+    {
+      "question": "The use and spread of English in nineteenth-century India is an example of what type of diffusion?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.35455322265625
+    },
+    {
+      "question": "The theory that most migration occurs over a short distance and in steps is attributed to",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3549141883850098
+    },
+    {
+      "question": "The way of life based on breeding and herding of animals that are used as a source of food, shelter, and clothing is called",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.361356019973755
+    },
+    {
+      "question": "The European Union (EU) replaced which of the following organizations?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.361725330352783
+    },
+    {
+      "question": "The attempt by core countries to stimulate increased agricultural production in the periphery through use of technology, hybrid seed, and fertilizers is called the",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.36206316947937
+    },
+    {
+      "question": "Shifting cultivation is most often practiced in",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.362492322921753
+    },
+    {
+      "question": "The migration streams into the United States between 1980 and the present have been primarily composed of emigrants from which of the following regions?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.362851142883301
+    },
+    {
+      "question": "Which one of the following North American associations is NOT correct?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3632209300994873
+    },
+    {
+      "question": "Which of the following countries is NOT a federal state?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3636221885681152
+    },
+    {
+      "question": "Which of the following world regions is NOT considered one of the world's most densely populated regions?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3640639781951904
+    },
+    {
+      "question": "Olives, grapes, and chickpeas are staple crops of which type of farming?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.36476731300354
+    },
+    {
+      "question": "A person who practices the Hindu religion would be most likely to",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.365476131439209
+    },
+    {
+      "question": "The language with the largest number of \"speakers\" is",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.450900077819824
+    },
+    {
+      "question": "Which one of the following statements does NOT correctly describe the Green Revolution?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4517009258270264
+    },
+    {
+      "question": "Historically, the world's major languages have spread by all of the following methods EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4520888328552246
+    },
+    {
+      "question": "A primate city is",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4524450302124023
+    },
+    {
+      "question": "Which of the following factors would be considered a \"pull\" factor for Riva when considering a move from India to the United States?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4527838230133057
+    },
+    {
+      "question": "All of the following are reasons major cities attract young people in Latin America EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4531359672546387
+    },
+    {
+      "question": "Which language family is most widely spoken in North America and Europe and includes Baltic, Celtic, Germanic, and Greek?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4534759521484375
+    },
+    {
+      "question": "Which theorist(s) tried to explain the prices of farm products as they relate to patterns of land use?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4538750648498535
+    },
+    {
+      "question": "Which of the following is NOT a spread effect in the core-periphery model of development?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.4542129039764404
+    },
+    {
+      "question": "Which of the following is NOT an important environmental factor influencing a country's agriculture?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4547431468963623
+    },
+    {
+      "question": "Which of the following countries is situated in the region of tectonic activity known as the Pacific Ring of Fire?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4631690979003906
+    },
+    {
+      "question": "Which one of the following statements is NOT true of the \"core\" countries?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.463547945022583
+    },
+    {
+      "question": "If you wanted to find the global distribution of coal, you would use a",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4638819694519043
+    },
+    {
+      "question": "Which one of the following is NOT a centripetal force in a state?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.464402914047241
+    },
+    {
+      "question": "The cities of Varanasi (Benares) in India and Mecca in Saudi Arabia are alike because both are",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4648659229278564
+    },
+    {
+      "question": "China and Vietnam's dispute over the Spratley Islands is",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.465203046798706
+    },
+    {
+      "question": "Which of the following is NOT used by geographers to determine absolute location?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.465906858444214
+    },
+    {
+      "question": "Which of the following is a characteristic of a developed country?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.466416835784912
+    },
+    {
+      "question": "Mary lives in a neighborhood with stores, offices, and restaurants so close that she does not need to own a car; however, she feels she has very little privacy. This is an example of a(n)",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4670557975769043
+    },
+    {
+      "question": "Which of the following items below is an absolute location?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.467780828475952
+    },
+    {
+      "question": "Which one of the following groups is excluded from the caste system of Hinduism?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.302096128463745
+    },
+    {
+      "question": "Which of the following is a push factor?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.302852153778076
+    },
+    {
+      "question": "The Basques, Bretons, Kashmiris, and Tamils are all examples of",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.303575038909912
+    },
+    {
+      "question": "Which of the following factors does NOT play a role in gender relationships in a culture or society?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.30430006980896
+    },
+    {
+      "question": "The intensive agricultural practice of planting and harvesting the same crop more than once a year is called",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.305600166320801
+    },
+    {
+      "question": "When a new fashion design is introduced globally, the information initially travels through a process known as",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3061110973358154
+    },
+    {
+      "question": "Opponents of genetically modified organisms (GMOs) in food are afraid that the GMOs",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.306462049484253
+    },
+    {
+      "question": "Which one of the following is NOT an advantage of urban agriculture?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3068480491638184
+    },
+    {
+      "question": "Which of the following is NOT a problem Europe currently faces today?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3071999549865723
+    },
+    {
+      "question": "The world systems theory divides the world into",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3075690269470215
+    },
+    {
+      "question": "The majority of Kurds are found in which country?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3761420249938965
+    },
+    {
+      "question": "In what country are the most Basque speakers found?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3765077590942383
+    },
+    {
+      "question": "The most rapidly urbanizing area of the world is:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3769888877868652
+    },
+    {
+      "question": "The influence of neo-Malthusianism can be seen in",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3777058124542236
+    },
+    {
+      "question": "The process of devolution involves",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.37844181060791
+    },
+    {
+      "question": "The theory that cities grow outward from a core utilizing several nodes of growth was proposed by",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.379194736480713
+    },
+    {
+      "question": "The theory that the main purpose of a settlement or market town is to furnish goods and services to the surrounding market area is called the",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3799068927764893
+    },
+    {
+      "question": "Which one of the following statements does NOT correctly describe transnational companies (TNCs)?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.380642890930176
+    },
+    {
+      "question": "The \"melting pot\" theory of combining several immigrant groups into one mainstream culture is called",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.381376028060913
+    },
+    {
+      "question": "Which theory below was used as justification for US involvement in Vietnam in the 1960s and 1970s?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.382056951522827
+    },
+    {
+      "question": "Urban agriculture can benefit urban society in all of the following ways EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5201358795166016
+    },
+    {
+      "question": "Which one of the following organizations is NOT a supranational organization?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.520730972290039
+    },
+    {
+      "question": "Which one of the following demographic factors characterizes stages 4 and 5 in the demographic transition model?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.521071195602417
+    },
+    {
+      "question": "Which of the following statements does NOT describe a factor that contributed to suburbanization in the United States?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5214121341705322
+    },
+    {
+      "question": "An isobar map shows lines connecting all points of equal",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.521790027618408
+    },
+    {
+      "question": "Ralph purchases garden fertilizer at the nearby garden shop rather than drive 50 miles to the neighboring town for the same product. This reflects which type of spatial interaction?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.52213716506958
+    },
+    {
+      "question": "What type of countries generally possesses a greater variety of climates and resources than other countries?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5224881172180176
+    },
+    {
+      "question": "Which of the following factors has little or no impact on mortality rates in the developing countries?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.522825002670288
+    },
+    {
+      "question": "The idea that you identify with, and give allegiance, to a nation-state is",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5231640338897705
+    },
+    {
+      "question": "What condition occurs when the people of one state want to annex a territory whose population is ethnically related to that state's population but now under the rule of another state?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5235021114349365
+    },
+    {
+      "question": "Variations in vocabulary, pronunciation, and rhythm in a spoken language are called",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3493149280548096
+    },
+    {
+      "question": "Boundary problems along the United States–Mexico border are caused by which type of issue below?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3496928215026855
+    },
+    {
+      "question": "In which country does language pose a centrifugal force?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.350069999694824
+    },
+    {
+      "question": "Quebec is a strong example of which of the following situations?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3506739139556885
+    },
+    {
+      "question": "Which of the following items below is NOT considered a barrier to the diffusion of an innovation?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3510661125183105
+    },
+    {
+      "question": "Change in any culture is introduced through all the following processes EXCEPT",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3518059253692627
+    },
+    {
+      "question": "Which of the following statements regarding historical North American migration streams is NOT correct?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3525280952453613
+    },
+    {
+      "question": "A chief factor that contributed to the Second Agricultural Revolution was",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3532419204711914
+    },
+    {
+      "question": "Zero population growth (ZPG) is achieved when",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3539681434631348
+    },
+    {
+      "question": "In which of the following Asian countries would one find special economic zones (SEZs)?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.354768991470337
+    },
+    {
+      "question": "Which of the following industries does NOT need to be close to its markets?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.539620876312256
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of a city in the developing world?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.5399889945983887
+    },
+    {
+      "question": "A map that presents a single class of statistics is called a",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5405259132385254
+    },
+    {
+      "question": "The construction of freeways leads to all but which of the following results?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.5408618450164795
+    },
+    {
+      "question": "Which continent has the highest total fertility rates?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5411980152130127
+    },
+    {
+      "question": "What monotheistic religion is based on the life and teachings of Jesus Christ of Nazareth?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5415868759155273
+    },
+    {
+      "question": "Which of the following statements is true concerning folklore?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5420689582824707
+    },
+    {
+      "question": "The irregularity of the wet monsoon in South Asia in recent years may have a significant negative effect on which of the following?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.542447805404663
+    },
+    {
+      "question": "According to Alfred Weber's least-cost theory, which one of the following costs of production is the most important factor in locating an industry?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5427958965301514
+    },
+    {
+      "question": "The climate of Great Britain is milder than most other places along the same latitude for which of the following reasons?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5431599617004395
+    },
+    {
+      "question": "Which of the following supranational organizations is not an economic union?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 1.948462963104248
+    },
+    {
+      "question": "The global lingua franca is",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 1.9489619731903076
+    },
+    {
+      "question": "What are the two major branches of Islam?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 1.9493012428283691
+    },
+    {
+      "question": "What was the primary reason the Green Revolution did NOT help Africa much?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 1.9496641159057617
+    },
+    {
+      "question": "The largest exporter of agricultural goods in the world is",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 1.9500219821929932
+    },
+    {
+      "question": "Which of the following statements is NOT part of Gunnar Myrdal's theory of cumulative causation?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 1.950364112854004
+    },
+    {
+      "question": "Which pair of religions below share a long-held tradition of cremating their dead?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 1.9507980346679688
+    },
+    {
+      "question": "The official languages of Guyana, Suriname, and French Guiana are English, Dutch, and French, respectively. On what continent are those countries located?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 1.9511468410491943
+    }
+  ]
+}

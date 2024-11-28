@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq2_xss",
+    "ntrain": 0,
+    "ntest": 1,
+    "timestamp": "20241127-164724"
+  },
+  "subject": "moral_disputes",
+  "category": "humanities",
+  "correct_rate": 100.0,
+  "evaluation_results": [
+    {
+      "question": " Just war theory's principle of military necessity belongs to",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 0.46642613410949707
+    }
+  ]
+}

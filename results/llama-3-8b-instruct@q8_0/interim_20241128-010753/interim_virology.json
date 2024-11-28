@@ -1,0 +1,1175 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@q8_0",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-023935"
+  },
+  "subject": "virology",
+  "category": "other (business, health, misc.)",
+  "correct_rate": 51.80722891566265,
+  "evaluation_results": [
+    {
+      "question": "How many human polyomaviruses are known at present?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.447219133377075
+    },
+    {
+      "question": "AIDS activism in the U.S. resulted in:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.447672128677368
+    },
+    {
+      "question": "Globally, the most deaths are caused by:",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.44816517829895
+    },
+    {
+      "question": "What happens during the 'incubation period'?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4485859870910645
+    },
+    {
+      "question": "Newborn infants in countries with limited access to safe water and low levels of education should be:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4490091800689697
+    },
+    {
+      "question": "Achieving effective change in a community is usually dependent on which of the following segments of society?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4493601322174072
+    },
+    {
+      "question": "“Contingency management” is”:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4496991634368896
+    },
+    {
+      "question": "Typical clinical symptoms following infection with astroviruses include which of the following?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4500560760498047
+    },
+    {
+      "question": "Which of the following is the most special characteristic of the adaptive immune system?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.450399160385132
+    },
+    {
+      "question": "Chemotherapy is now an option for clinical care of patients. Typical drug regimens now include which of the following?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4505131244659424
+    },
+    {
+      "question": "There were no new cases of Ebola virus in the United States from January 1, 1997 through January 1, 1998. Which of the following epidemiologic terms does this statement describe?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4010050296783447
+    },
+    {
+      "question": "How were retroviruses discovered?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.401370048522949
+    },
+    {
+      "question": "Most surveillance systems use which of the following study designs?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.401884078979492
+    },
+    {
+      "question": "Polio can be eradicated by which of the following?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4023468494415283
+    },
+    {
+      "question": "Public health ethics is:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4034640789031982
+    },
+    {
+      "question": "How many people globally are currently infected with hepatitis B?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.403918981552124
+    },
+    {
+      "question": "In a study, a group of people are exposed to an environmental toxin but are not treated observed over time on a standard set of measures to ascertain the potential effects of the toxin. This type of study design is called",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.404264211654663
+    },
+    {
+      "question": "Which disease do polyomaviruses predominantly cause?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4046151638031006
+    },
+    {
+      "question": "How are antibody producing cells stimulated?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4049530029296875
+    },
+    {
+      "question": "The single most important key to the success of the Multicenter AIDS Cohort (MACS) is:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.405297040939331
+    },
+    {
+      "question": "Picornavirus replication as a positive strand RNA virus is particularly typified by which of the following?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.598716974258423
+    },
+    {
+      "question": "Why are members of the astrovirus family only recently recognised as significant enteric viruses for humans?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.599156141281128
+    },
+    {
+      "question": "Which virus infection was not first identified by clinical observation?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.5995609760284424
+    },
+    {
+      "question": "The particular quality of the U.S. health care system is its:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.599982976913452
+    },
+    {
+      "question": "The three key intervention strategies according to Professor Shoptaw are:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6005048751831055
+    },
+    {
+      "question": "Measles has been controlled in many countries by which of the following?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6008400917053223
+    },
+    {
+      "question": "How can the spread of filoviruses be restricted?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.600961923599243
+    },
+    {
+      "question": "Most pandemics have arisen from influenza viruses from which of the following animals?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.601057767868042
+    },
+    {
+      "question": "PreP is an effective strategy for reducing the incidence of HIV in:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.60115385055542
+    },
+    {
+      "question": "The replication of hepatitis B includes which of the following stages?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.6012470722198486
+    },
+    {
+      "question": "How does the papilloma family of viruses cause cancer?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4567089080810547
+    },
+    {
+      "question": "The noroviruses typically cause which of the following?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4570820331573486
+    },
+    {
+      "question": "Deep nucleotide sequencing (NGS) is now cheap enough for general application. What will the technique mainly be useful for?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.4576640129089355
+    },
+    {
+      "question": "Determinants of acquiring an HIV infection from an infected person per sexual act include:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4582319259643555
+    },
+    {
+      "question": "How is next generation sequencing (NGS) most often used?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.4585440158843994
+    },
+    {
+      "question": "Which of the following HPV viruses are known to cause cervical cancer?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4586410522460938
+    },
+    {
+      "question": "Which member of the paramyxovirus family can cause very serious croup?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4587340354919434
+    },
+    {
+      "question": "Which of the following is the cause of delay in HIV testing among the Latino population?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4588239192962646
+    },
+    {
+      "question": "Describe the morphology of a togavirus.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4589121341705322
+    },
+    {
+      "question": "A good surveillance system should provide information about:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4589998722076416
+    },
+    {
+      "question": "What has so far prevented polio being eradicated from the world?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6006698608398438
+    },
+    {
+      "question": "The range of disease caused by the family is wide but identify the exception from the following:",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.6013059616088867
+    },
+    {
+      "question": "Which of the following drugs inhibit herpes viruses?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.602365016937256
+    },
+    {
+      "question": "The three countries with the most drug injectors are:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.602461814880371
+    },
+    {
+      "question": "Officials at a large community hospital report an increased incidence of acute lymphocytic leukemia (ALL) among children aged 5 – 12. They point out that some households in the community are exposed to chemical waste from a nearby factory. They believe that chemical waste causes leukemia. If a study is designed to evaluate the hospital officials’ claim, which of the following subjects are most likely to comprise the control group?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6025540828704834
+    },
+    {
+      "question": "Lassa and Ebola are emergent viruses in W. Africa. What is their origin?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.6026499271392822
+    },
+    {
+      "question": "Antivirals can be used prophylactically or therapeutically in persons in which of the following circumstances?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.602741003036499
+    },
+    {
+      "question": "Papillomaviruses cause warts and cancer but how do they most often infect humans?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.602829933166504
+    },
+    {
+      "question": "There are 57 serotypes of adenovirus currently recognised. Which has the most important clinical impact?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.602919101715088
+    },
+    {
+      "question": "How are new polyomaviruses detailed",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.603005886077881
+    },
+    {
+      "question": "Describe the YF vaccine.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.468453884124756
+    },
+    {
+      "question": "What is the biggest risk factor for infection with Ebola?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.468817949295044
+    },
+    {
+      "question": "The influenza virus is mainly controlled in special \"risk\" sectors by:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4691531658172607
+    },
+    {
+      "question": "A case-control study is conducted to assess the association between alcohol consumption and lung cancer patients with lung cancer and 100 controls are asked about their past alcohol consumption. According to the study results, alcohol consumption is strongly associated with lung cancer (OR = 2.5). The researchers then divide the study subjects into two groups: smokers and non-smokers. Subsequent statistical analysis does not reveal any association between alcohol consumption and lung cancer within either group. The scenario described is an example of which of the following?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.469484806060791
+    },
+    {
+      "question": "How are arenaviruses spread?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4707400798797607
+    },
+    {
+      "question": "Which areas of the world are rabies free?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4709441661834717
+    },
+    {
+      "question": "The risk of perinatal transmission of HIV-1 infection during breast feeding is increased due to:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4710381031036377
+    },
+    {
+      "question": "How is the parvovirus family targeted to reduce disease?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.471129894256592
+    },
+    {
+      "question": "Who discovered the first virus?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4712209701538086
+    },
+    {
+      "question": "Structural interventions typically target:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4713099002838135
+    },
+    {
+      "question": "What is the main clinical picture of hepatitis A?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5086090564727783
+    },
+    {
+      "question": "If the human norovirus cannot be cultured in cell cultures how can it best be studied?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.5098769664764404
+    },
+    {
+      "question": "Any systematic error in the design, conduct, or analysis of a study that results in a mistaken estimate of an exposure’s effect on the risk of disease is called:",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5103769302368164
+    },
+    {
+      "question": "Describe the coronavirus structure.",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5106871128082275
+    },
+    {
+      "question": "SARS is described as a zoonotic virus - what does this mean?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.510793924331665
+    },
+    {
+      "question": "Which of the following coronaviruses has caused thousands of deaths around the world as an 'emergent' virus?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.510892152786255
+    },
+    {
+      "question": "Clinical infection by an arenavirus is characterised by which one of the following?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5109870433807373
+    },
+    {
+      "question": "How does rubella cause foetal abnormalities?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5110788345336914
+    },
+    {
+      "question": "Which of the following is an unusual feature of the replication cycle in coronaviruses?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.5111701488494873
+    },
+    {
+      "question": "Which replication strategy is paralleled by some other viruses?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5112578868865967
+    },
+    {
+      "question": "The characteristic of a generalized epidemic is:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3697290420532227
+    },
+    {
+      "question": "An updated version of classification shows the parvovirus family as having how many genera?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.37019419670105
+    },
+    {
+      "question": "The largest Latino community in the U.S. is:",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.370616912841797
+    },
+    {
+      "question": "How can epidemics of astrovirus mainly be controlled?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.371039867401123
+    },
+    {
+      "question": "500 women aged 40 – 54 who present for routine check-ups are asked about their meat consumption the women turn out to be vegetarian. During the ensuing 5 years, 5 vegetarians and 43 non-vegetarians develop colorectal cancer. Which of the following best describes the study design?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.371441125869751
+    },
+    {
+      "question": "In the absence of treatment the risk of HIV transmission from an infected mother to her fetus/infant was highest in which of the following areas?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.371946096420288
+    },
+    {
+      "question": "Poliovirus can most easily become more virulent by which of the following processes?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.372067928314209
+    },
+    {
+      "question": "A virus such as influenza which emerges suddenly and spreads globally is called:",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3721649646759033
+    },
+    {
+      "question": "Of the following factors, which are the most important factors for virus spread and infection?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3722541332244873
+    },
+    {
+      "question": "How do viruses of the calcivirus family replicate?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.372344970703125
+    },
+    {
+      "question": "The parvoviruses have a rather unique genome; what form does it take?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.295607805252075
+    },
+    {
+      "question": "How can the morphology of filoviruses be described?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2959649562835693
+    },
+    {
+      "question": "What is the usual direction of 'knowledge' in a cell?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.29630184173584
+    },
+    {
+      "question": "Why are drug combinations essential for HIV?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2993040084838867
+    },
+    {
+      "question": "Many virus infections result in immune pathology, this is caused predominantly by which of the following?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2994120121002197
+    },
+    {
+      "question": "David Baltimore is a molecular biologist. What did he discover?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.299503803253174
+    },
+    {
+      "question": "Identify the most commonly used diagnostic technique in the virus laboratory:",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.2995920181274414
+    },
+    {
+      "question": "The major risk group for HIV infection among Latinos is:",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.299680709838867
+    },
+    {
+      "question": "In HIV-associated tuberculosis cases, treatment with antiretrovirals should begin:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.299769878387451
+    },
+    {
+      "question": "A “benefit” of research may accrue:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2998569011688232
+    },
+    {
+      "question": "What is the current best option for preventing future outbreaks of Ebola?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.4670932292938232
+    },
+    {
+      "question": "Where are arenaviruses predominately located in the world?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4675469398498535
+    },
+    {
+      "question": "The most important element of ethical research on human subjects is:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.467911958694458
+    },
+    {
+      "question": "The characteristic of injecting drug users in Asia is/are:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.468264102935791
+    },
+    {
+      "question": "Viruses have encouraged us to change our world, as we have now:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.468607187271118
+    },
+    {
+      "question": "What is the most important factor for virus classification?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4690651893615723
+    },
+    {
+      "question": "The major issue for HIV infection among the Latino population is:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.469417095184326
+    },
+    {
+      "question": "Disease can most often be prevented by which of the following:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.469542980194092
+    },
+    {
+      "question": "Results of surveillance should be distributed to:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4696359634399414
+    },
+    {
+      "question": "Which is a major characteristic of the bunyavirus family?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.469727039337158
+    },
+    {
+      "question": "The group that permits analysis of the entire natural history of HIV/AIDS is:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8237011432647705
+    },
+    {
+      "question": "The chance of acquiring HIV infection from factor VIII in the United States in 2011 is 0% primarily because:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8241491317749023
+    },
+    {
+      "question": "The prevalence of HIV among Latino-Americans compared to other ethic groups in the U.S. is:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.82468318939209
+    },
+    {
+      "question": "What is the rubella syndrome?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8250720500946045
+    },
+    {
+      "question": "What is the most common way for a virus to kill a cell?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8255069255828857
+    },
+    {
+      "question": "The influenza virus has complicated genetics mainly characterised by which of the following?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.8257832527160645
+    },
+    {
+      "question": "The highest risk of HIV infection among drug users in the U.S. is in:",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.8258790969848633
+    },
+    {
+      "question": "A study is conducted to assess the relationship between race and end-stage renal disease pathologists independently study specimens from 1,000 kidney biopsies. The first group of pathologists is aware of the race of the patient from whom the biopsy came, while the second group is blinded as to the patient’s race. The first group reports ‘hypertensive nephropathy’ much more frequently for black patients than the second group. Which of the following types of bias is most likely present in this study?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8259711265563965
+    },
+    {
+      "question": "What is urban yellow fever (YF)?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.8260669708251953
+    },
+    {
+      "question": "The current testing policy of the Centers for Disease Control and the World Health Organization is:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8261561393737793
+    },
+    {
+      "question": "Common cold viruses are ubiquitous and invade by which route?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.452789068222046
+    },
+    {
+      "question": "Assembly is a vital late replication stage for a virus and is often accomplished by which of the following?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4532322883605957
+    },
+    {
+      "question": "The biggest single determinant of HIV transmission to the infant is:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.453573226928711
+    },
+    {
+      "question": "What does the reproductive number of a virus tell us?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.454090118408203
+    },
+    {
+      "question": "PreP is most effective for which group:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4544551372528076
+    },
+    {
+      "question": "A special feature of adaptive immunity is:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4547982215881348
+    },
+    {
+      "question": "As regards the range of diseases caused by viruses:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4551382064819336
+    },
+    {
+      "question": "Which is the exception in the following range of disease symptoms caused by bunyaviruses?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.455591917037964
+    },
+    {
+      "question": "There is no vaccine against HIV because of which of the following?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.455885171890259
+    },
+    {
+      "question": "The requirements for an effective surveillance system include:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4559900760650635
+    },
+    {
+      "question": "MERS has four special characteristics and here we have one exception - which is it?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5025758743286133
+    },
+    {
+      "question": "The major beneficiary of Medicaid in the U.S. is:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.503032922744751
+    },
+    {
+      "question": "Which of the following is the most important for controlling disease caused by norovirus?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5033838748931885
+    },
+    {
+      "question": "Why do vigorous CD8 cell responses in chronically infected HIV-positive individuals fail to eliminate the virus?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.5037758350372314
+    },
+    {
+      "question": "The most widespread and important retrovirus is HIV-1; which of the following is true?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.504265069961548
+    },
+    {
+      "question": "The first acquired immune cell to respond defensively to HIV infection is:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.504647970199585
+    },
+    {
+      "question": "Which of the following is a special feature of the rabies vaccine?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5049948692321777
+    },
+    {
+      "question": "Most viral vaccines are produced by which of the following techniques?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.505331039428711
+    },
+    {
+      "question": "The treatment of hepatitis C has been revolutionised most recently by which of the following?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.505674123764038
+    },
+    {
+      "question": "Chikungunya has spread widely from Asia and Africa into the Caribbean in recent years. This has been mainly facilitated by:",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.506011962890625
+    },
+    {
+      "question": "The successful anti-cancer HPV vaccine consists of:",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.5273427963256836
+    },
+    {
+      "question": "The rotavirus is an important cause of which of the following?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5277669429779053
+    },
+    {
+      "question": "The surveillance testing strategy associated with the least selection bias is:",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.5281288623809814
+    },
+    {
+      "question": "In a medical class of 147 students, the distribution of scores on a biochemistry final examination has a mean equal to 67, a median equal to 76, a mode equal to 80, a standard deviation equal to 5.5, and a variance equal to 30.25. Three students were unable to take the test on the scheduled date and were given a different form of the exam 1 week later. Which parameter is most likely to be the least biased estimator of central tendency for this distribution of biochemistry test scores?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5284810066223145
+    },
+    {
+      "question": "What disease do herpes viruses not cause?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.528810977935791
+    },
+    {
+      "question": "The purpose of a double-blind or double-masked study is to:",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.5291898250579834
+    },
+    {
+      "question": "Nipah is a zoonotic paramyxovirus; where did it originate?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.529467821121216
+    },
+    {
+      "question": "What is the genome structure of the polyomavirus family?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5295968055725098
+    },
+    {
+      "question": "Interferons are very special defence mechanisms which operate by:",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.5297038555145264
+    },
+    {
+      "question": "Genetic characteristics of the bunyavirus family include which one of the following?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.5297977924346924
+    },
+    {
+      "question": "The basic code of ethical research (respect for persons, beneficence, and justice) was first established by the:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3048148155212402
+    },
+    {
+      "question": "The paramyxovirus family employ what strategy at virus entry?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3053247928619385
+    },
+    {
+      "question": "The risk of acquiring HIV from a unit of blood in the United States is now:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3056628704071045
+    },
+    {
+      "question": "What is the essential pathology of astroviruses?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3060479164123535
+    },
+    {
+      "question": "Which of the following are goals of vaccination?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.306544780731201
+    },
+    {
+      "question": "Randomization of study subjects in a clinical trial is most helpful for controlling for which of the following?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3068978786468506
+    },
+    {
+      "question": "A quasi species virus such as influenza and HIV has which of the following characteristics?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.307015895843506
+    },
+    {
+      "question": "Positive stranded RNA viruses have which of the following characteristics?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3071107864379883
+    },
+    {
+      "question": "What is the genetic structure of rotavirus?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.307203769683838
+    },
+    {
+      "question": "Are/were viruses:",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3072948455810547
+    },
+    {
+      "question": "It is unlikely that a 'cure' of HIV is possible with current drugs because:",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.421015739440918
+    },
+    {
+      "question": "Which viruses appear to be hypermutable?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.4213829040527344
+    },
+    {
+      "question": "How are herpes infections controlled?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.42179799079895
+    },
+    {
+      "question": "A new drug with in vitro activity against HIV is tested on a population of patients with Western-blot confirmed HIV infections. Out of the 200 individuals in the patient population, 100 are chosen by lottery to receive the drug. The drug, which is tasteless, is administered in a cup of orange juice; the other patients receive pure orange juice. Neither the nurses, doctors, nor the patients know which patients receive the drug. At the end of the study period, the number of CD4+ T cells is determined for all of the subjects. This is an example of a",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.4233717918395996
+    },
+    {
+      "question": "What is the most successful and most widely used 'travel' vaccine for international visitors?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.423487901687622
+    },
+    {
+      "question": "What is a virus pandemic?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.423583984375
+    },
+    {
+      "question": "Benefits of opioid replacement therapy as an approach for HIV prevention include:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.4236748218536377
+    },
+    {
+      "question": "Papilloma viruses are characterised by what genetic feature?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.4237630367279053
+    },
+    {
+      "question": "As part of the Women’s Health Study, researchers investigated the role of systemic inflammation in predicting cardiovascular disease in women (N Engl J Med. 2002;347[20]:1557-1565). Researchers used a prospective study design with a large sample size. Blood levels of C-reactive protein (CRP) were measured at baseline and women were followed for an average of 8 years. The following table shows the relative risk estimates of cardiovascular event (heart attack or stroke) within 5 years by quintile of CRP level for the 30,000 women. The first quintile is used as the reference category.  1 0.49 mg/dL Relative Risk Number of women  1.0 6000  2 >0.49-1.08 mg/dL 1.8 6000  Quintile of CRP Level 3 >1.08-2.09 mg/dL 2.3 6000  4 >2.09-4.19 mg/dL 3.2 6000  5 >4.19 mg/dL 4.5 6000  Based on the relative risk data above, one can conclude:",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.4238510131835938
+    },
+    {
+      "question": "What is the morphology of the Dane particle?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.4239439964294434
+    },
+    {
+      "question": "The adenovirus virion has which unique structural feature?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 1.5872011184692383
+    },
+    {
+      "question": "A city has a population of 250,000 cases and 400 deaths each year from this disease. There are 2,500 deaths per year from all causes. The prevalence of this disease is given by",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 1.587672233581543
+    },
+    {
+      "question": "Which unique form does the rabies virus take?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 1.5880522727966309
+    },
+    {
+      "question": "Which of the following diseases is not caused by togaviruses?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 1.5884013175964355
+    },
+    {
+      "question": "Why are the viruses of this family called astroviruses?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 1.5887401103973389
+    },
+    {
+      "question": "Why do emerging viruses like Zika and Ebola continue to plague us?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 1.5892562866210938
+    }
+  ]
+}

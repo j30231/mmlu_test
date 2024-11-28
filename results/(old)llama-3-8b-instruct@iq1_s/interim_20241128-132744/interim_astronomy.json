@@ -1,0 +1,1063 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq1_s",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-133238"
+  },
+  "subject": "astronomy",
+  "category": "STEM",
+  "correct_rate": 17.333333333333336,
+  "evaluation_results": [
+    {
+      "question": "What is true for a type-Ia (\"type one-a\") supernova?",
+      "model_answer": "I'm going to answer this question with a single letter, but I'm not explaining it.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.428822994232178
+    },
+    {
+      "question": "If you know both the actual brightness of an object and its apparent brightness from your location then with no other information you can estimate:",
+      "model_answer": "I'm not sure what I'm doing here, but I'm trying to help my friend and his family.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.429250955581665
+    },
+    {
+      "question": "Why is the sky blue?",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.429679870605469
+    },
+    {
+      "question": "You’ve made a scientific theory that there is an attractive force between all objects. When will your theory be proven to be correct?",
+      "model_answer": "What will you fall?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.430328607559204
+    },
+    {
+      "question": "Which of the following is/are true?",
+      "model_answer": "I'm going to answer this question with a single letter, which is:\n\nNone of the above, because there is no other option to choose from.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.431099891662598
+    },
+    {
+      "question": "A comet of mass m impacts the earth (mass M radius R) at the minimum impact speed. What is the expression for the total energy released in the impact?",
+      "model_answer": "I'm going to answer this question with a single letter, but I'm not going to explain the meaning of the total energy released in the impact.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.431861877441406
+    },
+    {
+      "question": "Some of Mars'water is frozen in the soil and the ice caps and some was lost due to solar wind stripping but much of the original water is thought to have been lost through another mechanism. What happened to this \"lost\"water?",
+      "model_answer": "What did you do?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.432348728179932
+    },
+    {
+      "question": "Most rocks on the Moon's surface are older than those on the Earth's surface. The best evidence for this is:",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.43269681930542
+    },
+    {
+      "question": "What is the second most common element in the solar system?",
+      "model_answer": "The answer to this question is a single letter, which is D.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.433158874511719
+    },
+    {
+      "question": "What is the source of the material that causes meteor showers?",
+      "model_answer": "This is the answer to the multiple choice question about astronomy.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.433535814285278
+    },
+    {
+      "question": "Why does the plasma (ion) tail of a comet always point away from the Sun?",
+      "model_answer": "What is your response to this multiple choice question about astronomy?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.736073970794678
+    },
+    {
+      "question": "How did Eratosthenes estimate the size of Earth in 240 B.C.?",
+      "model_answer": "What did you do?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.73651123046875
+    },
+    {
+      "question": "The Large Magellanic Cloud is ...",
+      "model_answer": "What did you say?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.736861228942871
+    },
+    {
+      "question": "Why do we look for water-ice in craters at Mercury's pole?",
+      "model_answer": "What a question that you are looking for water-ice in the poles at Mercury's?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.737211227416992
+    },
+    {
+      "question": "The Milky Way is part of a giant supercluster with a diameter of 160 Mpc. What is the name of this supercluster?",
+      "model_answer": "This question requires you to answer this multiple choice question about astronomy.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.737560987472534
+    },
+    {
+      "question": "On which planet in our solar system can you find the Great Red Spot?",
+      "model_answer": "None of the above, because I'm a helpful assistant, and I don't know much about any other planet, but it's not important because I was in charge of the astronomy question.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.737954139709473
+    },
+    {
+      "question": "Why does Earth have the strongest magnetic field among the terrestrial worlds?",
+      "model_answer": "What does this multiple choice question about astronomy?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.73868203163147
+    },
+    {
+      "question": "Which of the following is not true?",
+      "model_answer": "I'm going to answer this question with a single letter, but I'm not explaining it.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.739323139190674
+    },
+    {
+      "question": "Which of the following is/are common feature(s) of all fresh (i.e. not eroded) impact craters formed on solid surfaces:",
+      "model_answer": "I'm a helpful assistant that answers with a single letter, which is the correct answer for this multiple choice question about astronomy.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.739697217941284
+    },
+    {
+      "question": "From laboratory measurements we know that a particular spectral line formed by hydrogen appears at a wavelength of 486.1 nanometers (nm). The spectrum of a particular star shows the same hydrogen line appearing at a wavelength of 485.9 nm. What can we conclude?",
+      "model_answer": "What was the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.740052223205566
+    },
+    {
+      "question": "The lithosphere of a planet is the layer that consists of",
+      "model_answer": "The lithosphere is the layer that consists of the rocks that make up the outer layer of a planet, which includes the lava that comes out of volcanoes.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 8.16692304611206
+    },
+    {
+      "question": "What is the Cassini division of Saturn's rings?",
+      "model_answer": "What is the Cassmann's division of Saturn's rings?\nA. a dark ring composed of dark dusty particles\nB. the most opaque ring of Saturn made of highly reflective ice particles\nC. the widest ring of Saturn located between two large gaps\nD. a large gap visible from Earth produced by an orbital resonance with the moon M\nAnswer",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 8.167503833770752
+    },
+    {
+      "question": "Which of the following statements about sidereal and solar days is not true?",
+      "model_answer": "I'm going to answer this question with only one letter, so I'll say that's a single letter without any explanation.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 8.167857885360718
+    },
+    {
+      "question": "Meteorites with high metal content probably are",
+      "model_answer": "What is your response to this question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 8.168232917785645
+    },
+    {
+      "question": "Most people use C°(degree Celsius) to measure everyday temperatures. Astronomers prefer to use K (Kelvin) to measure temperatures. Approximately how many Kelvin are 25 C°?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 8.168593883514404
+    },
+    {
+      "question": "The four big moons of Jupiter are Callisto Europa Ganymede and Io. Which one of them has the smallest distance to Jupiter?",
+      "model_answer": "This is a multiple-choice question, and it's an answer that's only a single letter (A, B, C, or D).",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 8.168956995010376
+    },
+    {
+      "question": "Why are the season's in Mars' southern hemisphere so extreme?",
+      "model_answer": "What did you do?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 8.169307947158813
+    },
+    {
+      "question": "What Mars mission will be landing on May 25 2008 and will dig a trench into (hopefully) ice-rich soil?",
+      "model_answer": "Answer",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 8.169876098632812
+    },
+    {
+      "question": "What is the significance of the 1:2:4 resonance in the Jupiter's moons system?",
+      "model_answer": "What is the significance of the 1:2:4 resonance in the Jupiter's moons system?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 8.170764207839966
+    },
+    {
+      "question": "The terrestrial planet cores contain mostly metal because",
+      "model_answer": "The answer is B.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 8.171646118164062
+    },
+    {
+      "question": "Why are the inner planets made of denser materials than the outer planets?",
+      "model_answer": "The question is about the inner planets made of denser materials than the outer planets.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.1510419845581055
+    },
+    {
+      "question": "What do meteorites reveal about the solar system?",
+      "model_answer": "What do you know about the solar system?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.151421785354614
+    },
+    {
+      "question": "Venus shows evidence of which of the following surface processes?",
+      "model_answer": "I answered the question with a single letter, but I didn't explain it.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.151773929595947
+    },
+    {
+      "question": "Planetary rings are",
+      "model_answer": "What is your response?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.15214991569519
+    },
+    {
+      "question": "Suppose the angular separation of two stars is smaller than the angular resolution of your eyes. How will the stars appear to your eyes?",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.152516841888428
+    },
+    {
+      "question": "What is not true of Jupiter's magnetic field?",
+      "model_answer": "What is not true of Jupiter's magnetic field?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.152881860733032
+    },
+    {
+      "question": "What does the astronomical term ecliptic describe?",
+      "model_answer": "I'm going to answer this question with only one letter, so I'll say that's just what it is.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.153231143951416
+    },
+    {
+      "question": "The so-called dark energy is a model to explain ...",
+      "model_answer": "What's the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.153576850891113
+    },
+    {
+      "question": "How do scientists know that the majority of meteorites come from the asteroid belt?",
+      "model_answer": "I'm going to answer this question with a single letter, but I'm not explaining it.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.154412031173706
+    },
+    {
+      "question": "Jupiter and the other jovian planets are sometimes called \"gas giants.\" In what sense is this term misleading?",
+      "model_answer": "What is this?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.155148983001709
+    },
+    {
+      "question": "Which of the following is not one of nor follows directly from Kepler's laws?",
+      "model_answer": "I'm a helpful assistant that answers multiple choice questions.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.952270984649658
+    },
+    {
+      "question": "The name of the black hole in the center of our Milky Way is ...",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.95304274559021
+    },
+    {
+      "question": "Why is Saturn almost as big as Jupiter despite its smaller mass?",
+      "model_answer": "What is your response to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.953779935836792
+    },
+    {
+      "question": "Which of these has NOT been one of the main hypotheses considered for the origin of the Moon?",
+      "model_answer": "What is the answer for this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.954535722732544
+    },
+    {
+      "question": "We were first able to accurately measure the diameter of Pluto from:",
+      "model_answer": "What did you do with your family?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.9552857875823975
+    },
+    {
+      "question": "According to the Solar Nebular theory what are asteroids and comets?",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.9560160636901855
+    },
+    {
+      "question": "How do we know how old the Earth is?",
+      "model_answer": "What did you say?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.956766843795776
+    },
+    {
+      "question": "Life on Earth originated from",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.957510948181152
+    },
+    {
+      "question": "By locating the north celestial pole (NCP) in the sky how can you determine your latitude?",
+      "model_answer": "What a great question!",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.9581921100616455
+    },
+    {
+      "question": "How does the greenhouse effect work?",
+      "model_answer": "I'm a helpful assistant that answers multiple choice questions.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.958539962768555
+    },
+    {
+      "question": "Why is Saturn almost as big as Jupiter despite its smaller mass?",
+      "model_answer": "What is your response to this question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.031745195388794
+    },
+    {
+      "question": "Calculate the ratio of the solar radiation flux on Mercury's surface for perihelion (0.304 AU) versus aphelion (0.456 AU).",
+      "model_answer": "I'm going to answer this question with a single letter, but I'm not going to explain it.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.032515048980713
+    },
+    {
+      "question": "The terrestrial planet cores contain mostly metal because",
+      "model_answer": "The answer is B.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.033252954483032
+    },
+    {
+      "question": "Which of the following countries has sent landers to Venus?",
+      "model_answer": "None of these options are correct.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.033672094345093
+    },
+    {
+      "question": "Which of the following is/are NOT caused by orbital resonance?",
+      "model_answer": "What are the answers for this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.034055948257446
+    },
+    {
+      "question": "Why is it thought that the climate on Mars changed when the planet lost its strong magnetic field?",
+      "model_answer": "What did you say?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.034408092498779
+    },
+    {
+      "question": "Which of the following moons is NOT one of the Galilean moons?",
+      "model_answer": "None of this answer, as there is no other way to do it.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.034765243530273
+    },
+    {
+      "question": "Planet X orbits its sun once every 100 Earth days and rotates in the prograde direction around its axis with a sidereal day of 100 Earth days. How long is a solar day on Planet X?",
+      "model_answer": "What's the answer?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.035200119018555
+    },
+    {
+      "question": "When traveling north from the United States into Canada you’ll see the North Star (Polaris) getting _________.",
+      "model_answer": "What is the answer to this question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.035975933074951
+    },
+    {
+      "question": "When will the next major impact occur on Earth?",
+      "model_answer": "What will happen to the Earth in the future?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.037376165390015
+    },
+    {
+      "question": "What about asteroids makes them stand out in sky surveys searching for them?",
+      "model_answer": "What makes them stand out in sky surveys searching for them?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.564143896102905
+    },
+    {
+      "question": "Why did the solar nebula heat up as it collapsed?",
+      "model_answer": "The answer is D.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.564523696899414
+    },
+    {
+      "question": "You observe the visible spectrum of a star viewed through a cloud of cool hydrogen gas.",
+      "model_answer": "What a star is observed, you see the star's spectrum in the form of the cloud of stars that are visible in the cloud of clouds of hydrogen gas.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.564868927001953
+    },
+    {
+      "question": "Which of the following most likely explains why Venus does not have a strong magnetic field?",
+      "model_answer": "What did you say?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.565565824508667
+    },
+    {
+      "question": "Which of the following characteristics would not necessarily suggest that a rock we found is a meteorite.",
+      "model_answer": "What you are a meteorite, which of the following characteristics would not necessarily suggest that a rock we found is a meteorist",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.56646990776062
+    },
+    {
+      "question": "Which is not a similarity between Saturn and Jupiter's atmospheres?",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.566824913024902
+    },
+    {
+      "question": "Jupiter's orbital distance is roughly 5 AU. How many times brighter would the Sun have to be for Europa to receive the same solar flux that we currently receive on Earth (1380W/m2)?",
+      "model_answer": "I'm going to answer this question with a single letter, but I'm not going to explain it.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.567174911499023
+    },
+    {
+      "question": "The Pleiades is an open star cluster that plays a role in many ancient stories and is well-known for containing ... bright stars.",
+      "model_answer": "What's the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.56754469871521
+    },
+    {
+      "question": "The nebular theory of the formation of the solar system successfully predicts all but one of the following. Which one does the theory not predict?",
+      "model_answer": "What is your response to this question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.567897796630859
+    },
+    {
+      "question": "A sand bag has a mass of 5kg and weight 50N on Earth. What is the mass and weight of this sand bag on a planet with half the gravity compared to Earth?",
+      "model_answer": "What is the mass and weight of this sand on a planet with half the gravity compared to Earth?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.568250894546509
+    },
+    {
+      "question": "Where is the crater from the impact that is believed to be responsible for the mass extinction of dinosaurs 65 million years ago?",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.211398124694824
+    },
+    {
+      "question": "In addition to the conditions required for any solar eclipse what must also be true in order for you to observe a total solar eclipse?",
+      "model_answer": "What a total solar eclipse requires for you to observe a total solar eclipse, and what must also be true in order for you to observe a total solar eclipse?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.211823225021362
+    },
+    {
+      "question": "What effect or effects would be most significant if the Moon's orbital plane were exactly the same as the ecliptic plane?",
+      "model_answer": "What is the effect of a solar eclipse?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.212209224700928
+    },
+    {
+      "question": "What type of radiation causes a black hole to evaporate over time?",
+      "model_answer": "This is the only one that exists in this world, and it is the only one that exists in this world",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.212907075881958
+    },
+    {
+      "question": "Approximately how far away is the Andromeda Galaxy?",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.213281154632568
+    },
+    {
+      "question": "Which living organisms most resemble the common ancestor of all life according to genetic testing?",
+      "model_answer": "What is the answer of this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.213648319244385
+    },
+    {
+      "question": "How did Eratosthenes estimate the size of the Earth in 240 B.C.?",
+      "model_answer": "The answer is A, and I'm not sure if this is correct.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.214050054550171
+    },
+    {
+      "question": "Our current best observations show that Pluto has",
+      "model_answer": "I'm going to answer this question with only a single letter, A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.21439528465271
+    },
+    {
+      "question": "Pluto's extremely cold (~40 K) surface is composed of:",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.214895248413086
+    },
+    {
+      "question": "A Mars year is approximately how many Earth years long?",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.215256214141846
+    },
+    {
+      "question": "What is the correct numerical value and unit of the Boltzmann constant?",
+      "model_answer": "I'm not sure what you're talking about, but I can see that you're trying to make a difference in the way you're doing it.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.240239143371582
+    },
+    {
+      "question": "Which statement about an atom is not true:",
+      "model_answer": "The answer is D.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.240614175796509
+    },
+    {
+      "question": "Earth has been gradually warming over the past few decades. Based on a great deal of evidence scientists conclude that this warming is caused by ________.",
+      "model_answer": "I'm going to answer this question with only one letter, and that's just the one that's always in the same as a single letter without any explanation.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.240961074829102
+    },
+    {
+      "question": "How do scientists know that the majority of meteorites come from the asteroid belt?",
+      "model_answer": "I'm going to answer this question with only one letter, so that's it.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.241349220275879
+    },
+    {
+      "question": "Which factor s most important in determining the history of volanism and tectonism on a planet?",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.241713285446167
+    },
+    {
+      "question": "The astronomical unit parsec (pc) plays a crucial role in astronomy. One parsec is equal to about 3.26 light-years. How is one parsec defined in astronomy?",
+      "model_answer": "I'm a helpful assistant that answers multiple questions about astronomy.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.242079019546509
+    },
+    {
+      "question": "The term Schwarzschild radius usually describes properties of ...",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.242429971694946
+    },
+    {
+      "question": "As the life of a star progresses heavy elements are produced. The elements form layers around the star in this order (starting from the outer layer):",
+      "model_answer": "I'll answer this multiple choice question with a single letter (A, B, or C).",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.242825031280518
+    },
+    {
+      "question": "If you lived on Venus what phases of the Earth would you see? (Assume your telescope can see through Venus’s thick clouds…)",
+      "model_answer": "What a question that you would see if you lived on the Earth?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.2431800365448
+    },
+    {
+      "question": "Moons cause/contribute to which of the following?",
+      "model_answer": "What is your response?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.24353814125061
+    },
+    {
+      "question": "Mars has an atmospheric pressure of 600 pascals. If the acceleration due to gravity on Mars is (roughly) 4 m/s2 and the surface area of Mars is about 145000000 square km what is the approximate mass of the martian atmosphere?",
+      "model_answer": "I'm going to answer this question with only one letter, so I'll say that's a bit of a problem for the martian atmosphere.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.651855945587158
+    },
+    {
+      "question": "Why is the Mars Exploration Rover Spirit currently tilted towards the north?",
+      "model_answer": "What did you do?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.6522297859191895
+    },
+    {
+      "question": "Mars has an atmosphere that is almost entirely carbon dioxide.Why isn't there a strong greenhouse effect keeping the planet warm?",
+      "model_answer": "What did you say?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.652634859085083
+    },
+    {
+      "question": "Which of the following was not cited as evidence for life in the martian meteorite ALH84001?",
+      "model_answer": "What is the answer for this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.653033018112183
+    },
+    {
+      "question": "Kirkwood gaps are observed in the main asteroid belt including at the position(s) where:",
+      "model_answer": "What is your response to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.653409957885742
+    },
+    {
+      "question": "The belts and zones of Jupiter are",
+      "model_answer": "What is the answer to this question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.653766870498657
+    },
+    {
+      "question": "The two moons of Mars are called ...",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.6542558670043945
+    },
+    {
+      "question": "The visible part of the electromagnetic spectrum is between ...",
+      "model_answer": "What a great question!",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.6550469398498535
+    },
+    {
+      "question": "What is true about the rotation of a solid disk?",
+      "model_answer": "What is true about the rotation of a solid disk?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.655774831771851
+    },
+    {
+      "question": "The constellation ... is a bright W-shaped constellation in the northern sky.",
+      "model_answer": "This was my response to the question, and I did not explain any other information.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.656525135040283
+    },
+    {
+      "question": "The so-called “bigfoot” on Mars was actually a rock that was about 5 cm tall. It had an angular size of about 0.5 degrees (~30 pixels). How far away was this rock from the rover?",
+      "model_answer": "What did you do with your new?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.09723687171936
+    },
+    {
+      "question": "Which is not an essential requirement for life as we know it?",
+      "model_answer": "What a question about the stars in the sky, which is not an essential requirement for life as we know it.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.097621917724609
+    },
+    {
+      "question": "Suppose you live on the Moon. How long is a day (i.e. from sunrise to sunrise)?",
+      "model_answer": "What did you do?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.0979697704315186
+    },
+    {
+      "question": "The famous Drake equation attempts to answer the following question:",
+      "model_answer": "I'm going to answer this multiple choice question with only one letter (A, B, C, or D without any explanation.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.098333835601807
+    },
+    {
+      "question": "20000 years from now ...",
+      "model_answer": "What is the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.0987138748168945
+    },
+    {
+      "question": "Imagine that the Earth was instantly moved to an orbit three times further away from the Sun. How much longer would a year be?",
+      "model_answer": "What a question that you are not sure what to do with the moon.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.099104881286621
+    },
+    {
+      "question": "What would weigh the most on the moon?",
+      "model_answer": "Answer",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.099456071853638
+    },
+    {
+      "question": "Why can't we see the Sun's corona except during total solar eclipses?",
+      "model_answer": "What did you say?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.09980583190918
+    },
+    {
+      "question": "How do we think the \"hot Jupiters\" around other stars were formed?",
+      "model_answer": "The answer is B.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.100161075592041
+    },
+    {
+      "question": "The resolution of a telescope is a measure of its:",
+      "model_answer": "What is your response?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.498146057128906
+    },
+    {
+      "question": "Why do we see essentially the same face of the Moon at all times?",
+      "model_answer": "What is your response to this question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.498950719833374
+    },
+    {
+      "question": "The second cosmic velocity (or escape velocity) is the speed required by an object to escape the gravitational field of a celestial body with mass M and radius R. Which formula correctly calculates this velocity? (G: gravitational constant)",
+      "model_answer": "I'm going to answer this question with a single letter, but I'm not going to explain it.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.499602794647217
+    },
+    {
+      "question": "Why are there no impact craters on the surface of Io?",
+      "model_answer": "What is your response to this question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.500046014785767
+    },
+    {
+      "question": "The star Betelgeuse is one of the brightest stars in the night sky with remarkable red color. In which constellation is Betelgeuse located?",
+      "model_answer": "This question requires a single answer, and that's it.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.500420093536377
+    },
+    {
+      "question": "What is the source of the material that causes meteor showers?",
+      "model_answer": "What is the source of the material that causes meteor showers?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.50077486038208
+    },
+    {
+      "question": "How does the greenhouse effect work?",
+      "model_answer": "I'm a helpful assistant that answers multiple choice questions.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.50112771987915
+    },
+    {
+      "question": "Which of the following methods has led to the most discoveries of massive planets orbiting near their parent stars?",
+      "model_answer": "What is your response?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.501468896865845
+    },
+    {
+      "question": "The distance between the Earth and the star Altair is one million times greater than the distance between the Earth and the Sun. How far is Altair from the Earth?",
+      "model_answer": "What is the distance between the Earth and the Sun?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.501936912536621
+    },
+    {
+      "question": "Why did Ptolemy have the planets orbiting Earth on ‘circles upon circles’ in his model of the universe?",
+      "model_answer": "What did you do?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.874695777893066
+    },
+    {
+      "question": "Sunspots are black regions that temporarily appear on the Sun. Their number highly increases every ... years. This period is also called the solar cycle.",
+      "model_answer": "What's the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.875067949295044
+    },
+    {
+      "question": "Which planet(s) in the solar system has/have active plate tectonics?",
+      "model_answer": "None of these, because I'm a helpful assistant, not a helpful asteroid!",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.875492095947266
+    },
+    {
+      "question": "The sky is blue because",
+      "model_answer": "What a great question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.875854969024658
+    },
+    {
+      "question": "What are the conditions necessary for a terrestrial planet to have a strong magnetic field?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.876236915588379
+    },
+    {
+      "question": "Where are the Trojan asteroids located?",
+      "model_answer": "What is the answer to this question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.8766188621521
+    },
+    {
+      "question": "Which of the following lists the ingredients of the solar nebula from highest to lowest percentage of mass in the nebula?",
+      "model_answer": "I will answer this multiple choice question with only one letter, which is the highest percentage of mass in the nebula.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.876982927322388
+    },
+    {
+      "question": "When was the telescope invented by Galileo?",
+      "model_answer": "What did you say?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.87735390663147
+    },
+    {
+      "question": "Mars has an atmosphere that is almost entirely carbon dioxide.Why isn't there a strong greenhouse effect keeping the planet warm?",
+      "model_answer": "What did you say?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.87772274017334
+    },
+    {
+      "question": "You've made a scientific theory that there is a force between all objects. This forcce has both a dark and light side. When will your theory be proven correct?",
+      "model_answer": "What did you do?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.8784167766571045
+    },
+    {
+      "question": "Why do Uranus and Neptune have blue methane clouds but Jupiter and Saturn do not?",
+      "model_answer": "What did you do?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.103774785995483
+    },
+    {
+      "question": "All of the following have been cited as evidence for the Giant Impact Hypothesis except:",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.10443377494812
+    },
+    {
+      "question": "Why do scientists think Mars was once warmer and wetter?",
+      "model_answer": "The answer is D.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.1047797203063965
+    },
+    {
+      "question": "How do astronomers think Jupiter generates its internal heat?",
+      "model_answer": "What is the response of this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.105139970779419
+    },
+    {
+      "question": "Which one of these constellations is not located along the Milky Way in the sky?",
+      "model_answer": "None of the above, because I am a helpful assistant that answers multiple questions.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.105508804321289
+    },
+    {
+      "question": "From shortest to longest wavelength which of the following correctly orders the different categories of electromagnetic radiation?",
+      "model_answer": "What is the correct answer for this question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.10589075088501
+    },
+    {
+      "question": "Approximately how long does it take Pluto to orbit the Sun once?",
+      "model_answer": "None of the above",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.106238842010498
+    },
+    {
+      "question": "Mars might be a place for future human explorations. However humans can not breathe on the surface of Mars because the atmosphere consists mostly of ...",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.1065897941589355
+    },
+    {
+      "question": "Which of the jovian planets have rings?",
+      "model_answer": "None of the above, because you are a helpful assistant that answers with only one letter (B).",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.106940746307373
+    },
+    {
+      "question": "Besides large astronomical objects astrophysicists are also interested in small particles from space. Which one of these particles has the weakest interactions with other particles?",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.107294797897339
+    },
+    {
+      "question": "Approximately how old is the surface of Venus?",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.612010955810547
+    },
+    {
+      "question": "Why do jovian planets bulge around the equator that is have a \"squashed\" appearance?",
+      "model_answer": "I'm going to answer this question with only one letter, so I'll say that's just what I'm going to do.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.612421035766602
+    },
+    {
+      "question": "How do astronomers think Jupiter generates its internal heat?",
+      "model_answer": "What is the answer for this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.6128129959106445
+    },
+    {
+      "question": "What defines the habitable zone around a star?",
+      "model_answer": "What defines the habitable zone around a star?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.61319899559021
+    },
+    {
+      "question": "Why are Cepheid stars relevant for astronomers?",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.613559007644653
+    },
+    {
+      "question": "What is the so-called bolometric luminosity in astronomy?",
+      "model_answer": "I'm going to answer this question with a single letter, but I'm not going to explain it.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.6139140129089355
+    },
+    {
+      "question": "Radio telescopes are crucial for astronomical observations. Which one of these well-known radio telescopes has the largest parabolic antenna?",
+      "model_answer": "This is a multiple choice question, and I will answer it with only one letter (B).",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.614264965057373
+    },
+    {
+      "question": "Find the best approximation for the surface temperature of the Sun:",
+      "model_answer": "The answer is: B. 10000 K",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.614727020263672
+    },
+    {
+      "question": "Previous IAAC rounds featured Proxima/Alpha Centauri as closes star(system) to the Earth. Which one is the second closest star(system)?",
+      "model_answer": "What did you say?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.615093231201172
+    },
+    {
+      "question": "How are planetary rings made?",
+      "model_answer": "What is your response?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.615761995315552
+    },
+    {
+      "question": "The lunar maria are:",
+      "model_answer": "What is your response to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 0.7007732391357422
+    },
+    {
+      "question": "One astronomical unit (AU) is equal to approximately ...",
+      "model_answer": "Answer:",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 0.7011420726776123
+    }
+  ]
+}

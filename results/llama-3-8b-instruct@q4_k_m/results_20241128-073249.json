@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@q4_k_m",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-073249"
+  },
+  "categories": {
+    "STEM": {
+      "correct_rate": 49.58,
+      "subjects": [
+        {
+          "subject": "abstract_algebra",
+          "correct_rate": 31.0
+        },
+        {
+          "subject": "astronomy",
+          "correct_rate": 63.82
+        },
+        {
+          "subject": "college_biology",
+          "correct_rate": 70.83
+        },
+        {
+          "subject": "college_chemistry",
+          "correct_rate": 35.0
+        },
+        {
+          "subject": "college_computer_science",
+          "correct_rate": 45.0
+        },
+        {
+          "subject": "college_mathematics",
+          "correct_rate": 33.0
+        },
+        {
+          "subject": "college_physics",
+          "correct_rate": 46.08
+        },
+        {
+          "subject": "computer_security",
+          "correct_rate": 77.0
+        },
+        {
+          "subject": "conceptual_physics",
+          "correct_rate": 53.62
+        },
+        {
+          "subject": "electrical_engineering",
+          "correct_rate": 57.24
+        },
+        {
+          "subject": "elementary_mathematics",
+          "correct_rate": 46.03
+        },
+        {
+          "subject": "high_school_biology",
+          "correct_rate": 70.97
+        },
+        {
+          "subject": "high_school_chemistry",
+          "correct_rate": 44.33
+        },
+        {
+          "subject": "high_school_computer_science",
+          "correct_rate": 63.0
+        },
+        {
+          "subject": "high_school_mathematics",
+          "correct_rate": 34.81
+        },
+        {
+          "subject": "high_school_physics",
+          "correct_rate": 35.76
+        },
+        {
+          "subject": "high_school_statistics",
+          "correct_rate": 40.28
+        },
+        {
+          "subject": "machine_learning",
+          "correct_rate": 44.64
+        }
+      ]
+    },
+    "humanities": {
+      "correct_rate": 64.85,
+      "subjects": [
+        {
+          "subject": "formal_logic",
+          "correct_rate": 43.65
+        },
+        {
+          "subject": "high_school_european_history",
+          "correct_rate": 73.33
+        },
+        {
+          "subject": "high_school_us_history",
+          "correct_rate": 76.47
+        },
+        {
+          "subject": "high_school_world_history",
+          "correct_rate": 76.37
+        },
+        {
+          "subject": "international_law",
+          "correct_rate": 69.42
+        },
+        {
+          "subject": "jurisprudence",
+          "correct_rate": 71.3
+        },
+        {
+          "subject": "logical_fallacies",
+          "correct_rate": 78.53
+        },
+        {
+          "subject": "moral_disputes",
+          "correct_rate": 63.58
+        },
+        {
+          "subject": "moral_scenarios",
+          "correct_rate": 31.28
+        },
+        {
+          "subject": "philosophy",
+          "correct_rate": 66.88
+        },
+        {
+          "subject": "prehistory",
+          "correct_rate": 71.6
+        },
+        {
+          "subject": "professional_law",
+          "correct_rate": 40.55
+        },
+        {
+          "subject": "world_religions",
+          "correct_rate": 80.12
+        }
+      ]
+    },
+    "social sciences": {
+      "correct_rate": 69.05,
+      "subjects": [
+        {
+          "subject": "econometrics",
+          "correct_rate": 49.12
+        },
+        {
+          "subject": "high_school_geography",
+          "correct_rate": 72.22
+        },
+        {
+          "subject": "high_school_government_and_politics",
+          "correct_rate": 78.76
+        },
+        {
+          "subject": "high_school_macroeconomics",
+          "correct_rate": 61.28
+        },
+        {
+          "subject": "high_school_microeconomics",
+          "correct_rate": 69.33
+        },
+        {
+          "subject": "high_school_psychology",
+          "correct_rate": 81.47
+        },
+        {
+          "subject": "human_sexuality",
+          "correct_rate": 65.65
+        },
+        {
+          "subject": "professional_psychology",
+          "correct_rate": 63.4
+        },
+        {
+          "subject": "public_relations",
+          "correct_rate": 61.82
+        },
+        {
+          "subject": "security_studies",
+          "correct_rate": 64.9
+        },
+        {
+          "subject": "sociology",
+          "correct_rate": 77.61
+        },
+        {
+          "subject": "us_foreign_policy",
+          "correct_rate": 83.0
+        }
+      ]
+    },
+    "other (business, health, misc.)": {
+      "correct_rate": 66.47,
+      "subjects": [
+        {
+          "subject": "anatomy",
+          "correct_rate": 65.19
+        },
+        {
+          "subject": "business_ethics",
+          "correct_rate": 66.0
+        },
+        {
+          "subject": "clinical_knowledge",
+          "correct_rate": 71.32
+        },
+        {
+          "subject": "college_medicine",
+          "correct_rate": 61.85
+        },
+        {
+          "subject": "global_facts",
+          "correct_rate": 38.0
+        },
+        {
+          "subject": "human_aging",
+          "correct_rate": 64.57
+        },
+        {
+          "subject": "management",
+          "correct_rate": 82.52
+        },
+        {
+          "subject": "marketing",
+          "correct_rate": 86.75
+        },
+        {
+          "subject": "medical_genetics",
+          "correct_rate": 79.0
+        },
+        {
+          "subject": "miscellaneous",
+          "correct_rate": 80.33
+        },
+        {
+          "subject": "nutrition",
+          "correct_rate": 67.97
+        },
+        {
+          "subject": "professional_accounting",
+          "correct_rate": 46.81
+        },
+        {
+          "subject": "professional_medicine",
+          "correct_rate": 68.38
+        },
+        {
+          "subject": "virology",
+          "correct_rate": 51.81
+        }
+      ]
+    }
+  },
+  "overall_correct_rate": 61.31
+}

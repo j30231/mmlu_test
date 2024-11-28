@@ -1,0 +1,1805 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq1_s",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-192907"
+  },
+  "subject": "clinical_knowledge",
+  "category": "other (business, health, misc.)",
+  "correct_rate": 14.0625,
+  "evaluation_results": [
+    {
+      "question": "What size of cannula would you use in a patient who needed a rapid blood transfusion (as of 2020 medical knowledge)?",
+      "model_answer": "The answer is D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.3360819816589355
+    },
+    {
+      "question": "The key attribute in successful marathon running is:",
+      "model_answer": "What a great question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.3366029262542725
+    },
+    {
+      "question": "Which of the following is the commonest cause of dementia in the UK?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.337061166763306
+    },
+    {
+      "question": "Which of the following is NOT a symptom of anaphylaxis?",
+      "model_answer": "The answer to this multiple choice question is D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.337178945541382
+    },
+    {
+      "question": "In what situation are closed pouches applied?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.3372743129730225
+    },
+    {
+      "question": "With an increasing number of sprints the:",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.337367057800293
+    },
+    {
+      "question": "Which of the following is true in diplopia?",
+      "model_answer": "What are the answers of this multiple choice question",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.337460994720459
+    },
+    {
+      "question": "Sodium bicarbonate ingestion improves middle distance running performance by:",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.337551116943359
+    },
+    {
+      "question": "Codons are composed of:",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.337646245956421
+    },
+    {
+      "question": "Fatty acids are transported into the mitochondria bound to:",
+      "model_answer": "The answer is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.337736129760742
+    },
+    {
+      "question": "Which of the answers below best indicates the compatible blood types that can be given to a person with a blood group B (rhesus negative)?",
+      "model_answer": "I'm not sure what you're looking for",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.984461069107056
+    },
+    {
+      "question": "Which of the following is true of a lower motor neurone lesion in the arm?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.984639883041382
+    },
+    {
+      "question": "Which of the following statements is false?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.984736919403076
+    },
+    {
+      "question": "Glycogen breakdown in muscle initially results in the formation of:",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.984833002090454
+    },
+    {
+      "question": "The two principal contractile proteins found in skeletal muscle are:",
+      "model_answer": "I'm going to answer this question with a",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.984941005706787
+    },
+    {
+      "question": "Which one of the following represents a IIIrd cranial nerve palsy and is a neurosurgical emergency?",
+      "model_answer": "What are you going to do with your own",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.985038995742798
+    },
+    {
+      "question": "Which of the following is true about a thyroid swelling?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.985135793685913
+    },
+    {
+      "question": "Which of the following is true of hepatomegaly?",
+      "model_answer": "What are the results of the liver function?",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.985229969024658
+    },
+    {
+      "question": "Which of the following is true regarding reflexes?",
+      "model_answer": "What are the multiple choice questions about clinical knowledge",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.98532509803772
+    },
+    {
+      "question": "What is a colles fracture?",
+      "model_answer": "This was my response to the question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.236230134963989
+    },
+    {
+      "question": "If a transfusion reaction is suspected, you should:",
+      "model_answer": "I'm going to answer this multiple choice question",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.236541032791138
+    },
+    {
+      "question": "Once a prescribed unit of blood product has been obtained from the blood bank and is out of refrigeration, the transfusion should commence within what period of time before it starts to deteriorate (as of 2020 medical knowledge)?",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.236644983291626
+    },
+    {
+      "question": "Which of the following statements is true about informal carers (as of 2020)?",
+      "model_answer": "What a question about clinical knowledge",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.23674201965332
+    },
+    {
+      "question": "Which of the following processes is not used to modify protein structure after translation has occurred?",
+      "model_answer": "What are you going to do with your new",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.236835956573486
+    },
+    {
+      "question": "Why would you need to carry out a bladder washout for a patient at home?",
+      "model_answer": "What should I do?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.236925840377808
+    },
+    {
+      "question": "A 14-16 gauge needle is most likely to be used for:",
+      "model_answer": "What a nice question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.237015008926392
+    },
+    {
+      "question": "Which of these features suggest that a crackling sound is more likely due to a pleural friction rub than crackles?",
+      "model_answer": "What are the answers for this multiple choice question",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.237104177474976
+    },
+    {
+      "question": "In games like soccer the blood lactate concentration:",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.237192869186401
+    },
+    {
+      "question": "Lactate and hydrogen ions leave the muscle:",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.237276792526245
+    },
+    {
+      "question": "Which of the following is true of the spine?",
+      "model_answer": "What are the answers for this multiple choice question",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.526982069015503
+    },
+    {
+      "question": "Which of the following is true of psoriatic arthropathy?",
+      "model_answer": "The answer is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.527458906173706
+    },
+    {
+      "question": "Which of the following is true of Graves Disease of the thyroid?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.528480768203735
+    },
+    {
+      "question": "Which of the following is true of calcium metabolism?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.530165910720825
+    },
+    {
+      "question": "Kinase reactions:",
+      "model_answer": "What is the answer for this multiple choice question",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.530280113220215
+    },
+    {
+      "question": "The normal respiratory rate for an adult male is:",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.530382871627808
+    },
+    {
+      "question": "Collagen fibres:",
+      "model_answer": "What is the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.5304789543151855
+    },
+    {
+      "question": "Which of the following releases most energy when completely oxidised in the body?",
+      "model_answer": "What is your response to this question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.53057599067688
+    },
+    {
+      "question": "Embedded in the inner membrane of the mitochondrion are:",
+      "model_answer": "What is your response to this question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.530669927597046
+    },
+    {
+      "question": "If the mean rate of oxygen consumption of a male athlete during a training session is 2 l/min, then his rate of energy expenditure is approximately:",
+      "model_answer": "The answer to this multiple choice question is a",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.530761003494263
+    },
+    {
+      "question": "A normal heart rate for an adult at rest is:",
+      "model_answer": "The answer to this question is A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.096985101699829
+    },
+    {
+      "question": "Which of the following statements is false?",
+      "model_answer": "What are the multiple choice questions about clinical knowledge",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.0976152420043945
+    },
+    {
+      "question": "Which of the following is true in ulna nerve palsy?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.0977582931518555
+    },
+    {
+      "question": "How much toothpaste is recommended for cleaning teeth?",
+      "model_answer": "What a great question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.097858190536499
+    },
+    {
+      "question": "Which of the following is true about Cushing's Syndrome?",
+      "model_answer": "What you will see on the Cushing's",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.0979530811309814
+    },
+    {
+      "question": "The main factors determining success in sport are:",
+      "model_answer": "What is the answer?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.098048210144043
+    },
+    {
+      "question": "In a double stranded molecule of DNA, the ratio of purines : pyrimidines is:",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.098141193389893
+    },
+    {
+      "question": "Performance enhancing synthetic steroids are based on the structure of the hormone:",
+      "model_answer": "I'm going to answer this question with a",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.098234176635742
+    },
+    {
+      "question": "Glycogen breakdown in exercising muscle is activated by:",
+      "model_answer": "What is the answer to this multiple selection question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.098326206207275
+    },
+    {
+      "question": "Most of the free fatty acids are transported in the blood:",
+      "model_answer": "What is the answer?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.098418235778809
+    },
+    {
+      "question": "How often should a cannula be flushed?",
+      "model_answer": "What is the answer to this multiple-choice question",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.13465690612793
+    },
+    {
+      "question": "The activity of creatine kinase is:",
+      "model_answer": "What was the question that you were looking for",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.1347880363464355
+    },
+    {
+      "question": "The smallest increments on a mercury and aneroid sphygmomanometer measure are:",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.134881019592285
+    },
+    {
+      "question": "Which of the following is not an abnormal breathing pattern seen in head injury and altered conscious level?",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.13497519493103
+    },
+    {
+      "question": "During CPR chest compressions and ventilations should be delivered in a ratio of:",
+      "model_answer": "The answer is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.135069131851196
+    },
+    {
+      "question": "A person weighs 62 kg. Their drug dose is 15 mg/kg. How many grams is their dose? Choose one answer from the following:",
+      "model_answer": "What a question about clinical knowledge!",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.1351611614227295
+    },
+    {
+      "question": "An expected side effect of creatine supplementation is:",
+      "model_answer": "What a great question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.13525390625
+    },
+    {
+      "question": "The cardiac cycle consists of the phases:",
+      "model_answer": "I answered this multiple choice question with a single",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.135347127914429
+    },
+    {
+      "question": "Which of the following factors does not influence success in sport?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.135440111160278
+    },
+    {
+      "question": "The chain of survival has four links. Put the following list in the correct order: 1. Early defibrillation; 2. Early CPR; 3. Recognition and call for help early; 4. Post-resuscitation care.",
+      "model_answer": "I'm a helpful assistant that answers multiple choice",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.135529279708862
+    },
+    {
+      "question": "A fundamental cause of fatigue in high intensity exercise is:",
+      "model_answer": "What is the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.0307297706604
+    },
+    {
+      "question": "Which of the following is true about possible rectal findings?",
+      "model_answer": "I'm going to answer this question with the",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.0312817096710205
+    },
+    {
+      "question": "What commonly causes skin excoriation?",
+      "model_answer": "The answer is D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.031422853469849
+    },
+    {
+      "question": "Which of the following is true of Systemic Sclerosis?",
+      "model_answer": "The answer to this multiple choice question is",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.031536817550659
+    },
+    {
+      "question": "A palpable left parasternal impulse suggests which abnormality?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.0316338539123535
+    },
+    {
+      "question": "In hypovolaemic shock, what percentage of blood can be lost before it is reflected in changes in heart rate and blood pressure?",
+      "model_answer": "What a great question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.031734943389893
+    },
+    {
+      "question": "Which of the following is true of headache?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.031841993331909
+    },
+    {
+      "question": "Between contractions of the left ventricle the blood continues to flow through the vessels because:",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.031934976577759
+    },
+    {
+      "question": "What might make the nurse think a patient could not use an inhaler?",
+      "model_answer": "The answer is A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.032024621963501
+    },
+    {
+      "question": "Removal of adhesive strips:",
+      "model_answer": "What a great question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.9949939250946045
+    },
+    {
+      "question": "During CPR, chest compressions should be delivered at a rate of:",
+      "model_answer": "What is the answer to this multiple selection question",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.9954488277435303
+    },
+    {
+      "question": "Which of the following physiological characteristics is not important for success in endurance events such as the marathon race?",
+      "model_answer": "The answer is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.995811939239502
+    },
+    {
+      "question": "When using an inhaler, when should a patient be asked to rinse their mouth?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.996175765991211
+    },
+    {
+      "question": "What is the minimum time a stretch should be held for?",
+      "model_answer": "This assistant",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.996285915374756
+    },
+    {
+      "question": "What three factors regulate stroke volume?",
+      "model_answer": "The answer is D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.9963808059692383
+    },
+    {
+      "question": "Name the bones of the middle finger in the correct order from the hand.",
+      "model_answer": "I'll answer this multiple choice question about clinical",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.996473789215088
+    },
+    {
+      "question": "Which of the following promotes glucose and amino acid uptake by muscle?",
+      "model_answer": "This is a multiple-choice question",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.996567726135254
+    },
+    {
+      "question": "An ileostomy opening should be:",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.9966559410095215
+    },
+    {
+      "question": "Which of the following would not be done before catheterizing?",
+      "model_answer": "What a great question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.956460952758789
+    },
+    {
+      "question": "Hydrogen ions are formed when:",
+      "model_answer": "What is the answer?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.9568419456481934
+    },
+    {
+      "question": "Which one of the following manoeuvres is not a central painful stimulus?",
+      "model_answer": "What are you going to do?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.9586548805236816
+    },
+    {
+      "question": "Dopamine is prescribed at a rate of 4 micrograms/kg/min. For a 65 kg person, how many milligrams will they receive in an hour?",
+      "model_answer": "I'm going to answer this question with only",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.959040880203247
+    },
+    {
+      "question": "Which of the following is true about the rectal examination?",
+      "model_answer": "What should be done?",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.9594309329986572
+    },
+    {
+      "question": "Why can't a patient talk if the cuff is inflated?",
+      "model_answer": "What did you say?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.959552049636841
+    },
+    {
+      "question": "Wound drainage should be assessed for volume and consistency:",
+      "model_answer": "What a great question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.9596517086029053
+    },
+    {
+      "question": "Creatine is synthesized from:",
+      "model_answer": "What is the answer to this multiple-choice question",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.959744930267334
+    },
+    {
+      "question": "If a catheter resists all attempts to unblock it and you are unable to remove it, what should you do?",
+      "model_answer": "What should I do?",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.9598357677459717
+    },
+    {
+      "question": "Bladder washout solution should be:",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.9599270820617676
+    },
+    {
+      "question": "When developing a plan of care relating to the management of a person's pain, attention should be given to the following needs:",
+      "model_answer": "What should be done in a plan of care",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.498736143112183
+    },
+    {
+      "question": "Patients with the apolipoprotein E gene are at risk of which disease?",
+      "model_answer": "What a patient has the ApoE-",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.499249219894409
+    },
+    {
+      "question": "Which of the following groups of drugs may cause a dry mouth?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.499374151229858
+    },
+    {
+      "question": "Which of the following is not a true statement?",
+      "model_answer": "What you are referring to the multiple choice question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.499476194381714
+    },
+    {
+      "question": "If a patient is cyanosed, what might their oxygen saturation level be?",
+      "model_answer": "What should you do?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.49957799911499
+    },
+    {
+      "question": "When assessing a patient's breathing:",
+      "model_answer": "What is the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.499680995941162
+    },
+    {
+      "question": "A person is prescribed Ropinirole 1.5 mg divided into three doses. How many micrograms is each dose? Choose one answer from the following:",
+      "model_answer": "What a question about clinical knowledge!",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.499780178070068
+    },
+    {
+      "question": "Which of the following is thought to be implicated in the development of peripheral muscle fatigue during multiple sprint activities?",
+      "model_answer": "What are you going to do with your body",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.4998791217803955
+    },
+    {
+      "question": "The ATP store in muscle can only supply energy in high intensity exercise for about:",
+      "model_answer": "What is the answer to this multiple selection of",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.499975204467773
+    },
+    {
+      "question": "960 mg of the antibacterial drug Cotrimoxazole is prescribed every 12 hours. What is the daily dose in grams? Choose one answer from the following:",
+      "model_answer": "What a multiple choice question about clinical knowledge",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.500065088272095
+    },
+    {
+      "question": "Which of the following is true of hypothyroidism?",
+      "model_answer": "The answer to this multiple choice question is",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.134503364562988
+    },
+    {
+      "question": "What is hypochlorhydria?",
+      "model_answer": "This was a difficult question",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.134942054748535
+    },
+    {
+      "question": "A 67-year-old man, three hours post-transurethral resection of prostate with irrigation, has a blocked catheter. Which solution should be used to complete bladder washout?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.135302305221558
+    },
+    {
+      "question": "A keloid is:",
+      "model_answer": "What is the response to this multiple-choice question",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.135790109634399
+    },
+    {
+      "question": "Which of the following is not an amino acid?",
+      "model_answer": "None of the above",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.136196136474609
+    },
+    {
+      "question": "Wound drainage is described as serous if:",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.1363091468811035
+    },
+    {
+      "question": "The sex of a child is dictated by the inheritance of:",
+      "model_answer": "What did you say?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.136409282684326
+    },
+    {
+      "question": "Which of the following is true in spastic paraplegia?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.13650107383728
+    },
+    {
+      "question": "The synthesis of glucose from lactate, glycerol, or amino acids is called:",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.136592149734497
+    },
+    {
+      "question": "If a blood unit has been out of refrigeration for longer than the accepted time limit, you should:",
+      "model_answer": "I'm not sure what I'm doing here",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.136679172515869
+    },
+    {
+      "question": "The auscultatory gap is:",
+      "model_answer": "What a great question!",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.371485233306885
+    },
+    {
+      "question": "How many different types of microorganisms may colonize the mouth?",
+      "model_answer": "What is the answer to this multiple selection question",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.371604919433594
+    },
+    {
+      "question": "Why should shampoo not be used for washing the skin when showering or bathing?",
+      "model_answer": "What should you do with your hair?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.371716022491455
+    },
+    {
+      "question": "An allele that is masked is referred to as:",
+      "model_answer": "What a great question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.371834993362427
+    },
+    {
+      "question": "Hypernatraemic dehydration is:",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.371935129165649
+    },
+    {
+      "question": "Which of the following is not associated with an increase in the work of breathing?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.372025012969971
+    },
+    {
+      "question": "Which of the following is true about Addisons Disease?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.37213397026062
+    },
+    {
+      "question": "Which of the following are indicative signs and symptoms of circulatory overload?",
+      "model_answer": "I'm going to answer this question with a",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.372228145599365
+    },
+    {
+      "question": "What is the most likely cause of acute urinary retention of urine?",
+      "model_answer": "The answer to this multiple selection question is D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.207913875579834
+    },
+    {
+      "question": "Which of the following tools is the first choice for cleaning the mouth?",
+      "model_answer": "What is the correct answer?",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.208322048187256
+    },
+    {
+      "question": "Which of the following drugs may be used to enhance gastric motility?",
+      "model_answer": "What is the correct answer for this question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.208460092544556
+    },
+    {
+      "question": "The creatine kinase reaction is:",
+      "model_answer": "What was the answer to the question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.208562850952148
+    },
+    {
+      "question": "Where should a stoma be sited?",
+      "model_answer": "What should a stoma be located?",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.208662033081055
+    },
+    {
+      "question": "Women's world record performances have improved rapidly in recent years mainly because:",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.208762884140015
+    },
+    {
+      "question": "Our genetic material is made up of:",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.208859920501709
+    },
+    {
+      "question": "Insensible loss does not come from:",
+      "model_answer": "I'm going to answer this question with a",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.208952903747559
+    },
+    {
+      "question": "Exhaustion, confusion, and unresponsiveness can be indicators of:",
+      "model_answer": "What is the answer to this multiple selection question",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.209043025970459
+    },
+    {
+      "question": "Pairs of electrons carried in the form, FADH2 and NADH+H, collectively contain enough free energy to rephosphorylate:",
+      "model_answer": "I answered this question with a single letter (",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.209140062332153
+    },
+    {
+      "question": "A muscle fibre relaxes when:",
+      "model_answer": "What a great question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.215872049331665
+    },
+    {
+      "question": "Which of the following best describes the Golgi tendon organ?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.216390132904053
+    },
+    {
+      "question": "The pulse can be palpated:",
+      "model_answer": "What should you do with this?",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.2169411182403564
+    },
+    {
+      "question": "The pyruvate dehydrogenase complex:",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.217117071151733
+    },
+    {
+      "question": "Which of the following is true about the knee joint?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.217217922210693
+    },
+    {
+      "question": "Who is the publication Your guide to the NHS written for?",
+      "model_answer": "The answer is D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.217313051223755
+    },
+    {
+      "question": "Which of the following is true about the assessment of arm reflexes?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.217405080795288
+    },
+    {
+      "question": "Which of these is most likely to cause deviation of the trachea?",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.217497110366821
+    },
+    {
+      "question": "What is the risk if water is used for bladder washout in secondary care?",
+      "model_answer": "What is the risk if water is used for",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.217591047286987
+    },
+    {
+      "question": "What is the 'normal' range of flexion at the knee joint?",
+      "model_answer": "The answer to this multiple choice question is",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.217684030532837
+    },
+    {
+      "question": "Which of the following is not a controlled drug?",
+      "model_answer": "The answer is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.7723939418792725
+    },
+    {
+      "question": "After what period of time does maximal dynamic exercise become predominantly aerobic?",
+      "model_answer": "What is the answer to this multiple selection question",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.7725372314453125
+    },
+    {
+      "question": "The trigger to initiate the contractile process in skeletal muscle is:",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.772653102874756
+    },
+    {
+      "question": "Which of the following is NOT a sign of phlebitis?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.7727580070495605
+    },
+    {
+      "question": "The energy charge of the cell is:",
+      "model_answer": "The answer is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.7728562355041504
+    },
+    {
+      "question": "The sarcoplasmic reticulum in muscle cells acts as a:",
+      "model_answer": "What is the response to this multiple selection question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.772952079772949
+    },
+    {
+      "question": "Which of the following parameters are seen on typical neurological observation charts?",
+      "model_answer": "The answer is D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.7730472087860107
+    },
+    {
+      "question": "In the discharge checklist recommended by the Department of Health (2004), who should be involved in completing the form?",
+      "model_answer": "The answer is D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.773138999938965
+    },
+    {
+      "question": "Which of the following is true regarding the complications of a large goitre?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.77323317527771
+    },
+    {
+      "question": "The heart has:",
+      "model_answer": "What a great question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.773325204849243
+    },
+    {
+      "question": "Which one of the following groups of patients should be assessed using an Early Warning Score (EWS)?",
+      "model_answer": "What should be assessed using Early Warning Score (",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.565237998962402
+    },
+    {
+      "question": "What is the purpose of the cuff on a tracheostomy tube?",
+      "model_answer": "What is the purpose of the cuff on a",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.5656960010528564
+    },
+    {
+      "question": "What type of covalent bonds link the amino acids in a protein?",
+      "model_answer": "The answer is B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.565820932388306
+    },
+    {
+      "question": "Which is the most reliable way to assess for clubbing?",
+      "model_answer": "This question is a multiple choice question that asks",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.565921068191528
+    },
+    {
+      "question": "The term gene doping refers to:",
+      "model_answer": "What is the answer?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.5660240650177
+    },
+    {
+      "question": "Name three of the five main uses of the hand.",
+      "model_answer": "What did you do?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.566119909286499
+    },
+    {
+      "question": "Which of the following is true about an abdominal mass?",
+      "model_answer": "I'm going to answer this question with only",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.566226005554199
+    },
+    {
+      "question": "Which of the following is not a category used to classify patients according to the Glasgow Coma Scale?",
+      "model_answer": "None",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.566319942474365
+    },
+    {
+      "question": "Which of these combinations of clinical features is most suggestive of mixed mitral valve disease with a predominance of mitral regurgitation?",
+      "model_answer": "I'm going to answer this question with a",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.566409111022949
+    },
+    {
+      "question": "Prior to undergoing a painful procedure, a patient should be informed about what to expect and how their pain will be controlled, as this is associated with:",
+      "model_answer": "What should you know about clinical knowledge before undergoing",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.566498041152954
+    },
+    {
+      "question": "The conversion of one molecule of glucose to two molecules of pyruvate results in the net formation of:",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.188964128494263
+    },
+    {
+      "question": "The net production of ATP via substrate-level phosphorylation in glycolysis is:",
+      "model_answer": "What a great question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.189404010772705
+    },
+    {
+      "question": "Which of the following is true about rectal bleeding?",
+      "model_answer": "What you are looking for is true about clinical",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.189862966537476
+    },
+    {
+      "question": "Mutations are errors in DNA that:",
+      "model_answer": "What is your response to this question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.18999719619751
+    },
+    {
+      "question": "Peak flow meters record:",
+      "model_answer": "The answer is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.190105199813843
+    },
+    {
+      "question": "Which of the following should patients remember when taking paracetamol?",
+      "model_answer": "What should patients remember when taking paracetam",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.190203905105591
+    },
+    {
+      "question": "Which of the following molecules does not form part of DNA?",
+      "model_answer": "This is a multiple-choice question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.1903040409088135
+    },
+    {
+      "question": "Which of the following is true about jaundice?",
+      "model_answer": "I'm not sure",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.190399169921875
+    },
+    {
+      "question": "Which of the following nucleotide bases is not found in RNA?",
+      "model_answer": "None of the above",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.190490245819092
+    },
+    {
+      "question": "Bronchial breathing is characterized by",
+      "model_answer": "I'm going to answer this question with only",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.475733995437622
+    },
+    {
+      "question": "Which of the following drugs is most commonly responsible for patients who present with acute confusion?",
+      "model_answer": "What are you going to do?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.476793050765991
+    },
+    {
+      "question": "The frontal lobe of the brain's cortex is responsible for which of the following?",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.476919889450073
+    },
+    {
+      "question": "The carpal bones are the small bones of the wrist - name them.",
+      "model_answer": "I answered the question with a single letter (",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.477027893066406
+    },
+    {
+      "question": "The process of translation requires the presence of:",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.477121829986572
+    },
+    {
+      "question": "What is 'coring'?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.4772138595581055
+    },
+    {
+      "question": "What must you ensure before a speaking valve is used?",
+      "model_answer": "The answer is D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.477306842803955
+    },
+    {
+      "question": "Which one of the following statements is true with regard to intravenous drug administration?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.4773969650268555
+    },
+    {
+      "question": "Which of the following factors can affect enzyme activity?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.4774909019470215
+    },
+    {
+      "question": "For very high force contractions lasting 1-2 seconds, the initial energy source is from:",
+      "model_answer": "What a great question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.477582693099976
+    },
+    {
+      "question": "Blood clots are responsible for repeatedly blocking a catheter. What should you do?",
+      "model_answer": "What should I do?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.788641929626465
+    },
+    {
+      "question": "What is the pH of water?",
+      "model_answer": "This assistant cannot answer the question because it does",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.790112018585205
+    },
+    {
+      "question": "How long can a cannula remain in situ?",
+      "model_answer": "The answer is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.790233850479126
+    },
+    {
+      "question": "Metabolism is determined by the:",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.790334939956665
+    },
+    {
+      "question": "How many chromosomes do all human somatic cells contain?",
+      "model_answer": "The answer is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.790428876876831
+    },
+    {
+      "question": "Under what circumstances would you use antibiotics prior to catheterization?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.790524959564209
+    },
+    {
+      "question": "Which of these features suggest that a pulsation in the neck is arterial?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.790616750717163
+    },
+    {
+      "question": "The rate limiting enzyme of glycolysis is:",
+      "model_answer": "What a great question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.790710926055908
+    },
+    {
+      "question": "Which of the following is true about haemorrhoids?",
+      "model_answer": "What are the multiple choice questions about clinical knowledge",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.790799856185913
+    },
+    {
+      "question": "Selective Androgen Receptor Modulators (SARMs) are:",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.677235841751099
+    },
+    {
+      "question": "The β-oxidation of a molecule of palmitic acid, CH3(CH2)14CO2H:",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.677356004714966
+    },
+    {
+      "question": "Which products of ADP degradation increase in concentration in the blood during multiple sprint sports?",
+      "model_answer": "The answer is D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.677461862564087
+    },
+    {
+      "question": "The optimum position for performing CPR is to position the patient:",
+      "model_answer": "What should be the best position for the patient",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.677558898925781
+    },
+    {
+      "question": "The complete resynthesis of phosphocreatine after very high intensity exercise normally takes:",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.6776509284973145
+    },
+    {
+      "question": "What type of joint is the elbow?",
+      "model_answer": "The answer to this multiple choice question is a",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.6777448654174805
+    },
+    {
+      "question": "A hypertonic solution is:",
+      "model_answer": "What is this?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.677839040756226
+    },
+    {
+      "question": "Which of these is not necessary when examining the jugular venous pulse?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.677937746047974
+    },
+    {
+      "question": "The maximum sustainable power:",
+      "model_answer": "What should be done in this case?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.678027868270874
+    },
+    {
+      "question": "Fast-twitch fibres contain:",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.678114891052246
+    },
+    {
+      "question": "The rate of blood lactate accumulation is determined by:",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.45520806312561
+    },
+    {
+      "question": "The enzymes of glycolysis are located in the:",
+      "model_answer": "What is your response to this question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.456192970275879
+    },
+    {
+      "question": "The energy released from the breakdown of the high-energy phosphates, ATP and phosphocreatine, can sustain maximal exertion exercise for about:",
+      "model_answer": "The answer is D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.45651912689209
+    },
+    {
+      "question": "Prosthetic groups are:",
+      "model_answer": "What is the response to this multiple choice question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.4566261768341064
+    },
+    {
+      "question": "Which of the following is true in peripheral neuropathy?",
+      "model_answer": "The answer is D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.456721067428589
+    },
+    {
+      "question": "Which of the following is true about involuntary movements in the arm?",
+      "model_answer": "What does not exist in this question",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.456823110580444
+    },
+    {
+      "question": "Which of these options is not recognized as a cause of chronic cough?",
+      "model_answer": "This question does not have a single letter to",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.456921100616455
+    },
+    {
+      "question": "Which of the following is recommended for cleaning the mouth?",
+      "model_answer": "The correct answer is D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.457012891769409
+    },
+    {
+      "question": "As a general principle what is the best approach to the use of analgesic drugs following surgery?",
+      "model_answer": "What is the best approach to use of anal",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.457106113433838
+    },
+    {
+      "question": "Which of the following best describes nociceptive pain?",
+      "model_answer": "The answer is D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.457195997238159
+    },
+    {
+      "question": "Complete the following: A variation of serial peak flow readings over a two week period are considered diagnostic in . . .",
+      "model_answer": "I'm going to answer this question with only",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.210876941680908
+    },
+    {
+      "question": "Under which circumstances would you not use a catheter valve?",
+      "model_answer": "What should you do with your money?",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.211377859115601
+    },
+    {
+      "question": "Which of the following is true of Paget's Disease?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.211504697799683
+    },
+    {
+      "question": "Your first action following confirmation of cardiac arrest is to:",
+      "model_answer": "What should I do?",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.211608648300171
+    },
+    {
+      "question": "What is an urgent reason for catheterizing a patient?",
+      "model_answer": "The answer to the question is A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.211706876754761
+    },
+    {
+      "question": "Who has legal responsibility for a patient's care during hospital admission, stay, and discharge?",
+      "model_answer": "The answer is D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.211810827255249
+    },
+    {
+      "question": "Endurance training increases the muscle's capacity to:",
+      "model_answer": "What a great question!",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.211905002593994
+    },
+    {
+      "question": "An action potential arriving at the motor endplate causes release of:",
+      "model_answer": "What is the answer for this multiple choice question",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.211996793746948
+    },
+    {
+      "question": "Your patient has diabetes. Why is this important?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.212090730667114
+    },
+    {
+      "question": "What is meant by the term 'passive movements'?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.714828968048096
+    },
+    {
+      "question": "What is a tracheostomy?",
+      "model_answer": "What is a clinical knowledge?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.715786933898926
+    },
+    {
+      "question": "Which of the following is true of haematemesis?",
+      "model_answer": "I'm going to answer this question with only",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.7158918380737305
+    },
+    {
+      "question": "Which of the following is true of rheumatoid arthritis?",
+      "model_answer": "What does this multiple choice question about clinical knowledge",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.715986967086792
+    },
+    {
+      "question": "Why should careful consideration be given to providing people aged over 65 with information sources that are internet based?",
+      "model_answer": "What should careful consideration be given to providing?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.716077089309692
+    },
+    {
+      "question": "Which of the following is true about the carpal tunnel syndrome?",
+      "model_answer": "What should you do?",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.716172933578491
+    },
+    {
+      "question": "How many CO2 and ATP molecules are formed during one complete turn of the tricarboxylic acid cycle (Krebs' cycle)?",
+      "model_answer": "I'm not sure what you're saying",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.716264963150024
+    },
+    {
+      "question": "Which potential complication of IV therapy is described thus: 'Leakage of vesicant (irritant) medication or fluid into surrounding tissues, causing tissue damage'?",
+      "model_answer": "What's the answer to this multiple choice question",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.716357946395874
+    },
+    {
+      "question": "Which of the following is present in saliva and has an antibacterial action?",
+      "model_answer": "The correct answer is D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.716444969177246
+    },
+    {
+      "question": "The genome is:",
+      "model_answer": "What a great question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.716531991958618
+    },
+    {
+      "question": "Alterations in which neurotransmitters in the brain by pharmacological agents has been shown to influence fatigue development?",
+      "model_answer": "The answer is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.7947142124176025
+    },
+    {
+      "question": "In all-out exercise such as sprinting the first fibre types to fatigue are the:",
+      "model_answer": "What a great question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.795164108276367
+    },
+    {
+      "question": "The main fate of lactate that leaves muscle and enters the circulation is:",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.795727252960205
+    },
+    {
+      "question": "The most rapid method to resynthesize ATP during exercise is through:",
+      "model_answer": "What a great question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.795849084854126
+    },
+    {
+      "question": "Which of the following is true in a sensory assessment of the arm?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.7959611415863037
+    },
+    {
+      "question": "The blood glucose concentration during 80-90 minutes of intermittent high intensity exercise:",
+      "model_answer": "What is the blood glucose concentration during 80",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.796058177947998
+    },
+    {
+      "question": "One of the most common reasons for stoma formation is:",
+      "model_answer": "What's the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.7961530685424805
+    },
+    {
+      "question": "A surgical support can be used for:",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.796243906021118
+    },
+    {
+      "question": "What size of catheter bag may be used at night?",
+      "model_answer": "I'm not sure what you're saying",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.7963340282440186
+    },
+    {
+      "question": "Anaerobic metabolism refers to the generation of ATP:",
+      "model_answer": "What is the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.7964251041412354
+    },
+    {
+      "question": "A patient has been on the operating table for four hours. How long may it take for any pressure damage to be visible?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.1479926109313965
+    },
+    {
+      "question": "Eccrine and apocrine glands are both types of:",
+      "model_answer": "What is the correct answer for this question?",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.148399829864502
+    },
+    {
+      "question": "Which of the following is true of the assessment of power in the arms?",
+      "model_answer": "What should you do?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.148756980895996
+    },
+    {
+      "question": "Two of the following are evident - pain at IV site, erythema, and swelling. What stage on the phlebitis scale is this and what should you do?",
+      "model_answer": "What should you do?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.149255752563477
+    },
+    {
+      "question": "Which hormone is primarily responsible for fluid regulation?",
+      "model_answer": "The answer to the multiple choice question is D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.149381875991821
+    },
+    {
+      "question": "The low intake of carbohydrate in the diet:",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.149480819702148
+    },
+    {
+      "question": "Phophocreatine resynthesis during recovery from exercise is inhibited by:",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.1495747566223145
+    },
+    {
+      "question": "The transcription of DNA to a molecule of messenger RNA occurs:",
+      "model_answer": "What is the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.149673938751221
+    },
+    {
+      "question": "Oedema is the presence of:",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.149767875671387
+    },
+    {
+      "question": "Why should the short-acting bronchodilator be taken first?",
+      "model_answer": "What should you do with your short- bron",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.185520887374878
+    },
+    {
+      "question": "Which of the following is true about an intention tremor?",
+      "model_answer": "What you are looking for in this question",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.1860198974609375
+    },
+    {
+      "question": "Glucose is transported into the muscle cell:",
+      "model_answer": "What a great question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.186362028121948
+    },
+    {
+      "question": "Oxygen is used:",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.186763048171997
+    },
+    {
+      "question": "Measuring the blood pressure in an arm that is above the level of the heart will:",
+      "model_answer": "What a question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.186890125274658
+    },
+    {
+      "question": "When you are taking a musculoskeletal history which of the following is true?",
+      "model_answer": "What did you say?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.186988830566406
+    },
+    {
+      "question": "Why are male patients advised to take their own electric razor to hospital?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.187092065811157
+    },
+    {
+      "question": "Which organ secretes insulin?",
+      "model_answer": "This is a multiple-choice question",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.187190055847168
+    },
+    {
+      "question": "When teaching a patient inhaler technique, how will you ensure that a large proportion of the drug reaches the lower airways?",
+      "model_answer": "What a patient should be taught to use an",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.187282085418701
+    },
+    {
+      "question": "Why should a patient stand or sit as upright as possible when recording a peak flow rate?",
+      "model_answer": "What should a patient stand upright as in recording",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.1873779296875
+    },
+    {
+      "question": "Why might a patient need a tracheostomy?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.051076889038086
+    },
+    {
+      "question": "In general, the higher the intensity of exercise, the greater the proportional contribution of:",
+      "model_answer": "What is the answer?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.0515339374542236
+    },
+    {
+      "question": "What is the second commonest hospital acquired infection?",
+      "model_answer": "The answer to this multiple choice question is a",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.0519609451293945
+    },
+    {
+      "question": "Phosphocreatine in the muscle cell is found in:",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.052096128463745
+    },
+    {
+      "question": "The patient's self-report of pain is important because health care staff:",
+      "model_answer": "What is the answer for this multiple choice question",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.0521979331970215
+    }
+  ]
+}

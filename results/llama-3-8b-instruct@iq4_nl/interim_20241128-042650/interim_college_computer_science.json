@@ -1,0 +1,713 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq4_nl",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-043213"
+  },
+  "subject": "college_computer_science",
+  "category": "STEM",
+  "correct_rate": 51.0,
+  "evaluation_results": [
+    {
+      "question": "The access matrix approach to protection has the difficulty that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.650374889373779
+    },
+    {
+      "question": "An integer c is a common divisor of two integers x and y if and only if c is a divisor of x and c is a divisor of y. Which of the following sets of integers could possibly be the set of all common divisors of two integers?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.650768995285034
+    },
+    {
+      "question": "In the NoNicks operating system, the time required by a single file-read operation has four nonoverlapping components:\ndisk seek time-25 msec\ndisk latency time-8 msec\ndisk transfer time- 1 msec per 1,000 bytes\noperating system overhead-1 msec per 1,000 bytes + 10 msec\nIn version 1 of the system, the file read retrieved blocks of 1,000 bytes. In version 2, the file read (along with the underlying layout on disk) was modified to retrieve blocks of 4,000 bytes. The ratio of-the time required to read a large file under version 2 to the time required to read the same large file under version 1 is approximately",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.651213884353638
+    },
+    {
+      "question": "You want to cluster 7 points into 3 clusters using the k-Means Clustering algorithm. Suppose after the first iteration, clusters C1, C2 and C3 contain the following two-dimensional points: C1 contains the 2 points: {(0,6), (6,0)} C2 contains the 3 points: {(2,2), (4,4), (6,6)} C3 contains the 2 points: {(5,5), (7,7)} What are the cluster centers computed for these 3 clusters?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.651546001434326
+    },
+    {
+      "question": "Any set of Boolean operators that is sufficient to represent all Boolean expressions is said to be complete. Which of the following is NOT complete?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.652040004730225
+    },
+    {
+      "question": "Consider the collection of all undirected graphs with 10 nodes and 6 edges. Let M and m, respectively, be the maximum and minimum number of connected components in any graph in the collection. If a graph has no selfloops and there is at most one edge between any pair of nodes, which of the following is true?",
+      "model_answer": "B.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.6532299518585205
+    },
+    {
+      "question": "Resolution theorem proving for showing that a formula of propositional logic is not satisfiable has which of the following properties?\nI. It is a sound proof system in the sense that there does not exist a proof of the unsatisfiability of a satisfiable formula of propositional logic.\nII. It is a complete proof system in the sense that there is a proof of unsatisfiability for every unsa tisfiable formula of propositional logic.\nIII. It is a succinct proof system in the sense that whenever an unsatisfiable formula F of propositional logic has a resolution proof, F also has a proof whose length is polynomial in the length of F.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.653512954711914
+    },
+    {
+      "question": "Which of the following statements describe(s) properties of a purely segmented memory system?\nI. It divides memory into units of equal size.\nII. It permits implementation of virtual memory.\nIII. It suffers from internal fragmentation.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.653612852096558
+    },
+    {
+      "question": "Which of the following statements about floating-point arithmetic is NOT true?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.653706789016724
+    },
+    {
+      "question": "Suppose sharing of tiles in a multilevel directory structure is achieved with directory entries that are links pointing to a node containing information about a shared file. Information in this node includes (1) the owner of the file, (2) a count of the number of links to the tile, and (3) the disk block numbers of the file. What is a primary drawback to this approach to sharing?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.653796911239624
+    },
+    {
+      "question": "Mergesort works by splitting a list of n numbers in half, sorting each half recursively, and merging the two halves. Which of the following data structures will allow mergesort to work in O(n log n) time?\nI. A singly linked list\nII. A doubly linked list\nIII. An array",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.583475112915039
+    },
+    {
+      "question": "If p(x) is the minimal-degree interpolating polynomial for the real-valued function f(x) at the n + 1 distinct real numbers x0, .... xn what is the maximum possible degree of p(x)?",
+      "model_answer": "B.",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.5838029384613037
+    },
+    {
+      "question": "An internal hash table has 5 buckets, numbered 0, 1, 2, 3, 4. Keys are integers, and the hash function h(i) = i mod 5 is used, with linear resolution of collisions (i.e., if bucket h(i) is filled, the buckets h(i) + 1, h(i) + 2, ... are tried successively with all bucket numbers computed modulo 5). If elements with keys 13, 8, 24, 10, and 3 are inserted, m that order, into an initially blank hash table, then the content of the bucket numbered 2 is",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.5839221477508545
+    },
+    {
+      "question": "TCP protocol is responsible (among other things) for",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.584017038345337
+    },
+    {
+      "question": "Let A and B be two sets of words (strings) from Σ*, for some alphabet of symbols Σ. Suppose that B is a subset of A. Which of the following statements must always be true of A and B ?\nI. If A is finite, then B is finite.\nII. If A is regular, then B is regular.\nIII. If A is context-free, then B is context-free.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.5841081142425537
+    },
+    {
+      "question": "For all strings x, the function x^M is defined recursively as follows.\ne^M= e, and\nif w is a string and a is a string with length 1, then\n(aw)^M = aw^Ma.\nLet a be a string with length 1, and let x and y be arbitrary strings. Which of the following is true?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5842032432556152
+    },
+    {
+      "question": "Which of the following is NOT a reasonable justification for choosing to busy-wait on an asynchronous event?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5842928886413574
+    },
+    {
+      "question": "The language {ww | w in (0 + 1)*} is",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.5843820571899414
+    },
+    {
+      "question": "Which of the following statements about Ethernets is typically FALSE?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.58447003364563
+    },
+    {
+      "question": "Let P be a procedure that for some inputs calls itself (i.e., is recursive). If P is guaranteed to terminate, which of the following statements must be true?\nI. P has a local variable.\nII. P has an execution path where it does not call itself.\nIII. P either refers to a global variable or has at least one parameter.",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.584557056427002
+    },
+    {
+      "question": "Which of the following comes closest to being a perfectly secure encryption scheme?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.4246959686279297
+    },
+    {
+      "question": "Of the following problems concerning a given undirected graph G, which is currently known to be solvable in polynomial time?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.425072193145752
+    },
+    {
+      "question": "The IP protocol is primarily concerned with",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.425508975982666
+    },
+    {
+      "question": "Of the following, which best approximates the ratio of the number of nonterminal nodes to the total number of nodes in a complete K-ary tree of depth N?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.4257898330688477
+    },
+    {
+      "question": "Consider a computer system in which processes can request and release one or more resources. Once a process has been granted a resource, the process has exclusive use of that resource until it is released. If a process requests a resource that is already in use, the process enters a queue for that resource, waiting until the resource is available. Which of the following will NOT deal effectively with the problem of deadlock?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.425899028778076
+    },
+    {
+      "question": "\"Magic memory\"' has two operations: Read and Clear. Both are indivisible and mutually exclusive. Clear sets the magic memory to zero. Read returns a value that represents the number of Read operations since the last Clear operation. Which of the following is (are) true of \"Magic memory\"?\nI. It can provide the functionality of an atomic Test-and-Set.\nII. It can be used to coordinate processes running on a shared-memory multiprocessor.\nIII. It is only useful on a multiprocessor.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.425997018814087
+    },
+    {
+      "question": "Which of the following is the name of the data structure in a compiler that is responsible for managing information about variables and their attributes?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.426086902618408
+    },
+    {
+      "question": "Which of the following algorithms has running time Θ(n^2) in the worst case but Θ(n log n) on average?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.4261770248413086
+    },
+    {
+      "question": "Languages with a structure that implements abstract data types (e.g., a C++ class) can prevent access to components of this structure by all operations except those that are part of this structure. However, definitions of such a structure often contain declarations of components of the structure (e.g., the header file for a C++ class may contain declarations of its private components). For such a language, an object's name could be bound at run time to stack storage for its component values (direct representation) or to a stack pointer referencing heap storage for its component values (indirect representation). Which of the following statements about comparisons between direct and indirect representations is (are) true?\nI. Indirect representation noticeably increases compilation time.\nII. Direct representation decreases the time needed to access components of a variable.\nIII. When the storage size of some private component of a variable changes, indirect representation minimizes the number of recompilations of source modules that must be performed.",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.4262709617614746
+    },
+    {
+      "question": "Which of the following is NOT a property of bitmap graphics?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.4263620376586914
+    },
+    {
+      "question": "Which of the following is true of interrupts?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.0785961151123047
+    },
+    {
+      "question": "In a height-balanced binary search tree, the heights of the left and right descendents of any node differ by at most 1. Which of the following are true of such a tree?\nI. Worst-case search time is logarithmic in the number of nodes.\nII. Average-case search time is logarithmic in the number of nodes.\nIII. Best-case search time is proportional to the height of the tree.\nIV. The height of the tree is logarithmic in the number of nodes.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.0791070461273193
+    },
+    {
+      "question": "Bob writes down a number between 1 and 1,000. Mary must identify that number by asking \"yes/no\" questions of Bob. Mary knows that Bob always tells the truth. If Mary uses an optimal strategy, then she will determine the answer at the end of exactly how many questions in the worst case?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.0794520378112793
+    },
+    {
+      "question": "Which of the following is (are) true about virtual memory systems that use pages?\nI. The virtual address space can be larger than the amount of physical memory.\nII. Programs must be resident in main memory throughout their execution.\nIII. Pages correspond to semantic characteristics of the program.",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.079802989959717
+    },
+    {
+      "question": "Which of the following is usually NOT represented in a subroutine's activation record frame for a stack-based programming language?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0801939964294434
+    },
+    {
+      "question": "Which of the following statements about a remote procedure call is true?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.080583095550537
+    },
+    {
+      "question": "Of the following sorting algorithms, which has a running time that is LEAST dependent on the initial ordering of the input?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.0809359550476074
+    },
+    {
+      "question": "A particular parallel program computation requires 100 seconds when executed on a single processor. If 40 percent of this computation is \"inherently sequential\" (i.e., will not benefit from additional processors), then the theoretically best possible elapsed times for this program running with 2 and 4 processors, respectively, are",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.0814430713653564
+    },
+    {
+      "question": "Consider the representation of six-bit numbers by two's complement, one's complement, or by sign and magnitude. In which representation is there overflow from the addition of the integers 011000 and 011000?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.081578016281128
+    },
+    {
+      "question": "Of the following, which best characterizes computers that use memory-mapped I/O?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0816729068756104
+    },
+    {
+      "question": "Many cryptographic protocols base their security on assumptions about the computational difficulty of integer factorization. Integer factorization serves this purpose because we believe that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.172484874725342
+    },
+    {
+      "question": "Which of the following sets of bit strings CANNOT be described with a regular expression?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.1728599071502686
+    },
+    {
+      "question": "Which of the following conditions can be expressed by a Boolean formula in the Boolean variables p_1, p_2, p_3, p_4 and the connectives ∧,∨ (without ¬)?\nI. At least three of p_1, p_2, p_3, p_4 are true.\nII. Exactly three of p_1, p_2, p_3, p_4 are true.\nIII. An even number of p_1, p_2, p_3, p_4 are true.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.173362970352173
+    },
+    {
+      "question": "Two alternatives for interconnecting a set of processors with bidirectional links are (1) the fully interconnected network, in which each processor is directly connected to every other processor, and (2) the ring network, in which each processor is connected to two other processors. The worst-case path length for a network is the maximum, over all pairs of nodes in the network, of the minimum length paths (measured in number of links) between the nodes. For each type of interconnection of n processors, a figure of merit can be formed as the product of the number of links required for the network times the worst-case path length connecting any two processors. The ratio of this figure of merit for the fully interconnected network compared to that of the ring network, for even n > 2, is",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.173762083053589
+    },
+    {
+      "question": "For a connected, undirected graph G = (V, E), which of the following must be true?\nI. Σ_{v∈V} degree(v) is even.\nII. |E| ≥ |V| − 1\nIII. G has at least one vertex with degree 1.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.174120903015137
+    },
+    {
+      "question": "In multiprogrammed systems it is advantageous if some programs such as editors and compilers can be shared by several users. Which of the following must be true of multiprogrammed systems in order that a single copy of a program can be shared by several users?\nI. The program is a macro.\nII. The program is recursive.\nIII. The program is reentrant.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.174543857574463
+    },
+    {
+      "question": "Which of the following decimal numbers has an exact representation in binary notation?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.174901962280273
+    },
+    {
+      "question": "Function signatures describe the types of the arguments to a function as well as the return value of the function. For instance, the addition function on reals has a signature of\nadd : real x real -> real\nsince it takes two real numbers and returns a real number. But, for a language that allows functions as return values, addition could be considered to have the signature\nadd : real -> (real -> real)\nwhich means that add takes a single real (the first operand) and returns a new function that itself takes a single real (the second operand) and returns a real (the result). This process of reducing a function with multiple arguments to a function with fewer arguments is called currying. Which of the following is correct?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.175461769104004
+    },
+    {
+      "question": "Array A contains 256 elements of 4 bytes each. Its first element is stored at physical address 4,096.\nArray B contains 512 elements of 4 bytes each. Its first element is stored at physical address 8,192.\nAssume that only arrays A and B can be cached in an initially empty, physically addressed, physically tagged, direct-mapped, 2K-byte cache with an 8-byte block size. The following loop is then executed.\nfor (i = 0; i < 256; i++)\n        A[i] = A[i] + B[2*i];\nDuring the execution of the loop, how many bytes will be written to memory if the cache has a write-back policy?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.175576686859131
+    },
+    {
+      "question": "In which of the following representations of numbers by 8-bit words is the addition of the integers 109 and -42 within range?\nI. One's complement\nII. Two's complement\nIII. Sign and magnitude",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.175671100616455
+    },
+    {
+      "question": "If a malicious process is granted temporary administrator-level access to a system",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5717828273773193
+    },
+    {
+      "question": "Which of the following statements about horizontal versus vertical microarchitecture is (are) true?\nI. Programs for horizontal architectures require more time steps than those for vertical architectures.\nII. Horizontal microinstructions are unencoded.\nIII. Horizontal microinstructions usually have a single opcode and multiple operand specifiers.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.572261095046997
+    },
+    {
+      "question": "A \"strictly binary tree\" is a binary tree in which every node that is not a leaf has two children. Suppose that for a class of strictly binary trees there exists c > 0 such that, for any tree in the class, the ratio of the lengths of any two root-to-leaf paths is bounded above by c. Which of the following best characterizes the height h of any tree in this class, where N is the number of nodes in the tree and N > 1 ?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.5726211071014404
+    },
+    {
+      "question": "Which of the following sorting algorithms has average-case and worst-case running times of O(n log n)?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.572972059249878
+    },
+    {
+      "question": "Consider the following equations concerning a stack module that has the operations Push, Pop, Top, and IsEmpty. Which of the equations does NOT represent the conventional semantics of a stack?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.573312997817993
+    },
+    {
+      "question": "Assume that any assignment statement can be executed in unit time. If as many identical processors as needed are used, what is the minimum number of time units needed to execute the assignments\nA := B + C\nB := A - B\nC := A * E\nD := A/F\nE := B - C\nF := A + B\nwith the same result as if the assignments were executed in the order shown?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.5736560821533203
+    },
+    {
+      "question": "Two expressions E and F are said to be unifiable if there are substitutions for the variables of E and F that make the expressions lexically identical. In the following three expressions, only w, x, y, and z are variables.\nI. f(w,w)\nII. f(x,1)\nIII. f(y,g(z))\nWhich pairs of these expressions is (are) pairs of unifiable expressions?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.5744729042053223
+    },
+    {
+      "question": "Which of the following instruction-set features is NOT generally considered an obstacle to aggressive pipelining of an integer unit?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.574885845184326
+    },
+    {
+      "question": "Let k >= 2. Let L be the set of strings in {0, 1}^* such that x \\in L if and only if the number of 0's in x is divisible by k and the number of 1's in x is odd. The minimum number of states in a deterministic finite automaton (DFA) that recognizes L is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.575002908706665
+    },
+    {
+      "question": "Let G = (V, E) be a finite directed acyclic graph with |E| > 0. Which of the following must be true?\nI. G has a vertex with no incoming edge.\nII. G has a vertex with no outgoing edge.\nIII. G has an isolated vertex, that is, one with neither an incoming edge nor an outgoing edge.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.575098752975464
+    },
+    {
+      "question": "Let T be a depth-first search tree of a connected undirected graph G. For each vertex v of T, let pre(v) be the number of nodes visited up to and including v during a preorder traversal of T, and post(v) be the number of nodes visited up to and including v during a postorder traversal of T. The lowest common ancestor of vertices u and v in T is a vertex w of T such that w is an ancestor of both u and v, and no child of w is an ancestor of both u and v. Let (u, v) be an edge in G that is not in T, such that pre(u) < pre(v). Which of the following statements about u and v must be true?\nI. post(u) < post(v)\nII. u is an ancestor of v in T.\nIII. If w is the lowest common ancestor of u and v in T, then w = u.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.013290166854858
+    },
+    {
+      "question": "In systems with support for automatic memory management, a garbage collector typically has the responsibility for reclaiming allocated memory objects whose contents cannot affect any future legal computation. Such objects are identified by determining that they cannot be reached from a root set. Which of the following is NOT part of the root set in a typical garbage collector?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.013735294342041
+    },
+    {
+      "question": "In the Internet Protocol (IP) suite of protocols, which of the following best describes the purpose of the Address Resolution Protocol?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.014087200164795
+    },
+    {
+      "question": "Which of the following language features requires that stack-based storage allocation be used rather than static allocation?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.014435291290283
+    },
+    {
+      "question": "Which of the following is not a sentence that is generated by the grammar A -> BC, B -> x|Bx, C -> B|D, D -> y|Ey, E -> z?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.015221118927002
+    },
+    {
+      "question": "Let T (n) be defined by T(1) = 7 and T(n + 1) = 3n + T(n) for all integers n ≥ 1. Which of the following represents the order of growth of T(n) as a function of n?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.015510082244873
+    },
+    {
+      "question": "Which of the following problems is (are) decidable?\nI. Given a (finite) string w, is w a prefix of the decimal expansion of π?\nII. Given a program and an input, is the program’s output the decimal expansion of π?\nIII. Given a program that takes as input a prefix of the decimal expansion of π, is the program’s output always the same for every prefix?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.01561427116394
+    },
+    {
+      "question": "Which of the following statements about circuits is (are) true?\nI. Combinational circuits may have feedback; sequential circuits do not.\nII. Combinational circuits have a \"memoryless\" property; sequential circuits do not.\nIII. Both sequential and combinational circuits must be controlled by an external clock.",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.0157082080841064
+    },
+    {
+      "question": "Two single-user workstations are attached to the same local area network. On one of these workstations, file pages are accessed over the network from a file server; the average access time per page is 0.1 second. On the other of these workstations, file pages are accessed from a local disk; the average access time per page is 0.05 second. A particular compilation requires 30 seconds of computation and 200 file page accesses. What is the ratio of the total time required by this compilation if run on the diskless (file server) workstation to the total time required if run on the workstation with the local disk, if it is assumed that computation is not overlapped with file access?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.015799045562744
+    },
+    {
+      "question": "Assume that a debugger places a breakpoint at a load instruction at virtual address 0x77E81234 (hexadecimal notation) in a debugged process P. If the text segment of P begins at 0x77E80000 in P’s virtual address space and if the debugger has mapped this same text segment at 0x01000000 in its virtual address space, which of the following is the virtual address used by the debugger in its WRITE operation, along with a description of how the debugger has mapped the virtual memory page containing this address?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.015888214111328
+    },
+    {
+      "question": "Which of the following considerations applies (apply) to choosing the page size in a paging system?\nI. An advantage of larger pages is that they lead to smaller page tables.\nII. An advantage of smaller pages is that they lead to less waste due to internal fragmentation.\nIII. Normally, the dominant factor in disk access time is not dependent on page length, so longer pages can be used advantageously.",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.092281103134155
+    },
+    {
+      "question": "Two processors, M-5 and M-7, implement the same instruction set. Processor M-5 uses a 5-stage pipeline and a clock cycle of 10 nanoseconds. Processor M-7 uses a 7-stage pipeline and a clock cycle of 7.5 nanoseconds. Which of the following is (are) true?\nI. M-7’s pipeline has better maximum throughput than M-5’s pipeline.\nII. The latency of a single instruction is shorter on M-7’s pipeline than on M-5’s pipeline.\nIII. Programs executing on M-7 will always run faster than programs executing on M-5.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.093428134918213
+    },
+    {
+      "question": "Which of the following pairs of 8-bit, two's-complement numbers will result in overflow when the members of the pairs are added?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.0939271450042725
+    },
+    {
+      "question": "Two computers communicate with each other by sending data packets across a local area network. The size of these packets is 1,000 bytes. The network has the capacity to carry 1,000 packets per second. The CPU time required to execute the network protocol to send one packet is 10 milliseconds. The maximum rate at which one computer can send data to another is approximately",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.094309091567993
+    },
+    {
+      "question": "Consider the following grammar.\nS → ( S )\nS → x\nWhich of the following statements is (are) true?\nI. The grammar is ambiguous.\nII. The grammar is suitable for top-down parsing.\nIII. The grammar is suitable for bottom-up parsing.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.094792127609253
+    },
+    {
+      "question": "Hash tables can contribute to an efficient average-case solution for all of the problems described below EXCEPT:",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.095160245895386
+    },
+    {
+      "question": "Let A be a finite set with m elements, and let B be a finite set with n elements. The number of distinct functions mapping A into B is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.09548020362854
+    },
+    {
+      "question": "To compute the matrix product M_1M_2, where M_1 has p rows and q columns and where M_2 has q rows and r columns, takes time proportional to pqr, and the result is a matrix of p rows and r columns. Consider the product of three matrices N_1N_2N_3 that have, respectively, w rows and x columns, x rows and y columns, and y rows and z columns. Under what condition will it take less time to compute the product as (N_1N_2)N_3 (i.e., multiply the first two matrices first) than to compute it as N_1(N_2 N_3)?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.095588207244873
+    },
+    {
+      "question": "The hit ratio of a cache memory is the percentage of accesses (reads and writes) for which data are found in the cache. Write-through is a policy whereby every write operation updates main memory. Write-back is a policy whereby a write operation to a line found in the cache does not affect main memory until the line is evicted from the cache. Write-allocation is a policy whereby a cache line is allocated and loaded on a write-miss. If it is assumed that write-allocation is always used, which of the following is true?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.095681190490723
+    },
+    {
+      "question": "A particular disk unit uses a bit string to record the occupancy or vacancy of its tracks, with O denoting vacant and 1 denoting occupied. A 32-bit segment of this string has the hexadecimal value D4FE2003. The percentage of occupied tracks for the corresponding part of the disk, to the nearest percent, is",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.095779180526733
+    },
+    {
+      "question": "An Euler circuit of an undirected graph is a circuit in which each edge of the graph appears exactly once. Which of the following undirected graphs must have an Euler circuit?\nI. A complete graph with 12 vertices\nII. A complete graph with 13 vertices\nIII. A tree with 13 vertices",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.4255359172821045
+    },
+    {
+      "question": "Which of the following characteristics of a programming language is best specified using a context-free grammar?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.4259018898010254
+    },
+    {
+      "question": "Which of the following statements about datagrams sent by a node in a network using IPv4 protocol is (are) true?\nI. Datagrams at the source must be the size of the smallest maximum transmission unit (MTU) of all the links on a path to the destination.\nII. Datagrams may be fragmented during routing.\nIII. Datagrams are reassembled only at the destination.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.426246166229248
+    },
+    {
+      "question": "A starvation-free job-scheduling policy guarantees that no job waits indefinitely for service. Which of the following job-scheduling policies is starvation-free?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.426689863204956
+    },
+    {
+      "question": "Of the following, which gives the best upper bound for the value of f(N) where f is a solution to the recurrence f(2N + 1) = f(2N) = f(N) + log N for N >= 1, with f(1) = 0?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.4272921085357666
+    },
+    {
+      "question": "Company X shipped 5 computer chips, 1 of which was defective, and Company Y shipped 4 computer chips, 2 of which were defective. One computer chip is to be chosen uniformly at random from the 9 chips shipped by the companies. If the chosen chip is found to be defective, what is the probability that the chip came from Company Y?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.427399158477783
+    },
+    {
+      "question": "Which of the following problems can be solved by a standard greedy algorithm?\nI. Finding a minimum spanning tree in an undirected graph with positive-integer edge weights\nII. Finding a maximum clique in an undirected graph\nIII. Finding a maximum flow from a source node to a sink node in a directed graph with positive-integer edge capacities",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.427493095397949
+    },
+    {
+      "question": "A program that checks spelling works in the following way. A hash table has been defined in which each entry is a Boolean variable initialized to false. A hash function has been applied to each word in the dictionary, and the appropriate entry in the hash table has been set to true. To check the spelling in a document, the hash function is applied to every word in the document, and the appropriate entry in the hash table is examined. Which of the following is (are) correct?\nI. true means the word was in the dictionary.\nII. false means the word was not in the dictionary.\nIII. Hash table size should increase with document size.",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.4275848865509033
+    },
+    {
+      "question": "One approach to handling fuzzy logic data might be to design a computer using ternary (base-3) logic so that data could be stored as “true,” “false,” and “unknown.” If each ternary logic element is called a flit, how many flits are required to represent at least 256 different values?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.4276771545410156
+    },
+    {
+      "question": "Local caching of files is common in distributed file systems, but it has the disadvantage that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.4277701377868652
+    },
+    {
+      "question": "Array A contains 256 elements of 4 bytes each. Its first element is stored at physical address 4,096.\nArray B contains 512 elements of 4 bytes each. Its first element is stored at physical address 8,192.\nAssume that only arrays A and B can be cached in an initially empty, physically addressed, physically tagged, direct-mapped, 2K-byte cache with an 8-byte block size. The following loop is then executed.\nfor (i = 0; i < 256; i++)\n        A[i] = A[i] + B[2*i];\nDuring the execution of the loop, how many bytes will be written to memory if the cache has a write-through policy?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.353733062744141
+    },
+    {
+      "question": "At time 0, five jobs are available for execution on a single processor, with service times of 25, 15, 5, 3, and 2 time units. Which of the following is the minimum value of the average completion time of these jobs?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.354197978973389
+    },
+    {
+      "question": "Let G = (V, E) be a connected, undirected graph, and let a and b be two distinct vertices in V. Let P_1 be the problem of finding a shortest simple path between a and b, and let P_2 be the problem of finding a longest simple path between a and b. Which of the following statements about P_1 and P_2 is true?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.35464334487915
+    },
+    {
+      "question": "A major advantage of direct mapping of a cache is its simplicity. The main disadvantage of this organization is that",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.354982137680054
+    },
+    {
+      "question": "Let M be a single-tape, deterministic Turing machine with tape alphabet {blank,0,1}, and let C denote the (possibly infinite) computation of M starting with a blank tape. The input to each problem below is M, together with a positive integer n. Which of the following problems is (are) decidable?\nI. The computation C lasts for at least n steps.\nII. The computation C lasts for at least n steps, and M prints a 1 at some point after the nth step.\nIII. M scans at least n distinct tape squares during the computation C.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.355092287063599
+    },
+    {
+      "question": "A 3-way, set-associative cache is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.355187177658081
+    },
+    {
+      "question": "Consider an object-oriented language in which all entities are objects. Two relationships arise: (1) the instance relationship, between an object and the class of which that object is a member, and (2) the subclass relationship, between a class and the superclass from which that class inherits properties. In such a language, when a message is sent to an object requesting execution of one of its methods (procedures), the method is located by following",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.355278253555298
+    },
+    {
+      "question": "In a pipelined RISC computer where all arithmetic instructions have the same CPI (cycles per instruction), which of the following actions would improve the execution time of a typical program?\nI. Increasing the clock cycle rate\nII. Disallowing any forwarding in the pipeline\nIII. Doubling the sizes of the instruction cache and the data cache without changing the clock cycle time",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.355368137359619
+    },
+    {
+      "question": "A microcomputer used for data acquisition and control is required to digitize and process four analog input signals and to output their average continually; i.e., in real time. The time for an external analog-to-digital converter (which is triggered by a CPU instruction) to digitize one input is 12 microseconds, and only one digitization occurs at a time. Five CPU instructions, including the triggering instruction, must be executed for each signal digitized. Ten CPU instructions are executed in order to average each set of four samples and output this value. The time to convert the output from digital to analog form is to be ignored. If it is assumed that suitable data buffering is employed, then the maximum average instruction execution time that allows the microcomputer to keep up with the input-output data rates, is",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.35545539855957
+    },
+    {
+      "question": "Suppose that a certain software product has a mean time between failures of 10,000 hours and has a mean time to repair of 20 hours. If the product is used by 100 customers, what is its availability?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.355544090270996
+    }
+  ]
+}

@@ -1,0 +1,1364 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@q2_k",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241127-204830"
+  },
+  "subject": "high_school_government_and_politics",
+  "category": "social sciences",
+  "correct_rate": 50.77720207253886,
+  "evaluation_results": [
+    {
+      "question": "Which of the following best describes the balance the Supreme Court has struck between the establishment clause and the free-exercise clause?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.554031133651733
+    },
+    {
+      "question": "Which of the following statements does NOT accurately describe voting behavior in the United States?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.554405927658081
+    },
+    {
+      "question": "Which of the following plays the most significant role in forming a child's political views?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.554801940917969
+    },
+    {
+      "question": "What power was granted to the states by the Articles of Confederation but not by the Constitution?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.555152893066406
+    },
+    {
+      "question": "The primary function of political action committees (PACs) is to",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.555563926696777
+    },
+    {
+      "question": "Federal judges are subject to which of the following disciplinary actions?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.556140899658203
+    },
+    {
+      "question": "The amount of access cabinet secretaries have to the president is most likely to be controlled by the",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.5565690994262695
+    },
+    {
+      "question": "Which of the following defines the salience of a political issue?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.556926965713501
+    },
+    {
+      "question": "Voters who rely exclusively on television network news coverage of national elections are most likely to be aware of",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.5572638511657715
+    },
+    {
+      "question": "Which principle was established by the Supreme Court's decision in Marbury v. Madison?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.557655096054077
+    },
+    {
+      "question": "Which of the following people would most likely be accused of influence peddling?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.68162202835083
+    },
+    {
+      "question": "Which of the following does the Supreme Court NOT have the power to override?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.6819987297058105
+    },
+    {
+      "question": "According to The Federalist Papers, federalism has which of the following effects on political factions?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.682366847991943
+    },
+    {
+      "question": "Which of the following statements about voting patterns is NOT true?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.682701826095581
+    },
+    {
+      "question": "The legal principle that instructs judges to follow established precedent when deciding cases is commonly referred to as",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.683037757873535
+    },
+    {
+      "question": "Voters in which of the following categories would be LEAST likely to vote?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.683640718460083
+    },
+    {
+      "question": "While ratifying the Constitution, the primary point of disagreement between Federalists and Anti-Federalists was over",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.683888912200928
+    },
+    {
+      "question": "The legislative successes of the National Rifle Association, antiabortion activists, and other powerful interest groups demonstrate that",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.684038877487183
+    },
+    {
+      "question": "The exclusionary rule was established to",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.6841888427734375
+    },
+    {
+      "question": "The opinions of congressional committees often fail to accurately mirror public opinion because",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.684333801269531
+    },
+    {
+      "question": "Congress would be required to use the \"elastic clause\" of the Constitution to",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.47265625
+    },
+    {
+      "question": "The House Rules Committee is considered among the most powerful in the House of Representatives because it has great power over the",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.473037004470825
+    },
+    {
+      "question": "The Supreme Court issued the opinion quoted below in its ruling on which of the following cases? \"We conclude that in the field of education the doctrine of 'separate but equal' has no place. Separate educational facilities are inherently unequal.\"",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.4737548828125
+    },
+    {
+      "question": "In the past decade many states have moved forward the date of their presidential primary elections in an effort to",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.47428822517395
+    },
+    {
+      "question": "Ruled unconstitutional in 1983, the legislative veto had allowed",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.474637031555176
+    },
+    {
+      "question": "Federal election laws are designed to achieve all of the following EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.475048065185547
+    },
+    {
+      "question": "The president executes a \"pocket veto\" by doing which of the following?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.4755048751831055
+    },
+    {
+      "question": "Which of the following has been true of the Republican Party since the 1980s?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.475667953491211
+    },
+    {
+      "question": "Which of the following statements is LEAST true of voters in federal, state, and local elections?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.475799083709717
+    },
+    {
+      "question": "Which of the following is NOT true of executive orders?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.475926160812378
+    },
+    {
+      "question": "Which of the following principles is realized when the federal government provides most of the funding to a project in which multiple levels of government work together?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.028424978256226
+    },
+    {
+      "question": "In \"Federalist No. 10,\" James Madison argues that a federal system of government reduces the danger of political factions by",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 5.028801918029785
+    },
+    {
+      "question": "All of the following can be considered true about the impact of a higher level of education on voting habits EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.029294013977051
+    },
+    {
+      "question": "The boundary lines of congressional districts must be redrawn every 10 years to",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.029842853546143
+    },
+    {
+      "question": "Which of the following is true of appellate courts?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.03041410446167
+    },
+    {
+      "question": "Which of the following generally results when the Senate and House of Representatives pass different versions of the same bill?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.030755043029785
+    },
+    {
+      "question": "Which of the following accounts for the fact that the power and prestige of the presidency have grown since 1932? I. America's increased prominence in international affairs II. continually improved public confidence in the federal government III. the New Deal and other programs that have expanded federal responsibility IV. the president's increased visibility, due to the development of mass media",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.03112006187439
+    },
+    {
+      "question": "Interest groups representing businesspeople and investors are often among the most successful lobbying groups in Washington, D.C., for all of the following reasons EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.032196044921875
+    },
+    {
+      "question": "Each of the two main political parties of the United States is organized",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.03254508972168
+    },
+    {
+      "question": "The origination clause of the Constitution states that",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.032881021499634
+    },
+    {
+      "question": "Among the following groups that have traditionally supposed the Democratic Party, which has the least liberal constituency?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.348807096481323
+    },
+    {
+      "question": "Which of the following has the Supreme Court held about the death penalty?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.349285125732422
+    },
+    {
+      "question": "Which of the following describes a core principle of the Constitution as it was written in 1787?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.349682807922363
+    },
+    {
+      "question": "What is the primary reason that the committees in the House of Representatives are more influential than they are in the Senate?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.350092887878418
+    },
+    {
+      "question": "Which of the following statements about presidential elections since 1972 is most accurate?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.350831031799316
+    },
+    {
+      "question": "Which of the following most accurately describes the right of American citizens to privacy?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.351515054702759
+    },
+    {
+      "question": "A presidential veto would most likely be overturned in which of the following situations?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.351691961288452
+    },
+    {
+      "question": "Of the following interest groups, which has created the largest number of political action committees (PACs) since the 1970s?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.351841926574707
+    },
+    {
+      "question": "The Commerce Clause of the Constitution has been used to",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.351991891860962
+    },
+    {
+      "question": "Which of the following would occur if Congress were to pass legislation and declare a recess, and the president took no action on the bill within ten days of its passage?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.352135181427002
+    },
+    {
+      "question": "Republican candidates for president who tend to be more successful in the primaries tend to be more conservative than rank-and-file Republicans because",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.133718013763428
+    },
+    {
+      "question": "A \"motion for cloture\" is used to",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.13416600227356
+    },
+    {
+      "question": "Which of the following best illustrates a use of the elastic clause?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.13451886177063
+    },
+    {
+      "question": "Which of the following is true of the House Committee on Ways and Means?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.134979009628296
+    },
+    {
+      "question": "Which of the following is generally understood to be the purpose of the Tenth Amendment to the Constitution?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.135560750961304
+    },
+    {
+      "question": "Which of the following best articulates the doctrine of original intent?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.136006832122803
+    },
+    {
+      "question": "Which of the following statements is true of congressional incumbents who run for reelection?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 5.1363818645477295
+    },
+    {
+      "question": "The relative stability of American public policy is achieved largely through",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 5.136819839477539
+    },
+    {
+      "question": "Which of the following is a direct result of an electoral system that features single-member districts?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 5.137189865112305
+    },
+    {
+      "question": "All of the following contribute to lower voting rates among Americans in the 18-to-25 age bracket EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.137346982955933
+    },
+    {
+      "question": "Which of the following may file an amicus curiae brief?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.942751884460449
+    },
+    {
+      "question": "Which of the following best predicts how someone will vote in an election?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.943122148513794
+    },
+    {
+      "question": "Which of the following statements about the electoral college is correct?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.943603038787842
+    },
+    {
+      "question": "A sound bite would most likely be used during a presidential election in order to",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.9439401626586914
+    },
+    {
+      "question": "Interest groups are barred from taking part in which of the following activities?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.9443628787994385
+    },
+    {
+      "question": "The Dred Scott decision of 1857 was overturned by the",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.9451329708099365
+    },
+    {
+      "question": "A member of which of the following demographic groups is most likely to support a Republican presidential candidate?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.9455862045288086
+    },
+    {
+      "question": "Which of the following is the primary purpose of \"motor voter\" laws?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.9459729194641113
+    },
+    {
+      "question": "An open primary is a primary election in which",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.946514129638672
+    },
+    {
+      "question": "Which of the following is the largest source of \"automatic spending\" for the federal government?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.9470510482788086
+    },
+    {
+      "question": "Which of the following is an example of \"horse-race journalism\"?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.357134103775024
+    },
+    {
+      "question": "All of the following are core values of American political culture EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.3580641746521
+    },
+    {
+      "question": "The Supreme Court has used the practice of selective incorporation to",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.358474016189575
+    },
+    {
+      "question": "According to the Constitution, who determines voter eligibility requirements?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.359001159667969
+    },
+    {
+      "question": "The difference between a pardon and a reprieve is",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.359382152557373
+    },
+    {
+      "question": "Which of the following actions can the president take without congressional approval?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.359536170959473
+    },
+    {
+      "question": "Two related cases that focused on the right to privacy for all American citizens were",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.359683036804199
+    },
+    {
+      "question": "The swift adoption of the Bill of Rights in the years following ratification of the Constitution demonstrates the",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.359826326370239
+    },
+    {
+      "question": "Incumbent members of the House of Representatives win reelection more often than incumbent senators for all of the following reasons EXCEPT",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.3599653244018555
+    },
+    {
+      "question": "A Supreme Court that demonstrates a willingness to change public policy and alter judicial precedent is said to be engaging in",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.360125303268433
+    },
+    {
+      "question": "Which of the following is an accurate statement about the leadership of the two major political parties?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.085878133773804
+    },
+    {
+      "question": "The opposition of the American Civil Liberties Union (ACLU), the National Association of Women Lawyers (NAWL), and the American Federation of Labor and Congress of Industrial Organizations (AFL-CIO) to Samuel Alito's 2006 nomination to the Supreme Court is an example of",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.08605432510376
+    },
+    {
+      "question": "Which of the following is the best illustration of \"pork barrel\" legislation?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.086205005645752
+    },
+    {
+      "question": "All of the following statements about gerrymandering are true EXCEPT that it",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.086351156234741
+    },
+    {
+      "question": "Which of the following was the legal basis for the 1973 Roe v. Wade majority opinion, in which the Supreme Court struck down a state ban on abortion?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 5.086493015289307
+    },
+    {
+      "question": "Of the following, American federalism is most clearly exemplified by the",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.086636066436768
+    },
+    {
+      "question": "When the Founders met in 1787 to write the Constitution, their primary objective was to",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.086777210235596
+    },
+    {
+      "question": "A constitutional amendment would be required to ban flag burning because that activity is currently protected by the right to",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.086917161941528
+    },
+    {
+      "question": "Which of the following is an example of an implied power of the Congress?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.087059020996094
+    },
+    {
+      "question": "To which characteristic of American government does the term \"federalism\" refer?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.087196111679077
+    },
+    {
+      "question": "Given the structure of the electoral college system, presidential candidates tend to",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.535686016082764
+    },
+    {
+      "question": "Filibusters are less likely to occur in the House of Representatives than in the Senate because",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.5361340045928955
+    },
+    {
+      "question": "When the Democratic Party pursues liberal social policies, it is most likely to alienate which of its traditional bases?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.5365149974823
+    },
+    {
+      "question": "The practice of drawing congressional district lines in an attempt to give one party a benefit over another is referred to as",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.536877155303955
+    },
+    {
+      "question": "Which of the following is NOT a way in which the powers of the executive branch are balanced by the legislative branch?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.537699222564697
+    },
+    {
+      "question": "The line-item veto was found unconstitutional because",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.538280963897705
+    },
+    {
+      "question": "Why do political scientists identify the presidential elections of Franklin Roosevelt in 1932 and Richard Nixon in 1968 as well as the midterm election of 1994 as \"critical elections\"?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.538717985153198
+    },
+    {
+      "question": "House members are more concerned about their committee assignments than are senators because",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.538892030715942
+    },
+    {
+      "question": "Which of the following statements about voting populations is most accurate?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.539043188095093
+    },
+    {
+      "question": "The primary goal of the Gramm-Rudman Acts of 1985 and 1987 was to",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.539186000823975
+    },
+    {
+      "question": "Which of the following best describes the practice of \"ticket splitting\"?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.492037057876587
+    },
+    {
+      "question": "Which of the following is the most direct result of an electoral system with single-member districts?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.492478847503662
+    },
+    {
+      "question": "The Voting Rights Act of 1965",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.493515968322754
+    },
+    {
+      "question": "In the House of Representatives, the Rules Committee",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.493735074996948
+    },
+    {
+      "question": "When an appeal is made to the Supreme Court, the court usually",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.493888854980469
+    },
+    {
+      "question": "Under which of the following circumstances does a president usually experience a reduction in political power? I. The president is in the final two years of his or her second term II. The number and severity of international crises is increasing III. Different parties control Congress and the White House IV. The economy is strong and the president's approval ratings are high",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.494034767150879
+    },
+    {
+      "question": "Which of the following is LEAST likely to explain low voter turnout for an election?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.49418306350708
+    },
+    {
+      "question": "Members of Congress are allowed to mail letters to their constituents at the government's expense because of",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.494325876235962
+    },
+    {
+      "question": "The idea that the Bill of Rights applies to both federal and state governments by means of the Fourteenth Amendment is called",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.4944727420806885
+    },
+    {
+      "question": "If no presidential candidate receives a majority of the electoral college vote, then who becomes the president?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.494620084762573
+    },
+    {
+      "question": "Unlike in a closed primary election, in an open primary election",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.106249094009399
+    },
+    {
+      "question": "Every ten years, the majority of state legislatures are responsible for",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.106703281402588
+    },
+    {
+      "question": "Which of the following best describes the fate of most popular third-party movements?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.107206106185913
+    },
+    {
+      "question": "The spoils system of awarding civil service jobs was replaced by the merit system as a result of the",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.107553005218506
+    },
+    {
+      "question": "The term \"iron triangle\" refers to the interrelationship of the",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.107929229736328
+    },
+    {
+      "question": "The No Child Left Behind Act, which established educational standards that states must meet to receive federal educational funding, is an example of which of the following?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.108302116394043
+    },
+    {
+      "question": "An inherent power of the president is the power to",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.108642101287842
+    },
+    {
+      "question": "The Supreme Court has used the Fourteenth Amendment to apply portions of the Bill of Rights to state law by citing the amendment's",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.108975172042847
+    },
+    {
+      "question": "Political efficacy refers to the idea that",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.109463214874268
+    },
+    {
+      "question": "Which of the following presidential powers is shared with the Senate?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.109658241271973
+    },
+    {
+      "question": "Which of the following is a significant difference between the Senate and the House of Representatives?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.430320739746094
+    },
+    {
+      "question": "A member of the president's cabinet is said to have \"gone native\" when that cabinet member",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.4306910037994385
+    },
+    {
+      "question": "All of the following are ways in which lobbyists attempt to persuade legislators EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.431034088134766
+    },
+    {
+      "question": "All of the following are consequences of low voter turnout in the United States EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.431485891342163
+    },
+    {
+      "question": "Which of the following statements is true regarding delegates to presidential nomination conventions?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.4320008754730225
+    },
+    {
+      "question": "All of the following are specifically mentioned in the Constitution EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.43253493309021
+    },
+    {
+      "question": "Which of the following is true of the Supreme Court?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.4329588413238525
+    },
+    {
+      "question": "While best known for protecting freedom of speech and religion, the First Amendment also protects Americans' right to",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.433363914489746
+    },
+    {
+      "question": "The Voting Rights Act of 1965 has had which of the following effects?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.433711767196655
+    },
+    {
+      "question": "Considered as a single group, the Small Business Administration, the Small Business committees in the House and Senate, and small business advocacy groups are an example of",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.434109926223755
+    },
+    {
+      "question": "A writ of certiorari from the Supreme Court indicates that the Court",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.431004047393799
+    },
+    {
+      "question": "Which of the following does NOT appear in the Constitution?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.431519031524658
+    },
+    {
+      "question": "Which of the following constitutional principles might be violated if the Environmental Protection Agency issued, enforced, and adjudicated all disputes regarding a new regulation?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.431940078735352
+    },
+    {
+      "question": "Which of the following correctly states the relationship between the federal and state judiciaries?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.432312965393066
+    },
+    {
+      "question": "An example of a categorical grant would be",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.432476043701172
+    },
+    {
+      "question": "When the Supreme Court decides to take a case on appeal it",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.4326231479644775
+    },
+    {
+      "question": "Which of the following is true of federal judges?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.4327661991119385
+    },
+    {
+      "question": "Congress has attempted to protect independent regulatory agencies from political influence by requiring that each agency",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.432908058166504
+    },
+    {
+      "question": "Which of the following is true of congressional redistricting?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.43304705619812
+    },
+    {
+      "question": "Which of the following most accurately describes The Federalist Papers?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.433190107345581
+    },
+    {
+      "question": "Which of the following is true of court cases in which one private party is suing another?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.278911113739014
+    },
+    {
+      "question": "Which of the following statements about political action committees (PACs) is most accurate?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.279301881790161
+    },
+    {
+      "question": "The line-item veto was ruled unconstitutional because it",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.280534029006958
+    },
+    {
+      "question": "In which of the following cases did the Supreme Court decision establish the \"separate but equal\" doctrine of state-sponsored racial segregation?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.280915021896362
+    },
+    {
+      "question": "Which of the following categories of spending are paid without an appropriations bill?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.281373023986816
+    },
+    {
+      "question": "The Reorganization Plan 1 of 1939 and Executive Order 8248 allow the president to select the staff for the",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.2817370891571045
+    },
+    {
+      "question": "Failed felony prosecutions at the state level are sometimes retried at the federal level",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.282074213027954
+    },
+    {
+      "question": "Compared with political parties in countries such as England and Israel, both of which have multiparty systems, American political parties are",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.282457113265991
+    },
+    {
+      "question": "All of the following are true under the system of checks and balances EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.282898902893066
+    },
+    {
+      "question": "The Supreme Court case Regents of University of California v. Bakke concerned which of the following issues?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.283275127410889
+    },
+    {
+      "question": "Why has network news coverage become less diverse in recent years?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.896732807159424
+    },
+    {
+      "question": "Politicians and political reporters are natural adversaries; the adversarial nature of their relationship, however, is tempered by the fact that",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.897395849227905
+    },
+    {
+      "question": "Both the War Powers Act of 1974 and the Budget and Impoundment Control Act of 1974 represent efforts by Congress to limit the powers of the",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.897933006286621
+    },
+    {
+      "question": "Under the Articles of Confederation, the national government had the power to",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.898417949676514
+    },
+    {
+      "question": "According to Brown v. Board of Education (1954), which of the following amendments was violated by the \"separate but equal\" doctrine that had been established in Plessy v. Ferguson (1896)?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.898777008056641
+    },
+    {
+      "question": "The Framers of the Constitution sought to insulate the Senate from public opinion by",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.8992650508880615
+    },
+    {
+      "question": "All of the following statements about Congress are true EXCEPT:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.899651050567627
+    },
+    {
+      "question": "The majority of Supreme Court justices",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.900141000747681
+    },
+    {
+      "question": "Which of the following most accurately states the impact of the Civil Rights Act of 1964 on school desegregation in the South?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.900339841842651
+    },
+    {
+      "question": "A presidential plurality victory occurs when",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.900506019592285
+    },
+    {
+      "question": "Which of the following statements best characterizes cooperative federalism?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.883101940155029
+    },
+    {
+      "question": "In Gideon v. Wainwright, the Supreme Court ruled that criminal defendants in state cases have the right",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.883547067642212
+    },
+    {
+      "question": "Which of the following is not a special position held by a member of Congress?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.884219169616699
+    },
+    {
+      "question": "All of the following statements concerning the likelihood that a person will vote are true EXCEPT:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.884394884109497
+    },
+    {
+      "question": "Which of the following statements about the House of Representatives is true?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.884542942047119
+    },
+    {
+      "question": "Which of the following best describes the Supreme Court's doctrine of incorporation?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.884689092636108
+    },
+    {
+      "question": "People who join a political party other than the one to which their parents belong most often do so because of",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.88483190536499
+    },
+    {
+      "question": "The right of American citizens to petition the government for a redress of grievances is protected under the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.884977102279663
+    },
+    {
+      "question": "In the majority of cases, federal programs are implemented by",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.88512110710144
+    },
+    {
+      "question": "How many votes in the Senate must a presidential nominee to the Supreme Court receive in order to be confirmed?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.8852620124816895
+    },
+    {
+      "question": "Appointments to which of the following positions must be confirmed by the Senate before taking effect? I. Director of Homeland Security II. Secretary of the Treasury III. National Security Advisor IV. U.S. Ambassador to the United Nations",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.1588170528411865
+    },
+    {
+      "question": "Which of the following best describes a block grant?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.159321069717407
+    },
+    {
+      "question": "A member of the House of Representatives wishing to influence tax policy would most likely try to serve on which of the following committees?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.159726858139038
+    },
+    {
+      "question": "Which of the following is an example of devolution?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.16020393371582
+    },
+    {
+      "question": "Which committee in the House of Representatives determines the procedure by which bills are debated and amended?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.160588979721069
+    },
+    {
+      "question": "The government promotes preferential treatment for members of groups that have historically suffered from discrimination by means of",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.161073923110962
+    },
+    {
+      "question": "The rules governing the electoral college make it especially important for presidential candidates to",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.161686897277832
+    },
+    {
+      "question": "Which of the following CANNOT limit the influence of the federal courts?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.161869049072266
+    },
+    {
+      "question": "All of the following are constitutionally mandated presidential powers EXCEPT the power to",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.162015914916992
+    },
+    {
+      "question": "The Constitution, as originally ratified, addressed all of the following weaknesses of the Articles of Confederation EXCEPT the",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.162160873413086
+    },
+    {
+      "question": "Among the executive branch's checks on the legislative branch is the president's power to",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.703218936920166
+    },
+    {
+      "question": "Which of the following accurately describes individual entitlements?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.703705787658691
+    },
+    {
+      "question": "Which of the following is true of most third parties in U.S. history?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.704117059707642
+    },
+    {
+      "question": "The principles of freedom-\"we hold these truths to be self-evident, that all men are created equal\"- stated in the Declaration of Independence were influenced by the beliefs of political philosopher",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.704467058181763
+    },
+    {
+      "question": "Divided government frequently results in",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.704843044281006
+    },
+    {
+      "question": "Which of the following is true of Congress's power of oversight?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.705673933029175
+    },
+    {
+      "question": "Which of the following is the most accurate statement about writs of certiorari?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.705842971801758
+    },
+    {
+      "question": "Federal election laws require that, in",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.705985069274902
+    },
+    {
+      "question": "The absence of a political party solely dedicated to labor and working class issues in the United States",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.706126928329468
+    },
+    {
+      "question": "The Civil Rights Act of 1964 was passed to reinforce the",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.7062647342681885
+    },
+    {
+      "question": "Which of the following is NOT part of the \"iron triangles\" that influence public policy-making?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 1.2054588794708252
+    },
+    {
+      "question": "The attorney general is the head of which of the following entities?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 1.2059118747711182
+    },
+    {
+      "question": "The Supreme Court's decision in Miranda v. Arizona was based mainly on the",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 1.2079780101776123
+    }
+  ]
+}

@@ -1,0 +1,2190 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@q2_k_s",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-125505"
+  },
+  "subject": "philosophy",
+  "category": "humanities",
+  "correct_rate": 35.69131832797427,
+  "evaluation_results": [
+    {
+      "question": "Aesthetics deals with objects that are_____.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.397456169128418
+    },
+    {
+      "question": "For Socrates, an unexamined life is a tragedy because it results in grievous harm to _____.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3984341621398926
+    },
+    {
+      "question": "According to Kant, nothing can be called “good” without qualification except _____.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3989450931549072
+    },
+    {
+      "question": "Plato's view is that true beauty is _____.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.399339199066162
+    },
+    {
+      "question": "In Aristotle’s terminology, incontinence is when:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.399458169937134
+    },
+    {
+      "question": "Nagel claims that most skeptical arguments:",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.399562120437622
+    },
+    {
+      "question": "Rawls conceives of the original contract as one to:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3996522426605225
+    },
+    {
+      "question": "According to Singer, compliance with his principle requires:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3997411727905273
+    },
+    {
+      "question": "For Socrates, the soul is harmed by lack of _____.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.399834156036377
+    },
+    {
+      "question": "According to Kant, morality requires us to:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.399921178817749
+    },
+    {
+      "question": "According to Gauthier, the basis of morality is:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2362608909606934
+    },
+    {
+      "question": "Anscombe claims that it is not profitable to do moral philosophy until we have an adequate philosophy of:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2366998195648193
+    },
+    {
+      "question": "Mill claims that one of the strongest objections to utilitarianism is drawn from the idea of:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.237895965576172
+    },
+    {
+      "question": "Berkeley asserts that existing and perceiving are _____.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.23801589012146
+    },
+    {
+      "question": "According to Rawls, the term “justice as fairness” conveys the idea that the principles of justice are agreed to in an initial position that is _____.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.238110065460205
+    },
+    {
+      "question": "Berkeley believes that sensible things cannot exist except in _____.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.2382049560546875
+    },
+    {
+      "question": "Singer claims that his argument upsets the traditional distinction between:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.2382941246032715
+    },
+    {
+      "question": " In his discussion of the Divided Line, Plato says that, in contrast to mere belief or opinion, knowledge is a belief for which we give reasons or justifications by appealing:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.23838210105896
+    },
+    {
+      "question": "What was Clarence Darrow's belief about life's meaning?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.238476037979126
+    },
+    {
+      "question": "Stevenson’s primary aim in this paper is to:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2385668754577637
+    },
+    {
+      "question": "According to Moore, we are thinking about good whenever we think about:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.109363079071045
+    },
+    {
+      "question": "Baier argues that genuine moral rules:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.1097331047058105
+    },
+    {
+      "question": "Nussbaum claims that to many current ethical theorists, turning to an ethical approach based on the virtues is connected with a turn toward:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.110177993774414
+    },
+    {
+      "question": "Philosophy is concerned primarily with identifying beliefs about human existence and evaluating arguments that support those beliefs.  These activities can be summarized in two questions that drive philosophical investigations:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1105332374572754
+    },
+    {
+      "question": "Epictetus claims that things within our power are __________ and things not in our power are __________.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1108779907226562
+    },
+    {
+      "question": "Hume divides our perceptions into two categories:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.1126511096954346
+    },
+    {
+      "question": "Aristotle says  that what makes things be what they are--their essence--does not exist apart from individ-uals that exist in the world.  So if all the members of a species were destroyed, then their essence or form:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.1130270957946777
+    },
+    {
+      "question": "According to Socrates, an unexamined life is not worth living; and it certainly could not be a virtuous life.  Why not?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.1133623123168945
+    },
+    {
+      "question": "\"There is no rationale for myth because it is through myth that reason itself is defined.\"  This means that:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.11372709274292
+    },
+    {
+      "question": "According to Epicurus, a law is unjust when:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.1138412952423096
+    },
+    {
+      "question": "Leo Tolstoy says that art is _____.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.1342902183532715
+    },
+    {
+      "question": "Aquinas holds that the last end of man is:",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.134773015975952
+    },
+    {
+      "question": "According to Kant, the supreme principle of morality is:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.135139226913452
+    },
+    {
+      "question": "Epicurus claims that all other virtues spring from:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.1354892253875732
+    },
+    {
+      "question": "According to Butler, it is impossible to:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.135934352874756
+    },
+    {
+      "question": "The systematic use of critical reasoning to try to find answers to fundamental questions about reality, morality, and knowledge is called _____.",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.1361892223358154
+    },
+    {
+      "question": "According to Mill, to determine whether one pleasure is more valuable than another, we must _____.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.136291265487671
+    },
+    {
+      "question": "According to Hobbes, the definition of injustice is _____.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.1363861560821533
+    },
+    {
+      "question": "Kant claims that the natural purpose of reason is to:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1364784240722656
+    },
+    {
+      "question": "Hare claims that the two essential features of the logic of moral judgments are:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.136566162109375
+    },
+    {
+      "question": "Mill defines “utility” as:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3750360012054443
+    },
+    {
+      "question": "To Kant, making a lying promise would be wrong because _____.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3756210803985596
+    },
+    {
+      "question": "How does Stevenson respond to the objection that his theory does not account for the kind of goodness that is objective and is known a priori?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.376162052154541
+    },
+    {
+      "question": "Wolf claims that interpreting Kant’s ethics so that it consists of a finite set of constraints:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3790290355682373
+    },
+    {
+      "question": "The famous statement “An unexamined life is not worth living” is attributed to _____.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3791439533233643
+    },
+    {
+      "question": "Paley maintains that the key difference between the “contrivance” of a watch and that of nature is that the latter is _____.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3792388439178467
+    },
+    {
+      "question": "Concerning the relationship between morality and theology, Bentham claims that:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3793301582336426
+    },
+    {
+      "question": "For the soft determinist, to say that you could have done otherwise is to say that you would have done otherwise if _____.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.379418134689331
+    },
+    {
+      "question": "According to Ross, our prima facie duties:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.379507064819336
+    },
+    {
+      "question": "According to Rawls, behind the veil of ignorance, the principles of justice are _____.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.379595994949341
+    },
+    {
+      "question": "In Aquinas’s view, man’s ultimate happiness consists in:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.880553960800171
+    },
+    {
+      "question": "Taurek claims that if faced with the choice between saving the life of X or the arm of Y:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.8810060024261475
+    },
+    {
+      "question": "Wolf argues that the unattractiveness of the moral saint:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.8814070224761963
+    },
+    {
+      "question": "Plato's suggestion that knowledge is innate or remembered as a result of being triggered by experience is in response to a paradox he sets up for himself.  The paradox, now referred to as Meno's Paradox, has to do with the question of:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8820009231567383
+    },
+    {
+      "question": "Gauthier claims that there is nothing for practical rationality to be besides:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.882115125656128
+    },
+    {
+      "question": "Socrates' claim that \"the unexamined life is not worth living\" is often cited as a central theme in the activities of people.  By it, Socrates is typically understood to mean that:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8822247982025146
+    },
+    {
+      "question": "Nagel claims that the problem of moral luck is closely connected to the problem of:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.882317066192627
+    },
+    {
+      "question": "\"Is there anything you would be willing to die for?\" is a philosophical question insofar as:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8824069499969482
+    },
+    {
+      "question": "Hume defines virtue as:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8824939727783203
+    },
+    {
+      "question": "Parfit claims that:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.882581949234009
+    },
+    {
+      "question": "According to Baier’s theory, the second step in assessing whether an action is morally permissible is to find out:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.2522451877593994
+    },
+    {
+      "question": "According to Hume, morality is ultimately based on:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2528913021087646
+    },
+    {
+      "question": "According to Kant, moral laws are:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2535271644592285
+    },
+    {
+      "question": "Wolf claims that ultimately, normative questions must be assessed from:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2540271282196045
+    },
+    {
+      "question": "Baier claims that for a rule to belong the morality of a group, the rule must be:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.254613161087036
+    },
+    {
+      "question": "According to Sartre, if God does not exist, _____.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.254887342453003
+    },
+    {
+      "question": "Baggini accuses pessimists of mixing up the two senses of _____.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2549822330474854
+    },
+    {
+      "question": "Which of the following is an example of deception in business research?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2550699710845947
+    },
+    {
+      "question": "Feinberg claims that most arguments for psychological egoism:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.255156993865967
+    },
+    {
+      "question": "Descartes had been disillusioned by his discovery that many of the alleged truths learned in his youth were _____.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2552430629730225
+    },
+    {
+      "question": "Critics of the divine command theory have argued that the theory implies that God's commands are _____.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2910852432250977
+    },
+    {
+      "question": "Aquinas argues that the end of every action is:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.291471242904663
+    },
+    {
+      "question": "Epicurus holds that philosophy is:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2918689250946045
+    },
+    {
+      "question": "According to Parfit, both Taurek and Lewis assume that for there to be a “sum of pain,” it must be:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.292201042175293
+    },
+    {
+      "question": "Mill claims that in deciding how to act:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2925949096679688
+    },
+    {
+      "question": "An important formal characteristic of art is_____.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2927019596099854
+    },
+    {
+      "question": "According to Hobbes, in the condition of man in which there is a state of war of everyone against everyone, every man has a right to _____.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2928812503814697
+    },
+    {
+      "question": "In the case of the debtors, the moral argument against imprisoning A relies on:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.2929842472076416
+    },
+    {
+      "question": "According to Hume, justice:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2930901050567627
+    },
+    {
+      "question": "Why is it important that personal data about research participants are kept within secure, confidential records?",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.293182134628296
+    },
+    {
+      "question": "Berkeley insists that heat and cold are _____.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.462934732437134
+    },
+    {
+      "question": "According to Moore, the most fundamental question in all of ethics is:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.46622896194458
+    },
+    {
+      "question": "Bentham claims that actions are right or wrong in virtue of:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.46720290184021
+    },
+    {
+      "question": "Which of the following concepts can be defined, according to Moore?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4673187732696533
+    },
+    {
+      "question": "Cicero argues that we will never go morally astray if we:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4674110412597656
+    },
+    {
+      "question": "According to Kant, the moral worth of an action depends on:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.467500925064087
+    },
+    {
+      "question": "Epictetus recommends that we refrain from:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4675910472869873
+    },
+    {
+      "question": "Nussbaum claims that our modern debates about homosexuality:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.467679977416992
+    },
+    {
+      "question": "To say that \"philosophy\" (like \"love\" or \"art\") is not a closed concept means that we cannot state the necessary and sufficient conditions by which it is defined.  Rather, philosophic issues are identifiable as having \"family resemblances\" with one another.  In other words:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4677679538726807
+    },
+    {
+      "question": "According to Ross, we should construct a moral theory by:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4678590297698975
+    },
+    {
+      "question": "A prima facie duty is a characteristic of an act in virtue of which the act:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4540250301361084
+    },
+    {
+      "question": " According to Socrates, the task of the wise and virtuous person is not simply to learn various examples of just or virtuous actions but to learn the essence of justice or virtue, because:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4544360637664795
+    },
+    {
+      "question": "Baier claims that ethical skepticism is often due to:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4548542499542236
+    },
+    {
+      "question": "Aquinas claim that all human operations appear to serve:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4551870822906494
+    },
+    {
+      "question": "According to Stevenson, moral disagreements involve:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4564270973205566
+    },
+    {
+      "question": "According to Hobbes, whenever and wherever men live without a common power to keep them all in awe, there is _____.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4570491313934326
+    },
+    {
+      "question": "Hare claims that all moral arguments are:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.45723295211792
+    },
+    {
+      "question": "Apart from the fact that it is \"not a nice thing to do\", what is an important ethical disadvantage of deceiving participants?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.457327127456665
+    },
+    {
+      "question": "Stevenson claims that the primary use of ethical judgments is to:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4574170112609863
+    },
+    {
+      "question": "Butler claims that, strictly speaking, the only thing that anyone has a right to is:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.457504987716675
+    },
+    {
+      "question": "Augustine holds that we can never err:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.432875156402588
+    },
+    {
+      "question": "According to Brandt’s theory, an ideal moral rule is one that would:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.433324098587036
+    },
+    {
+      "question": "Hare asserts that ethics and science are similar in that:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4336841106414795
+    },
+    {
+      "question": "Hume argues that the criteria for judging aesthetic value are _____.",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4340291023254395
+    },
+    {
+      "question": "How many categories of ethical principles do Diener and Crandell refer to?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4344241619110107
+    },
+    {
+      "question": "In response to the claim that deliberative justification is incomplete:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.434903144836426
+    },
+    {
+      "question": "Aquinas claims that the ultimate perfection of operation is:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4350171089172363
+    },
+    {
+      "question": "Rawls argues that parties in the original position would not accept utilitarianism because:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.435112953186035
+    },
+    {
+      "question": "What does the notion of “meaning in life” refer to?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.435206890106201
+    },
+    {
+      "question": "Stevenson identifies the meaning of a term with:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.43530011177063
+    },
+    {
+      "question": "Hume thinks that each mind perceives _____.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.1740002632141113
+    },
+    {
+      "question": "Descartes says that the chief characteristic of physical things is that _____.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.174445152282715
+    },
+    {
+      "question": "In Book II of the Republic, Glaucon claims that justice originates from:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.174854040145874
+    },
+    {
+      "question": "Augustine identifies evil with:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.1752970218658447
+    },
+    {
+      "question": "According to Paley, we must conclude that a watch had an intelligent designer if the watch _____.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.1757099628448486
+    },
+    {
+      "question": "According to Bentham, a moral sanction is:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.176011085510254
+    },
+    {
+      "question": "Augustine claims that Academic skepticism:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1761081218719482
+    },
+    {
+      "question": "If you assume that a set of statements is true, and yet you can deduce a false or absurd statement from it, then the original set of statements as a whole must be false. This kind of argument is known as _____.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1761999130249023
+    },
+    {
+      "question": "Aristotle ends the Ethics with a segue to a discussion of:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.1762912273406982
+    },
+    {
+      "question": "Kant claims that the moral law is given to each person by:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.1763811111450195
+    },
+    {
+      "question": "Aesthetics addresses questions that interest _____.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.6148598194122314
+    },
+    {
+      "question": "The control condition claims:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.615410089492798
+    },
+    {
+      "question": "According to Feinberg, the claim that we always feel pleasure when we get what we want:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.618408203125
+    },
+    {
+      "question": "Plato distinguishes knowledge from mere belief or opinion by saying that knowledge must be a true belief for which one can give a justification, a rationale, or \"logos.\"  In terms of his image of the Divided Line, for Plato, knowledge is attained only when our sensible experience is:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.618518829345703
+    },
+    {
+      "question": "What are the two principal answers to whether life has any meaning for us?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.6186118125915527
+    },
+    {
+      "question": "Bentham defines the fecundity of a pleasure or pain as:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.6187000274658203
+    },
+    {
+      "question": "Disagreements about the aesthetic value or social relevance of a piece of art are _____.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.6187901496887207
+    },
+    {
+      "question": "Aristotle states that if we ask what the highest good of human action is:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.618881940841675
+    },
+    {
+      "question": "When faced with the complaint that utilitarianism is a doctrine worthy of swine, Mill responds that pleasures differ in:",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.6189730167388916
+    },
+    {
+      "question": "According to Aquinas, an infinite regress of causes is _____.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.6190619468688965
+    },
+    {
+      "question": "Epictetus claims that if the wife and children of a virtuous man were to die, he should feel:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.794930934906006
+    },
+    {
+      "question": "Like most rationalists, Plato defines knowledge as justified true belief.  In terms of this definition, we might be able to claim to know something as true which might actually be false, but it is impossible for us really to know something that is false.  Why?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.795355796813965
+    },
+    {
+      "question": "By “animal motion,” Hobbes means:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.797487735748291
+    },
+    {
+      "question": "Taurek claims that:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.797705888748169
+    },
+    {
+      "question": "Which of the following ideas is not associated with the stance of situation ethics?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.7978007793426514
+    },
+    {
+      "question": "For Plato, ordinary sensible objects exist and are knowable as examples or instances of Ideas or \"Forms\" that do not exist in our ordinary sensible world.  Forms do not exist in the sensible world because:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7978899478912354
+    },
+    {
+      "question": "Descartes declares that he is _____.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.7979788780212402
+    },
+    {
+      "question": "Aquinas says that the first efficient cause of everything is _____.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.798069953918457
+    },
+    {
+      "question": "Hume claims that a person who is unaffected by images of human happiness or misery will also be indifferent to:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.7981607913970947
+    },
+    {
+      "question": "When using visual methods in a research project what should you take into consideration alongside the legal guidelines?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.798259973526001
+    },
+    {
+      "question": "According to Epicurus, the wise man:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.484827756881714
+    },
+    {
+      "question": "To illustrate the attempt to do injustice with impunity, Cicero considers the story of:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4852848052978516
+    },
+    {
+      "question": "Epicurus states that of all the things required for a complete life, the greatest is:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4856269359588623
+    },
+    {
+      "question": "Parfit claims that the magnitude of pains:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4860191345214844
+    },
+    {
+      "question": "Nagel claims that prior to reflection, it is plausible that people cannot be morally assessed for:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.486488103866577
+    },
+    {
+      "question": "According to Anscombe, “moral obligation” currently signifies:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4868428707122803
+    },
+    {
+      "question": "Hume says that beauty is _____.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.487271785736084
+    },
+    {
+      "question": "According to Plato, we can attain knowledge only by seeing beyond this world of particular, changing objects to the true essences or Forms in terms of which things in this world are intelligible.  For example, we know what triangularity is not from comparing sensible triangles but by thinking of the ideal of triangularity in terms of which these sensible figures are recognized as triangles.  From this Plato concludes that all knowledge (as opposed to opinion) is innate, because:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4875619411468506
+    },
+    {
+      "question": "According to Stevenson, empirical methods:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4876677989959717
+    },
+    {
+      "question": "Before his conversion, what was Tolstoy surrounded by?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.487761974334717
+    },
+    {
+      "question": "According to Sartre, what existentialists have in common is that they think that _____.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1178722381591797
+    },
+    {
+      "question": "Feinberg takes his remarks about the two different senses of pleasure to refute:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1183879375457764
+    },
+    {
+      "question": "Rawls claims that a conception of justice should be justified by:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.1187262535095215
+    },
+    {
+      "question": "Epictetus claims that the only thing one can call one’s own is:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.1190569400787354
+    },
+    {
+      "question": "In Hobbes’s view, to say something is good is to say that:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.120453119277954
+    },
+    {
+      "question": "Moore claims that there is no meaning in saying that pleasure is good, unless:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.12060809135437
+    },
+    {
+      "question": "Baier asserts that when we ask for moral advice, we are asking for others to:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.1207010746002197
+    },
+    {
+      "question": "Moral theories that say that the rightness of actions depends solely on their consequences are _____.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.120790958404541
+    },
+    {
+      "question": "Socrates tells Crito that he should attempt to break out of prison if and only if doing so would be:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.120880126953125
+    },
+    {
+      "question": "According to the Ideal Moral Code theory, one is obligated to do what the ideal moral rules would require:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.120966911315918
+    },
+    {
+      "question": "According to Cicero, the most practical branch of philosophy deals with:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.457235097885132
+    },
+    {
+      "question": "According to Socrates, the value or quality of one's life depends on understanding the principles of, or basic rationale for human existence.  Without such knowledge (he suggests) life lacks virtue, because:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.457620143890381
+    },
+    {
+      "question": "Rawls claims that students with fewer native assets (such as intelligence) should be given:",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4577510356903076
+    },
+    {
+      "question": "Nussbaum claims that the specification of particular virtues:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.457843065261841
+    },
+    {
+      "question": "According to Rawls, we can enter the original position:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.457933187484741
+    },
+    {
+      "question": "Mill argues that virtue:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.458024024963379
+    },
+    {
+      "question": "Bentham claims that utilitarian calculations:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.458113193511963
+    },
+    {
+      "question": "Nussbaum claims that for Aristotle the reference of each virtue term is fixed by:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4582011699676514
+    },
+    {
+      "question": "According to Gauthier, deliberative justification:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4582889080047607
+    },
+    {
+      "question": "Nussbaum claims that recent anthropological work has shown that fear is:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4583749771118164
+    },
+    {
+      "question": "Of the ways of escaping moral arguments that he discusses, Hare claims:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.371453046798706
+    },
+    {
+      "question": "Most of those who take the externalist approach to meaning view the matter from a _____ standpoint.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.371819019317627
+    },
+    {
+      "question": "According to Hume, reason:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3723158836364746
+    },
+    {
+      "question": "In response to the argument that famine relief is counterproductive because it leads to overpopulation, Singer claims that:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3734400272369385
+    },
+    {
+      "question": "Of the two versions of the principle that Singer considers:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3741068840026855
+    },
+    {
+      "question": "According to the scripture that Butler discusses in Sermon One, human beings are:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3747830390930176
+    },
+    {
+      "question": "At first Descartes supposes that everything he sees is _____.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3750569820404053
+    },
+    {
+      "question": "According to Socrates, just as there is a difference between what an ironic statement says and its true meaning, so also appearances differ from reality.  Even though societies or individuals appear to differ about what is required for the good life, that in no way contradicts the fact that:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.375154972076416
+    },
+    {
+      "question": "An example of a morally impossible rule would be:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3752541542053223
+    },
+    {
+      "question": "According to Locke, every man, by consenting with others to make one body politic under one government, puts himself under an obligation to everyone of that society to submit to the determination of_____.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.375342845916748
+    },
+    {
+      "question": "Bentham claims that nature has placed mankind under two sovereign masters:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.111215829849243
+    },
+    {
+      "question": "The biblical account of the soul is at odds with _____.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.1113767623901367
+    },
+    {
+      "question": "According to Aristotle, happiness is:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1115646362304688
+    },
+    {
+      "question": "Mill says that the ultimate end of utilitarianism is an existence as free of pain as possible and as rich as possible in _____.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.111656904220581
+    },
+    {
+      "question": "What was Schopenhauer's attitude toward life?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.111754894256592
+    },
+    {
+      "question": "When it comes to defining good, Moore claims that many past philosophers are guilty of:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.1118500232696533
+    },
+    {
+      "question": "According to Aristotle, we should begin ethical inquiry by specifying:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.111938714981079
+    },
+    {
+      "question": "According to Epicurus, the wealth required for a good life is:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.112025737762451
+    },
+    {
+      "question": "Feinberg claims that the story about Abraham Lincoln:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.112111806869507
+    },
+    {
+      "question": "According to d'Holbach, all the mental and moral attributes that people think are evidence for an immaterial soul are in fact _____.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.1121957302093506
+    },
+    {
+      "question": "Hare claims that a person who refuses to make any positive moral judgments:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2830348014831543
+    },
+    {
+      "question": "Hobbes claims that all of the laws of nature can be summarized in the precept:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.283557891845703
+    },
+    {
+      "question": "In Aristotle’s view, the virtues are:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.2845797538757324
+    },
+    {
+      "question": "Mill claims that the distinction between justice and other moral obligations corresponds perfectly to the distinction between:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.285067081451416
+    },
+    {
+      "question": "Descartes declares that an evil demon _____.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.285186767578125
+    },
+    {
+      "question": "During his trial, Socrates argues that he would never intentionally corrupt others because:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.28528094291687
+    },
+    {
+      "question": "According to Kant, laws of nature are laws according to which __________, and laws of freedom are laws according to which __________.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.2853739261627197
+    },
+    {
+      "question": "Augustine claims that to be happy, one must know:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.2854647636413574
+    },
+    {
+      "question": "According to Wolf, a moral saint:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.285554885864258
+    },
+    {
+      "question": "According to Socrates, justice is when a soul is ruled by its:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.28564190864563
+    },
+    {
+      "question": "Singer claims that his conclusions are similar to those of:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.110074043273926
+    },
+    {
+      "question": "In Cicero’s view, each person is invested by Nature with two characters:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.1104419231414795
+    },
+    {
+      "question": "Aristotle saw his theory of the virtues as:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.1107871532440186
+    },
+    {
+      "question": "Nussbaum claims that in cross-cultural communication, inhabitants of different conceptual schemes tend to view their interaction:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.111530065536499
+    },
+    {
+      "question": "Cicero claims that there could be “no more pernicious doctrine” than the idea that:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.1133790016174316
+    },
+    {
+      "question": "An important moral criterion of adequacy is known as _____.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.1138250827789307
+    },
+    {
+      "question": "Gauthier claims that moral agreements that are equally favorable to all parties are desirable because they:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.1139700412750244
+    },
+    {
+      "question": "Baier argues that moral rules:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.114069938659668
+    },
+    {
+      "question": "Anscombe claims that an adequate moral psychology would include:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.114161968231201
+    },
+    {
+      "question": "According to Parfit, the obligation to give priority to the welfare of one’s children is:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.114250898361206
+    },
+    {
+      "question": "Epictetus recommends that we act:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4517180919647217
+    },
+    {
+      "question": "Descartes says that, for all he knows, he may be _____.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.452733039855957
+    },
+    {
+      "question": "When Euthyphro attempts to define the holy as prosecuting wrongdoers, Socrates objects that:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4531469345092773
+    },
+    {
+      "question": "Wolf claims that morality:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4536590576171875
+    },
+    {
+      "question": "According to Bentham, considerations of pain and pleasure determine:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.453997850418091
+    },
+    {
+      "question": "Augustine claims that all created things are:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4545180797576904
+    },
+    {
+      "question": "In Augustine’s view, lying is:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4546258449554443
+    },
+    {
+      "question": "Whereas the social sciences (e.g., psychology, sociology, economics) ask questions about how people think and act, philosophy is the study of:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4547221660614014
+    },
+    {
+      "question": " Plato indicates that the knowledge of pure reason is preferable to conceptual understanding, because knowing that something is a certain kind of thing is not as good as knowing:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4548120498657227
+    },
+    {
+      "question": "According to Socrates, a clear sign that a person has _____ is her exclusive pursuit of social status, wealth, power, and pleasure.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4549009799957275
+    },
+    {
+      "question": "Philo says the analogy that Cleanthes uses to make his case is _____.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.103203058242798
+    },
+    {
+      "question": "How did Tolstoy's life change after his crisis of meaning?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.1036500930786133
+    },
+    {
+      "question": "Which of the following is not one of Ross’s prima facie duties?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.10406231880188
+    },
+    {
+      "question": "Cicero claims that it is sometimes permissible to:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.104647159576416
+    },
+    {
+      "question": "According to Hobbes, without a common power to keep them in awe humans would exist in a state of:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1048431396484375
+    },
+    {
+      "question": "Traditionally art has been defined as _____.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.1049442291259766
+    },
+    {
+      "question": "One objection to Singer’s theory that he considers is that it:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1050422191619873
+    },
+    {
+      "question": "Anselm assumes that a being that exists in reality is greater than a being that _____.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.105140209197998
+    },
+    {
+      "question": "According to Baier, a rule can be said to be for the good of human beings only if:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1052281856536865
+    },
+    {
+      "question": "A prominent view is that an object has aesthetic value if it _____.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.105321168899536
+    },
+    {
+      "question": "Hobbes describes felicity as:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.516188859939575
+    },
+    {
+      "question": "According to Sartre, there is at least one being in whom existence precedes essence, and this being is _____.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5167360305786133
+    },
+    {
+      "question": "In Butler’s view, acting virtuously consists of acting in accordance with:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.5171830654144287
+    },
+    {
+      "question": "Anscombe criticizes Sidgwick on the grounds that:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.5176100730895996
+    },
+    {
+      "question": "Why is it \"easier said than done\" to ensure that the principle of informed consent is adhered to?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5180211067199707
+    },
+    {
+      "question": "In Hobbes’s view, a law of nature is:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.518789052963257
+    },
+    {
+      "question": "A Loving Saint is someone:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.5188989639282227
+    },
+    {
+      "question": "Moore defines good as:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5189921855926514
+    },
+    {
+      "question": "Feinberg claims that when people are hungry, they typically desire:",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.5190820693969727
+    },
+    {
+      "question": "According to Hobbes, the right of nature is:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.519170045852661
+    },
+    {
+      "question": "According to Socrates, it is important that we discover what makes a particular action (e.g., a merciful or just act) the kind of action that it is, because without such knowledge:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.7036831378936768
+    },
+    {
+      "question": "Feinberg claims that the best way to pursue happiness is to:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.704124927520752
+    },
+    {
+      "question": "Hobbes defines injustice as:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.7044930458068848
+    },
+    {
+      "question": "In Butler’s view, injustice is caused by:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.704906940460205
+    },
+    {
+      "question": "According to Rawls, the two parts of his theory:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.7052090167999268
+    },
+    {
+      "question": "Aristotle divides the virtues into:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.705306053161621
+    },
+    {
+      "question": "The idea that mental states are dispositions to behave in particular ways in certain circumstances is known as _____.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7053980827331543
+    },
+    {
+      "question": "The view that art is defined by its form is known as _____.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.705488920211792
+    },
+    {
+      "question": "If the world that we individually perceive is limited to an internal perspective, then there is no way that we could determine whether our own perspective is useful, true, or valuable because:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.705579996109009
+    },
+    {
+      "question": "Anscombe claims that on Sidgwick’s view, the badness of an action must be estimated in light of:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.7056729793548584
+    },
+    {
+      "question": "Which method is most commonly associated with a lack of informed consent?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5282599925994873
+    },
+    {
+      "question": "Epictetus claims that when someone strikes you, what really angers you is:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.529552936553955
+    },
+    {
+      "question": "Craig argues that the series of events in time cannot be actually infinite, so we know that _____.",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.5300729274749756
+    },
+    {
+      "question": "Aquinas claims that:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.530531883239746
+    },
+    {
+      "question": "Anscombe claims that the notion of moral obligation is derived from the concept of:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5306761264801025
+    },
+    {
+      "question": "In Brandt’s terminology, a moral code has currency in a society only if:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.530777931213379
+    },
+    {
+      "question": "The morality that Gauthier describes as facing a foundational crisis essentially involves:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5308730602264404
+    },
+    {
+      "question": "In spite of the fact that Socrates claims to be ignorant of the essence or nature of certain things like justice, he is wise insofar as he recognizes that without such knowledge actions are rationally unjustified.  That is, his wisdom consists in his recognition not only that he is ignorant of such essences but also that:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.5309641361236572
+    },
+    {
+      "question": "Hare refers to people who endorse ideals without regard for whether people’s interests are pursued by them as:",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.5310521125793457
+    },
+    {
+      "question": "In Aquinas’s view, acts of prudence are solely about matters of:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5311391353607178
+    },
+    {
+      "question": "According to Locke, a man in the state of nature will relinquish his absolute freedom to the state because _____.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.349606990814209
+    },
+    {
+      "question": "Augustine claims that there can be no evil where there is no:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3501150608062744
+    },
+    {
+      "question": "According to Ross, justice is:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3504772186279297
+    },
+    {
+      "question": "Logical behaviorism is at odds with our commonsense intuition that mental states _____.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3508548736572266
+    },
+    {
+      "question": "Ross claims that we learn of our prima facie duties:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3512020111083984
+    },
+    {
+      "question": "Anscombe criticizes as absurd Kant’s idea of:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3515431880950928
+    },
+    {
+      "question": "In the Inquiry, Hume claims that our final verdicts on moral matters are derived from:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3518972396850586
+    },
+    {
+      "question": "According to Nagel, the problem of moral luck arises because:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.352221965789795
+    },
+    {
+      "question": "A moral theory explains _____.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3523190021514893
+    },
+    {
+      "question": "Anscombe criticizes Butler on the grounds that:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3524091243743896
+    },
+    {
+      "question": "Mill claims that a happy life is one of:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.0272629261016846
+    },
+    {
+      "question": "According to Moore, “pleasure is good” means the same thing as:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.0276589393615723
+    },
+    {
+      "question": "To argue that he is obliged to obey the laws of Athens, Socrates compares the city to:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.0280020236968994
+    },
+    {
+      "question": "Soft determinism entails that _____.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.028397798538208
+    },
+    {
+      "question": "In the moral life, feelings are _____.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.028514862060547
+    },
+    {
+      "question": "According to Cicero, it is expedient to be:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.0286080837249756
+    },
+    {
+      "question": "Brandt claims that whether a moral code is ideal depends in part on:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.0286998748779297
+    },
+    {
+      "question": "The view that we consist of two distinct substances (body and mind) and that these two interact is known as _____.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.0287911891937256
+    },
+    {
+      "question": "According to Stevenson, the word “good” has a pleasing emotive meaning that fits it for:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.028883934020996
+    },
+    {
+      "question": "According to Locke, the chief end of men's uniting into a commonwealth is _____.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.0289809703826904
+    },
+    {
+      "question": "Hare claims that once two people agree on the meaning of the term “ought”:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4888927936553955
+    },
+    {
+      "question": "To explain the notion of a prima facie duty, Ross draws an analogy with:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4893407821655273
+    },
+    {
+      "question": "In the Republic, Thrasymachus claims that justice is:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.490097999572754
+    },
+    {
+      "question": "Epictetus claims that the desire for one’s loved ones to live forever is:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.490405797958374
+    },
+    {
+      "question": "According to Sartre, the first principle of existentialism is that _____.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.490506887435913
+    },
+    {
+      "question": "Aristotle claims that:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4905989170074463
+    },
+    {
+      "question": "Hume describes reason as:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4906890392303467
+    },
+    {
+      "question": "According to Brandt, John Stuart Mill’s view most closely resembles:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4907777309417725
+    },
+    {
+      "question": "The version of utilitarianism that Brandt defends makes rightness a function of:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.490867853164673
+    },
+    {
+      "question": "\"When a person starts on the discovery of the absolute by the light of reason only, and without any assistance of sense, and perseveres until by pure intelligence he arrives at the perception of the absolute good, he at last finds himself at the end of the intellectual world. . . . Dialectic, and dialectic alone, goes directly to the first principle and is the only science which does away with hypotheses in order to make her ground secure.\"  Here Plato indicates how hypothetical knowledge cannot provide the foundation of dialectical knowledge, insofar as hypotheses simply:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4909560680389404
+    },
+    {
+      "question": "What are some of the frequent frustrations in writing or reading about research ethics?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3443660736083984
+    },
+    {
+      "question": "According to Cicero, immorality is __________, and expediency is __________.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.347382068634033
+    },
+    {
+      "question": "Epicurus conceives of death as:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.347496271133423
+    },
+    {
+      "question": "Nussbaum claims that at the first stage of ethical inquiry, terms for the virtues should be:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.347588062286377
+    },
+    {
+      "question": "The four main divisions of philosophy are metaphysics, epistemology, axiology, and _____.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3476788997650146
+    },
+    {
+      "question": "Da Vinci's Mona Lisa is_____.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3477671146392822
+    },
+    {
+      "question": "According to Butler, the degree to which one acts compassionately depends on:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3478550910949707
+    },
+    {
+      "question": "One example of bad constitutive moral luck would be:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3479442596435547
+    },
+    {
+      "question": "Moore defines the naturalistic fallacy as the view that:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3480329513549805
+    },
+    {
+      "question": "Mill claims that the principle of utility:",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3481199741363525
+    },
+    {
+      "question": "The theory that says mental states are nothing but brain states is known as _____.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.6187729835510254
+    },
+    {
+      "question": "Butler claims that in the strictest and most proper sense, tofollow nature is to:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.6191530227661133
+    },
+    {
+      "question": "According to Craig, the kalam cosmological argument establishes that _____.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.6192760467529297
+    },
+    {
+      "question": "Singer claims that famine relief organizations direct our aid to distant refugees:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.6193699836730957
+    },
+    {
+      "question": "Kant says that when trying to decide whether an action is morally permissible, we must ask if we can consistently will that the maxim of our action should become _____.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.619460105895996
+    },
+    {
+      "question": "Aesthetic values have to do with _______",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.6195569038391113
+    },
+    {
+      "question": "According to Feinberg, a good moral education:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.6196448802948
+    },
+    {
+      "question": " For Socrates, the belief that \"virtue is knowledge\" is related to his claim that \"the unexamined life is not worth living,\" because he believes that:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.619734048843384
+    },
+    {
+      "question": "Craig says an actually infinite number of things _____.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.619823932647705
+    },
+    {
+      "question": "Descartes believed that interaction between body and mind took place in _____.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.6199162006378174
+    },
+    {
+      "question": "Which of the following is a form of harm that might be suffered by research participants?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 0.20232009887695312
+    }
+  ]
+}

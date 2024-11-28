@@ -1,0 +1,1651 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@q4_0",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-081054"
+  },
+  "subject": "marketing",
+  "category": "other (business, health, misc.)",
+  "correct_rate": 85.8974358974359,
+  "evaluation_results": [
+    {
+      "question": "This is a hierarchy of effects or sequential model used to explain how advertising works:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.33648681640625
+    },
+    {
+      "question": " _____________is an important element in the communication process. It recognizes that successful communications are more likely to be achieved if the source and the receiver understand each other.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3370797634124756
+    },
+    {
+      "question": "In the history of marketing, when did the production period end?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.337423801422119
+    },
+    {
+      "question": "The extent to which a service envelops a product varies according to a number of factors. Which of the following is NOT one of the factors?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3377859592437744
+    },
+    {
+      "question": "The owners of independent gasoline stations in a community meet secretly and agree to keep their prices high to protect their profitability. If their plan is discovered and they are charged with a crime, they could be",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3383588790893555
+    },
+    {
+      "question": " The term 'marketing mix' describes:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3388218879699707
+    },
+    {
+      "question": "__________ have the potential to control the type and flow of information to the organization and the members of the DMU.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.339179039001465
+    },
+    {
+      "question": " An imbalance between a consumer's actual and desired state in which recognition that a gap or problem needs resolving is called:",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3395159244537354
+    },
+    {
+      "question": " Which of the following is not an element of the marketing mix?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.339852809906006
+    },
+    {
+      "question": " Providing free samples of perfumes (scent) in magazines is an example of which of the following?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3402068614959717
+    },
+    {
+      "question": "Why is market segmentation carried out?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.135920286178589
+    },
+    {
+      "question": " There are three main types of buying situations in an organization, referred to by Robinson, Faris, and Wind (1967) as _____________.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.1364779472351074
+    },
+    {
+      "question": "Where the winning bidder obtains an unprofitable contract that he/she is duty bound to deliver because their bid price was set so low, this is known as:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.137005090713501
+    },
+    {
+      "question": "This allows us to determine how the quantity of an offering relates to the price at which it is offered:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.137554883956909
+    },
+    {
+      "question": " ________________ occur(s) where there is no prior history of exchange and no future exchanges are expected between a buyer and seller.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.1380879878997803
+    },
+    {
+      "question": "A method of marketing by electronic mail wherein the recipient of the message has consented to receive it is called:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.138606071472168
+    },
+    {
+      "question": " Collectively organizations that combine to enable offerings to reach end users quickly and efficiently constitute a marketing channel, are sometimes referred to as a:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1392829418182373
+    },
+    {
+      "question": " Which of the following are the three broad groups of organizational characteristics segmentation criteria?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.1398520469665527
+    },
+    {
+      "question": "Which of the following is the name for a coupon that is included in a package for later purchase?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.140493154525757
+    },
+    {
+      "question": " Advertising is employed as a defence, to retain customers, and to increase brand usage. Advertising is used to reinforce existing attitudes, not necessarily to drastically change them. This idea is based on:",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.1411941051483154
+    },
+    {
+      "question": "_____________ is an assessment of a company's mix of products, services, investments, and other assets in order to optimize the use of resources and to assess its suitability, level of risk, and expected financial return.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.124748945236206
+    },
+    {
+      "question": " These goods are low-priced products that are bought frequently, are used just once, and incur low levels of purchase risk:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.1253738403320312
+    },
+    {
+      "question": "Which of the following processes is not fundamental in explaining how consumers think and learn about products and brands?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.125746965408325
+    },
+    {
+      "question": " ________________is used to influence the way an organization is perceived by various groups of stakeholders.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.1261098384857178
+    },
+    {
+      "question": "Marketing that moves away from a transaction-based effort to a conversation (i.e. two-way dialogue) and can be described as a situation or mechanism through which marketers and a customer (e.g. stakeholders) interact usually in real-time is known as:",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.1264760494232178
+    },
+    {
+      "question": " The differentiation of a firm's products or services to promote environmental responsibility is referred to as:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.126826047897339
+    },
+    {
+      "question": " Which of the following is the rate at which a market adopts an innovation?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.127166986465454
+    },
+    {
+      "question": "Micromarketing is directed at potential buyers who",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.127504825592041
+    },
+    {
+      "question": " This is a group of people in the process of diffusion who enjoy being at the leading edge of innovation and buy into new products at an early stage:",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.127837896347046
+    },
+    {
+      "question": " What channel structure is it where the product goes directly from the producer to the final customer?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.1281747817993164
+    },
+    {
+      "question": "Joint creation of value, in which customers take part in an active dialogue and co-construct personalized experiences, is referred to as:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.13145112991333
+    },
+    {
+      "question": "This form of marketing communications tool is referred to as 'a paid, mediated form of communication from an identifiable source, designed to persuade the receiver to take some action, now or in the future'. This is referred to as:",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.1318142414093018
+    },
+    {
+      "question": " The ____________ delivers to us a wide array of offerings, either directly or indirectly, through business markets, to serve our wants and needs.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.1321563720703125
+    },
+    {
+      "question": " ____________ describes the extrinsic properties of the product (the colour, the packaging, the product consistency, associations) and level to which these satisfy customers' psychological or social needs.",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.1325020790100098
+    },
+    {
+      "question": "AIDA stands for awareness, ________, desire and _________.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.132838249206543
+    },
+    {
+      "question": " This is where intermediaries are given exclusive rights to market the good or service within a defined 'territory', thus using a very limited number of intermediaries:",
+      "model_answer": "C.",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.1331772804260254
+    },
+    {
+      "question": "Once the agency has discussed the brief with the client, the agency provides a detailed outline of how they intend to investigate the problem. This document is called the ____________:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.1335113048553467
+    },
+    {
+      "question": " Organizational characteristics, such as organizational size and location, are sometimes referred to as___________.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.13394832611084
+    },
+    {
+      "question": "The role of marketing communications is to engage audiences and there are four main tasks that it can be used to complete. Which of the following is not part of the four main tasks?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.1343092918395996
+    },
+    {
+      "question": "The process of making large numbers of unsolicited sales calls to potential customers whom the salesperson does not know is referred to as",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.1347391605377197
+    },
+    {
+      "question": " The process by which individuals accept and use new propositions is referred to as:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.0712530612945557
+    },
+    {
+      "question": " Which of the following occurs when competitors' pricing policies are almost exclusively focused on competitors rather than customers?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.071753978729248
+    },
+    {
+      "question": "A commonly used basis for segmenting consumer markets is:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.072119951248169
+    },
+    {
+      "question": " In B2B contexts, prices are set according to specific agreements between a company and its clients or customers (e.g. professional services such as architectural or structural engineering).This pricing approach is known as:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.0724539756774902
+    },
+    {
+      "question": " Once referred to as a multibrand policy, this branding strategy requires that each product offered by an organization is branded independently of all the others. This is known as:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.0727920532226562
+    },
+    {
+      "question": " This is the use of inter-personal communications with the aim of developing positive feelings and stimulating behaviour.",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.0731241703033447
+    },
+    {
+      "question": " An approach that encompasses a wide range of relationships, not just with customers, but also those that organizations develop with suppliers, regulators, government, competitors, employees, and others, is referred to as:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.0734541416168213
+    },
+    {
+      "question": "In marketing terms, ___________ refers to what we get for what we pay:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.0737850666046143
+    },
+    {
+      "question": " _______________ is concerned with the development of knowledge that is specific to the parties involved and is referred to as 'learning together'.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.074450969696045
+    },
+    {
+      "question": " The process that creates changes in behaviour is called:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.0749709606170654
+    },
+    {
+      "question": "Which of the following is the most appropriate pricing strategy to use when introducing a new and unique product to the market?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.080828905105591
+    },
+    {
+      "question": "Which type of shop offers a range of grocery and household items that cater for last-minute purchase needs of consumers?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.0811970233917236
+    },
+    {
+      "question": " Post-purchase re-evaluation of the consumer proposition acquisition process attempts to measure the degree of:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.081602096557617
+    },
+    {
+      "question": " Many brands are deliberately imbued with human characteristics, to the point that they are identified as having particular personalities. This is referred to as:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.0819709300994873
+    },
+    {
+      "question": "Marketing research:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.082343101501465
+    },
+    {
+      "question": "____________ is very effective at delivering messages to target audiences as it allows for explanation in a way that most other media cannot.",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.082714080810547
+    },
+    {
+      "question": " This is a marketing communications activity concerned with providing support for the sales force and merchandising personnel:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.0830819606781006
+    },
+    {
+      "question": "Services are consumed at the point they are produced. In other words, service delivery cannot be separated or split out of service provision or service consumption. Which characteristic of service is this referred to?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.0834097862243652
+    },
+    {
+      "question": "These are costs which do not vary according to the number of units of product made or service sold:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.0837409496307373
+    },
+    {
+      "question": "SWOT is an acronym for:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.0841898918151855
+    },
+    {
+      "question": "The three stages of attitude formation are that we learn something, we feel something, and we act on our attitudes. The stage that we learn something is referred to as:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.1571130752563477
+    },
+    {
+      "question": "Market testing studies use __________ to carry out controlled experiments in specific country regions, where specific adverts can be shown, before exposing the 'new feature' (offering, campaign, distribution, etc.) to a full national or even international launch.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.1574859619140625
+    },
+    {
+      "question": " When there is little or no personal contact between customer and service provider, this is classified as:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.1578218936920166
+    },
+    {
+      "question": "Which of the following is not an example of a behavioural variable?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.158266067504883
+    },
+    {
+      "question": " __________ is the collection and interpretation of information about forces, events, and relationships that may affect the organization.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.1586318016052246
+    },
+    {
+      "question": "ACORN, a segmentation analysis technique, stands for which of the following?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.158982038497925
+    },
+    {
+      "question": " A probability sample constructed so that randomly selected sub-samples of different groups are represented in the total sample is called a:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.1593289375305176
+    },
+    {
+      "question": "Which of the following terms refers to the paid mention of a company, a product, or a service by a form of media?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.1596641540527344
+    },
+    {
+      "question": "Marketing period, 1950s-1980s - characterized by a more advanced focus on the ___________.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.160019874572754
+    },
+    {
+      "question": "Which of the following statements is correct?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1606500148773193
+    },
+    {
+      "question": " Which of the following is a stage in the new product development process, undertaken when a new product is tested with a sample of customers, or is launched in a specified geographical area, to judge customers' reactions prior to a national launch?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.0568981170654297
+    },
+    {
+      "question": "The term marketing refers to:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.057270050048828
+    },
+    {
+      "question": " ____________ is the set of practices that enables organizations to communicate and engage interactively with their audiences through any mobile device or network.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.057692050933838
+    },
+    {
+      "question": " According to the British Government, which of the following is not a marketing function?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.058074951171875
+    },
+    {
+      "question": "The use of entertainment material delivered through paid or owned media and which features a single company or brand is referred to as:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.058436870574951
+    },
+    {
+      "question": "Second-hand data, collected for someone else's purposes, is known as____________:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.0587852001190186
+    },
+    {
+      "question": " Which of the following refers to unsolicited electronic messages?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.059134006500244
+    },
+    {
+      "question": " The purpose of evaluating the attractiveness of the differing market segments identified in the second stage of the market segmentation process is to:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.059473991394043
+    },
+    {
+      "question": "Which of the following types of advertising is being used when a retail store agrees to share advertising costs for a consumer product with the national distributor of the product?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.0598130226135254
+    },
+    {
+      "question": " This pricing approach is used when the firm sets prices according to how much customers are prepared to pay:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.0602059364318848
+    },
+    {
+      "question": "These goods are bought infrequently, used repeatedly, and involve a reasonably high level of consumer risk:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2256038188934326
+    },
+    {
+      "question": "_____________ helps in 'problematizing hitherto uncontentious marketing areas to reveal underlying institutional and theoretical dysfunctionalities' (Saren, 2011:95).",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2259678840637207
+    },
+    {
+      "question": "An important characteristic of services is that they are produced and consumed by people, simultaneously, as a single event. One of the outcomes of this unique process is that it is exceedingly difficult to standardize the delivery of services around the blueprint model. Which characteristic of service is this referred to?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.226310968399048
+    },
+    {
+      "question": "Which type of retailer involves comparatively low prices as a major selling point combined with the reduced costs of doing business?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.226789951324463
+    },
+    {
+      "question": "A marketing philosophy summarized by the phrase 'a stronger focus on social and ethical concerns in marketing' is characteristic of the _________ period.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.22714900970459
+    },
+    {
+      "question": "The development of social media has enabled individuals to communicate with organizations, communities, friends, and family. The content of the message can be about brands, experiences, or events, and is developed and shared by individuals. This is referred to as:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2275290489196777
+    },
+    {
+      "question": " To highlight the variation in approaches to purchasing behaviour, Svahn and Westerlund (2009) identify six principal purchasing strategies used by organizations. The __________ strategy refers to a buyer's efficiency orientation where the main purchasing goal is to seek the lowest price for the offering. To help achieve this, the buyer actively promotes competition among several potential suppliers.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2278809547424316
+    },
+    {
+      "question": " In conducting international market research, there are three types of equivalence. Which of the following is NOT one of the equivalences?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.2282209396362305
+    },
+    {
+      "question": "Which of the following gives the owner exclusive rights by law to use a brand?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2285549640655518
+    },
+    {
+      "question": " Which of the following is not a useful base for segmenting organizational characteristics?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2291719913482666
+    },
+    {
+      "question": "________ is the process of marketing accomplished or facilitated via the use of Internet technologies (e.g. web, email, intranet, extranets, etc.).",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.0744409561157227
+    },
+    {
+      "question": "Firms that view themselves as market leaders in product quality frequently adopt a",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.074805736541748
+    },
+    {
+      "question": " Our perception of risk is greater if we are continually reminded of it than if we consider it only at the point of purchase. This is referred to as:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.075145959854126
+    },
+    {
+      "question": " Fees paid by advertisers to online companies that refer qualified potential customers or provide consumer information where the consumer opts in to being contacted by a marketer. This is referred to as:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.0754828453063965
+    },
+    {
+      "question": "Which element of the promotional mix handles unfavorable stories and events and promotes a good corporate image?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.0758159160614014
+    },
+    {
+      "question": " This operates algorithmically or using a mixture of algorithmic and human input to collect, index, store, and retrieve information on the web (e.g. web pages, images, information, and other types of files). It makes the information available to users in a manageable and meaningful way in response to a search query. This is referred to as:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.0761489868164062
+    },
+    {
+      "question": " Four competing philosophies strongly influence the role of marketing and marketing activities within an organization. Which if the following is not a component of market orientation?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.0768489837646484
+    },
+    {
+      "question": " To evaluate an organization's Strategic Business Units (SBU), the Boston Consulting Group developed a portfolio performance framework that characterizes some of the SBUs as:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.077570915222168
+    },
+    {
+      "question": "Tobacco advertising is now banned in virtually all marketing communication forms in many countries around the world. This can be explained as an influence of:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.0781540870666504
+    },
+    {
+      "question": " Pine and Gilmore (1999) derive four distinct realms of experience, based on two dimensions. What are these dimensions?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.0785040855407715
+    },
+    {
+      "question": "An advertising model in which advertisers bid on keywords or phrases relevant to their target market, with sponsored/paid search engine listings to drive traffic to a website is called:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.427525758743286
+    },
+    {
+      "question": "These are chains of organizations that are concerned with the management of the processes and activities involved in creating and moving products from producers and manufacturers to end-user customers. The organizations involved with any one journey, are collectively termed as a:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4279019832611084
+    },
+    {
+      "question": " _______________ are used in the positioning process to illustrate differing attributes of a selection of brands.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4282419681549072
+    },
+    {
+      "question": "On August 4, a store purchased five sofas invoiced at $7,000, terms 2/10 , n/30 . The invoice was paid August 13. The store paid",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.428590774536133
+    },
+    {
+      "question": " Which of the following are aimed at providing customers with the peace of mind of knowing that the company they are purchasing from is competitive in price?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4289369583129883
+    },
+    {
+      "question": "According to Leone and Shultz (1980), the law-like generalization 1 explains that ___________ has a direct and positive influence on total industry (market) sales.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.429797887802124
+    },
+    {
+      "question": " This is part of the communication process where receivers unpack the various components of the message, and begin to make sense and give the message meaning:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.430530071258545
+    },
+    {
+      "question": "An example of a segmented market would be:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4313137531280518
+    },
+    {
+      "question": " Psychographic segmentation is based on:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.432048797607422
+    },
+    {
+      "question": "A framework categorizes different services, which, in turn, influence the degree to which market offerings can be evaluated, and three main properties are identified:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4325108528137207
+    },
+    {
+      "question": " ____________ distribute the product. They offer value through services associated with selling inventory, credit, and aftersales service.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.0591230392456055
+    },
+    {
+      "question": "This is the process in which offerings move through a sequential, pre-determined pattern of development similar to the biological path that lifeforms follow:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.059490919113159
+    },
+    {
+      "question": " A 10% increase (decrease) in price produces a 10% decrease (increase) in quantity demanded. This is referred to as:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.0598249435424805
+    },
+    {
+      "question": " Which type of research methods are designed to elicit responses to predetermined, standardized questions from many respondents?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.060238838195801
+    },
+    {
+      "question": " In the _________ stage in the adoption process, consumers become aware of the new proposition. They have little information and have yet to develop any particular attitudes towards the product. Indeed, at this stage consumers are not interested in finding out any more information.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.0606741905212402
+    },
+    {
+      "question": " Which of the following is a type of consumer product bought relatively infrequently and which requires consumers to update their knowledge prior to purchase?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.0610671043395996
+    },
+    {
+      "question": "This is where the perception on the part of a channel member is that its goal attainment is being impeded by another, with stress or tension the result:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.0614089965820312
+    },
+    {
+      "question": "These are events when groups of sellers meet collectively with the key purpose of attracting buyers:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.0617480278015137
+    },
+    {
+      "question": " These objectives are often the most suitable when firms operate in a market dominated by a major competitor and where their financial resources are limited.",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.062082052230835
+    },
+    {
+      "question": " The process of outsourcing a task or group of tasks to a generally large group of people is known as:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.0624148845672607
+    },
+    {
+      "question": "Which of the following is not one of the categories of research design?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1372737884521484
+    },
+    {
+      "question": " This marketing and communication tool offers a direct inducement or an incentive to encourage customers to buy a product/service:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.138044834136963
+    },
+    {
+      "question": " These objectives are often employed in mature markets as firms/products enter a decline phase. The goal is to maximize short-term profits and stimulate a positive cash flow.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1385300159454346
+    },
+    {
+      "question": " Which of the following is the interpersonal communication about products or services where a receiver regards the communicator as impartial and is not attempting to sell products or services?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.1388869285583496
+    },
+    {
+      "question": " McDonald's and KFC are good examples of:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.1392409801483154
+    },
+    {
+      "question": " The way in which the product is delivered to meet the customers' needs refers to:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.139849901199341
+    },
+    {
+      "question": " Which of the following is the investigation of the hedonic consumption of products?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.140216112136841
+    },
+    {
+      "question": "These are stores designed to kill off the competition and are characterized by narrow but very deep product assortment, low prices, and few to moderate customer services:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.1405539512634277
+    },
+    {
+      "question": " Which of the following is the communication model that depicts information flowing via various media channels, to particular types of people, to whom other members of the audience refer for information and guidance?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.1409189701080322
+    },
+    {
+      "question": " If an advertisement shows the interior of a train with comfortable seats and plenty of space yet a customer boards a train only to find a lack of space and hard seating. This is an example of:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.141472101211548
+    },
+    {
+      "question": " To make sense of the external environment, the well-known acronym, PESTLE is used. PESTLE stands for _____________",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.344172954559326
+    },
+    {
+      "question": "To be effective, the process of market segmentation must meet which of the following basic requirements?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.344636917114258
+    },
+    {
+      "question": " Newsletters, catalogues, and invitations to organization-sponsored events are most closely associated with the marketing mix activity of:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3449747562408447
+    },
+    {
+      "question": "Marketers usually decide whether to conduct marketing research study internally or through an outside organization based on certain criteria. Which of the following criterion is not used?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3453218936920166
+    },
+    {
+      "question": " Which of the following elements is not part of Porter's Five Forces model for industry competitiveness?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3456859588623047
+    },
+    {
+      "question": " These sell directly to end consumers and may purchase directly from manufacturers and/or deal with wholesalers:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.346038818359375
+    },
+    {
+      "question": " Before beginning the market segmentation process, a firm should:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3463690280914307
+    },
+    {
+      "question": "The primary objective of team-based selling is to",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.347001791000366
+    },
+    {
+      "question": "This level of branding can be seen when a customer attaches a name, term, or other feature that enables them to identify one seller's good or service as distinct from those of other sellers. This branding is known as:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.347780704498291
+    },
+    {
+      "question": " This is a form of targeted advertising, on websites, with advertisements selected and served by automated systems based on the content displayed to the user.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3487348556518555
+    },
+    {
+      "question": " Primary data are:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 1.9849960803985596
+    },
+    {
+      "question": "Salespeople who view a situation as a customer sees it are exhibiting",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 1.9853770732879639
+    },
+    {
+      "question": " This is a part of the communication process where the sender selects a combination of appropriate words, pictures, symbols, and music to represent a message to be transmitted:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 1.9858272075653076
+    },
+    {
+      "question": " Toyota's Prius and Honda's hybrid Civic are examples of technological products inspired by:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 1.9863431453704834
+    },
+    {
+      "question": " This approach has been used to convey particular information and help educate large target audiences through television and radio programmes. This approach is referred to as:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 1.9866890907287598
+    },
+    {
+      "question": "When an individual passively appreciates an event or environment but leaves without affecting or altering the nature of the environment is called:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 1.9870803356170654
+    },
+    {
+      "question": " Which of the following is best understood as a period of time during which a customer interacts directly with a service?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 1.9874341487884521
+    },
+    {
+      "question": "Intermediaries assist end-users by bringing a product produced a long way away to a more convenient location for purchase and consumption. This is referred to as:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 1.9879801273345947
+    },
+    {
+      "question": " The pricing approach where prices are set based on what competitors are charging is called the:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 1.9887092113494873
+    },
+    {
+      "question": "Which of the following types of tests is designed primarily to help predict how successful a person is likely to be in learning new skills?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 1.9894282817840576
+    },
+    {
+      "question": " ____________ occurs when a search engine company charges fees related to inclusion of websites in their search index.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2089171409606934
+    },
+    {
+      "question": " This is where the manufacturing, purchasing, and consumption can occur at differing points in time.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2092740535736084
+    },
+    {
+      "question": " According to Maslow's Hierarchy of Needs theory, the need for fulfilment, for realizing one's own potential, and for fully using one's talents and capabilities are examples of __________ needs.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2096140384674072
+    },
+    {
+      "question": "Which of the following is not part of the consumer proposition acquisition process?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2102510929107666
+    },
+    {
+      "question": " When analysing consumer lifecycles, marketers look at consumers in differing stages of their life. Many models upon which these are based were developed in the 1960s. Since then a lot has changed in 'consumer lifecycles'. Which emerging trends should marketers take into consideration?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.21063494682312
+    },
+    {
+      "question": " The pricing approach where prices are set based on what customers believe to offer value is called the:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.211189031600952
+    },
+    {
+      "question": "The Internet has led to the development of an information intermediary. Here the key role is to manage information to improve the efficiency and effectiveness of the distribution channel. This is referred to as:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.211907148361206
+    },
+    {
+      "question": "Which of the following is the best example of a trade discount?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.212692975997925
+    },
+    {
+      "question": "The rise of ___________ has led marketing to evolve away from a hierarchical one-sided mass communication model towards more participatory technologies (e.g. social channels and online communities).",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.213418960571289
+    },
+    {
+      "question": " Nysveen and Pedersen (2014) added in key dimensions of customer experience. The ______________ refers to how strongly a brand engages consumers in physical activities.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2141330242156982
+    },
+    {
+      "question": "New technology results in new goods and services, and it can also:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.238424062728882
+    },
+    {
+      "question": "These are non-durable goods or services, often bought with little pre-purchase thought or consideration:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2388010025024414
+    },
+    {
+      "question": "In marketing, the term proposition:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2391390800476074
+    },
+    {
+      "question": " When the analyst reads the data from a critical perspective to determine whether or not this fits with their expectations, this constitutes what is termed a:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.239496946334839
+    },
+    {
+      "question": " What is the term used to describe how consistent or stable the ratings generated by a scale are?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2398629188537598
+    },
+    {
+      "question": "_________ enable different types of uncertainty to be lowered in several ways (Fill and McKee, 2012). These include reducing the complexity, increasing value and competitive advantage, routinization, and providing specialization.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2402069568634033
+    },
+    {
+      "question": "When little is known about the problem, research seeking to discover the cause of a problem by discussing the problem with informed sources and examining pre-existing data is undertaken. This type of research is:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2405459880828857
+    },
+    {
+      "question": " A means of orchestrating the tools of the marketing communications mix, so that audiences perceive a single, consistent, unified message whenever they have contact with a brand, is referred to as:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2408881187438965
+    },
+    {
+      "question": " Which of the following consumer buying behaviours requires the least effort?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.241466999053955
+    },
+    {
+      "question": " ________________ is a process that leads to specific decisions on how to compete in the marketplace and how the company should best serve its customers.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.242176055908203
+    },
+    {
+      "question": " What type of media has the primary objective to get the attention of shoppers and to stimulate them to make a purchase? (Examples include point-of-purchase displays and packaging.)",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3614468574523926
+    },
+    {
+      "question": "A commercial activity, whereby one party permits another an opportunity to exploit an association with a target audience in return for funds, services, or resources is referred to as:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.361855983734131
+    },
+    {
+      "question": " Types of non-random samples include:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3621950149536133
+    },
+    {
+      "question": " These store goods for moderate to long periods:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3625919818878174
+    },
+    {
+      "question": "Robert is a marketer for a global consumer products company. He is working on the promotional campaign designed to reach a target audience in a new international market. Robert is working hard to make sure that the promotional campaign is clearly understood by the nation's consumers and doesn't offend anyone. By which of the factors in the external environment is he being influenced",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.36293888092041
+    },
+    {
+      "question": "____________________ are those who address the same target market but provide a different offering to satisfy the market need, for example Spotify, Sony, and Apple's iPod.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3633029460906982
+    },
+    {
+      "question": " A key benefit of the STP process is:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.363636016845703
+    },
+    {
+      "question": " ____________ is also a form of sponsorship and represents a relationship between film/TV producers and managers of brands. Through this arrangement, brand managers are able, for a fee, to present their brands 'naturally' within a film or entertainment event. Such placement is designed to increase brand awareness, develop positive brand attitudes, and possibly lead to purchase activity.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3643269538879395
+    },
+    {
+      "question": "The management and execution of marketing using digital electronic technologies and channels (e.g. web, email, digital TV, wireless media) and digital data about user/customer characteristics and behaviour is referred to as:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.365064859390259
+    },
+    {
+      "question": " ___________ occurs when a website's structure and content is improved to maximize its listing in organic search engine results pages using relevant keywords or search phrases.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.365776777267456
+    },
+    {
+      "question": "A form of marketing communications that uses the Internet for the purpose of advertising, aiming to increase website traffic and/or encourage product trial, purchase, and repeat purchase activity is called:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 1.9011101722717285
+    },
+    {
+      "question": "This branding policy requires that all the products use the organization's name, either entirely or in part, e.g. Microsoft, Heinz, and Kellogg's",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 1.9014909267425537
+    },
+    {
+      "question": " The action of presenting persuasive communication and the action of audiences in interpreting that communication to assimilate it into their existing understanding is referred to as:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 1.9018268585205078
+    },
+    {
+      "question": " An organization can offer standard products at acceptable levels of quality, yet still generate above-average profit margin by adopting _____________",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 1.9021871089935303
+    },
+    {
+      "question": " Which of the following is not an issue that marketers need to consider when using digital resources for marketing activities?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 1.9025490283966064
+    },
+    {
+      "question": " What type of media helps advertisers demonstrate the benefits of using a particular product and can bring life and energy to an advertiser's message?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 1.9029021263122559
+    },
+    {
+      "question": "The process of keeping a running account of merchandise on hand is referred to as",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 1.9032320976257324
+    },
+    {
+      "question": "This is the sharing of meaning created through the transmission of information:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 1.9035630226135254
+    },
+    {
+      "question": "In relationship marketing firms focus on __________ relationships with __________.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 1.9039020538330078
+    },
+    {
+      "question": " Which of the following means placing your product or service in as many outlets or locations as possible, in order to maximize the opportunity for customers to find the good or service?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 1.9042351245880127
+    },
+    {
+      "question": " ______________ is used to determine whether one variable causes an effect in another variable. In order to determine causality experimental or longitudinal studies are needed.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.288015127182007
+    },
+    {
+      "question": " A database of information that is maintained by human editors and lists websites by category and subcategory with categorization is known as:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2883849143981934
+    },
+    {
+      "question": "Services are characterized by five distinct characteristics. These are:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.288719892501831
+    },
+    {
+      "question": "A company sells its product at two different prices in two different locations. Which of the following types of research will be most effective in identifying the optimal price for the product if all other marketing factors are held constant?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.2890548706054688
+    },
+    {
+      "question": "Where the price is set low relative to the competition to gain market share, this strategy is known as:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2894198894500732
+    },
+    {
+      "question": " Which of the following is not the rationale for developing CSR initiatives?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2897579669952393
+    },
+    {
+      "question": "This business-to-business pricing approach seeks to understand customers' needs before pricing the offering according to those needs in order to generate a long-term relationship. This is referred to as:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2901008129119873
+    },
+    {
+      "question": "This form of advert delivered on social platforms and social gaming websites and apps, across all device types is known as:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2904388904571533
+    },
+    {
+      "question": " Secondary data has two important advantages over primary data. It is:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2907750606536865
+    },
+    {
+      "question": " Internet-based organizations designed to provide information to channel members, including end-users are referred to as:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2911291122436523
+    },
+    {
+      "question": "In B2B contexts, ___________ occurs in large organizations where considerable internal dealing between different company divisions occurs, often across national boundaries.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2675368785858154
+    },
+    {
+      "question": "This is when a product or service is offered together with another typically complementary product or service:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2681338787078857
+    },
+    {
+      "question": " This is something that at some time in the future may destabilize and/or reduce the potential performance of the organization.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2685158252716064
+    },
+    {
+      "question": "When there are high levels of business failures and unemployment, the business cycle is said to be in which of the following phases?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.268972158432007
+    },
+    {
+      "question": "Many retail brands adopt a single umbrella brand, based on the name of the organization. This is referred to as:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2696919441223145
+    },
+    {
+      "question": " The importance and significance of customer experience to both individuals and society is referred to as:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2700412273406982
+    },
+    {
+      "question": "________________reflect a purchaser's high level of involvement in the purchase decision. There is high perceived risk in these decisions so consumers spend a great deal of time, care, and energy searching, formulating, and making the final decision.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.2706329822540283
+    },
+    {
+      "question": "____________ is a form of digital marketing that describes the use of the social web and social media (e.g. social networks, online communities, blogs or wikis) or any online collaborative technology for marketing activities, be it sales, public relations, research, distribution, or customer service.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2713561058044434
+    },
+    {
+      "question": "Inelastic demand occurs when the",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.272233009338379
+    },
+    {
+      "question": " A person who is in the position of attempting to satisfy their needs at the most basic level is operating at the level of Maslow's needs hierarchy called the need for:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2725861072540283
+    },
+    {
+      "question": " During the __________ stage of the adoption process, the innovation is tried for the first time. Sales promotions are often used as samples to allow individuals to test the product without any undue risk. Individuals accept or reject an innovation on the basis of their experience of the trial.",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.215437173843384
+    },
+    {
+      "question": " Which technique is used to collect data that has been previously collected for a purpose other than the current research situation?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2158100605010986
+    },
+    {
+      "question": " Current changes in behaviors clearly show that ______ is taking over more and more of consumer online searches.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.216151237487793
+    },
+    {
+      "question": "Once a train pulls out of a station, or an aeroplane takes off or a film starts, those seats are lost and can never be sold. This is referred to as:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2165021896362305
+    },
+    {
+      "question": " The train operator understands customer desire for a comfortable seat but fails to specify how many should be provided relative to the anticipated number of travellers on each route. This is an example of:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2168469429016113
+    },
+    {
+      "question": " This is part of the communication process and refers to the responses offered by receivers:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.217184066772461
+    },
+    {
+      "question": " Economic—marketing should encourage long-term economic development as opposed to short-term economic development.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2175419330596924
+    },
+    {
+      "question": " Individuals become completely immersed in their environment and actively participate so that they affect actual performances or occurrences in the environment. This is referred to as:",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.2182321548461914
+    },
+    {
+      "question": "This is a marketing communication tool that uses non-personal media to create and sustain a personal and intermediary free communication with customers, potential customers, and other significant stakeholders:",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.218937873840332
+    },
+    {
+      "question": " It has been claimed that the three major outcomes from the development of relationship trust are satisfaction, ___________, and continuity (Pavlou, 2002).",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2196600437164307
+    },
+    {
+      "question": "The family life cycle:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 1.9762837886810303
+    },
+    {
+      "question": "A marketing research firm contracts with clients to conduct a complete marketing research project from data collection, analysis, and reporting. It is a__________ firm.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 1.97664475440979
+    },
+    {
+      "question": "A company builds its sales message, advertising message, and promotion theme to influence how a particular market sector perceives a good or service in comparison with the competition. The company is primarily engaged in",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 1.9769799709320068
+    },
+    {
+      "question": " With this pricing approach, the pricing process begins with the customer; not the cost of the product offering:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 1.9773268699645996
+    },
+    {
+      "question": "___________ is based on the idea that customer expectations of the service they will receive shape their perception of the actual service encounter.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 1.9776759147644043
+    },
+    {
+      "question": " Information collected for the first time specifically for a marketing research study is called:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 1.9780170917510986
+    },
+    {
+      "question": "This includes advertisements that contain 'call-to-response' mechanisms such as telephone numbers, website addresses, email and postal addresses:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 1.9783718585968018
+    },
+    {
+      "question": "Which of the following is not part of the external marketing environment?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 1.978712797164917
+    },
+    {
+      "question": " In order for exchange to occur:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 1.9790568351745605
+    },
+    {
+      "question": "Conflict between sequential members in a distribution network, such as producers, distributor, and retailers, over such matters as carrying a particular range or price increases is referred to as:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 1.9797110557556152
+    },
+    {
+      "question": "Which of the following is an example of costbased pricing?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 0.92063307762146
+    },
+    {
+      "question": "Which of the following is typically not a result of recognizing the importance of ethnic groups by marketers?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 0.920996904373169
+    },
+    {
+      "question": "_______________can be defined as the aspect of our psyche that determines the way in which we respond to our environment in a relatively stable way over time.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 0.9213540554046631
+    },
+    {
+      "question": "The six dimensions usually considered to constitute the external marketing environment include all of the following except:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 0.9219479560852051
+    }
+  ]
+}

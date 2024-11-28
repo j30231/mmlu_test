@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq2_xss",
+    "ntrain": 0,
+    "ntest": 1,
+    "timestamp": "20241127-164725"
+  },
+  "subject": "moral_scenarios",
+  "category": "humanities",
+  "correct_rate": 0.0,
+  "evaluation_results": [
+    {
+      "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I slammed on my breaks to miss the ball as it came in to the road. Scenario 2 | I taught my children to play the xylophone.",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 0.5602638721466064
+    }
+  ]
+}

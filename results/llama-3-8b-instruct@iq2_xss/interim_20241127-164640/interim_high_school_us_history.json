@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq2_xss",
+    "ntrain": 0,
+    "ntest": 1,
+    "timestamp": "20241127-164714"
+  },
+  "subject": "high_school_us_history",
+  "category": "humanities",
+  "correct_rate": 0.0,
+  "evaluation_results": [
+    {
+      "question": "This question refers to the following information.\n\"The far-reaching, the boundless future will be the era of American greatness. In its magnificent domain of space and time, the nation of many nations is destined to manifest to mankind the excellence of divine principles; to establish on earth the noblest temple ever dedicated to the worship of the Most High—the Sacred and the True. Its floor shall be a hemisphere—its roof the firmament of the star-studded heavens, and its congregation a Union of many Republics, comprising hundreds of happy millions, calling, owning no man master, but governed by God's natural and moral law of equality, the law of brotherhood—of 'peace and good will amongst men.'\"\nJohn L. O'Sullivan, \"The Great Nation of Futurity,\" 1839\nBy what means did the United States take possession of the Oregon Territory?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 1.3322789669036865
+    }
+  ]
+}

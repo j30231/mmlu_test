@@ -1,0 +1,1021 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@q3_k_s",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-103049"
+  },
+  "subject": "college_biology",
+  "category": "STEM",
+  "correct_rate": 59.72222222222222,
+  "evaluation_results": [
+    {
+      "question": "Based on the characteristic population curves that result from plotting population growth of a species, the most effective means of controlling the mosquito population is to",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.114011287689209
+    },
+    {
+      "question": "A frameshift mutation is created when",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.114898920059204
+    },
+    {
+      "question": "To prevent desiccation and injury, the embryos of terrestrial vertebrates are encased within a fluid secreted by the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1162869930267334
+    },
+    {
+      "question": "Which of the following is a second messenger that stimulates release of calcium ions into the cytoplasm?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.1168041229248047
+    },
+    {
+      "question": "Synthesis of an RNA/DNA hybrid from a single-stranded RNA template requires",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.116935968399048
+    },
+    {
+      "question": "In order for the Hardy-Weinberg law to operate with respect to a population of organisms, each of the following conditions must be met EXCEPT:",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.117029905319214
+    },
+    {
+      "question": "The Barr body found within female mammalian cells' nuclei is an example of",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.1171212196350098
+    },
+    {
+      "question": "Which of the following is NOT a source of atmospheric carbon?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1172101497650146
+    },
+    {
+      "question": "The concept of punctuated equilibrium refers to",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.1172990798950195
+    },
+    {
+      "question": "When an influenza virus enters a cell, it immediately starts to do which of the following?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.117387056350708
+    },
+    {
+      "question": "Cleavage symmetry arising from early cell divisions that occur at an oblique angle to the polar axis is known as",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.461364984512329
+    },
+    {
+      "question": "Targeting of a newly synthesized protein is most likely to require two different signal peptides for which of the following destinations?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.461787223815918
+    },
+    {
+      "question": "In Sweden, the red fox (Vulpes vulpes) severely limits populations of its prey, including hares. However, red fox populations are sometimes attacked by a fatal parasite, the mange mite. As mite population sizes increase at a given site, how are hare and fox populations most likely to respond at the same site? (Assume that hares have no major predators at this site other than foxes.)",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.462153911590576
+    },
+    {
+      "question": "A cell nucleus contains which of the following?\nI. DNA\nII. Protein\nIII. RNA",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.4627439975738525
+    },
+    {
+      "question": "In one taxonomic classification, Archaea, Eukarya, and Bacteria represent the three major domains of life. Eukarya utilize the general transcription factors TBP (TATA-binding protein) and TFIIB in transcription, whereas Bacteria do not. At least one member of Archaea has a protein similar to TBP and a protein similar to TFIIB. Based on this observation, which of the following scenarios is most likely?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.4630231857299805
+    },
+    {
+      "question": "A rise in intracellular free calcium in the sea urchin oocyte causes the release of proteolytic enzymes which act to prevent polyspermy. The events just described entail the",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.463122844696045
+    },
+    {
+      "question": "Which of the following is a benefit that mycorrhizal fungi confer to many plants?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.4632210731506348
+    },
+    {
+      "question": "Experiments on song development in birds have shown that when a young male reared in isolation hears only the song of a different bird species, he will develop an adult song repertoire that lacks certain characteristics typical of his own species. This result shows that the song of his species is most likely",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.4633138179779053
+    },
+    {
+      "question": "Which of the following most accurately describes a retrotransposon?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.463409900665283
+    },
+    {
+      "question": "The soils of which of the following biomes has the highest rate of leaching and cycling of nutrients?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.4634978771209717
+    },
+    {
+      "question": "Which of the following best explains why enzymes are effective in facilitating chemical reactions?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.0314979553222656
+    },
+    {
+      "question": "In the growth of a population, the point at which natality and mortality rates are equal to one another is referred to as",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.0322368144989014
+    },
+    {
+      "question": "The wings of a bat and the wings of a butterfly are",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.033097982406616
+    },
+    {
+      "question": "The cell type comprising the pith tissue centered within a dicot stem is the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.033540725708008
+    },
+    {
+      "question": "Mobile regions of DNA capable of inserting themselves into an existing genome are",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.0336618423461914
+    },
+    {
+      "question": "The process in which pioneer species colonize a bare substrate such as rock, sand, or glacial till is known as",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.033754825592041
+    },
+    {
+      "question": "Brood parasites such as the cuckoo successfully trick other species of birds into rearing their young by exploiting the host birds' instinctive response to the loud begging cues of a fledgling in their nest. The genes that allow the host bird species to be duped into rearing the cuckoo fledglings to the detriment of their own offspring most likely remain in the gene pool of the population because",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.0338478088378906
+    },
+    {
+      "question": "Cell motility, as viewed in a cultured fibroblast, encompasses all of the following EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.0339388847351074
+    },
+    {
+      "question": "According to Hamilton’s rule, an altruistic trait can evolve if c < br, where c is the fitness cost of the altruistic behavior to the donor, b is the fitness benefit to the recipient, and r is the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.034026861190796
+    },
+    {
+      "question": "Adaptations of plants to minimize water loss in environments with high temperatures include which of the following?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.034115791320801
+    },
+    {
+      "question": "All of the following might be found in connective tissue EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.3031351566314697
+    },
+    {
+      "question": "Which of the following is typically NOT found in normal somatic cells of a human male?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.3035731315612793
+    },
+    {
+      "question": "The members of a bird species capable of nesting in treetops or on the ledges of nearby cliffs make their homes only in the treetops due to the established presence of a more aggressive bird species on the cliff ledges. With respect to habitat, the treetop-nesting birds are utilizing",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.3039801120758057
+    },
+    {
+      "question": "All of the following characteristics are typical of r-selected species EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.304337978363037
+    },
+    {
+      "question": "A DNA strand with the sequence 5′ CGA TTG 3′ would be complementary to the sequence",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.304671049118042
+    },
+    {
+      "question": "Ferns undergo alternation of generations in which a",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.305063009262085
+    },
+    {
+      "question": "Which of the following statements concerning a sarcomere of a striated muscle (such as skeletal muscle) is correct?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.3053431510925293
+    },
+    {
+      "question": "Aggressive ants live in the swollen thorns of a small tropical tree and feed on oil-rich bodies that the tree produces at the tips of its leaflets. Which of the following experiments best tests the hypothesis that ants defend the plant by either killing or chasing away leaf-feeding insects?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.305462121963501
+    },
+    {
+      "question": "The sight organs of crustaceans and insects contain ommatidia, which make up the individual visual units of the",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.305568218231201
+    },
+    {
+      "question": "An embryologist studying the development of a vertebrate organism from the zygote stage to fetus would be justified in drawing which of the following conclusions?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.305659055709839
+    },
+    {
+      "question": "A stem-boring beetle has laid its eggs in the center of a 5-year-old wood twig, and the eggs have matured into larvae. In proper order (inside to outside), what tissues and tissue regions would the larvae encounter as they eat their way toward the outside of the twig? (For simplicity, assume that the epidermis has already fallen off completely.)",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.530643939971924
+    },
+    {
+      "question": "The following pairs were placed in solution together. Which two could be separated by performing low-speed centrifugation?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.534296989440918
+    },
+    {
+      "question": "Which of the following would increase the rate at which a gas diffuses between the alveoli of the lung and the blood within a pulmonary capillary?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.534748077392578
+    },
+    {
+      "question": "The structures that act as sites of gas exchange in a woody stem are the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.5351037979125977
+    },
+    {
+      "question": "Natural enemies have been implicated as a strong selective force for all of the following EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.535491943359375
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of introns?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5358428955078125
+    },
+    {
+      "question": "A healthy person sitting at rest consciously begins to breathe too fast. Which of the following describes the change in the person’s blood caused by this hyperventilation?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.5361881256103516
+    },
+    {
+      "question": "Which of the following is the correct anatomical order of structures in the mammalian female reproductive tract?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.5366430282592773
+    },
+    {
+      "question": "A marine ecosystem region characterized by penetrance of solar radiation and upwelling of nutrients is the",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.5370171070098877
+    },
+    {
+      "question": "In humans, a hereditary disorder called xeroderma pigmentosum (XP) can result in the inability to repair ultraviolet damage to DNA. Which of the following molecular lesions is most likely to accrue in individuals with XP?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.537156105041504
+    },
+    {
+      "question": "Chemosynthetic bacteria can produce their own food despite their lack of photonabsorbing pigments because the chemosynthetic bacteria derive energy by",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.8208630084991455
+    },
+    {
+      "question": "All of the following may serve as intracellular messengers EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.8213109970092773
+    },
+    {
+      "question": "All of the following statements about plant embryogenesis are correct EXCEPT:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.821707010269165
+    },
+    {
+      "question": "Mouse sperm contain receptor proteins that bind to a glycoprotein (ZP3) in the zona pellucida of mouse eggs. Binding of ZP3 receptors to ZP3 initiates the sperm’s acrosomal reaction. All of the following experimental observations would be expected EXCEPT:",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.8220701217651367
+    },
+    {
+      "question": "Which of the following factors does NOT promote linkage disequilibrium?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.822564125061035
+    },
+    {
+      "question": "In an experiment, the first cleavage plane of an amphibian zygote was manipulated so that the gray crescent was contained in only one of the two blastomeres that result from the first cleavage. The two blastomeres were then separated. What is the expected fate of the blastomeres?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.822960138320923
+    },
+    {
+      "question": "Nerve outgrowth from a developing neuron begins at the growth cone, located at the tip of the axon. Microspikes of the growth cone extend and retract in order to move the growth cone forward. Exposure of the neuron to cytochasalin B at this stage of development causes",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.823310136795044
+    },
+    {
+      "question": "Monoclonal antisera are distinguished from polyclonal antisera in which of the following ways?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.8238332271575928
+    },
+    {
+      "question": "The first groups of animals to develop lung tissue adequate to support their respiratory requirements without the use of supplementary gas exchange organs were the",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.8239972591400146
+    },
+    {
+      "question": "Which of the following is a biological attribute that would most likely allow a species to become cosmopolitan in distribution?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.824094295501709
+    },
+    {
+      "question": "In the formation of the earliest cells, which of the following components most likely arose first?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.3111259937286377
+    },
+    {
+      "question": "Which of the following facts was established prior to 1859, the year in which Charles Darwin published On the Origin of Species?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.3121652603149414
+    },
+    {
+      "question": "Fungi participate in each of the following EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.3128561973571777
+    },
+    {
+      "question": "In chloroplasts, a certain protein is found in the lumen of the thylakoid (thylakoid space). It is transcribed in the nucleus and synthesized on cytoplasmic ribosomes. How many membrane bilayers must this protein cross to reach its final location?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3133912086486816
+    },
+    {
+      "question": "During the mammalian cardiac cycle, a volume of blood equivalent to ventricular stroke volume is transferred from the more compliant venous side to the less compliant arterial side of the circulation. In terms of pressures within the venous and arterial compartments, this transfer results in",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.313511848449707
+    },
+    {
+      "question": "Which of the following statements concerning the Golgi apparatus of a eukaryote is correct?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.3136141300201416
+    },
+    {
+      "question": "The first point of entry of water at the roots of a monocot plant is through the cytoplasm of cells of the",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3137059211730957
+    },
+    {
+      "question": "Which of the following plant cells undergoes programmed cell death to become functional?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.3137929439544678
+    },
+    {
+      "question": "Which of the following characteristics distinguishes angiosperms from gymnosperms?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.313880205154419
+    },
+    {
+      "question": "A species of goose nests on both cliffs and beaches near the ocean. Soon after hatching, all chicks must make their way to the ocean. Chicks from cliff nests must tumble down the cliff to get to the ocean, and many are killed by the fall. Which of the following is most consistent with the hypothesis that cliff nesting is adaptive in this goose species?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.3139710426330566
+    },
+    {
+      "question": "Immunoglobulins having epsilon heavy chains and located on the plasma membranes of mast cells and basophilic leukocytes belong to the class of antibodies called",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.7737278938293457
+    },
+    {
+      "question": "A fluorescent molecule of 1,000 daltons injected into one cell is observed to enter an adjacent cell by passing through a",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.774122953414917
+    },
+    {
+      "question": "Annelids and arthropods are similar to each other in that members of both phyla",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.774462938308716
+    },
+    {
+      "question": "Approximately what fraction of the human genome encodes proteins?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.774806022644043
+    },
+    {
+      "question": "Which of the following statements is true of air as compared to water?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.775146007537842
+    },
+    {
+      "question": "Which of the following is true of organisms belonging to the kingdom Protista?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.7754828929901123
+    },
+    {
+      "question": "The section of chromosome that serves as the site of attachment by the mitotic spindle during cell division is the",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.775869846343994
+    },
+    {
+      "question": "A plant that grows along a trellis exhibits",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.776209831237793
+    },
+    {
+      "question": "If the activity of an enzyme is constant over a broad range of pH values, it is likely that",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.7767179012298584
+    },
+    {
+      "question": "In garden peas, the allele for tall plants (D) is completely dominant to the allele for dwarf plants (d) and the allele for violet flower color (W) is completely dominant to the allele for white flower color (w). In a cross between a tall violet plant, with the genotype DDWw, and a dwarf white plant, what phenotypic ratio of the progeny would be expected from this cross?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.776829957962036
+    },
+    {
+      "question": "Cancer cells grown in culture are similar to normal cells grown in culture in that they",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8409290313720703
+    },
+    {
+      "question": "Which of the following techniques could be used to demonstrate protein binding to specific DNA sequences?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.841949939727783
+    },
+    {
+      "question": "Adequate serum levels of calcium are maintained in humans by the secretion of",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.842439889907837
+    },
+    {
+      "question": "The amino acid ornithine is regenerated during each turn of the urea cycle in a similar manner to which of the following participants in the citric acid cycle?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8427770137786865
+    },
+    {
+      "question": "Which is a characteristic unique to angiosperms?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.843161106109619
+    },
+    {
+      "question": "Mammals are homeostatic for all of the following EXCEPT",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.8434929847717285
+    },
+    {
+      "question": "The crouching of very young birds in response to a predator’s shape overhead is an example of",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8437719345092773
+    },
+    {
+      "question": "Among primates, a high degree of sexual dimorphism in a species usually indicates intense competition between",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.84389591217041
+    },
+    {
+      "question": "Which of the following tissues in an actively photosynthesizing plant would have the highest rate of oxygen production?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8440089225769043
+    },
+    {
+      "question": "A recent theory concerning an unusual rise in asthma attacks following a thunderstorm proposes that while pollen grains at 5 microns are too large to enter the airways, their exposure to water precipitates the release of starch granules as a result of osmotic shock. The starch granules are small enough to enter the lower airways and trigger an asthmatic attack. If this theory is true, which of the following is a correct statement?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.8440980911254883
+    },
+    {
+      "question": "Hybrids between some related species of plants are sterile because the parent plants had different chromosome numbers. Occasionally the chromosome number of such a hybrid plant doubles spontaneously. Which of the following best describes the descendants of those plants with the double chromosome number?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.410353183746338
+    },
+    {
+      "question": "Phalloidin is a toxin made by the death cap mushroom. The toxin binds to actin subunits and disrupts actin function. Which of the following structures would be most directly affected by phalloidin?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.410844087600708
+    },
+    {
+      "question": "Hardy-Weinberg equilibrium generally assumes all of the following EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.4112300872802734
+    },
+    {
+      "question": "Which of the following statements about fungi is NOT true?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.4115822315216064
+    },
+    {
+      "question": "Which of the following is encoded by the src oncogene and catalyzes the specific addition of phosphate groups to cellular proteins?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.4119250774383545
+    },
+    {
+      "question": "Both C4 and CAM plants employ physiological and biochemical strategies to reduce photorespiration. Which of the following is an accurate comparison of the two strategies?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.412266969680786
+    },
+    {
+      "question": "Which of the following depicts the correct sequence of membranes of the chloroplast, beginning with the innermost membrane and ending with the outermost membrane?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.4126131534576416
+    },
+    {
+      "question": "Antibiotics that affect bacterial cells interfere with all of the following EXCEPT",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.413084030151367
+    },
+    {
+      "question": "The polytene chromosomes seen in Drosophila silvarentis with the aid of a light microscope are",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.4131948947906494
+    },
+    {
+      "question": "Which of the following agents will induce polyploidy in a dividing eukaryote?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.4132871627807617
+    },
+    {
+      "question": "Which of the following statements about mitochondria and chloroplasts is generally true?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.407297134399414
+    },
+    {
+      "question": "How do cyanobacteria differ from green unicellular algae?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.4077351093292236
+    },
+    {
+      "question": "Stabilization of the unique coiled structure of an alpha helix in a protein is primarily attributed to (A) hydrogen bonding between the peptide backbone atoms",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.4081761837005615
+    },
+    {
+      "question": "The target of digestion of a nucleosome dimer to nucleosome monomers by DNase is",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.4086053371429443
+    },
+    {
+      "question": "A prokaryote that is thermophilic and methanogenic and has isoprenylglycerol ethers in its membrane instead of phospholipids is most likely",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.4090051651000977
+    },
+    {
+      "question": "All of the following environmental conditions increase the rate of transpiration from plants EXCEPT",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.409407138824463
+    },
+    {
+      "question": "Which of the following statements about embryonic cleavage is NOT true?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.409749984741211
+    },
+    {
+      "question": "In eukaryotic photosynthetic cells, which of the following occurs when electrons flow cyclically through the electron transport chain associated with photosystem I?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.4098660945892334
+    },
+    {
+      "question": "Many marine birds drink seawater yet maintain their internal osmolarity at a constant level that is hypoosmotic to seawater. Which of the following physiological strategies best explains how the birds maintain their tissue osmolarity?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.409978151321411
+    },
+    {
+      "question": "A species of small rodent eats seeds from only one species of pine. In normal years, a pair of these rodents will have a litter of two or three. It is unusual for small rodents to have such small litter sizes. The rodents are most likely to exhibit which other characteristic?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.4101312160491943
+    },
+    {
+      "question": "Which of the following sources makes the greatest contribution to the dry mass of organic matter that comprises an oak tree?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.954594135284424
+    },
+    {
+      "question": "Which of the following must be true in order for evolution to have occurred?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.9556360244750977
+    },
+    {
+      "question": "From an evolutionary perspective, the optimality theory as applied to a given trait is best represented by the idea that",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.9559760093688965
+    },
+    {
+      "question": "In the presence of alcohol dehydrogenase, the rate of reduction of acetaldehyde to ethanol increases as the concentration of acetaldehyde is increased. Eventually, the rate of the reaction reaches a maximum, after which point further increases in the concentration of acetaldehyde have no effect. Which of the following is true at the maximal rate of reaction?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.9563090801239014
+    },
+    {
+      "question": "Which of the following best explains how mutations in DNA can result in the expression of a new phenotype?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.956749200820923
+    },
+    {
+      "question": "A competitive inhibitor of an enzyme exerts its effect by",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.957374095916748
+    },
+    {
+      "question": "The ability of the brain to detect differences in stimulus intensity is best explained by the fact that which of the following varies with the stimulus intensity?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.9575281143188477
+    },
+    {
+      "question": "Which of the following is the best explanation for why net primary productivity in terrestrial ecosystems tends to increase toward the tropics?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.9576241970062256
+    },
+    {
+      "question": "Proteins were shown to move about in a plane of the plasma membrane when mouse cellsurface proteins and human cell-surface proteins were observed to integrate along a fused mouse-human cell plasma membrane. Which of the following cell culture techniques was most likely employed in order to yield these results?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.957719087600708
+    },
+    {
+      "question": "Gene flow between populations results in",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.957811117172241
+    },
+    {
+      "question": "A subunit of DNA and protein consisting of 134-base-pair long stretches of DNA surrounding a protein octomer is called (a)",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.0846221446990967
+    },
+    {
+      "question": "Which of the following would be the most dependable environmental signal that a plant in a temperate ecosystem could use to initiate flowering at the correct time of the year?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0849931240081787
+    },
+    {
+      "question": "Mitochondria isolated and placed in a buffered solution with a low pH begin to manufacture ATP. Which of the following is the best explanation for the effect of low external pH?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.085426092147827
+    },
+    {
+      "question": "An organism belonging to the nekton is which one of the following?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.085782051086426
+    },
+    {
+      "question": "A behavioral response called a fixed action pattern shown by animals",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0861310958862305
+    },
+    {
+      "question": "Which of the following adaptations would limit pollination by bees and promote hummingbird pollination?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.0864739418029785
+    },
+    {
+      "question": "Double fertilization is a unique feature of flowering plants. In this process, one sperm unites with the egg to yield a zygote. The second sperm unites with the polar nuclei to initiate the formation of the",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.0869901180267334
+    },
+    {
+      "question": "Mutation of homeotic cluster genes often results in which of the following developmental defects in Drosophila?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.087743043899536
+    },
+    {
+      "question": "Root pressure created by a plant's roots causes water to enter the roots by",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.087857961654663
+    },
+    {
+      "question": "Cellular uptake of cholesterol occurs through internalization of low density lipoproteincholesterol complexes. Cholesterol uptake involves all of the following EXCEPT",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.087951183319092
+    },
+    {
+      "question": "Two xylem plant cell types that provide support and conduct water and minerals are the",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.6723859310150146
+    },
+    {
+      "question": "Which of the following statements about excretory organs is true?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.672757148742676
+    },
+    {
+      "question": "Mimicry is a strategy that has evolved through natural selection to increase the fitness of organisms to their environment. Which of the following represents a form of Batesian mimicry?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.6732349395751953
+    },
+    {
+      "question": "Keystone species are thought to have profound effects on the structure and composition of ecological communities because they",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.676302909851074
+    },
+    {
+      "question": "Which of the following is a reason that geneticists use mitochondrial DNA (mtDNA) to study the relatedness of animal populations?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.6764161586761475
+    },
+    {
+      "question": "A quote from a natural resources text states: \"Whenever the original ecosystem becomes restructured by man, it tends to become simplified, with a resultant disruption of the stabilizing influences of density-dependent regulatory factors.\" This implies that in a disturbed ecosystem",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.676521062850952
+    },
+    {
+      "question": "A female fruit fly bearing linked genes that produce the phenotype gray body and normal wings mates with a male fruit fly of phenotype black body and vestigial wings. The presence of gray-bodied, vestigialwinged flies among the progeny is best explained by",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.6766319274902344
+    },
+    {
+      "question": "Which of the following active pools of carbon is the largest on Earth and contributes the most to carbon cycling?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.6767220497131348
+    },
+    {
+      "question": "Charles Darwin's proposed conditions for natural selection encompass all of the following with regard to a given population EXCEPT",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.6768109798431396
+    },
+    {
+      "question": "Which of the following is a correct statement about the cohesion-tension theory for the ascent of water in the xylem?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.6768977642059326
+    },
+    {
+      "question": "In fungi, cell walls are reinforced by which of the following?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 1.13102388381958
+    },
+    {
+      "question": "In plants, proton pumps are involved in the process of loading sugars into the phloem for transport. Which of the following is true about this process?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 1.1315431594848633
+    },
+    {
+      "question": "Which of the following characteristics is predicted for an early-successional plant community?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 1.131950855255127
+    },
+    {
+      "question": "Which of the following is the symplastic pathway for the movement of sucrose from the site of photosynthesis in mesophyll cells into the phloem?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 1.1323888301849365
+    }
+  ]
+}

@@ -1,0 +1,3828 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq2_xss",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241127-173358"
+  },
+  "subject": "high_school_psychology",
+  "category": "social sciences",
+  "correct_rate": 34.862385321100916,
+  "evaluation_results": [
+    {
+      "question": "Nearsightedness results from",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.449882745742798
+    },
+    {
+      "question": "Delusions of grandeur are most characteristic of",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.45003867149353
+    },
+    {
+      "question": "Abraham Maslow proposed the idea that some motives are more imperative to survival than others. Which of the following approaches expresses this?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.450171709060669
+    },
+    {
+      "question": "In test construction and evaluation, validity refers to the degree to which a test",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.450304985046387
+    },
+    {
+      "question": "The precedent established in Larry P. v. Riles resulted in",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.450433015823364
+    },
+    {
+      "question": "The heritability for traits of a cloned population is",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.450565814971924
+    },
+    {
+      "question": "Which of the following statistics provides the most information about how spread out a distribution of scores is?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.450695753097534
+    },
+    {
+      "question": "According to the position statement Supervision in School Psychology published by the National Association of School Psychologists (NASP), which of the following is most accurate concerning school psychologists who will be supervising in a school district?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.450822830200195
+    },
+    {
+      "question": "Dan read a list of 30 vocabulary words only once. If he is typical and shows the serial position effect, we would expect that the words he remembers two days later are",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.451092958450317
+    },
+    {
+      "question": "Which developmental stage theory explained how experiences in infancy, childhood, adolscence, adulthood, and old age influence later personality characteristics?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.45124888420105
+    },
+    {
+      "question": "The AP Psychology examination given by the College Board in May exemplifies which of the following types of tests?",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.9655051231384277
+    },
+    {
+      "question": "Our ability to perceive depth depends primarily on what other perceptual abilities?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.966055154800415
+    },
+    {
+      "question": "A person who sustains major injuries that involve the destruction of the medulla oblongata will",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.9664061069488525
+    },
+    {
+      "question": "Which of the following terms applies to IQ tests?",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.96679425239563
+    },
+    {
+      "question": "Which classical conditioning term best describes the following scenario: Later in his classical conditioning experiments, Ivan Pavlov's dogs began to salivate whenever they heard any sound similar to a bell, such as a doorbell or someone accidentally clinking a water glass.",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.968297243118286
+    },
+    {
+      "question": "Sal meets Petunia for the first time. She is outgoing and funny. He walks away with the opinion that Petunia is a fun person, whereas in actuality Petunia is temporarily gleeful because she just won the lottery. Sal's opinion that Petunia is funny is best explained by",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.9686713218688965
+    },
+    {
+      "question": "All of the following are examples of punishment EXCEPT",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.9691221714019775
+    },
+    {
+      "question": "Which of the following must be done when universal screening data show that very few students are successfully meeting school competencies?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.9692909717559814
+    },
+    {
+      "question": "Substances that are toxic to humans often taste",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.9694321155548096
+    },
+    {
+      "question": "All public institutions subscribe to all of the following ethical guidelines EXCEPT",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.9695611000061035
+    },
+    {
+      "question": "Which of the following kinds of tests is most likely to be an achievement test?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.798794984817505
+    },
+    {
+      "question": "A fetus with the genotype XXY will most likely",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.7991912364959717
+    },
+    {
+      "question": "Susan is a first-grade student who is referred to the school psychologist because she will not remain seated at her desk. Her teacher reports that Susan is \"always getting up and walking around the room.\" What observation data is LEAST relevant to the referral concern?",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.799551010131836
+    },
+    {
+      "question": "In order to prove a psychological theory,",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.7998909950256348
+    },
+    {
+      "question": "Research indicates that which of the following factors most influence a person's sexual orientation?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.8005809783935547
+    },
+    {
+      "question": "Which of the following usually increases with age in healthy adults between the ages of 18 and 70?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.8009731769561768
+    },
+    {
+      "question": "The left cerebral hemisphere is specialized for which of the following functions?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.8011348247528076
+    },
+    {
+      "question": "Runners in a park were found to pick up their pace when another runner came into view; this finding illustrates the phenomenon of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.801267147064209
+    },
+    {
+      "question": "A researcher tests the problem solving skills of twenty 10-year-old, twenty 20-year-old, and twenty 30-year-old participants for a study on age and problem solving. What research method is this researcher using?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.801396131515503
+    },
+    {
+      "question": "Bessie could barely detect sweetness in a sip of water from a pitcher in which one quarter of a teaspoon of water was mixed into a half gallon of water. For taste, this is Bessie's",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.8015241622924805
+    },
+    {
+      "question": "During assigned seat-work time, Mary, a firstgrade student, sometimes leaves her seat and attempts to play with a block collection. When she leaves her seat, she fails to complete her seat work. Which of the following behavioral intervention strategies will most effectively increase the long-term likelihood that Mary will complete her seat work?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.098167181015015
+    },
+    {
+      "question": "Which of the following are most directly designed to help determine whether the findings of a study reflect a truly replicable phenomenon rather than the outcomes of chance processes?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.098545074462891
+    },
+    {
+      "question": "An unjustifiable and usually negative attitude toward a group and its members is called",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.098886013031006
+    },
+    {
+      "question": "Calvin's fear of dogs was so great that he could not even visit his friends who had dogs or who lived in a neighborhood that had a lot of dogs. Once he sought help, he worked to overcome this fear first by witnessing his counselor playing with a dog and then, after a while, by actually touching and petting a dog himself. The method used to help Calvin overcome his fears is known as",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.099316120147705
+    },
+    {
+      "question": "Mr. Gordon suffered damage to the back of his right frontal lobe. As a result, he is unable to",
+      "model_answer": "A)",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.099769830703735
+    },
+    {
+      "question": "During the manic phase of a bipolar disorder, individuals are most likely to experience",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.100129842758179
+    },
+    {
+      "question": "According to Kohlberg, at the third (postconventional) level of moral development, individuals",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.100563049316406
+    },
+    {
+      "question": "To which perspective are the roles of knowledge, information processing, and their interactions most central?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 5.10099196434021
+    },
+    {
+      "question": "Which of the following is primarily a chemical sense?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.101580858230591
+    },
+    {
+      "question": "A 7-year-old student arrived in the United States one year ago from a non-Englishspeaking country, where she achieved high scores in reading. Over the year, she has become fluent in social English. After a few months in a monolingual English second grade, her teacher refers her for evaluation because she has great difficulty with the basal reader used in the class. Two English proficiency tests administered to the student show that she performs above the mean for monolingual English grade peers in speaking and listening but well below the mean in reading and writing. She also performs well above the mean for grade peers on reading tests in her native language. Based on this information alone, which of the following is the most accurate interpretation?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.101924896240234
+    },
+    {
+      "question": "The limbic system plays an important role in",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.173137187957764
+    },
+    {
+      "question": "To demonstrate causation, a researcher must",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.173601150512695
+    },
+    {
+      "question": "A special diet can prevent the expression of the trait for",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.1739661693573
+    },
+    {
+      "question": "Which of the following is an example of an implicit memory?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.174389123916626
+    },
+    {
+      "question": "After collecting and analyzing the responses of 2,000 randomly selected study participants, Adeel finds that college juniors who work at paying jobs 15 hours a week get higher grades than juniors who don't have paying jobs or who work full time. Which of the following research methods did Adeel use?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.174758195877075
+    },
+    {
+      "question": "Nat's therapist tells him to relax, close his eyes, and breathe slowly whenever he begins to experience fear associated with being in an enclosed space. The therapist is using a technique that is central to",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.175104141235352
+    },
+    {
+      "question": "Periods of special sensitivity to specific types of learning that shape the capacity for future development are known as",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.175445079803467
+    },
+    {
+      "question": "Areas of the brain that are damaged are referred to as having",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.176001071929932
+    },
+    {
+      "question": "Which of the following best summarizes a view of classical behaviorism?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.176643133163452
+    },
+    {
+      "question": "A sixth-grade teacher is concerned because Kerry, a student in class, has been hostile to classmates. Which of the following teacher strategies is most likely to encourage Kerry to be more cooperative with classmates?",
+      "model_answer": "A)",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.176985263824463
+    },
+    {
+      "question": "Daniel is a toddler who lags behind his peers in terms of speech development. He avoids eye contact with people and resists alterations to routine. Daniel is most likely to be diagnosed with",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.3494086265563965
+    },
+    {
+      "question": "Garcia and Koelling's research regarding learned aversions established that which of the following UCS and CS pairs are the most powerful and learned most quickly?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 5.349828720092773
+    },
+    {
+      "question": "Which structure is found in the inner ear?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.350328683853149
+    },
+    {
+      "question": "Psychogenic amnesia is an indication of which kind of psychological disorder?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.3507115840911865
+    },
+    {
+      "question": "Although a man watched in horror as his wife and children were killed by a speeding truck as they crossed the street, he has no memory of the event and gets upset when people tell him he must remember. The man is most likely suffering from",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 5.351240873336792
+    },
+    {
+      "question": "Michelle watches David Letterman on television, but doesn't recognize him when she walks past him in Manhattan. Which effect on perception does this best illustrate?",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.351606607437134
+    },
+    {
+      "question": "In a meeting with the school psychologist, Ms. Harcar, a new sixth-grade teacher, expresses some concerns about a student, Anthony. The school psychologist has worked with the boy and knows him well. Anthony has a mild learning disability and receives academic support. He is doing well on a daily basis but has difficulty performing on tests. The school psychologist discusses ways in which Ms. Harcar could incorporate study-skills training into classroom activities. With regard to study-skills training, the school psychologist should stress which of the following principles while advising Ms. Harcar?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.35218358039856
+    },
+    {
+      "question": "In class, John's teacher tells him that she will give him the coin and bill for each picture he can correctly identify on the face of the penny, nickel, dime, quarter, half-dollar, dollar bill, and five-dollar bill. John cannot identify any of them although he has been handling money for 17 years. His inability to remember the pictures most likely results from",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.35237193107605
+    },
+    {
+      "question": "The somatic nervous system is part of the",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.352505683898926
+    },
+    {
+      "question": "Professor Ek is interested in studying online bullying behaviors of middle school students. Which of the following research method choices (and the rationale for the choice) is the most appropriate?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.352641582489014
+    },
+    {
+      "question": "In the rock opera Tommy, Tommy becomes deaf and blind after witnessing a terrible murder, although there is nothing organically wrong with his ears or eyes. Tommy is suffering from",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.264338254928589
+    },
+    {
+      "question": "The \"c\" in the word cat is best described as a",
+      "model_answer": "B.",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.264706134796143
+    },
+    {
+      "question": "Xavier is beginning his first year of college. He is eager to find a few other freshmen to \"hang out\" with. Psychologists would say that Xavier is motivated by a(n)",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.265087366104126
+    },
+    {
+      "question": "Research indicates that a test participant exposed to a list of positive words and then asked to recall the words from that list a week later will be more likely to remember those words if he",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.268279075622559
+    },
+    {
+      "question": "All of the following are characteristic of physiological arousal EXCEPT",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.268739223480225
+    },
+    {
+      "question": "What color are the shortest electromagnetic waves humans can see?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.268899202346802
+    },
+    {
+      "question": "One cause of the deinstitutionalization of many psychiatric patients in the mid-1900s was",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.269034147262573
+    },
+    {
+      "question": "Which of the following would play a role in quickly alerting you to a gas leak in your car?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.269169330596924
+    },
+    {
+      "question": "Garcia and Koelling's research regarding learned aversions established that which of the following UCS and CS pairs are the most powerful and learned most quickly?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.269305229187012
+    },
+    {
+      "question": "A school psychologist is providing feedback to a student's parents regarding the student's performance on a measure of academic achievement. To explain the concept of grade equivalent, the school psychologist should explain that it is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.269439220428467
+    },
+    {
+      "question": "Which of the following types of data involves counting the number of occurrences of a behavior observed during a specified time period?",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.908430814743042
+    },
+    {
+      "question": "Which of the following structures is located at the most central and protected part of the brain?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.908784866333008
+    },
+    {
+      "question": "Abnormal behavior can be defined as maladaptive behavior according to",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.9089601039886475
+    },
+    {
+      "question": "Which personality theory is criticized for having an unrealistically optimistic view of human nature?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.9091131687164307
+    },
+    {
+      "question": "\"Get cookie,\" best exemplifies",
+      "model_answer": "B.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.9092628955841064
+    },
+    {
+      "question": "What area of psychology focuses on the study of subjective well-being, optimism, and happiness?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.9094090461730957
+    },
+    {
+      "question": "A disorder characterized by delusions of persecution, hallucinations, and disordered thinking is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.9095571041107178
+    },
+    {
+      "question": "Which of the following responses was most likely acquired through classical conditioning?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.909708023071289
+    },
+    {
+      "question": "Which of the following disorders is most likely related to the amount of light to which a susceptible person is exposed?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.9098551273345947
+    },
+    {
+      "question": "Which of the following clinicians most likely follows Carl Rogers's approach to psychotherapy?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.9099972248077393
+    },
+    {
+      "question": "Children who suffer brain damage may be able to regain their physical and mental abilities more quickly than older brain damage patients due to which of the following properties of the brain?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.3837730884552
+    },
+    {
+      "question": "Mr. Thomas, a school psychologist, works with Ms. Riddle, a special education teacher, to meet the needs of Mark, a student with autism spectrum disorder. Mr. Thomas does not work with Mark directly; Ms. Riddle acts as his mediator. This collaboration is an example of which consultation model?",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.384199142456055
+    },
+    {
+      "question": "Which of the following approaches emphasizes the importance of people's feelings and views human nature as naturally positive and growth seeking?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.384572267532349
+    },
+    {
+      "question": "A pigeon trained to peck at a green light pecks at a yellow light also. This illustrates",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.384958982467651
+    },
+    {
+      "question": "The medical model of psychologically disordered behavior is most likely to be criticized for neglecting the importance of",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.385309219360352
+    },
+    {
+      "question": "Javier wants to study the effects on achievement of taking a course in chemistry in the afternoon, rather than in the morning. A teacher has chemistry classes with the same number of students at 8:30 A.M. and 1:00 P.M., and volunteers to participate with her classes. A major problem in this study would be",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.3856520652771
+    },
+    {
+      "question": "Learned helplessness is most likely to be directly related to",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.386223077774048
+    },
+    {
+      "question": "Which of the following is the strongest piece of evidence for the idea that animals are capable of developing and using a sophisticated language?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.386418104171753
+    },
+    {
+      "question": "The scores of Brian's team on the quiz were: 8, 6, 9, 7, 10, 9, 5, 4, 9. The median of the team's scores is",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.386559963226318
+    },
+    {
+      "question": "Alpha waves are most closely associated with",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.386697053909302
+    },
+    {
+      "question": "Which of the following scans can image brain function?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.7689809799194336
+    },
+    {
+      "question": "Memory research indicates that memories may be physically stored in the brain through strengthened connections between brain neurons. What is this process called?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.7693488597869873
+    },
+    {
+      "question": "Human senses can be divided into which two major categories based on what the senses gather from the outside world?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.769695997238159
+    },
+    {
+      "question": "Within a multimethod model of assessment, child interviews are most helpful for which purpose?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.770035982131958
+    },
+    {
+      "question": "Which of the following samples would be considered most representative of male college students?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.770371913909912
+    },
+    {
+      "question": "A person who experiences flashbacks and nightmares after being involved in a serious car accident is likely to be diagnosed with which psychological disorder?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.7707059383392334
+    },
+    {
+      "question": "Hunger and eating are primarily regulated by the",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.771135091781616
+    },
+    {
+      "question": "The most widely used self-report inventory for personality assessment is the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.771458864212036
+    },
+    {
+      "question": "In a crisis, the adrenal glands of the body secrete \"emergency\" hormones, while the body prepares for fight-or-flight, directed by",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.771615982055664
+    },
+    {
+      "question": "During periods of darkness, the pineal gland in the middle of the brain produces which of the following hormones that is essential to sleep regulation?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.7717478275299072
+    },
+    {
+      "question": "According to Selye's General Adaptation Syndrome (GAS) theory, of the following stages, we are most susceptible to disease during",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6101880073547363
+    },
+    {
+      "question": "Which of the following is a hallucination?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.610565185546875
+    },
+    {
+      "question": "Jupiter pilots his newly created perfectionism scale on a high school psychology class. He returns one month later to administer the same test to the same students, and then he correlates the two sets of results. What is Jupiter probably doing?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.611006021499634
+    },
+    {
+      "question": "Stranded in a deserted area after a boating accident, Harry was able to survive by eating leaves and insects, and drinking water he boiled in a fire he made. According to Gardner's Theory of Multiple Intelligences, Harry displayed a high level of which of the following intelligences?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.6114702224731445
+    },
+    {
+      "question": "Someone who is unable to encode new memories is said to suffer from",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.61352801322937
+    },
+    {
+      "question": "According to cognitive theorist Jean Piaget, children in which of the following stages of cognitive development are egocentric, or unable to understand another person's perspective?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.6137030124664307
+    },
+    {
+      "question": "Nell decides not to throw her stuffed animal in the toilet after she witnesses her brother Matthew being punished for putting his stuffed animal in the toilet. Nell's decision exemplifies",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6138482093811035
+    },
+    {
+      "question": "B. F. Skinner was well known for his work involving the",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.613982915878296
+    },
+    {
+      "question": "Answering multiple-choice questions is often easier than answering fill-in or completion questions, because multiple choice questions",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.6141180992126465
+    },
+    {
+      "question": "Which of the following psychological disorders is characterized by an abnormally elevated or expansive mood?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.614253044128418
+    },
+    {
+      "question": "Quinn awoke from a dream, shaking and covered with sweat. When his wife asked him what had happened, he said he had dreamed he was falling to his death. Quinn's experience is often categorized as a",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.280767917633057
+    },
+    {
+      "question": "The case study of Phineas Gage's brain injury was significant for which of the following reasons?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.28115701675415
+    },
+    {
+      "question": "What is the mode of the following set of scores? 70, 70, 80, 80, 60, 60, 50, 90, 90, 90",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.281497955322266
+    },
+    {
+      "question": "The ability to perceive your front door as a rectangle even when it is open, displaying a different retinal image is known as",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.281890869140625
+    },
+    {
+      "question": "It has been suggested that learned helplessness may be related to",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.282603979110718
+    },
+    {
+      "question": "A low level of glucose in Sam's bloodstream is most likely to make him want to",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.2827959060668945
+    },
+    {
+      "question": "Tonya runs into an old schoolmate on the street. During their brief conversation, Tonya is unable to recall the schoolmate's name. Days later, she remembers the name out of the blue. To remember the name \"out of the blue\" is an example of",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.282948970794678
+    },
+    {
+      "question": "In a number of experiments, Elizabeth Loftus has shown that the wording of a question can affect participants' recall of an incident. These studies best illustrate",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.283102989196777
+    },
+    {
+      "question": "The scientific investigation of mental processes and behavior is called",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.283252954483032
+    },
+    {
+      "question": "Noam Chomsky and B. F. Skinner disagreed about how children acquire language. Which of the following concepts is most relevant to the differences between their theories?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.283392906188965
+    },
+    {
+      "question": "Which type of assessment attempts to identify the most pressing behavioral problem, and possible ways to alleviate it, by investigating the relationship between aspects of an individual's environment and behavior?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.085758924484253
+    },
+    {
+      "question": "Extinction occurs when the conditioned stimulus",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.086284160614014
+    },
+    {
+      "question": "How would Piaget describe the process of learning something new using terminology from his cognitive development theory?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.0866570472717285
+    },
+    {
+      "question": "Which of the following best states why the study of twins is significant to the field of behavioral genetics?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.0870091915130615
+    },
+    {
+      "question": "Which of the following questions best frames the nature-nurture controversy?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.087405204772949
+    },
+    {
+      "question": "According to social learning theory, gender identity results primarily from",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.088259220123291
+    },
+    {
+      "question": "In the nature versus nurture debate, nature is most closely associated with",
+      "model_answer": "D.",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.088421106338501
+    },
+    {
+      "question": "Tests that have been pretested with a sample of the population for whom the test is intended and have a uniform set of instructions and administration procedures are",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 5.088550090789795
+    },
+    {
+      "question": "To save the expense of purchasing a new test form, a chief school administrator asks a certified school psychologist to administer a six-year-old form of an achievement test that agreed with the curriculum of the school district at that time. Considering the situation and the Principles for Professional Ethics of the National Association of School Psychologists' (NASP) the school psychologist should",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 5.088687181472778
+    },
+    {
+      "question": "If arrested for committing a crime, who of the following would be most likely to be declared legally insane?",
+      "model_answer": "A)",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.088818311691284
+    },
+    {
+      "question": "What is the first step in any example of classical conditioning?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.17267107963562
+    },
+    {
+      "question": "Which of the following accurately states the order of the transmission of visual information?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.173036098480225
+    },
+    {
+      "question": "As a result of an accident, Abdul lost sight in his right eye. To judge the distance of vehicles when he is driving, Abdul is able to rely on cues of",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.1734888553619385
+    },
+    {
+      "question": "Certain cross-cultural studies have suggested that six facial expressions are recognized by people of virtually every culture. Which of the following correctly lists these expressions?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.173932075500488
+    },
+    {
+      "question": "The brainstem is comprised of the",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.174335956573486
+    },
+    {
+      "question": "An artist doing a pencil drawing could use which of the following techniques to add depth to her or his drawing?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.175029993057251
+    },
+    {
+      "question": "A musician's ability to make a distinction between two very similar pitches depends on which of the following concepts?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.175201177597046
+    },
+    {
+      "question": "When Antoinette comes home to her apartment, people suddenly jump out towards her. Her heart begins to race and she shrieks. Once she recognizes that it is her friends throwing a surprise party, rather than ninjas, her heart continues to race, but she experiences happiness. Which theory of emotions best explains this fact?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.17533802986145
+    },
+    {
+      "question": "Studying a few subjects in great depth to investigate a rare condition is known as",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.175472974777222
+    },
+    {
+      "question": "Which theory of emotion are cognitive psychologists most likely to support?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.1756110191345215
+    },
+    {
+      "question": "Narcotics work because they are chemically very similar to",
+      "model_answer": "B.",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.6254682540893555
+    },
+    {
+      "question": "Which of the following contributes most directly to people's exaggerated perceptions of the likelihood of air travel disasters, nuclear power accidents, and terrorist violence?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6257660388946533
+    },
+    {
+      "question": "Cognitivists claim that classical conditioning results from",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6259372234344482
+    },
+    {
+      "question": "A doctor suspects that her patient's language processing area is in the right hemisphere. This would most likely be corroborated by the use of",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.626070976257324
+    },
+    {
+      "question": "Mechanical energy is transduced to electrochemical energy by",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.626204252243042
+    },
+    {
+      "question": "David collected data on 15 research participants. Their scores were: 42, 38, 14, 13, 12, 12, 11, 11, 11, 10, 10, 10, 9, 9, 9. Which of the following statistics best reflects the central tendency of this data set?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6263349056243896
+    },
+    {
+      "question": "The smallest units of meaning in a language are",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.626465082168579
+    },
+    {
+      "question": "After a neuron has fired,",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.626591920852661
+    },
+    {
+      "question": "The rules that govern the placement of words and phrases in a sentence are called",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.626723051071167
+    },
+    {
+      "question": "Which schedule of reinforcement is followed by Soledad, who answers every e-mail message her friend sends?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.626847982406616
+    },
+    {
+      "question": "Learned helplessness is an example of the power of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.839993953704834
+    },
+    {
+      "question": "After Suzy decided to go to the prom with Dylan, Max was unconsciously furious. Max then channeled all his energies into his artwork. Which defense mechanism is Max using?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.840364694595337
+    },
+    {
+      "question": "Kohler's studies with apes are seen as demonstrating",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.840711832046509
+    },
+    {
+      "question": "An artist doing a pencil drawing could use which of the following techniques to add depth to her or his drawing?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.841190814971924
+    },
+    {
+      "question": "The role of the outer ear is to",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.8415687084198
+    },
+    {
+      "question": "What would Piaget test in order to determine whether a child is in the pre-operational or concrete operational stage of cognitive development?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.8417418003082275
+    },
+    {
+      "question": "While driving to school, Elise hears about a concert ticket giveaway on the radio. She has to be the seventh caller to win. While pulling over so that she can call in, she repeats the number to herself several times. Elise was using which of the following to remember the phone number?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.8418829441070557
+    },
+    {
+      "question": "Which of the following brain structures is most centrally involved in hunger motivation?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.8420209884643555
+    },
+    {
+      "question": "You are given four lists of words to learn: 1, 2, 3, and 4. You must learn list 1, then list 2, etc. Which list(s) would cause proactive interference for remembering list 2?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.8421549797058105
+    },
+    {
+      "question": "The Whorfian hypothesis of linguistic relativity helps explain why",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.84228777885437
+    },
+    {
+      "question": "The semicircular canals of the inner ear are important for helping a person to maintain",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.417060136795044
+    },
+    {
+      "question": "Sherif's Robbers Cave study indicated that which of the following principles best helps reduce tensions between groups?",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.417640924453735
+    },
+    {
+      "question": "Grounding a child for two weeks after the child has misbehaved is an example of",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.418199062347412
+    },
+    {
+      "question": "After watching cartoons in which characters hit, punch, and kick other characters, nursery school students engage in more aggressive behavior than after watching Barney. This observation best supports",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.418371915817261
+    },
+    {
+      "question": "During cooperative learning, all of the students in Group A members initially were opposed to the death penalty, whereas two of the students in Group B members were opposed to the death penalty and two were in favor of the death penalty. According to research, after an intense discussion within each group about capital punishment, we would expect",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.41851282119751
+    },
+    {
+      "question": "Withdrawal symptoms are most directly caused by which of the following processes?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.418647050857544
+    },
+    {
+      "question": "Today Susan took a pill for her allergy that raised her blood pressure, caused her heart to beat faster, and raised her body temperature. Now caught in traffic, she feels angry. Yesterday, when she took the pill, she was with her husband. When her blood pressure rose, her heart speeded up, she got hotter, and she felt amorous. This description exemplifies",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.418776988983154
+    },
+    {
+      "question": "Children develop internal representational systems that allow them verbally to describe people, events, and feelings during which of Piaget's stages of cognitive development?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.418907165527344
+    },
+    {
+      "question": "Chantal says that her mother is domineering and overbearing. All of Chantal's friends agree that she is the one that has these characteristics, not her mother. Freud would suggest that Chantal's behavior exemplifies which of the following defense mechanisms?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.419036865234375
+    },
+    {
+      "question": "Which of the following terms describes the behavioral component of negative attitudes toward particular groups?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.419165849685669
+    },
+    {
+      "question": "A neutral stimulus that signals an unconditioned stimulus begins to produce a response that anticipates and prepares for the unconditioned stimulus during",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.6754019260406494
+    },
+    {
+      "question": "Which of the following is the term used to describe a number of psychotic disorders that involve disturbances in nearly every dimension of human psychology including thought, perception, behavior, and communication?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.675774097442627
+    },
+    {
+      "question": "A severely overweight rat would most likely result from lesioning of the",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.676121950149536
+    },
+    {
+      "question": "Coach Perry is training Lana to be the kindergarten soccer team's goalie. Coach Perry starts by rolling the ball to Lana slowly so she can stop it; he gradually begins to roll the ball faster and to different parts of the goal, all the while praising her successful attempts. The technique Coach Perry is using is called",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.67657208442688
+    },
+    {
+      "question": "Turning up the volume on a music player changes which aspect of sound?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.676732063293457
+    },
+    {
+      "question": "The gland sometimes referred to as the \"master gland,\" which regulates much of the action of the other endocrine glands is called the",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.676866054534912
+    },
+    {
+      "question": "Which psychological perspective was most popular at the turn of the twentieth century in Western Europe?",
+      "model_answer": "A)",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6770029067993164
+    },
+    {
+      "question": "The most common form of Down syndrome results during sex cell formation and fertilization from",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.6771390438079834
+    },
+    {
+      "question": "Odette is nearing her 70th birthday. Over the last year, she has suffered a loss of appetite and began to experience difficulty sleeping. She has lost interest in her favorite pastimes, gardening and bridge. Odette is most likely to be diagnosed as having",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.677272081375122
+    },
+    {
+      "question": "What is the principal tool used in all forms of psychotherapy?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.677401065826416
+    },
+    {
+      "question": "In Pavlov's conditioning of dogs, the point at which the dogs salivated at the sound of the tone without the food being present is referred to as",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.203972101211548
+    },
+    {
+      "question": "According to humanistic psychologists, psychological disorders are most likely caused by",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.204369068145752
+    },
+    {
+      "question": "According to the Gestalt organizing principles of perception, when you look at, \"i n car n a t e,\" you tend to notice the word car rather than in, nate, at, or ate, because of",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.2048139572143555
+    },
+    {
+      "question": "Which social psychological principle best explains prejudice?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.205246925354004
+    },
+    {
+      "question": "One month before finals, Conrad makes a study schedule and begins to review his notes. Two weeks before finals, Conrad is studying for hours each day to prepare. Right after finals at the start of summer vacation, Conrad comes down with the flu. Which of the following theories best explains this chain of events?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.205579996109009
+    },
+    {
+      "question": "Endorphins are chemicals that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.205756187438965
+    },
+    {
+      "question": "A therapist used the Rorschach inkblot test to help him analyze his patient's problems. He was most likely a",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.206076145172119
+    },
+    {
+      "question": "People who have previously not gotten along are often able to put aside their differences in the face of a mutual crisis. Their need to work together is often referred to as a(n)",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.2062342166900635
+    },
+    {
+      "question": "Abraham Maslow's hierarachy of needs theorizes that each person is motivated by what?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.206384181976318
+    },
+    {
+      "question": "Sanja hears a sound that she recognizes as the front door being shut. In order for her to detect the sound and process it so that she knows what it is, Sanja's ear funnels the sound waves to the inner ear in order to stimulate the cilia of the inner ear. This is a critical step in the process of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.206526279449463
+    },
+    {
+      "question": "Which of the following is a secondary reinforcer?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.4903950691223145
+    },
+    {
+      "question": "Which of the following kinds of personality theorists is the most likely to use a projective test?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.490554094314575
+    },
+    {
+      "question": "Antonia has a cat. The first time she sees a rabbit, she calls it a cat. Her mistake is due to the process of",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.490839958190918
+    },
+    {
+      "question": "Which sentence most accurately describes how neurons communicate?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.4909958839416504
+    },
+    {
+      "question": "Aaron Beck's negative triad of beliefs, which explains the cycle of depression by examining negative thoughts about self and the world, exemplifies what type of therapy?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.4911301136016846
+    },
+    {
+      "question": "According to Sigmund Freud, what is the dominant factor determining our personality traits?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.4912638664245605
+    },
+    {
+      "question": "A recent comparison of the intelligence scores of Asian Americans and African Americans on the Stanford-Binet showed that",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.491391897201538
+    },
+    {
+      "question": "Emotional, cognitive, and behavioral tendencies that constitute underlying personality dimensions on which individuals vary are referred to as",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.4915261268615723
+    },
+    {
+      "question": "Someone with brain damage who has difficulty making the muscle movements needed to produce accurate speech might have damage to which area of the brain?",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.4916579723358154
+    },
+    {
+      "question": "Lynda is a confident, capable woman who takes responsibility for her own actions. Lynda has a(n)",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.4917850494384766
+    },
+    {
+      "question": "In a sleep study, a researcher observes that the participant's eyes are beginning to dart as if he were watching a sporting event. The researcher notes that the participant has entered",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.424277067184448
+    },
+    {
+      "question": "Which of the following perspectives is most concerned with self-esteem and actualizing one's potential?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.424443006515503
+    },
+    {
+      "question": "What kind of symptom is common among all the somatoform disorders?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.424580097198486
+    },
+    {
+      "question": "Which of the following was an important technique used by Abraham Maslow and the humanistic psychologists during therapy?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.424714088439941
+    },
+    {
+      "question": "The myelin sheath that covers the axons of most neurons serves to do which of the following?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.424846887588501
+    },
+    {
+      "question": "A study designed to investigate the friendship patterns of abused children was conducted by filming the interactions of the children and later having three raters view the footage and rate each child's pattern of behavior on a conflictual-behavior scale with values ranging from \"constant conflict\" to \"minimal conflict.\" Which of the following kinds of reliability is most critical to this study, given the methodology used to measure the variables?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.42497992515564
+    },
+    {
+      "question": "Students diagnosed with attention deficit hyperactivity disorder (ADHD) are four to nine times more likely to be",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.425112009048462
+    },
+    {
+      "question": "According to Erikson, a young adult's developmental crisis centers around",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.425252199172974
+    },
+    {
+      "question": "Psychoactive substances are drugs that alter consciousness by",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.4253928661346436
+    },
+    {
+      "question": "Two \"cognitive shortcuts\" that can lead to errors in information processing are",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.425524950027466
+    },
+    {
+      "question": "Which of the following best states a conclusion of Stanley Milgram's study of obedience?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.802130937576294
+    },
+    {
+      "question": "Which of the following is an example of a result of operant conditioning?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.802618026733398
+    },
+    {
+      "question": "Which of the following is a strategy that the National Association of School Psychologists (NASP) recommends as a best practice for improving school safety?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.804433107376099
+    },
+    {
+      "question": "According to Elisabeth Kubler-Ross, the first reaction of a person faced with a terminal illness is",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.80493688583374
+    },
+    {
+      "question": "Which part of the brain was thought to play the most important role in the Cannon-Bard theory of emotion?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.805135011672974
+    },
+    {
+      "question": "Jacob cries uncontrollably every time his mother takes him down the candy isle in the supermarket and refuses to let him buy anything. Eventually, Jacob's mother gives in and lets him choose one candy item to buy if he stops crying. Jacob's crying behavior is __________________ by his mother.",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.805280923843384
+    },
+    {
+      "question": "Research reveals that the most critical factor in Type A behavior associated with heart disease is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.805423021316528
+    },
+    {
+      "question": "Which of the following represents the correct order of auditory transmission from the time the sound is first heard to when it is processed in the brain?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.805557012557983
+    },
+    {
+      "question": "Research has shown that people who read a job description written only with male pronouns (e.g., he, his) are more likely to think of an employee as male than people who read a description that uses gender-neutral language (e.g., he or she). This finding is most closely linked to",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.805693864822388
+    },
+    {
+      "question": "In daylight, objects that reflect all wavelengths of light appear",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.805829048156738
+    },
+    {
+      "question": "Which of the following neurotransmitters is most explicitly associated with the experience of pleasure?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.0941009521484375
+    },
+    {
+      "question": "The rooting reflex is characterized by neonates",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.09823203086853
+    },
+    {
+      "question": "Which classical conditioning term best describes the following scenario: Later in his classical conditioning experiments, Ivan Pavlov's dogs began to salivate whenever they heard any sound similar to a bell, such as a doorbell or someone accidentally clinking a water glass.",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.098669052124023
+    },
+    {
+      "question": "In a code-based phonic approach to early reading instruction, first-grade students are taught the sounds of the letters b, a, s, and g. According to the theory underlying this approach, which of the following will be most effective as the first sentence for the students to read?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.099023818969727
+    },
+    {
+      "question": "According to Erikson, those who look back at the end of their lives with regrets and the feeling that their lives have lacked fulfillment evidence unsuccessful resolution of the challenge of",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.099486827850342
+    },
+    {
+      "question": "When first born, humans' dominant sense is",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.09995698928833
+    },
+    {
+      "question": "Light enters the eye through an opening in the",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.100142955780029
+    },
+    {
+      "question": "Information from the optic nerve is initially processed in what part of the brain?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.100689888000488
+    },
+    {
+      "question": "According to activation-synthesis theory,",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.100872755050659
+    },
+    {
+      "question": "Which of the following best summarizes why people tend to stay in a slightly elevated state of arousal after a crisis has occurred?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.101317882537842
+    },
+    {
+      "question": "According to Kohlberg, in order to reason at the postconventional level, people must",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.5776660442352295
+    },
+    {
+      "question": "Which of the following is true regarding lifelong learning and ongoing professional development of school psychologists?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.578039884567261
+    },
+    {
+      "question": "The adaptive response of a six-month-old child who shows distress when an attachment figure leaves is known as",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.578500032424927
+    },
+    {
+      "question": "Shafi cited Tony's and David's 100% math test scores in providing evidence that boys do better in math than girls. His failure to recognize that seven girls in the class earned 100% while only two boys earned that score best exemplifies",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.579936981201172
+    },
+    {
+      "question": "Disorganized language like clang associations or neologisms is associated with",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.580121994018555
+    },
+    {
+      "question": "According to Dr. William Sears, noted authority on infants and child-rearing, infant brain development is, in part, influenced by longer and more frequent periods of active sleeping and dreaming or",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.580257892608643
+    },
+    {
+      "question": "Which of the following would be most useful in understanding a neighbor's interpretation of a certain family's recent crisis as being due to extreme financial distress?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.580389738082886
+    },
+    {
+      "question": "Each of the following is a step taken by a therapist who is employing systematic desensitization EXCEPT",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.580520868301392
+    },
+    {
+      "question": "Which one of the following best states Ivan Pavlov's accidental discovery?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.580650806427002
+    },
+    {
+      "question": "Individuals in which of the following occupations will be potentially LEAST likely to be susceptible to health problems as a result of disrupted circadian rhythms?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.580780982971191
+    },
+    {
+      "question": "Objects that absorb light appear",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.5892579555511475
+    },
+    {
+      "question": "Of the following, most children will develop which skill first?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.5897088050842285
+    },
+    {
+      "question": "The incidence of schizophrenia in the population is closest to",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.590171813964844
+    },
+    {
+      "question": "In general, the best presentation time between the conditioned stimulus and unconditioned stimulus to produce classical conditioning is",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.590538024902344
+    },
+    {
+      "question": "Ryan suffers from nearly constant, low-level arousal of his autonomic nervous system. Ryan is most likely to be classified as suffering from",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.590885877609253
+    },
+    {
+      "question": "The pastry chef ordinarily makes 15 apple turnovers in 15 minutes, but when culinary arts students are watching him, he makes 20 apple turnovers in 15 minutes. This exemplifies",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.59122896194458
+    },
+    {
+      "question": "Seeing someone in line at the grocery store and remembering her or his name is an example of which kind of retrieval?",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.591572999954224
+    },
+    {
+      "question": "Lizette and her family watch the sunset over the ocean. While walking home in the increasing darkness, Lizette notices that she can no longer distinguish the colors of objects. Which of the following best explains why Lizette cannot see color in dim light?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.591943979263306
+    },
+    {
+      "question": "After sending a decal to display on a window and greeting cards with its logo, a charity sent the same people envelopes requesting contributions. Many people send contributions. The charity is using a technique known as",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.592304944992065
+    },
+    {
+      "question": "A piano teacher is helping a student learn a new piece. At first, she praises the student for playing correct notes. After the student begins to show proficiency with the notes, the teacher only praises the student when he adds the proper dynamics and interpretation to the segments he plays. The teacher's method of instruction is an example of which of the following types of training techniques?",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.592700958251953
+    },
+    {
+      "question": "According to the Gestalt theory of perception, being able to identify a three-sided object as being a triangle, even though it is partially blocked from view is an example of",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.7517828941345215
+    },
+    {
+      "question": "Which of the following would a researcher need to use to determine if the difference between the mean scores of experimental and control groups was significant?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.7521848678588867
+    },
+    {
+      "question": "What makes the psychoanalytic perspective different from the other psychological perspectives?",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.752714157104492
+    },
+    {
+      "question": "The driver of a car that has pulled up next to you at a red light turns up the volume on her radio. The increase in perceived sound that you experience is primarily due to",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.7532880306243896
+    },
+    {
+      "question": "A comprehensive final examination in AP Psychology that consists of questions dealing solely with motivation and emotion, social psychology, and the biological basis of behavior units lacks",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.753542900085449
+    },
+    {
+      "question": "Menarche occurs at about age",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.7536849975585938
+    },
+    {
+      "question": "Milgram's obedience study was criticized based on what ethical grounds?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.7538199424743652
+    },
+    {
+      "question": "Which coefficient indicates the strongest correlation?",
+      "model_answer": "B.",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.7539539337158203
+    },
+    {
+      "question": "Which part of the brain is the newest in an evolutionary sense?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.7540910243988037
+    },
+    {
+      "question": "Why might a researcher use a variable ratio of reinforcement rather than a fixed ratio?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.7542240619659424
+    },
+    {
+      "question": "A medication prescribed by a psychiatrist for major depressive disorder would most likely influence the balance of which of the following neurotransmitters?",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.274876356124878
+    },
+    {
+      "question": "Today, it is unlikely that a psychologist could condition a baby to fear a rat and other small animals in a research study at a university because",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.27527928352356
+    },
+    {
+      "question": "Carl Jung's concept of a repository of ideas, feelings, and symbols shared by all humans and passed genetically from one generation to another is known as Jung's theory of the",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.275784015655518
+    },
+    {
+      "question": "Which of the following is often true of memory recall?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.276238203048706
+    },
+    {
+      "question": "Which of the following kinds of therapies would most likely be used by a somatic therapist?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.276687145233154
+    },
+    {
+      "question": "Which two competing theories explain the effects of hypnosis?",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.277055978775024
+    },
+    {
+      "question": "A major advantage of standardized normreferenced assessment, as compared with curriculum-based assessment, is that standardized norm-referenced tests",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.277400255203247
+    },
+    {
+      "question": "Hunger, thirst, and sex are most closely associated with stimulation of the",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.277743101119995
+    },
+    {
+      "question": "In response to a column printed in newspapers throughout the United States, an advice columnist received over 28,000 responses. Over 75% of respondents said that if they had it to do over again, they would not have children. The columnist concludes that most parents are sorry that they had children. For which of the following reasons is her conclusion not valid?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.2781760692596436
+    },
+    {
+      "question": "Hypnosis has been used effectively to diminish",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.278397083282471
+    },
+    {
+      "question": "Every time you buy ice cream from the Yellow Brick Road ice cream parlor, you get your over-the-rainbow card stamped. Once you purchase ten items, you get your next item free. The Yellow Brick Road ice cream parlor has you on which of the following reinforcement schedules?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.930237293243408
+    },
+    {
+      "question": "Donia was soaked by an unexpected cloudburst while walking to her car from the office. The fact that she failed to realize that the newspaper she was carrying would have made a great makeshift umbrella is an example of",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.930610179901123
+    },
+    {
+      "question": "Which of the following statistical procedures consists of systematically combining data from multiple studies focusing on the same question and using similar variables?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.9310619831085205
+    },
+    {
+      "question": "Your little cousin watches you at the computer, and when you get up, he immediately tries to use the keyboard. His behavior in this situation can best be explained on the basis of",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.9314191341400146
+    },
+    {
+      "question": "Which of the following is LEAST likely to contribute to prejudice?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.9317660331726074
+    },
+    {
+      "question": "Conflicting attitudes or behaviors that create tension within a person's mind are referred to in terms of",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.932201862335205
+    },
+    {
+      "question": "A nonprofit environmental group includes a free gift of address labels in a letter asking for contributions. Which social psychological principle is the nonprofit group trying to use to increase contributions?",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.9335360527038574
+    },
+    {
+      "question": "Stephen is going through his second divorce. He thinks that no woman will ever love him again. His therapist points out to Stephen that his thinking is irrational and faulty. Which of the following therapies is the therapist employing?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.93399715423584
+    },
+    {
+      "question": "A classically conditioned response can best be eliminated by presentation of",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.934162139892578
+    },
+    {
+      "question": "The focus of structuralists most closely matches the current perspective of",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.9342970848083496
+    },
+    {
+      "question": "Curtis stares at an image of a yellow star for a full minute. When he moves his gaze to a blank piece of white paper, he is likely to see an afterimage that is",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.142971038818359
+    },
+    {
+      "question": "In a cartoon, an angel is perched on one shoulder and a devil is perched on the other shoulder of a character who needs to decide whether to give money to a homeless man or not. The devil says, \"Don't give him anything, you'll make better use of the money than he will.\" The angel says, \"Give him the money because he needs it more than you do.\" The character gives the homeless man half of his money. In a Freudian interpretation, the angel represents the character's",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.143356800079346
+    },
+    {
+      "question": "In schools characterized by high student achievement and family involvement, schoolcommunity partnerships",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.1437249183654785
+    },
+    {
+      "question": "Because Al doesn't care how well he does at school but does care about having enough money to pay for a car, Al's mother gives him money for every \"A\" and \"B\" he earns on school tests and projects. For which of the following theories is the mother's behavior an exemplary application?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.144273996353149
+    },
+    {
+      "question": "The method of loci is a memory aid that employs which of the following?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.1446309089660645
+    },
+    {
+      "question": "Which of the following is the best example of an attribute that is culturally-based rather than primarily psychologically-based?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.144779920578003
+    },
+    {
+      "question": "Complete the following example using deductive reasoning: All students who attend the Peddie School study Latin. Some students who study Latin also study calculus. Jerome is a student at the Peddie School. It can therefore be determined that",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.144913911819458
+    },
+    {
+      "question": "Of the following, which is characteristic of formal operational thinking?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.14504599571228
+    },
+    {
+      "question": "Amy's therapist shakes her head affirmatively and says, \"Yes, uh huh,\" as Amy talks about her problems. Which of the following treatments did she experience?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.145173072814941
+    },
+    {
+      "question": "Emily scored at the 65th percentile on a standardized achievement test. This indicates which of the following? Her score was",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.145298957824707
+    },
+    {
+      "question": "In the \"cocktail party phenomenon,\" an individual can focus on one conversation and filter out all the surrounding stimuli. This is an example of",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.620346307754517
+    },
+    {
+      "question": "Albert Bandura and the social-cognitive personality theorists believe that personality results from the interaction of which factors?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.6207170486450195
+    },
+    {
+      "question": "What part of Phineas Gage's brain was damaged by his accident while laying the railroad track?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.62127423286438
+    },
+    {
+      "question": "Janice often has feelings of hostility and contempt for her husband of forty years. However, instead of expressing these feelings, Janice goes overboard to dote on her husband. Janice is using which of the following defense mechanisms?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.621910095214844
+    },
+    {
+      "question": "\"Mommy gived me a cookie\" best illustrates a basic understanding of",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.622091054916382
+    },
+    {
+      "question": "A child is frightened by the sudden barking of a neighbor's dog. Once her mother picks her up, the child begins to calm down as which of the following biological processes occurs?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.622230052947998
+    },
+    {
+      "question": "Because Jake, the team's starting, star center, is late to basketball practice, Coach Peterson sits him out for the first quarter of the next game. Jake is on time for the rest of the season. Coach Peterson has used",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.622363328933716
+    },
+    {
+      "question": "When Jared saw shadows of people on the walls of his bedroom, his blood pressure increased and his breathing rate sped up. These physical reactions were most directly regulated by his",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.622494220733643
+    },
+    {
+      "question": "Which sentence most accurately describes how neurons communicate?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.622624158859253
+    },
+    {
+      "question": "Which of the following is an example of a person who suffers from anterograde amnesia?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.622750282287598
+    },
+    {
+      "question": "Stella remembered the order of the planets from the Sun by recalling the sentence, \"My very educated mother just served us noodles.\" For Stella, this sentence is a",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.509071111679077
+    },
+    {
+      "question": "Tina is a very good student: Her grades are high, she is involved in extracurricular activities, and typically she excels at anything she tries. Therefore, when she caused an accident her second day of driver's ed., her instructor was shocked. The instructor's disbelief is most probably a result of",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.509531021118164
+    },
+    {
+      "question": "An individual with brain lesions in the hippocampus will most likely experience impairment to her",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.509887933731079
+    },
+    {
+      "question": "Mr. Maji gives a test to his class of 25 students. All but three students score between 82 and 94. The other three students score 47, 55, and 62. These scores are potential",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.510322093963623
+    },
+    {
+      "question": "A group of participants in a sleep study are to be deprived of sleep for four days. After their second sleepless night, participants may begin reporting which of the following?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5107879638671875
+    },
+    {
+      "question": "Which of the following models of personality is the least deterministic?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.5109779834747314
+    },
+    {
+      "question": "The study of cognitive, behavioral, and social changes across the life span are most directly studied by which of the following?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.511136054992676
+    },
+    {
+      "question": "For which of the following disorders might a psychiatrist prescribe a selective serotonin reuptake inhibitor such as Prozac or Paxil?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.511289119720459
+    },
+    {
+      "question": "Approximately what percentage of participants in Milgram's obedience experiments thought they delivered the maximum amount of shock possible?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.511442184448242
+    },
+    {
+      "question": "A psychologist focusing on whether development occurs in stages is most interested in which of the following controversies?",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.511592149734497
+    },
+    {
+      "question": "When a person experiences a discrepancy between an attitude and a behavior, the person experiences",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.917747974395752
+    },
+    {
+      "question": "Which of the following disorders responds best to cognitive behavioral therapy?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.9181110858917236
+    },
+    {
+      "question": "The president of a company brought in an outside consultant to disagree with him about an important decision to be discussed at a meeting of his top level executives in order to avoid",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.9187331199645996
+    },
+    {
+      "question": "Mary Ainsworth placed babies into a strange situation and observed the babies' reactions when the parents left and then returned. What developmental concept was Ainsworth studying?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.9193050861358643
+    },
+    {
+      "question": "According to the Law of Effect, behaviors followed by negative consequences",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.9194681644439697
+    },
+    {
+      "question": "Most mnemonic devices (like learning the notes on the staff by memorizing the sentence \"Every Good Boy Does Fine\" and using the first letter of each word) are examples of which memory enhancement technique?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.9196012020111084
+    },
+    {
+      "question": "Iconic memory refers to",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.9197330474853516
+    },
+    {
+      "question": "According to Jean Piaget, egocentrism, animism, and trial-and-error learning are characteristic of the stage of development known as",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.9198641777038574
+    },
+    {
+      "question": "Which of the following is most likely to lead to a constructed memory?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.9199953079223633
+    },
+    {
+      "question": "As an experiment, a group of newborn kittens was allowed to see through only one eye at a time. Each day one of the eyes would be covered, switching between the two eyes on subsequent days. Which of the following best describes the visual limitations experienced by these cats as adults?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.9201242923736572
+    },
+    {
+      "question": "Blinking, sneezing, flinching, and coughing are examples of the type of behavior called",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.4679551124572754
+    },
+    {
+      "question": "Which of the following refers to the benefit of having an emotional release to reduce aggressive tendencies?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.468410015106201
+    },
+    {
+      "question": "A projective test with ambiguous pictures that are frequently used to assess achievement motivation is the",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.4688589572906494
+    },
+    {
+      "question": "Which of the following is an example of an implicit memory?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.4697611331939697
+    },
+    {
+      "question": "Which of the following is not one of the stages in the development of language that children of virtually every culture go through?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.4699110984802246
+    },
+    {
+      "question": "Madison is a fifth grader who tries to listen to the teacher, but has difficulty focusing. She looks around the classroom while the teacher is talking and then does not know what to do when others are starting their assignments. Her symptoms are characteristic of which of the following?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.4700450897216797
+    },
+    {
+      "question": "In the three-box information processing model, what is the first place memories are stored?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.4701759815216064
+    },
+    {
+      "question": "What kind of personality theorist would be most interested in the results of the MMPI?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.4703052043914795
+    },
+    {
+      "question": "Which neurotransmitter is most closely associated with both Parkinson's disease and schizophrenia?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.470433235168457
+    },
+    {
+      "question": "What kinds of factors are ignored or de-emphasized when people commit the fundamental attribution error?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.470562219619751
+    },
+    {
+      "question": "Anorexia nervosa is a life-threatening illness that can lead to permanent physiological changes (such as brittle bones) and even death. Which of the following individuals would be the most likely to develop this illness?",
+      "model_answer": "A)",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.71918797492981
+    },
+    {
+      "question": "Ben thinks students will answer questions printed on yellow paper more quickly than those printed on blue paper. All study participants will take three tests with 35 multiple-choice questions each. The independent variable in Ben's experiment is",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.719731330871582
+    },
+    {
+      "question": "Which of the following is generally considered a disadvantage of longitudinal developmental research?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.720139026641846
+    },
+    {
+      "question": "Dieters often have difficulty losing additional weight after reaching a specific plateau because their bodies function at a lowered metabolic rate according to",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.720487117767334
+    },
+    {
+      "question": "Delia was accepted to both Harvard University and Yale University and is having difficulty choosing which school to attend. With which of the following conflicts is she faced?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.720834016799927
+    },
+    {
+      "question": "All of the following are positive symptoms of schizophrenia EXCEPT",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.721175193786621
+    },
+    {
+      "question": "The decision in Tarasoff v. Regents of the University of California (1974, 1976) established which of the following principles regarding confidentiality in counseling relationships?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.721517086029053
+    },
+    {
+      "question": "A person suffering from a skin rash finds her pain is temporarily relieved by vigorous scratching. She does not perceive the pain from the rash while she is scratching, but the pain returns soon after she stops scratching. Which concept best explains this temporary pain relief?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.721957206726074
+    },
+    {
+      "question": "Which of the following accurately summarizes a depressed person's view according to Aaron Beck's negative triad theory?",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.722299098968506
+    },
+    {
+      "question": "Use of brainstorming to solve a problem best encourages which of the following?",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.7229790687561035
+    },
+    {
+      "question": "Shannon forgot her pillow when she went camping, so she complained about having to sleep with her head flat on the ground the whole night. Her failure to fold up her jeans and sweater to use as a pillow-substitute best illustrates the effects of",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.228070974349976
+    },
+    {
+      "question": "Which of the following is NOT an anxiety disorder?",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.228513956069946
+    },
+    {
+      "question": "Which of the following statements is true about the relationship between reliability and validity?",
+      "model_answer": "B.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.228869915008545
+    },
+    {
+      "question": "Which of the following structures in the eye is most specifically responsible for color vision?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.229223966598511
+    },
+    {
+      "question": "Neural transmission is often described as an electrochemical process. Which of the following is most directly involved in the electrical aspect?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.229670763015747
+    },
+    {
+      "question": "Which of the following LEAST influences sexual behavior?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.230120897293091
+    },
+    {
+      "question": "Which of the following is not considered a primary facial expression?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.230575799942017
+    },
+    {
+      "question": "When a child is enrolled in elementary school, the parents are frequently involved in the child's education as partners, collaborators, and problem solvers. During middle and high school, the parents are more typically described as",
+      "model_answer": "B. collaborators",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.230950832366943
+    },
+    {
+      "question": "Carlotta is a well-adjusted, socially competent adolescent. Which of the following most likely represents her family's parenting style?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.231349945068359
+    },
+    {
+      "question": "Max was typically out of control whenever he attended preschool. Teachers tried time-outs and other punishments to no avail. His parents and the school decided to work with Max by giving him a sticker each time he behaved for a full hour. Once he accumulated ten stickers, he could present them to his parents who would give him a reward. The method the school and parents chose to employ is referred to as",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.23172402381897
+    },
+    {
+      "question": "Which technique controls for both experimenter and subject bias?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.388562202453613
+    },
+    {
+      "question": "The staggering and slurred speech of a person who has consumed too much alcohol is most likely the result of altered functioning in the",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.388988256454468
+    },
+    {
+      "question": "The field of psychology arose out of which of the following?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.389339208602905
+    },
+    {
+      "question": "Which of the following is an example of imprinting?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.392151117324829
+    },
+    {
+      "question": "For which of the following would drive-reduction theories not provide a reasonable explanation?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.392300128936768
+    },
+    {
+      "question": "Dr. Scarlett conducted experiments in which she electrically stimulated parts of a cat's brain. A cat that became terrified in the presence of a mouse was most likely stimulated in the",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.39242696762085
+    },
+    {
+      "question": "Which of the following illustrates why most people can detect the difference between Coke and Pepsi most of the time?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.392554044723511
+    },
+    {
+      "question": "A clinical psychologist who is working with an aggressive child seeks to understand the child's behavior in light of the dynamics of the entire family. Which of the following best identifies the approach the psychologist has chosen?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.392673969268799
+    },
+    {
+      "question": "Why can experiments determine causal relationships when no other research method can?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.392794132232666
+    },
+    {
+      "question": "What type of psychologist would assert that a key motivation for people is the desire to spread their genetic material?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.392909049987793
+    },
+    {
+      "question": "In a team tug of war, Ty did not pull as hard as he would have if he were pulling alone against one competitor. His behavior exemplifies",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.969150066375732
+    },
+    {
+      "question": "What is the major difference between classical and operant conditioning?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.969599008560181
+    },
+    {
+      "question": "A listener-sponsored radio station wants to estimate the amount of money the typical supporter contributes during a fund-drive. In a sample of 30 supporters, it was discovered that 22 of them gave $60, six of them gave $1,000, and two of them gave $10,000. Based on this sample, which of the following measures of central tendency would provide the most useful information to the radio station?",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.969954967498779
+    },
+    {
+      "question": "Young Tina had never seen the space shuttle until her parents pointed out a picture of it ready to launch. When she next saw a picture of it flying, she had difficulty recognizing it. Which concept best explains this problem?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.970311164855957
+    },
+    {
+      "question": "Dr. Ramchandran found that his patients who brushed their teeth after lunch had 1/20 the number of cavities in their teeth as those who didn't. After interviewing the dentist, a local newswriter reports that brushing teeth after lunch prevents cavities. Based on the dentist's research, which of the following statements is true?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.970746040344238
+    },
+    {
+      "question": "Which of the following terms refers to the body's tendency to maintain a relatively constant state that permits cells to live and function?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.971698045730591
+    },
+    {
+      "question": "Joey, a 25-year-old convict, has a history of conduct disorder in elementary school and bullying in junior high. By high school, he was mugging peers and taking whatever he wanted from elderly shoppers without caring if he hurt anyone. Joey would most likely be diagnosed with",
+      "model_answer": "A)",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.972050189971924
+    },
+    {
+      "question": "An \"A+\" course grade is which kind of reinforcer?",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.972195148468018
+    },
+    {
+      "question": "Which of the following explanations of why a 17-year-old drives his car at or below the speed limit best illustrates Kohlberg's conventional level of morality?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.97232985496521
+    },
+    {
+      "question": "The obsessive fear of being in places or situations from which escape might be difficult is known as",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.972460031509399
+    },
+    {
+      "question": "Which of the following psychologists would most likely agree with the following statement: Behavior is a result of the combination of reinforcers and punishers?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.850632905960083
+    },
+    {
+      "question": "Free association and dream interpretation frequently characterize which of the following treatments?",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.851120948791504
+    },
+    {
+      "question": "Which is likely to increase as a normal, healthy individual ages from 25 to 75 years of age?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.8514628410339355
+    },
+    {
+      "question": "A doctor who smokes cigarettes knows that it is unhealthy, but thinks that he can keep smoking, since he eats healthily. Which concept best explains this thought process?",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.8518426418304443
+    },
+    {
+      "question": "According to trait theorists, such as Hans Eysenck, the basis for personality is",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.8521947860717773
+    },
+    {
+      "question": "Tony got accepted to the college he wants to attend, is going to the prom with a girl he really admires, and was hired for the summer job he sought. He has high",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.8525397777557373
+    },
+    {
+      "question": "At the outset of a study on eating habits, a researcher asks participants a variety of questions, including whether they typically eat breakfast. Whether or not a person eats breakfast is a(n)",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.8528859615325928
+    },
+    {
+      "question": "Cyan has come up with a test to identify people with the potential to be great civil rights lawyers. Such a test would be classified as a(n)",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.8534200191497803
+    },
+    {
+      "question": "An American teenager's prototype of a chair is most likely to include",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.853583812713623
+    },
+    {
+      "question": "Loss of the ability to understand language results from loss of tissue in which of the following lobes?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.853721857070923
+    },
+    {
+      "question": "Knowledge of different categories of trees and where they grow best is an example of what kind of long-term memory?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.456667184829712
+    },
+    {
+      "question": "Which of the following most accurately describes the firing of a neuron?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.457035064697266
+    },
+    {
+      "question": "A participant in a single-trial free-recall task is presented with a list of words, one at a time, in the following order: house, flower, dog, table, license, water, computer, salad. In accord with the serial position curve, which of the following words is the participant most likely to forget?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.4573752880096436
+    },
+    {
+      "question": "Jyoti notes the behavior of people as they wait in line for tickets to rock concerts. Which of the following research methods is she using?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.457725286483765
+    },
+    {
+      "question": "The superintendent of a large school district asks the school psychologist to predict students' grade point averages (GPAs) for the first year of high school. The school psychologist has included achievement and aptitude scores as predictor variables for firstyear high school GPA in a regression analysis and is considering whether to also administer a school interest inventory and include those scores. The major concern of the school psychologist when making this decision should be which of the following?",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.458198070526123
+    },
+    {
+      "question": "Collective unconscious, archetypes, and individuation are personality concepts most closely associated with",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.458564043045044
+    },
+    {
+      "question": "According to Whorf's linguistic relativity hypothesis,",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.458709001541138
+    },
+    {
+      "question": "When a 17-year-old student is failing at school, which society would most likely hold the parents accountable?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.4588463306427
+    },
+    {
+      "question": "In most people, the left hemisphere of the brain is dominant for",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.4589760303497314
+    },
+    {
+      "question": "Jeanette locked the front door and then checked it by turning the knob. She checked it a second time. After walking halfway down the path to the street, Jeanette went back to the door and checked to make sure that it was locked. Her behavior appears to be",
+      "model_answer": "C.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.459107160568237
+    },
+    {
+      "question": "Aisha is a beautiful, black teenager. If she is typical, she most likely believes that",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.150268793106079
+    },
+    {
+      "question": "Functionalists such as William James were mainly interested in",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.1506428718566895
+    },
+    {
+      "question": "What kind of therapy involves both behavioral and cognitive interventions?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.151045799255371
+    },
+    {
+      "question": "Georgia works in the local hospital because she wishes to help others, while Kathy works in the hospital strictly to make money. Their individual motivations demonstrate the difference between",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.151404857635498
+    },
+    {
+      "question": "Which of the following reinforcement schedules results in maintenance of behavior that is LEAST resistant to extinction?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.152955770492554
+    },
+    {
+      "question": "According to gate-control theory, which condition tends to close the gate?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.153541088104248
+    },
+    {
+      "question": "Knowledge of different categories of trees and where they grow best is an example of what kind of long-term memory?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.153709888458252
+    },
+    {
+      "question": "Which of the following is the most reliable indicator of emotions across all cultures?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.153848886489868
+    },
+    {
+      "question": "After taking AP Psychology and doing well in the class and on the exam, Donald goes to college. If Donald is interested in psychology and has high achievement motivation, as a first-year student, he is most likely to",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.153985023498535
+    },
+    {
+      "question": "As part of her campaign for school president, Edy personally gives out cookies that say \"Vote for Edy\" on them. Which of the following is one reason that this approach might improve Edy's chances in the election?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.1541218757629395
+    },
+    {
+      "question": "A pencil and paper personality test that places a person in one of several personality categories (such as extrovert/introvert, etc.) is based on which personality theory?",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.227544069290161
+    },
+    {
+      "question": "Some contemporary intelligence researchers like Howard Gardner and Robert Sternberg complain that schools focus too much on",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.2301790714263916
+    },
+    {
+      "question": "The part of the neuron that directs synthesis of neurotransmitters and proteins is the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2306089401245117
+    },
+    {
+      "question": "Research has shown a possible connection between the neurotransmitter acetylcholine and which of the following mental disorders?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.2307701110839844
+    },
+    {
+      "question": "Which of the following kinds of brain scans would be most useful in disproving the statement: \"Most people only use 10 percent of their brains\"?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.230921983718872
+    },
+    {
+      "question": "Jonathan's IQ score is in the 97th percentile. Of the following, which score is most likely his?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2310731410980225
+    },
+    {
+      "question": "A doctor examining a car crash victim in order to determine whether the crash caused structural damage to the brain would use what kind of brain scan?",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2312211990356445
+    },
+    {
+      "question": "A famous character in a Shakespearean play keeps washing her hands to get them clean of blood that is no longer on them. The repeated washing of her hands is",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.2313690185546875
+    },
+    {
+      "question": "The tendency of young children learning language to overuse the rules of syntax is referred to as",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.231516122817993
+    },
+    {
+      "question": "The relaying of sensory information to the cerebral cortex is the primary function of the",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.2316601276397705
+    },
+    {
+      "question": "Tired after a long, hard day at school, Cyrus decides to take a nap. An hour later, his Dad wakes him to let him know it's time for dinner. Cyrus feels worse than when he went to bed and can hardly drag himself to the table. An EEG of Cyrus right before he was awoken would most likely have shown a preponderance of",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.3314290046691895
+    },
+    {
+      "question": "According to Adler, firstborn children are more likely than subsequent children in a family to be",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.3318071365356445
+    },
+    {
+      "question": "Which term describes the phenomenon of like-minded groups taking more extreme positions than the individuals that comprise the group?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.3322508335113525
+    },
+    {
+      "question": "Which kinds of motivations best encourage positive behaviors to persist over long periods of time?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.332610845565796
+    },
+    {
+      "question": "One's ability to make inferences about the behavior of a population from the behavior of a sample of that population is referred to as",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.33303689956665
+    },
+    {
+      "question": "Of the following theories, the presence of Hilgard's \"hidden observer\" best supports",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.333437919616699
+    },
+    {
+      "question": "The smallest unit of language that carries meaning is a",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.333975791931152
+    },
+    {
+      "question": "Which of the following are included in the peripheral nervous system?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.335071086883545
+    },
+    {
+      "question": "Receptors that respond to gravity and keep you informed of your body's location in space are located primarily in the",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.335629224777222
+    },
+    {
+      "question": "In a study of brain development, two groups of rats were reared in a laboratory setting. In Group I, each rat was raised in isolation with no toys, while in Group II, rats were divided into small groups and given toys to play with. Which of the following statements most accurately reflects the probable findings of this study?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.335992813110352
+    },
+    {
+      "question": "Counterconditioning lies at the heart of which therapeutic approach?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.43199896812439
+    },
+    {
+      "question": "According to Abraham Maslow, esteem needs must at least be partially met before one is prompted to satisfy",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.432368993759155
+    },
+    {
+      "question": "Which of the following most accurately explains why a pool with water temperature of 82 degrees may feel cool to a person who has been sunbathing, yet warm to a person who has been inside in the air conditioning?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.433742046356201
+    },
+    {
+      "question": "Research indicates that which of the following factors most influence a person's sexual orientation?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.434146165847778
+    },
+    {
+      "question": "Although Andy wanted to cut class to get to the Yankee opener, he came to class to take a quiz and review for an exam. According to Freud, this behavior evidences a strong",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.434615135192871
+    },
+    {
+      "question": "The case study of Phineas Gage's brain injury was significant for which of the following reasons?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.434807062149048
+    },
+    {
+      "question": "Physiological reactions to surprise or shocks are most controlled by which of the following parts of the nervous system?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.434952974319458
+    },
+    {
+      "question": "The most common somatic nervous system neurotransmitter to cause muscle contractions is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.435090065002441
+    },
+    {
+      "question": "Although Jen is a very bright four-year-old, she doesn't think her mother's sister has any sisters. This lack of understanding reflects",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.43523097038269
+    },
+    {
+      "question": "A 10-year-old student who was born in a non- English-speaking country has been referred as a possible candidate for special education services on the basis of low scores achieved on the school district's group achievement test. The student achieved high scores on the district's English fluency test. Of the following approaches to diagnostic assessment, the most appropriate is one that",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.435368061065674
+    },
+    {
+      "question": "An action potential involves the movement of",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6038880348205566
+    },
+    {
+      "question": "After dealing kindly with several customers who acted very rudely toward her, the clerk was impatient with her next customer. The tendency of that customer to think that the clerk is a very impatient person rather than just having a bad day exemplifies",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.6042799949645996
+    },
+    {
+      "question": "Which of the following has been linked to a deficit of dopamine?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.607219934463501
+    },
+    {
+      "question": "Albert Bandura's work evidenced that children who witnessed aggressive behavior on the part of adults would be likely to imitate the aggressive behavior later on. This phenomenon is known as",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.6075100898742676
+    },
+    {
+      "question": "If a distribution of scores includes one or more outliers, which of the following measures of central tendency should be used?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.6076669692993164
+    },
+    {
+      "question": "Probabilistic reasoning from specific observations to general propositions is known as",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.607815980911255
+    },
+    {
+      "question": "Which of the following is a common way to categorize personality traits?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.6079628467559814
+    },
+    {
+      "question": "The more difference shown by the behavior of identical twins raised apart, the more the differences in their behavior can be attributed to their",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.608109951019287
+    },
+    {
+      "question": "Piaget proposed that children develop knowledge by",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.608258008956909
+    },
+    {
+      "question": "Which of the following accomplishments accurately reflects why Wilhelm Wundt is sometimes referred to as the \"father of psychology?\"",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.6083998680114746
+    },
+    {
+      "question": "The fact that people's ears are located on opposite sides of their heads is most adaptive because it helps us",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.337113857269287
+    },
+    {
+      "question": "According to researchers Darley and Latanne, bystander intervention decreases when a large number of people witness a crime. What social psychology concept could best explain this phenomenon?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3375706672668457
+    },
+    {
+      "question": "Which of the following terms is most closely associated with creativity?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.3379967212677
+    },
+    {
+      "question": "Lucille suffered a stroke last week and cannot recognize her children or grandchildren by looking at them. Of the following structures, her brain lesion is most likely in the",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.338352918624878
+    },
+    {
+      "question": "Carlos could consistently differentiate the note middle C on the violin from middle C on the piano because of the difference in",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.338834762573242
+    },
+    {
+      "question": "Which of the following is the best example of a categorical variable?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.338998794555664
+    },
+    {
+      "question": "In time-out, a disruptive child who wants to stay with his or her class is removed from the classroom. This exemplifies",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.339132785797119
+    },
+    {
+      "question": "In classical conditioning the learner learns to associate the unconditioned stimulus with",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.339263916015625
+    },
+    {
+      "question": "Julie is more alert in the morning and her brother Jack is more alert in the afternoon. This difference stems from a difference in the siblings'",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.3393936157226562
+    },
+    {
+      "question": "The Intelligence Quotient is defined as the",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.339526891708374
+    },
+    {
+      "question": "The primary research method used by developmental psychologists is",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.7530670166015625
+    },
+    {
+      "question": "Choosing 20 people at random from a large lecture class of 400 people is an example of which of the following?",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.753251791000366
+    },
+    {
+      "question": "An animal is not likely to associate a conditioned stimulus (CS) with an unconditioned stimulus (UCS) if the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.7534029483795166
+    },
+    {
+      "question": "What type of test is the Advanced Placement Examination in Psychology?",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.753549098968506
+    },
+    {
+      "question": "All people have essentially the same set of traits, differing only in terms of the extent to which they show each trait, according to which of the following personality theories?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.7536981105804443
+    },
+    {
+      "question": "The examination of the connection between mental states and physical states is referred to as",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.753849744796753
+    },
+    {
+      "question": "Which of the following best exemplifies sensory adaptation?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.7539970874786377
+    },
+    {
+      "question": "Which of the following interventions is most effective at facilitating the education of gifted students?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.754140853881836
+    },
+    {
+      "question": "Damage to the occipital lobes of the brain would most likely affect which of the senses?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.754286050796509
+    },
+    {
+      "question": "The position on the basilar membrane at which waves reach their peak depends on the frequency of a tone, according to which theory?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.754612922668457
+    },
+    {
+      "question": "After she used address stickers sent by a charity in the mail, Brittany felt obligated to mail a donation to the organization that sent the stickers. Brittany's behavior illustrates",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.616699934005737
+    },
+    {
+      "question": "After Tamika complained to her mother about how little she has, Tamika and her mother went to a soup kitchen to volunteer to serve dinner to the homeless. After serving 120 dinners, Tamika told her mother how happy she is that they can afford to buy delicious foods she loves. Tamika's increased perception that she is happy is best explained by applying which of the following theories?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.617100715637207
+    },
+    {
+      "question": "Brenda gets enraged when people criticize her, talks about becoming the first woman president, exaggerates her abilities and talents, takes advantage of classmates, and constantly demands attention in class. When she received a certificate for participating in an essay contest, she told everyone she'd won a prestigious writing award. She most likely would be diagnosed as evidencing",
+      "model_answer": "A)",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.6174399852752686
+    },
+    {
+      "question": "A research study establishes that most people can taste one gram of salt in one quart of water. Which of the following concepts is most closely related to the goal of this study?",
+      "model_answer": "A)",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.6177756786346436
+    },
+    {
+      "question": "Mayella believes that getting a good grade on an AP exam is a matter of luck. She most likely has",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.618137836456299
+    },
+    {
+      "question": "Which of the following transduces visual images?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.618474960327148
+    },
+    {
+      "question": "Someone with brain damage who has difficulty making the muscle movements needed to produce accurate speech might have damage to which area of the brain?",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.619006872177124
+    },
+    {
+      "question": "After discovering that she was in the early stages of an eating disorder, Maria's parents insisted Maria see a therapist. Although Maria attended the therapy sessions, she was late, uncooperative, and even hostile. After some time, her counselor began to explore Maria's feelings of hostility and found that they actually were feelings she held for her parents. Maria's uncooperativeness and hostility toward her counselor is an example of",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.619490623474121
+    },
+    {
+      "question": "Although they disagreed with his personal infidelities, many Americans supported President Bill Clinton's position and policy decisions during his term in office. This dichotomy of opinion demonstrates a split in",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.619663715362549
+    },
+    {
+      "question": "Which of the following kinds of therapists is most likely to prescribe lithium for a patient diagnosed with bipolar disorder?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.619815826416016
+    },
+    {
+      "question": "A behavior that is elicited automatically by an environmental stimulus is called a(n)",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.326009035110474
+    },
+    {
+      "question": "A lesson from Janis's research on groupthink is that",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.326404809951782
+    },
+    {
+      "question": "Which best represents the path of an impulse over a reflex arc?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.326822757720947
+    },
+    {
+      "question": "Jim and Tim are identical (monozygotic) twins that were reared together. Scott and Michael are fraternal (dizygotic) twins that were reared together. Given the results of heritability studies of intelligence, which of the following outcomes are most likely to emerge?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.327175855636597
+    },
+    {
+      "question": "In developmental research, studying the same subjects over time is known as",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.3275299072265625
+    },
+    {
+      "question": "The manual of clinical syndromes published by the American Psychiatric Association that is used for descriptive diagnosis is commonly called the",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.327993154525757
+    },
+    {
+      "question": "Standardized tests are",
+      "model_answer": "B.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.32839298248291
+    },
+    {
+      "question": "While visiting a museum, you study a statue by walking around it and examining it from many different places in the room. The retinal images of the statue change, but you do not perceive these changes because of",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.3288798332214355
+    },
+    {
+      "question": "Perception refers to the process by which",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.329320907592773
+    },
+    {
+      "question": "Which research method would most likely be used to test the following hypothesis: People who conserve energy by buying hybrid cars are more likely to spend more money on organic foods.",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.3294758796691895
+    },
+    {
+      "question": "The primary reason why we cannot taste sand or smell platinum is that",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.686585903167725
+    },
+    {
+      "question": "The goal of projective personality tests, such as the Rorschach and Thematic Apperception Test (TAT), is to",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.687016010284424
+    },
+    {
+      "question": "The ability to solve a new computer game based on logical puzzles probably depends on which kind of intelligence?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.687368869781494
+    },
+    {
+      "question": "Most New Yorkers remember where they were and what they were doing when they heard that the World Trade Center was destroyed. Which of the following best identifies this type of memory?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.687835931777954
+    },
+    {
+      "question": "The contingency model explains classical conditioning from which of the following perspectives?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.688204050064087
+    },
+    {
+      "question": "An educational psychologist is administering a basic skills exam to second-graders of two different schools in order to compare the students' performance. The researcher administers the exam to the students of the Antrim School on a Wednesday morning and then administers the same exam in exactly the same fashion on that same Wednesday afternoon to the second-graders of the Barton School. Which of the following best identifies a confounding variable in the psychologist's research?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.688555002212524
+    },
+    {
+      "question": "Which of the following is the best summary of Stanley Schacter's two-factor theory of emotion?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.688906908035278
+    },
+    {
+      "question": "Which of the following best summarizes Carl Rogers' view of personality?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.689316749572754
+    },
+    {
+      "question": "Which of the following is the most accurate definition of learning?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.690186023712158
+    },
+    {
+      "question": "Which of the following is a key difference between the experimental method and naturalistic observation?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.690716981887817
+    },
+    {
+      "question": "Harlow's monkey experiment illustrated",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.6948401927948
+    },
+    {
+      "question": "Which of the following types of scientists were the first to contend that an individual's ways of thinking are shaped primarily by cultural values and ideas?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6949949264526367
+    },
+    {
+      "question": "Which of the following best illustrates hostile aggression?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.6951301097869873
+    },
+    {
+      "question": "Which of the following disorders is the result of an abnormality of the twenty-first chromosomal pair?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.6952619552612305
+    },
+    {
+      "question": "REM sleep is considered to be paradoxical sleep because",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6953940391540527
+    },
+    {
+      "question": "Jay suffers from periods of amnesia and frequent loss of a sense of personal identity. It is likely Jay has a(n)",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6955220699310303
+    },
+    {
+      "question": "Approximately what percent of the population scores between 70 and 130 on the WISC?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.695650100708008
+    },
+    {
+      "question": "The perceived volume of a tone is mainly determined by its",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.6957759857177734
+    },
+    {
+      "question": "Eli is just beginning to sit up. Assuming he is developing at a typical pace, how old is Eli?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.6959030628204346
+    },
+    {
+      "question": "A game show like Jeopardy! asks players to demonstrate which of the following types of intelligence?",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.696028232574463
+    },
+    {
+      "question": "Research using the visual cliff suggests that human infants",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.688653945922852
+    },
+    {
+      "question": "En route to the brain, information from the two eyes' retinas crosses at the",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.689094066619873
+    },
+    {
+      "question": "Detection of a just-noticeable difference (JND) depends on the",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.689454078674316
+    },
+    {
+      "question": "Which of the following correctly categorizes the components of Ivan Pavlov's research on conditioning?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.6898109912872314
+    },
+    {
+      "question": "People who are able to be hypnotized easily are likely to score high on which of the following dimensions of the big five personality traits?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.690295934677124
+    },
+    {
+      "question": "Which of the following would a researcher need to use to determine if the difference between the mean scores of experimental and control groups was significant?",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.690591096878052
+    },
+    {
+      "question": "All of the following are conditions sanctioned by the APA regarding the use of deception in a study EXCEPT",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.690735101699829
+    },
+    {
+      "question": "An obese individual with a breathing-related sleep disorder most likely suffers from which of the following?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.690874099731445
+    },
+    {
+      "question": "Who would most likely have said, \"People are basically good\"?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.691001892089844
+    },
+    {
+      "question": "When the class listened to a list of words, half the group was directed to listen for sounds while the other half was asked to gauge the emotional impact of the words. The group that gauged the emotional impact remembered many more words. This is evidence that better retention results with attention to",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.691138029098511
+    },
+    {
+      "question": "Which of the following are found in Jung's collective unconscious?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.505781173706055
+    },
+    {
+      "question": "Which of the following lobes of the brain is central to visual sensation and perception?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.506211042404175
+    },
+    {
+      "question": "The Diagnostic and Statistical Manual of Mental Disorders (DSM-IV) published by the American Psychiatric Association provides information about all of the following EXCEPT",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.506661891937256
+    },
+    {
+      "question": "What is the major difference between negative reinforcement and punishment?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.50702691078186
+    },
+    {
+      "question": "Lupe has been dating Craig for a few months. She's attracted to him and has fun with him, but she can't stand his friends or his family. Lupe's conflict would best be classified as",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.5076329708099365
+    },
+    {
+      "question": "A longitudinal study would be useful in assessing which of the following?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.507987976074219
+    },
+    {
+      "question": "Implications of Harlow's study (of baby monkeys reared by artificial mothers) for humans include which of the following?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.5084638595581055
+    },
+    {
+      "question": "A school psychologist is asked to help Ms. Smith address problem behaviors that are disrupting the learning of her students. The school psychologist is given data that indicate discipline referrals have been written on 26 of the 30 students in Ms. Smith's class. Which of the following is best for the school psychologist to recommend?",
+      "model_answer": "A)",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.508939027786255
+    },
+    {
+      "question": "Dr. Bonneau helped a company redesign its offices to raise morale and the productivity of the employees. With which of the following subfields of psychology is Dr. Bonneau most likely affiliated?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.5091001987457275
+    },
+    {
+      "question": "Barry reported that in his study, the relationship between religiosity and academic grades was not statistically significant. By \"not statistically significant,\" he meant that the results",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.5092480182647705
+    },
+    {
+      "question": "The Rosenhan study of mental institutions showed that",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.312344074249268
+    },
+    {
+      "question": "Functionally, receptors in the retina of the eye differ most from receptors in the cochlea of the ear in the",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.312714338302612
+    },
+    {
+      "question": "Wilder Penfield's studies suggest that some long-lost memories can be elicited through electrical stimulation of the brain. This suggests that forgetting may be a matter of",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.313061237335205
+    },
+    {
+      "question": "Children are most likely to grow up more competent and responsible when they are raised by parents who behave in a manner considered",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.313415288925171
+    },
+    {
+      "question": "Erikson's initiative versus guilt stage is most closely related to Freud's",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.313765287399292
+    },
+    {
+      "question": "EEGs that consist primarily of alpha and beta waves are characteristic of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.314189195632935
+    },
+    {
+      "question": "Jared thinks that going to psychology lecture classes is a waste of time and that you can do just as well in the course if you just read the review book, watch \"Discovering Psychology,\" and take the tests. He decides to test his hypothesis with an experiment. The independent variable in his experiment is",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.314598321914673
+    },
+    {
+      "question": "Some groups of gang members wear head coverings and sunglasses when they assault people. The use of such disguises contributes to",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.314765214920044
+    },
+    {
+      "question": "Which of the following is the most important detail of Wundt's early research that established the psychology as a science?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.314897298812866
+    },
+    {
+      "question": "Which of the following is not a basic somatosensation?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.315024137496948
+    },
+    {
+      "question": "Lev Vygotsky's approach to the study of cognitive development was",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.116586923599243
+    },
+    {
+      "question": "Behavioral therapy typically alters the patterns of responding of clients by",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.116991281509399
+    },
+    {
+      "question": "In people, rods, unlike cones,",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.117326021194458
+    },
+    {
+      "question": "Before Justin could take an airplane flight, he needed to overcome his fear of flying. His therapist taught him relaxation exercises, which he practiced while first looking at pictures of airplanes, then seeing them take off at the airport, then going into an empty plane that would not take off, then finally taking a short flight. Which of the following treatments did he undergo?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.117708921432495
+    },
+    {
+      "question": "Sigmund Freud was the founder of which of the following perspectives in psychology?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.1180479526519775
+    },
+    {
+      "question": "Arnold Gesell is significant to the history of school psychology because he",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.118381977081299
+    },
+    {
+      "question": "Maria, a bright high school student, fears success. To which of the following colleges would she most likely apply?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.11871600151062
+    },
+    {
+      "question": "During World War II, millions of Jews and other minorities were slaughtered because they were blamed for the financial and social problems of Germany. Such scapegoating illustrates",
+      "model_answer": "D.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.119258165359497
+    },
+    {
+      "question": "Which of the following best explains why babies have poor vision for the first few weeks of life?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.119574069976807
+    },
+    {
+      "question": "Which of the following structures is located at the most central and protected part of the brain?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.119739055633545
+    },
+    {
+      "question": "A common criticism of labeling students as disabled is that individuals tend to perform in accordance with characteristics associated with a label. This performing phenomenon is known by which of the following names?",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.9358742237091064
+    },
+    {
+      "question": "Scott tried to unscramble the letters NEBOTYA for 20 minutes to spell a word, but was not successful. While walking to class, the answer suddenly came to him that the word was BAYONET. This exemplifies",
+      "model_answer": "A)",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.936343193054199
+    },
+    {
+      "question": "What would a psychometrician conclude about a personality test that tells a person she is an extreme extrovert the first time she takes the test and an extreme introvert the next time she takes it?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.936796188354492
+    },
+    {
+      "question": "In the Harlow study of emotional attachment, infant monkeys were placed in a cage and given both a \"wire\" mother and a \"cloth\" mother. Researchers then moved a bottle of milk from one mother to the other while introducing various stimuli to see if the monkeys would form an attachment to either of the \"mothers.\" In this experiment, the independent variable is",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.941075325012207
+    },
+    {
+      "question": "To treat Zoe's anorexia nervosa, her doctors put her on intravenous feeding tubes, tried to change her irrational belief that she was too fat, and discussed how her early family relationships may have contributed to her current problems. This approach would best be classified as",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.9412572383880615
+    }
+  ]
+}

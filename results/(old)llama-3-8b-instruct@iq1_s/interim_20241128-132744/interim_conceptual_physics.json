@@ -1,0 +1,1658 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq1_s",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-141846"
+  },
+  "subject": "conceptual_physics",
+  "category": "STEM",
+  "correct_rate": 26.382978723404253,
+  "evaluation_results": [
+    {
+      "question": "A 10-N force at an angle 45° above the horizontal has a horizontal component of about",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.742661952972412
+    },
+    {
+      "question": "A completely submerged object always displaces its own",
+      "model_answer": "The answer is D, All of the above.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.7430663108825684
+    },
+    {
+      "question": "When a diver points a flashlight upward toward the surface of the water at an angle 20° from the normal, the beam of light",
+      "model_answer": "What do you think about this?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.7434210777282715
+    },
+    {
+      "question": "According to four-dimensional geometry, the angles of a triangle add to 180°",
+      "model_answer": "What is the answer?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.743812084197998
+    },
+    {
+      "question": "A voltage will be induced in a wire loop when the magnetic field within that loop",
+      "model_answer": "What's the answer?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.744204044342041
+    },
+    {
+      "question": "Among these colors, the one that has the most energy per photon is",
+      "model_answer": "What a great question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.7447192668914795
+    },
+    {
+      "question": "According to general relativity,",
+      "model_answer": "What is the answer?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.7454710006713867
+    },
+    {
+      "question": "A step-up transformer in an electric circuit can step up",
+      "model_answer": "What is the response to the question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.7462191581726074
+    },
+    {
+      "question": "Spectral lines of the elements are",
+      "model_answer": "What is the answer to this question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.7469630241394043
+    },
+    {
+      "question": "A wave transfers",
+      "model_answer": "What is the concept of Physics?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.747896194458008
+    },
+    {
+      "question": "Immediately after two separated charged particles are released from rest, both increase in acceleration. The sign of charge of the particles is therefore",
+      "model_answer": "What a great question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.004442930221558
+    },
+    {
+      "question": "The surface of planet Earth loses energy to outer space due mostly to",
+      "model_answer": "What is the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.005215883255005
+    },
+    {
+      "question": "In a series circuit, if the current in one lamp is 2 A, the current in the lamp next to it is",
+      "model_answer": "What do you know?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.005602836608887
+    },
+    {
+      "question": "As a blinking light source approaching you gains speed, you see the frequency of flashes",
+      "model_answer": "What is the response to the question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.005968809127808
+    },
+    {
+      "question": "In the absence of air resistance a ball of mass m is tossed upward to reach a height of 20 m. At the 10-m position half way up the net force on the ball is",
+      "model_answer": "What is the answer for this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.006336688995361
+    },
+    {
+      "question": "Pumice is a volcanic rock that floats in water. The density of pumice compared with that of water is",
+      "model_answer": "What's the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.0066978931427
+    },
+    {
+      "question": "When you look at the red petals of a rose the color light you're seeing is",
+      "model_answer": "What's it?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.007293939590454
+    },
+    {
+      "question": "Compared with the sound you hear from the siren of a stationary fire engine the sound you hear when it approaches you has an increased",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.007662773132324
+    },
+    {
+      "question": "When you squeeze an air-filled party balloon, you increase its",
+      "model_answer": "What a great question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.008201837539673
+    },
+    {
+      "question": "Polarization is a property of",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.0085530281066895
+    },
+    {
+      "question": "In a vacuum, an object has no",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.989614963531494
+    },
+    {
+      "question": "Temperature is generally proportional to a substance’s",
+      "model_answer": "I'm going to answer the question with only one letter, and that's just the one that's a single letter without any explanation.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.990034818649292
+    },
+    {
+      "question": "In a hydraulic press operation, the output piston cannot",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.990652799606323
+    },
+    {
+      "question": "When a spinning system contracts in the absence of an external torque its rotational speed increases and its angular momentum",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.9913859367370605
+    },
+    {
+      "question": "According to Hooke’s law, if you hang by a tree branch and note how much it bends, then hanging with twice the weight produces",
+      "model_answer": "What is your response to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.9921441078186035
+    },
+    {
+      "question": "When an increase in speed doubles the kinetic energy of a moving body its momentum",
+      "model_answer": "I will answer this multiple choice question with only one letter (A, B, C, or D).",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.992679834365845
+    },
+    {
+      "question": "Suppose the number of neutrons in a reactor that is starting up doubles each minute reaching one billion neutrons in 10 minutes. When did the number of neutrons reach half a billion?",
+      "model_answer": "What does this multiple choice question about the concept physics?\n\nThe answer is only one letter, and it's the same as the number of neutrons in the reactor that starts to increase in a minute after reaching one billion in half an hour.\n\nThis is the end of the time when the number of neutons reaches half a a million.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.9930408000946045
+    },
+    {
+      "question": "If an object is already moving and the sum of all the vector forces on a mass is zero, then the object will",
+      "model_answer": "What is your response?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.993387937545776
+    },
+    {
+      "question": "Relativity equations for time, length, and momentum hold true for",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.993743896484375
+    },
+    {
+      "question": "Put a saucer of water on your table. A process that then occurs is",
+      "model_answer": "What do you know?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.9941089153289795
+    },
+    {
+      "question": "A barometer that uses water instead of mercury will be",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.76219916343689
+    },
+    {
+      "question": "A heavy rock and a light rock in free fall (zero air resistance) have the same acceleration. The heavy rock doesn't have a greater acceleration because the",
+      "model_answer": "What should you do?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.762922048568726
+    },
+    {
+      "question": "When an increase in speed doubles the momentum of a moving body its kinetic energy",
+      "model_answer": "I will answer this multiple choice question with only one letter (A, B, C, or D).",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.763278961181641
+    },
+    {
+      "question": "The equation E = mc^2 indicates that energy",
+      "model_answer": "I'm going to answer this multiple choice question with only one letter, so I'll say.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.763653039932251
+    },
+    {
+      "question": "General relativity predicts that",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.764025926589966
+    },
+    {
+      "question": "When an element ejects an alpha particle, the atomic number of the resulting element",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.76439094543457
+    },
+    {
+      "question": "As more lamps are connected in parallel in a circuit, the current in the power source",
+      "model_answer": "What is the answer?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.764750957489014
+    },
+    {
+      "question": "An airplane with its nose pointing north with an airspeed of 40 km/h in a 30-km/h crosswind (at right angles) has a groundspeed of",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.765101194381714
+    },
+    {
+      "question": "The energy of an emitted photon is related to its",
+      "model_answer": "I'm a single letter for the multiple choice questions, and I'm going to answer it with only one letter (A, B, C, or D without any explanation).",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.765681028366089
+    },
+    {
+      "question": "Thermal conduction involves mainly",
+      "model_answer": "I'm going to answer the question with a single letter, which is D.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.766082048416138
+    },
+    {
+      "question": "Compared with the current in an LED lamp the current in the connecting wire is",
+      "model_answer": "What a great question!",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.991059064865112
+    },
+    {
+      "question": "Bow waves are produced by waves of water",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.991823196411133
+    },
+    {
+      "question": "The speed of sound is slightly greater on a",
+      "model_answer": "What's the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.99258017539978
+    },
+    {
+      "question": "Consider two mercury barometers, one having a cross-sectional area of 1 cm2 and the other 2 cm2. The height of mercury in the narrower tube is",
+      "model_answer": "What do you know about physics?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.993330955505371
+    },
+    {
+      "question": "The second law of thermodynamics tells us that heat doesn’t flow from",
+      "model_answer": "I'm going to answer this question with a single letter, and I'll do it with only one letter, and I'll do it with only one letter.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.994203090667725
+    },
+    {
+      "question": "In a mixture of hydrogen oxygen and nitrogen gases at a given temperature the molecules having the greatest average speed are those of",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.99511194229126
+    },
+    {
+      "question": "Compared with the power input, the power output of an ideal transformer is",
+      "model_answer": "I'm going to answer this question with a single letter.\n\nAnd that's it.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.9958860874176025
+    },
+    {
+      "question": "The amount of air drag on an 0.8-N flying squirrel dropping vertically at terminal velocity is",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.996664047241211
+    },
+    {
+      "question": "The vibrations in a longitudinal wave move in a direction",
+      "model_answer": "What is the answer?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.997396945953369
+    },
+    {
+      "question": "The potential energy of a compressed spring and the potential energy of a charged object both depend on",
+      "model_answer": "What is the response to the multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.998128175735474
+    },
+    {
+      "question": "A step-up transformer in an electrical circuit can step up",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.885733127593994
+    },
+    {
+      "question": "The neutrons in an atom are normally found",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.8862972259521484
+    },
+    {
+      "question": "The greenish-blue color of ocean water is due mostly to light that hasn’t been",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.886653184890747
+    },
+    {
+      "question": "Noise-canceling devices make use of sound",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.8875110149383545
+    },
+    {
+      "question": "Black is the combination of",
+      "model_answer": "What did you say?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.888261079788208
+    },
+    {
+      "question": "In a circuit of two lamps in parallel, if the current in one lamp is 2 A, the current in the other lamp is",
+      "model_answer": "What do you know?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.8890202045440674
+    },
+    {
+      "question": "Which of these changes when light refracts in passing from one medium to another?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.8893871307373047
+    },
+    {
+      "question": "If the frequency of one source of sound is 500 Hz and a second sound source is 504 Hz, then when the two waves interfere with each other, the beat frequency will be",
+      "model_answer": "What's the answer?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.889744281768799
+    },
+    {
+      "question": "The loudness of a sound is most closely related to its",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.890106201171875
+    },
+    {
+      "question": "The electric field inside the dome of a Van de Graaff generator is zero when the dome is",
+      "model_answer": "What's the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.890454053878784
+    },
+    {
+      "question": "The redness of a sunrise or sunset is due mostly to light that hasn’t been",
+      "model_answer": "What a beautiful moment!",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.7025041580200195
+    },
+    {
+      "question": "When a nucleus of uranium-238 emits an alpha particle, left behind is",
+      "model_answer": "What you are looking for is the answer to this multiple choice question about physics.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.703392028808594
+    },
+    {
+      "question": "The Doppler effect occurs when a source of sound moves",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.703961133956909
+    },
+    {
+      "question": "When a proton is plucked from an atomic nucleus, the atom has a decrease in",
+      "model_answer": "What you are trying to say that you have a decrease in A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.704351902008057
+    },
+    {
+      "question": "If the Sun were twice as massive, its pull on Mars would be",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.704718112945557
+    },
+    {
+      "question": "During the time an aircraft produces a sonic boom the aircraft is",
+      "model_answer": "What was the answer to this question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.705080032348633
+    },
+    {
+      "question": "When food is exposed to gamma radiation, the food",
+      "model_answer": "What was the answer that you were looking for?\n\nYou cannot make a distinction in this case",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.70543098449707
+    },
+    {
+      "question": "The red glow in the neon tube of an advertising sign is a result of",
+      "model_answer": "What is the response to the multiple-choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.706031084060669
+    },
+    {
+      "question": "Light that is not transmitted by opaque materials is",
+      "model_answer": "What a great question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.706790208816528
+    },
+    {
+      "question": "Imagine you're standing on the surface of a shrinking planet. If it shrinks to one-tenth its original diameter with no change in mass on the shrunken surface you'd weigh",
+      "model_answer": "What is your response to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.7075440883636475
+    },
+    {
+      "question": "A magnetic force acting on a beam of electrons can change its",
+      "model_answer": "What is the response to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.136639833450317
+    },
+    {
+      "question": "Microscopic slush in water tends to make the water",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.137340784072876
+    },
+    {
+      "question": "The speed of sound in air depends on",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.137762784957886
+    },
+    {
+      "question": "Heat comes from the Sun to Earth by the process of",
+      "model_answer": "What does it mean?\n\nThe answer is a single letter (A).",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.13811993598938
+    },
+    {
+      "question": "A torque is a force",
+      "model_answer": "What's the answer?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.138464689254761
+    },
+    {
+      "question": "All of the following are electromagnetic waves EXCEPT",
+      "model_answer": "What a great question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.138807773590088
+    },
+    {
+      "question": "Big brother and little sister can balance on a seesaw because of balanced",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.139230966567993
+    },
+    {
+      "question": "Any atom that emits an alpha particle or beta particle",
+      "model_answer": "What's the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.139771938323975
+    },
+    {
+      "question": "Regelation occurs due to water’s",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.140314817428589
+    },
+    {
+      "question": "A big fish swims upon and swallows a small fish that is at rest. Right after lunch, the fattened big fish has a change in",
+      "model_answer": "What's the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.140852928161621
+    },
+    {
+      "question": "A capacitor can store",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.747521162033081
+    },
+    {
+      "question": "For a tube closed at one end, the length of the tube at a frequency of 256 Hz will be",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.747907876968384
+    },
+    {
+      "question": "The period of a 10-Hz wave is",
+      "model_answer": "What's the answer?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.748257160186768
+    },
+    {
+      "question": "If the Sun collapsed to become a black hole Planet Earth would",
+      "model_answer": "What is the answer?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.748633861541748
+    },
+    {
+      "question": "The electric field between a pair of oppositely charged parallel plates",
+      "model_answer": "What is the response to this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.749150991439819
+    },
+    {
+      "question": "The flight of a blimp best illustrates",
+      "model_answer": "I'm going to answer this question with only one letter, so I'll say that's the only option for this multiple choice physics concept flight problem.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.749527931213379
+    },
+    {
+      "question": "The distance of your image behind a plane mirror is equal to",
+      "model_answer": "What did you say?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.7498860359191895
+    },
+    {
+      "question": "The discrete orbits of electrons are best understood when modeled by",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.750235080718994
+    },
+    {
+      "question": "Heat engines, such as a jet engine, are more efficient when run at",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.750584840774536
+    },
+    {
+      "question": "The phenomenon of interference occurs for",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.750931978225708
+    },
+    {
+      "question": "As more lamps are connected in a series circuit the current in the power source",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.9363698959350586
+    },
+    {
+      "question": "When you buy a pipe in a hardware store, the water isn’t included. When you buy copper wire, electrons",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.9371769428253174
+    },
+    {
+      "question": "When a uranium nucleus undergoes fission the energy released is primarily in the form of",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.937695026397705
+    },
+    {
+      "question": "Most of the radiation in Earth’s biosphere is",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.938157796859741
+    },
+    {
+      "question": "When white light enters a prism green light is bent more than",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.938520908355713
+    },
+    {
+      "question": "When a ball at rest hangs by a single vertical string tension in the string is mg. If the ball is made to move in amhorizontal circle so that the string describes a cone string tension",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.938882827758789
+    },
+    {
+      "question": "When a tin can is whirled in a horizontal circle, the net force on the can acts",
+      "model_answer": "What did you do?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.9392998218536377
+    },
+    {
+      "question": "The highest ocean tides occur when Earth and the Moon are",
+      "model_answer": "What is the answer?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.9396629333496094
+    },
+    {
+      "question": "Lift a 100-N crate with an ideal pulley system by pulling a rope downward with 25 N of force. For every 1-m length of rope pulled down, the crate rises",
+      "model_answer": "What is your answer?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.940016984939575
+    },
+    {
+      "question": "Hot sand cools off faster at night than does vegetation. Compared with vegetation, sand’s specific heat capacity is",
+      "model_answer": "What do you know?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.940441846847534
+    },
+    {
+      "question": "The color of light most intense in the solar radiation curve is",
+      "model_answer": "What a great question!",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.4299750328063965
+    },
+    {
+      "question": "If the current in the filament of a lamp is 3 A, the current in the connecting wire is",
+      "model_answer": "What do you need to know about the concept physics?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.430739879608154
+    },
+    {
+      "question": "If two protons and two neutrons are removed from the nucleus of neon-20, a nucleus of which element remains?",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.431788921356201
+    },
+    {
+      "question": "If a star that is 20 light-years from Earth explodes, gravitational waves from the explosion would reach Earth in",
+      "model_answer": "What does this multiple choice question about conceptual physics answer?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.432220935821533
+    },
+    {
+      "question": "In a mixture of hydrogen, oxygen, and nitrogen gases at a given temperature, the fastest molecules on average are those of",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.4326331615448
+    },
+    {
+      "question": "The mutual induction of electric and magnetic fields can produce",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.433336973190308
+    },
+    {
+      "question": "When a model car speeds up to three times its original speed, its kinetic energy is",
+      "model_answer": "What you are doing on the road and how you are doing it with your car.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.434067010879517
+    },
+    {
+      "question": "If an iron nucleus split in two, its fission fragments would have",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.4348390102386475
+    },
+    {
+      "question": "The surface of Planet Earth loses energy to outer space due mostly to",
+      "model_answer": "What is the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.435766935348511
+    },
+    {
+      "question": "The direction of natural processes is from states of",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.43654203414917
+    },
+    {
+      "question": "A principal source of the Earth’s internal energy is",
+      "model_answer": "What a great question!",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.847218036651611
+    },
+    {
+      "question": "A diffraction grating relies on light",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.847811222076416
+    },
+    {
+      "question": "A satellite in Earth orbit is above Earth’s",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.848167896270752
+    },
+    {
+      "question": "The time it takes for a pendulum swinging to and fro refers to its",
+      "model_answer": "I'm going to answer this question with only one letter, so I'll say that's the only option.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.848520994186401
+    },
+    {
+      "question": "As entropy in a system increases, energy in the system",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.84886908531189
+    },
+    {
+      "question": "When water changes to steam, energy is",
+      "model_answer": "What's the answer?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.849556922912598
+    },
+    {
+      "question": "According to Coulomb, a pair of charged particles placed twice as close to each other experience a force",
+      "model_answer": "What is the answer?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.850087881088257
+    },
+    {
+      "question": "The factors, both of which will increase the magnetic field strength of an electromagnet, are",
+      "model_answer": "I'm going to answer this multiple choice question about conceptual physics, and I'm going to say that I'm going to be on the other side of the magnetic field strength of an electromagnet, and I'm going to say that I'm going to be on the other side of the magnetic field strength of an electromagnet.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.850533962249756
+    },
+    {
+      "question": "The team that wins in a tug-of-war is the team that",
+      "model_answer": "What did you do?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.850881099700928
+    },
+    {
+      "question": "Which type of radiation from cosmic sources predominates on the inside of high-flying commercial airplanes?",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.851228952407837
+    },
+    {
+      "question": "Thermal convection involves mainly",
+      "model_answer": "I'm a helpful assistant that answers with only one letter (A, B, C, or D).",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.573476076126099
+    },
+    {
+      "question": "A 10-Ω resistor carries 10 A. The voltage across the resistor is",
+      "model_answer": "What was the answer of this multiple choice question about conceptual physics?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.574007987976074
+    },
+    {
+      "question": "A cannonball is fired horizontally at 10 m/s from a cliff. Its speed one second after being fired is about",
+      "model_answer": "What did you do?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.574368953704834
+    },
+    {
+      "question": "The average speed of a gazelle traveling a distance of 2 km in a time of one-half hour is",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.5747129917144775
+    },
+    {
+      "question": "The metal detectors people walk through at airports operate via",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.5752129554748535
+    },
+    {
+      "question": "Sound travels in",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.57557225227356
+    },
+    {
+      "question": "When a fusion reaction converts a pair of hydrogen isotopes to an alpha particle and a neutron most of the energy released is in the form of",
+      "model_answer": "What's the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.5760931968688965
+    },
+    {
+      "question": "Polarization is a property of",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.5764641761779785
+    },
+    {
+      "question": "The phenomenon of beats results from sound",
+      "model_answer": "What is the response to this question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.576999187469482
+    },
+    {
+      "question": "The lowest possible temperature is absolute zero, at",
+      "model_answer": "What a unique and interesting question!",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.577377080917358
+    },
+    {
+      "question": "Refraction occurs when a wave crosses a boundary and changes",
+      "model_answer": "What is the concept of physics that refers to the movement of a particle in a specific direction?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.807610273361206
+    },
+    {
+      "question": "When you tap a piece of wood, it will produce a characteristic sound related to its",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.808202028274536
+    },
+    {
+      "question": "When wind speeds up as it blows over the top of a hill, atmospheric pressure there",
+      "model_answer": "What is the answer for this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.809127330780029
+    },
+    {
+      "question": "When white light passes through a prism, the light that bends more than green is",
+      "model_answer": "What you are a single letter without any explanation.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.809535026550293
+    },
+    {
+      "question": "If you travel at high speed, then compared with your friends who “stay at home,” you are",
+      "model_answer": "What a great question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.809906959533691
+    },
+    {
+      "question": "The component of velocity that can remain constant for a tossed baseball is",
+      "model_answer": "What you are the answer to the question of the concept physics was not a problem",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.810307264328003
+    },
+    {
+      "question": "The crystals that make up minerals are composed of",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.810668230056763
+    },
+    {
+      "question": "Two vectors, one 3 N and the other 4 N, can have a resultant of",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.811022043228149
+    },
+    {
+      "question": "Radioactivity has been around on Earth since the",
+      "model_answer": "What is your response to this question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.811373233795166
+    },
+    {
+      "question": "When the shadow of the Moon falls on Earth, we have a",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.811721086502075
+    },
+    {
+      "question": "In both fission and fusion, energy is released while mass",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.5597522258758545
+    },
+    {
+      "question": "When relatively slow-moving molecules condense from the air, the temperature of the remaining air tends to",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.5601320266723633
+    },
+    {
+      "question": "If the volume of an object were to double, with no change in mass, its density would",
+      "model_answer": "What is the response?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.560519218444824
+    },
+    {
+      "question": "The pressure at the bottom of a pond does NOT depend on the",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5609030723571777
+    },
+    {
+      "question": "The blueness of the daytime sky is due mostly to light",
+      "model_answer": "What a great question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5612730979919434
+    },
+    {
+      "question": "A galvanometer can be calibrated to read electric",
+      "model_answer": "What is the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.5616300106048584
+    },
+    {
+      "question": "Which of these temperatures is likely when a container of water at 20°C is mixed with water at 28°C?",
+      "model_answer": "What's the temperature that you're looking for?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.5619828701019287
+    },
+    {
+      "question": "To view your full-face image in a steamy mirror compared with the height of your face the minimum height of the patch to wipe away is",
+      "model_answer": "What's the answer?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.5623459815979004
+    },
+    {
+      "question": "The vibrations in a transverse wave move in a direction",
+      "model_answer": "What is the answer?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.562788963317871
+    },
+    {
+      "question": "A 1134-Hz tuning fork is sounded at the same time a piano note is struck. You hear three beats per second. The frequency of the piano string is",
+      "model_answer": "What did you do?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5635221004486084
+    },
+    {
+      "question": "Huygens’ principle for light is primarily described by",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.80314302444458
+    },
+    {
+      "question": "When the temperature of a strip of iron is increased, the length of the strip",
+      "model_answer": "What's the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.8035571575164795
+    },
+    {
+      "question": "When light undergoes interference, it can sometimes",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.803903102874756
+    },
+    {
+      "question": "When the color yellow is seen on your TV screen the phosphors being activated on the screen are",
+      "model_answer": "What a great question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.804425001144409
+    },
+    {
+      "question": "Which of these does NOT belong in the family of electromagnetic waves?",
+      "model_answer": "The answer is a single letter (B).",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.80515718460083
+    },
+    {
+      "question": "A math book and a physics book sitting on a table are tied together with a length of string. With the string taut one book is pushed off the edge of the table. As it falls the other book is dragged horizontally across the table surface. With no friction acceleration of the books is",
+      "model_answer": "What's the answer to this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.805928945541382
+    },
+    {
+      "question": "A motor and a generator are",
+      "model_answer": "I'm going to answer this question with only one letter, A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.806463003158569
+    },
+    {
+      "question": "As more lamps are connected in parallel in a circuit the current in the power source",
+      "model_answer": "What is your response to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.806816101074219
+    },
+    {
+      "question": "Newton’s law of cooling applies to objects that",
+      "model_answer": "I'm going to answer this question with a single letter, but I'm not sure what to look at the end of the universe.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.807183265686035
+    },
+    {
+      "question": "The fact that the Moon always shows its same face to Earth is evidence that the Moon rotates about its axis about once per",
+      "model_answer": "What a great question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.807552099227905
+    },
+    {
+      "question": "Consider a ball rolling in a horizontal circular path on the inside surface of a cone. The normal force on the ball",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.4505438804626465
+    },
+    {
+      "question": "The compressions and rarefactions in sound normally travel",
+      "model_answer": "What is the answer?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.451502799987793
+    },
+    {
+      "question": "The power required to raise a 100-kg crate a vertical distance of 2 m in a time of 4 s is",
+      "model_answer": "I cannot answer this question because it requires the power to raise a 100-kg crate to a height of 2 m in a time of 4 s, and I do not know how to solve this problem.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.4522528648376465
+    },
+    {
+      "question": "The phenomenon of beats is the result of sound",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.452928066253662
+    },
+    {
+      "question": "Interference is characteristic of",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.45370078086853
+    },
+    {
+      "question": "In either a fission event or a fusion event, a quantity that remains unchanged is the",
+      "model_answer": "I'm going to answer this question with only one letter, so I'll say it's just one thing.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.454442024230957
+    },
+    {
+      "question": "The magnetic force on a moving charged particle can change the particle's",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.45541787147522
+    },
+    {
+      "question": "If you were to travel at a speed close to the speed of light, you could notice that your own",
+      "model_answer": "What is the response to this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.455951929092407
+    },
+    {
+      "question": "Electricity and magnetism connect to form",
+      "model_answer": "What is the answer?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.456334829330444
+    },
+    {
+      "question": "Sound travels in air by a series of",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.456689834594727
+    },
+    {
+      "question": "When a cannonball is fired from a cannon, both the cannonball and the cannon experience equal",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.546082019805908
+    },
+    {
+      "question": "The nucleus of an electrically neutral iron atom contains 26 protons. The number of electrons this iron atom has is",
+      "model_answer": "What a great question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.54705286026001
+    },
+    {
+      "question": "To say that a rose petal is red is to say that it",
+      "model_answer": "What's the answer?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.547408103942871
+    },
+    {
+      "question": "Compared with a sound of 60 decibels, a sound of 80 decibels has an intensity",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.547770738601685
+    },
+    {
+      "question": "When red and blue light are overlapped, the color produced is",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.548222780227661
+    },
+    {
+      "question": "When 100 J are put into a device that puts out 40 J of useful work, the efficiency of the device is",
+      "model_answer": "What was the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.548571825027466
+    },
+    {
+      "question": "Shock waves are produced by waves of sound",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.548929929733276
+    },
+    {
+      "question": "A rock suspended by a weighing scale weighs 5 N out of water and 3 N when submerged in water. What is the buoyant force on the rock?",
+      "model_answer": "The answer to this question is a single letter, so I can't help with the answer.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.5492777824401855
+    },
+    {
+      "question": "The work done on a 100-kg crate that is hoisted 2 m in a time of 4 s is",
+      "model_answer": "What's the answer?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.5496299266815186
+    },
+    {
+      "question": "A capacitor loses half its remaining charge every second. If after five seconds its charge is q what was its initial charge?",
+      "model_answer": "I'm a helpful assistant that answers multiple questions about conceptual physics, and I can only answer with one letter (A).",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.549973964691162
+    },
+    {
+      "question": "The mass of an atom comes mostly from its _ ; and its volume from its _.",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.989337921142578
+    },
+    {
+      "question": "The definition of magnetic inclination is the angle between",
+      "model_answer": "What did you say?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.9898219108581543
+    },
+    {
+      "question": "The pitch of a sound is mostly related to its",
+      "model_answer": "This was the only one that was not a multiple choice question, and it was not a single.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.990170955657959
+    },
+    {
+      "question": "As more lamps are connected to a series circuit, the current in the power source",
+      "model_answer": "What is the answer?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.990549087524414
+    },
+    {
+      "question": "When an element ejects an alpha particle, the mass number of the resulting element",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.990917921066284
+    },
+    {
+      "question": "An electron can be speeded up by",
+      "model_answer": "What is the answer?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.9912760257720947
+    },
+    {
+      "question": "A certain element emits 1 alpha particle, and its products then emit 2 beta particles in succession. The atomic number of the resulting element is changed by",
+      "model_answer": "What a great question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.9918999671936035
+    },
+    {
+      "question": "When an object is set vibrating by a wave that has a matching frequency, what occurs is",
+      "model_answer": "What was the answer to the question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.992637872695923
+    },
+    {
+      "question": "The red glow in the neon tube of an advertising sign is a result of",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.9933698177337646
+    },
+    {
+      "question": "At very high speeds, an object appears to an observer at rest to be",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.9940998554229736
+    },
+    {
+      "question": "When a wave moves from shallow water to deep water, the",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.973484992980957
+    },
+    {
+      "question": "When you drop a ball from rest it accelerates downward at 9.8 m/s^2. If you instead throw it downward assuming no air resistance its acceleration immediately after leaving your hand is",
+      "model_answer": "What a question that you are not to be taken seriously.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.974256277084351
+    },
+    {
+      "question": "Carbon-14 is primarily produced by cosmic radiation in the",
+      "model_answer": "What a great question!",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.974987983703613
+    },
+    {
+      "question": "Chain reactions in a fission reactor are caused by",
+      "model_answer": "I'm going to answer this question with only one letter, so I'll say that's the only thing that's not a single letter.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.975365161895752
+    },
+    {
+      "question": "Satellites in circular Earth orbit maintain a constant speed because gravitational force on them is",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.9757301807403564
+    },
+    {
+      "question": "The complementary color of blue is",
+      "model_answer": "What is the answer?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.9760901927948
+    },
+    {
+      "question": "The difference between dc and ac in electric circuits is that in dc, charges flow",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.976444244384766
+    },
+    {
+      "question": "To receive an electric shock there must be a",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.977069139480591
+    },
+    {
+      "question": "A karate chop delivers a force of 3000 N to a board that breaks. The force that the board exerts on the hand during this event is",
+      "model_answer": "What does the force that the board delivers to the hand?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.977808237075806
+    },
+    {
+      "question": "Find the speed of a wave by multiplying its frequency by its",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.978638172149658
+    },
+    {
+      "question": "The magnitude of the gravitational force on a satellite is constant if the orbit is",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.130552053451538
+    },
+    {
+      "question": "The impulse–momentum relationship is a direct result of Newton’s",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.131383180618286
+    },
+    {
+      "question": "A common nuclear fission reactor",
+      "model_answer": "The answer to this multiple choice question is D.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.131793260574341
+    },
+    {
+      "question": "The process of boiling water tends to",
+      "model_answer": "What is the response?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.132148027420044
+    },
+    {
+      "question": "When you scale up an object to 3 times its linear size, the surface area increases by",
+      "model_answer": "What is your response to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.132527112960815
+    },
+    {
+      "question": "If you change the magnetic field in a closed loop of wire, what is created in the loop is a(n)",
+      "model_answer": "The answer to this multiple choice question is A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.13290810585022
+    },
+    {
+      "question": "Clocks on a fast-moving spaceship whizzing past Earth appear to run slow when viewed from",
+      "model_answer": "What did you do?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.133255243301392
+    },
+    {
+      "question": "The model of light most supported by the photoelectric effect is the",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.133606195449829
+    },
+    {
+      "question": "Compared with a fundamental tone, the frequency of its second harmonic is",
+      "model_answer": "What was the answer to the question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.134063243865967
+    },
+    {
+      "question": "A string is plucked producing four loops (antinodes). The length of the string is 12.00 m. The wavelength of the wave must be",
+      "model_answer": "What a great question!",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.134428977966309
+    },
+    {
+      "question": "During the time an aircraft produces a sonic boom, the aircraft is",
+      "model_answer": "What was the question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.076042890548706
+    },
+    {
+      "question": "The principal source of Earth’s internal energy is",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.076586961746216
+    },
+    {
+      "question": "When you brush your hair and scrape electrons from your hair, the charge of your hair becomes",
+      "model_answer": "What is the charge of the hair?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.077028036117554
+    },
+    {
+      "question": "Astrophysicists are able to identify the elements in the outer layers of a star by studying its",
+      "model_answer": "What is your response to this question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.07745099067688
+    },
+    {
+      "question": "Relativistic equations for time dilation length contraction and relativistic momentum and energy hold true",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.077805042266846
+    },
+    {
+      "question": "In his special theory of relativity, Einstein stated that the laws of physics are",
+      "model_answer": "What is your response to this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.078166961669922
+    },
+    {
+      "question": "When an element ejects a beta particle, the atomic number of that element",
+      "model_answer": "What is your answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.078517913818359
+    },
+    {
+      "question": "The amount of heat transferred to a system can be measured in",
+      "model_answer": "What is the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.078902006149292
+    },
+    {
+      "question": "Compared with the sound you hear from the siren of a stationary fire engine, its sound when it approaches you has an increased",
+      "model_answer": "What is the response to this question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.079722881317139
+    },
+    {
+      "question": "Light reflecting from a smooth surface undergoes a change in",
+      "model_answer": "What is the response to the multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.080485105514526
+    },
+    {
+      "question": "What Einstein discovered about space and time is that they",
+      "model_answer": "I'm going to answer this question with a single letter, but I'm not sure what the other side was for the other side.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.433900833129883
+    },
+    {
+      "question": "All parts of a laser beam have the same",
+      "model_answer": "What is the concept of Physics that you are referring to?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.4343531131744385
+    },
+    {
+      "question": "The rotational inertia of an object is greater when most of the mass is located",
+      "model_answer": "What was the question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.4347028732299805
+    },
+    {
+      "question": "When small pieces of material are assembled into a larger piece, the combined surface area",
+      "model_answer": "What's the answer to this multiple choice question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.435611009597778
+    },
+    {
+      "question": "A rainbow is the result of light in raindrops that undergoes",
+      "model_answer": "What a beautiful answer!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.4364330768585205
+    },
+    {
+      "question": "In the atomic nucleus, electrical forces tend to",
+      "model_answer": "What is the answer for this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.437195062637329
+    },
+    {
+      "question": "The fact that the acceleration of free fall is the same for all masses is explained by Newton’s",
+      "model_answer": "I'm a helpful assistant, and I only answer with one letter, which is D.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.437644004821777
+    },
+    {
+      "question": "Compared with radiation from the Sun, terrestrial radiation has a lower",
+      "model_answer": "What is the answer to this multiple choice question?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.438009977340698
+    },
+    {
+      "question": "When we speak of time dilation, we mean that time",
+      "model_answer": "What did you say?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.438358783721924
+    },
+    {
+      "question": "The magnetic field lines about a current-carrying wire form",
+      "model_answer": "I'm going to answer this question with only one letter, so I'll say that's the only option for me to be a good assistant.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.4387311935424805
+    },
+    {
+      "question": "An inflated balloon with a heavy rock tied to it is dropped into a deep lake. As the balloon sinks deeper and deeper the buoyant force acting on it",
+      "model_answer": "What's your response?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.0426712036132812
+    },
+    {
+      "question": "A radioactive sample has a half-life of 1 hour. If we start with 1.000 gram of it at noon, how much remains at 3:00 pm?",
+      "model_answer": "The answer is D.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.0433332920074463
+    },
+    {
+      "question": "Boiling and freezing occur when water is subjected to",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.0436830520629883
+    },
+    {
+      "question": "When you bend the branch of a tree by hanging on its end, the top side of the branch is under",
+      "model_answer": "What's the answer to this multiple choice question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.0440499782562256
+    },
+    {
+      "question": "A simple and correct way to comprehend satellites orbiting Earth is to view them as",
+      "model_answer": "What's the answer for this multiple choice question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.044616937637329
+    }
+  ]
+}

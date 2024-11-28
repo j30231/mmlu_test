@@ -1,0 +1,2743 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@q4_0",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-075316"
+  },
+  "subject": "high_school_macroeconomics",
+  "category": "social sciences",
+  "correct_rate": 59.23076923076923,
+  "evaluation_results": [
+    {
+      "question": "Suppose that an expansionary fiscal policy leads to a large increase in real output and a small increase in the price level. From this it can be inferred that",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.506070137023926
+    },
+    {
+      "question": "Which of the following is included in U.S. GDP? I.   The market value of movies made in Africa by U.S. citizens II.   The market value of olive oil made in Italy and sold in the United States. III.   The market value of blue jeans made in the United States and sold in Japan IV.   The market value of wine made in the United States by Canadian citizens",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5064592361450195
+    },
+    {
+      "question": "When both short-run aggregate supply and aggregate demand increase which of the following can be said for certain?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.506870985031128
+    },
+    {
+      "question": "Tariffs and quotas",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.509584903717041
+    },
+    {
+      "question": "A likely cause of falling Treasury bond prices might be",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.509695053100586
+    },
+    {
+      "question": "Households demand more money as an asset when",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.509788990020752
+    },
+    {
+      "question": "Allocative efficiency",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5098800659179688
+    },
+    {
+      "question": "GDP measures",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5099689960479736
+    },
+    {
+      "question": "Every choice results in a foregone best alternative which economists call the",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.510059118270874
+    },
+    {
+      "question": "When a nation is operating at the natural rate of unemployment",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5101492404937744
+    },
+    {
+      "question": "If a country has a negative value on its current account then it must",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3255622386932373
+    },
+    {
+      "question": "Which of the following transactions would be counted in GDP?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.325935125350952
+    },
+    {
+      "question": "If your nominal income rises 4 percent and your real income falls 1 percent by how much did the price level change?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3262741565704346
+    },
+    {
+      "question": "Economy X is an open economy with flexible exchange rates. Economy Y is closed. Ceteris paribus expansionary monetary policy is",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3266239166259766
+    },
+    {
+      "question": "Equilibrium real GDP is far below full employment and the government lowers household taxes. Which is the likely result?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3271191120147705
+    },
+    {
+      "question": "If $1000 is deposited into a checking account and excess reserves increase by $700 the reserve ratio must be:",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3274900913238525
+    },
+    {
+      "question": "Automatic or built-in stabilizers",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.327605962753296
+    },
+    {
+      "question": "Suppose consumers expect the price of corn to be lower in the near future while the price of seed corn and fertilizer fall. What will happen to the equilibrium price and the equilibrium quantity?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.32770037651062
+    },
+    {
+      "question": "An increase in the demand for money in the economy could result from",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3277931213378906
+    },
+    {
+      "question": "An increase in the consumer price index is commonly referred to as",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3278839588165283
+    },
+    {
+      "question": "GDP measures I. production II. income earned during the production process III. spending by consumers businesses governments and foreigners",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4343459606170654
+    },
+    {
+      "question": "The economy is currently operating at full employment. Assuming flexible wages and prices how would a decline in aggregate demand affect GDP and the price level in the short run and GDP and the price level in the long run? SHORT-RUN GDP     SHORT-RUN PRICE LEVEL     LONG-RUN GDP     LONG-RUN PRICE LEVEL",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.434912919998169
+    },
+    {
+      "question": "If the economy is operating at full employment which of the following policies will create the most inflation in the short run?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4352550506591797
+    },
+    {
+      "question": "The real interest rate is",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4356319904327393
+    },
+    {
+      "question": "Which of the following would be an example of fiat money?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4359688758850098
+    },
+    {
+      "question": "Which of the following fiscal policies is likely to be most effective when the economy is experiencing an inflationary gap?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.4366068840026855
+    },
+    {
+      "question": "Among those hurt by inflation are I.   borrowers at fixed interest rates II.   individuals on fixed incomes III.   those with savings earning fixed interest rates IV.   restaurant owners",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.436892032623291
+    },
+    {
+      "question": "Required reserves",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.437000036239624
+    },
+    {
+      "question": "Potential GDP will fall ceteris paribus if",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4370951652526855
+    },
+    {
+      "question": "Contractionary monetary policy implies which of the following about the discount rate the nominal interest rate and aggregate demand? Discount rate      Nominal interest rate      Aggregate demand",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4371869564056396
+    },
+    {
+      "question": "Which of the following is a fundamental economic question?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.244054079055786
+    },
+    {
+      "question": "Fisher's Hypothesis states that",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.2444369792938232
+    },
+    {
+      "question": "The best example of a negative supply shock to the economy would be",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.244777202606201
+    },
+    {
+      "question": "According to Say's law",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2453250885009766
+    },
+    {
+      "question": "What will happen to the equilibrium price level and the equilibrium quantity of output if the aggregate supply curve shifts to the left? Assume an upward sloping aggregate supply curve.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.2455251216888428
+    },
+    {
+      "question": "The Federal Open Market Committee",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2456231117248535
+    },
+    {
+      "question": "An increase in the price of forklifts imported into the United States from Belgium will",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.245723247528076
+    },
+    {
+      "question": "Theo loses his job at the public swimming pool when the pool closes for the winter. This is an example of",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.245814085006714
+    },
+    {
+      "question": "Keynes",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.245906352996826
+    },
+    {
+      "question": "Assume commercial banks save no excess reserves and the reserve requirement is 20 percent. How much money is created in new loans from all banks after this bank receives a deposit of $1000 ?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.245995044708252
+    },
+    {
+      "question": "Which of the following policies is most likely to bring about economic growth in the long run?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3579530715942383
+    },
+    {
+      "question": "When a country has a balance of trade deficit",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3609020709991455
+    },
+    {
+      "question": "National income measures",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3610169887542725
+    },
+    {
+      "question": "Assume the reserve requirement is 10 percent. If the FED sells $29 million worth of government securities in an open market operation then the money supply can",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3611109256744385
+    },
+    {
+      "question": "The \"crowding-out\" effect refers to which of the following?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3612020015716553
+    },
+    {
+      "question": "Suppose transfer payments are greater than Social Security contributions corporate taxes and retained earnings combined. In that case",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.361294984817505
+    },
+    {
+      "question": "The FED's Board of Governors has members each serving -year terms.",
+      "model_answer": "B. 7 14",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.361384868621826
+    },
+    {
+      "question": "Which of the following would lead to a decrease in the money supply?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.36147403717041
+    },
+    {
+      "question": "Which of the following insures the value of the U.S. dollar?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3615620136260986
+    },
+    {
+      "question": "In what ways is contractionary fiscal policy in the United States likely to affect domestic interest rates and the international value of the dollar?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.361650228500366
+    },
+    {
+      "question": "Which of the following results from stagflation?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.466871976852417
+    },
+    {
+      "question": "What does the presence of discouraged workers do to the measurement of the unemployment rate?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4673149585723877
+    },
+    {
+      "question": "Which of the following statements is true?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4678330421447754
+    },
+    {
+      "question": "To close an expansionary gap",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4682068824768066
+    },
+    {
+      "question": "If the short-run aggregate supply curve is horizontal it is because",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4685487747192383
+    },
+    {
+      "question": "In the equation GDP = C + I + G + X X stands for",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4689579010009766
+    },
+    {
+      "question": "Which of the following represents a combination of contractionary fiscal and expansionary monetary policy? FISCAL POLICY     MONETARY POLICY",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.469374895095825
+    },
+    {
+      "question": "Inflation",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.4695088863372803
+    },
+    {
+      "question": "Stagflation most likely results from",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4696030616760254
+    },
+    {
+      "question": "Which group of people will suffer the most from a rising price level?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.469696044921875
+    },
+    {
+      "question": "Which of the following lists contains only Fed actions that will increase the money supply?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.31439471244812
+    },
+    {
+      "question": "The government measures inflation using the",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.314797878265381
+    },
+    {
+      "question": "If people expect the price of a particular product to increase in the near future",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.315136671066284
+    },
+    {
+      "question": "The effect of the spending multiplier is lessened if",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.315621852874756
+    },
+    {
+      "question": "Operating in the intermediate range of the aggregate supply curve an increase in aggregate demand results in an increase in",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3159358501434326
+    },
+    {
+      "question": "Suppose DVD players are a normal good and are exchanged in a competitive market. All else equal an increase in household income will",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3160409927368164
+    },
+    {
+      "question": "According to Keynesian theory a decrease in the money supply would",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3161368370056152
+    },
+    {
+      "question": "If the money supply increases what happens in the money market (assuming money demand is downward sloping)?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3162357807159424
+    },
+    {
+      "question": "If XYZ Corporation buys an original Matisse painting to hang in its board room then",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3163259029388428
+    },
+    {
+      "question": "The tax multiplier increases in magnitude when",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3164148330688477
+    },
+    {
+      "question": "The international value of the dollar will appreciate if",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.155888319015503
+    },
+    {
+      "question": "Which of the following is not included in MI?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.1563172340393066
+    },
+    {
+      "question": "The domestic purchasing power of a currency",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.156733274459839
+    },
+    {
+      "question": "It is unlikely that the unemployment rate will ever fall to zero because of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.157147169113159
+    },
+    {
+      "question": "Which of the following is an accurate statement of the money supply in the United States?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1576082706451416
+    },
+    {
+      "question": "Which of the following is an example of an expansionary supply shock?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.157719135284424
+    },
+    {
+      "question": "Which of the following shifts the production possibilities frontier outward?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.1578261852264404
+    },
+    {
+      "question": "The money supply will increase as a result of which of the following?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.1579179763793945
+    },
+    {
+      "question": "Output in country X is 30000 units and there are 3000 persons working while country Z has an output of 40000 units and 8000 workers.",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.158010244369507
+    },
+    {
+      "question": "Milton Friedman",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.158104181289673
+    },
+    {
+      "question": "According to Monetarist theory when the money supply is changed the economy is affected",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.560667037963867
+    },
+    {
+      "question": "Which of the following is true of money and financial markets?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5607781410217285
+    },
+    {
+      "question": "Using the model of AD and AS what happens in the short run to real GDP the price level and unemployment with more consumption spending (C)? REAL GDP     PRICE LEVEL     UNEMPLOYMENT",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5608739852905273
+    },
+    {
+      "question": "Suppose the economy is operating beyond full employment. Which of the following is true at this point?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.560976982116699
+    },
+    {
+      "question": "An American buys an entertainment system that was manufactured in China. How does the U.S. national income accounts treat this transaction?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.5610692501068115
+    },
+    {
+      "question": "A nation that must consistently borrow to cover annual budget deficits risks",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.561160087585449
+    },
+    {
+      "question": "All else equal when the United States exports more goods and services",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.561251163482666
+    },
+    {
+      "question": "According to Classical analysis an economy in a recession can return to full employment through",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.561340093612671
+    },
+    {
+      "question": "One strategy a corporation may use to gain market share in a foreign market is",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.561429023742676
+    },
+    {
+      "question": "GDP is $10 million consumer spending is $6 million government spending is $3 million exports are $2 million and imports are $3 million. How much is spent for investments?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.561516046524048
+    },
+    {
+      "question": "If the Japanese economy suffers a deep prolonged recession in what ways would U.S. net exports and the values of the dollar and yen change? U.S. NET EXPORTS     VALUE OF DOLLAR     VALUE OF YEN",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.446723222732544
+    },
+    {
+      "question": "Of the following choices which combination of fiscal and monetary policy would most likely reduce a recessionary gap? FISCAL POLICY     MONETARY POLICY",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4472272396087646
+    },
+    {
+      "question": "The appropriate fiscal policy to remedy a recession is to",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4476139545440674
+    },
+    {
+      "question": "If real GDP per capita was $20000 in 1980 and $21000 in 1990 then we conclude that the standard of living has increased",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.447951316833496
+    },
+    {
+      "question": "A use of easy money (expansionary) policy by the Fed could result in which of the following?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.448284149169922
+    },
+    {
+      "question": "If the inflation rate is expected to increase in the immediate future then",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.448941230773926
+    },
+    {
+      "question": "Which of the following is not included in M2?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.4490602016448975
+    },
+    {
+      "question": "Rising prices are a problem because",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.44915509223938
+    },
+    {
+      "question": "According to Keynesian theory",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.449244260787964
+    },
+    {
+      "question": "If the economy were experiencing a recessionary gap choose the option below that would be an appropriate fiscal policy to eliminate the gap and the predicted impact of the policy on real GDP and unemployment. FISCAL POLICY     REAL GDP     UNEMPLOYMENT",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4493372440338135
+    },
+    {
+      "question": "Which of the following tends to increase the spending multiplier?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.326821804046631
+    },
+    {
+      "question": "A negative or contractionary supply shock will",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.327275037765503
+    },
+    {
+      "question": "The crowding-out effect from government borrowing is best described as",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3276307582855225
+    },
+    {
+      "question": "Which of the following best describes a key difference between the short-run and long-run aggregate supply curve?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.328132152557373
+    },
+    {
+      "question": "In order to reduce or eliminate crowding out expansionary fiscal policy can be accompanied by",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3285329341888428
+    },
+    {
+      "question": "For years you work as a grocery checker at a supermarket and one day you are replaced by self-serve checkout stations. What type of unemployment is this?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3288798332214355
+    },
+    {
+      "question": "Monetarists believe that V and Q are",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.329226016998291
+    },
+    {
+      "question": "The appropriate fiscal policy to remedy a recession",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3300957679748535
+    },
+    {
+      "question": "Suppose that Tiger Woods buys a golf ball in England for $1 and the marginal propensity to consume in England is 0.75. What is the total increase in England's real GDP resulting from Mr. Woods' purchase?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3302180767059326
+    },
+    {
+      "question": "Which of the following monetary policies would lessen the effectiveness of expansionary fiscal policy?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.330315113067627
+    },
+    {
+      "question": "In the equation of exchange if V and Q are constant then",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2991647720336914
+    },
+    {
+      "question": "In 2004 the United States had a trade deficit of $603 billion; therefore",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.2995479106903076
+    },
+    {
+      "question": "If interest rates rise in the United States relative to other nations then",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.2999427318573
+    },
+    {
+      "question": "Use the following three responses to answer the question: Fiscal policy is not always effective because of I. crowding out. II. rational expectations. III. the balanced budget amendment.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3002800941467285
+    },
+    {
+      "question": "The reserve ratio is .10 and Mommy Morebucks withdraws $1 million from her checking account and keeps it as cash in her refrigerator. How does this withdrawal potentially impact money in circulation?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3006179332733154
+    },
+    {
+      "question": "Which of the following is a consequence of a protective tariff on imported steel?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.300952911376953
+    },
+    {
+      "question": "Of the following choices the one most likely to be preferred by supply-side economists would be",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3014330863952637
+    },
+    {
+      "question": "Economic growth is",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3015518188476562
+    },
+    {
+      "question": "If Real GDP = $200 billion and the price index = 200 Nominal GDP is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.301647901535034
+    },
+    {
+      "question": "Which of the following is NOT included in GDP?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.301738977432251
+    },
+    {
+      "question": "Which of the following will promote economic growth?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2403361797332764
+    },
+    {
+      "question": "Automatic stabilizers in the economy serve an important role in",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.240779161453247
+    },
+    {
+      "question": "To deflate nominal gross domestic product (GDP) you must",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.241403102874756
+    },
+    {
+      "question": "To move the economy closer to full employment the central bank decides that the federal funds rate must be increased. The appropriate open market operation is to ______ which ______ the money supply ______ aggregate demand and fights ______. OMO     MONEY SUPPLY     AD     TO FIGHT",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2417142391204834
+    },
+    {
+      "question": "Say's Law",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2418291568756104
+    },
+    {
+      "question": "The aggregate supply curve will shift to the right in response to",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2419309616088867
+    },
+    {
+      "question": "U.S. real GDP most likely falls when",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2420241832733154
+    },
+    {
+      "question": "The term \"menu costs\" refers to",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.2421140670776367
+    },
+    {
+      "question": "Investment demand most likely increases when",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.242206335067749
+    },
+    {
+      "question": "The population of country X is exactly the same as country Y but country X produces twice as much output as country Y. We can conclude that",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.242295026779175
+    },
+    {
+      "question": "A nation is producing at a point inside of its production possibility curve. Which of the following is a possible explanation for this outcome?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5341508388519287
+    },
+    {
+      "question": "Which of the following is characteristic of a centrally planned economic system?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5345327854156494
+    },
+    {
+      "question": "If the Federal Reserve was concerned about the \"crowding-out\" effect they could engage in",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.5348706245422363
+    },
+    {
+      "question": "According to Keynesian analysis a decrease in the money supply would",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.53521990776062
+    },
+    {
+      "question": "Suppose the exchange rates are 0.5 British Pound per dollar; 10 Mexican Pesos per dollar; and 100 Chinese Yuan per dollar. Further suppose that a Big Mac costs 3 dollars in America; 2 pounds in England; 50 pesos in Mexico; and 200 yuan in China. In which country is a Big Mac most expensive?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.535557746887207
+    },
+    {
+      "question": "When a bank's balance sheet shows that the bank has excess reserves",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5360217094421387
+    },
+    {
+      "question": "Which is the best way to describe the AS curve in the long run?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.536271810531616
+    },
+    {
+      "question": "Suppose that current disposable income is $10000 and consumption spending is $8000. For every $100 increase in disposable income saving increases $10. Given this information",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.536367893218994
+    },
+    {
+      "question": "When the United States places an import quota on imported sugar we expect which of the following effects?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5364649295806885
+    },
+    {
+      "question": "Which of the following is the source of the supply of loanable funds?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.536555051803589
+    },
+    {
+      "question": "Congress has embarked on another round of expansionary fiscal policy to boost employment and get reelected. As chair of the central bank how would you reduce the \"crowding-out\" effect and what macroeconomic problem might your policy exacerbate?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3960540294647217
+    },
+    {
+      "question": "A change in government spending will have a greater short run impact on real output when",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3966431617736816
+    },
+    {
+      "question": "An American firm moves a manufacturing plant from the United States to Brazil. How will this affect gross domestic product (GDP) in the United States and in Brazil?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3972790241241455
+    },
+    {
+      "question": "In the United States over the years V and Q",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.397834062576294
+    },
+    {
+      "question": "Which of the following best measures changes in the price level of national product?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.397956132888794
+    },
+    {
+      "question": "Suppose the demand for a particular product falls while the supply simultaneously increases. What will happen to the equilibrium price and the equilibrium quantity?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3980512619018555
+    },
+    {
+      "question": "When a large increase in aggregate demand has an even greater increase in real GDP economists refer to this as",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3981430530548096
+    },
+    {
+      "question": "Output in country A is 1200 units and its population is 100 persons. Output in country B is 2400 units and its population is 400 persons.",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.39823317527771
+    },
+    {
+      "question": "Private industry can promote economic growth by",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.398322105407715
+    },
+    {
+      "question": "Which of the following would be included in U.S. GDP calculations?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3984100818634033
+    },
+    {
+      "question": "The U.S. economy currently suffers a recessionary gap and a budget deficit exists. If the government wishes to fix the recession which of the following choices best describes the appropriate fiscal policy the impact on the market for loanable funds the interest rate and the market for the U.S. dollar? FISCAL POLICY     LOANABLE FUNDS     INTEREST RATE     MARKET FOR $",
+      "model_answer": "B.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.659919023513794
+    },
+    {
+      "question": "Expansionary monetary policy is designed to",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6603338718414307
+    },
+    {
+      "question": "One drawback of using fiscal policy to close a recessionary gap is that",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.660670042037964
+    },
+    {
+      "question": "Which of the following would be considered contractionary monetary policy?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6610000133514404
+    },
+    {
+      "question": "U.S. dollars and the European Union's (EU's) euro are exchanged in global currency markets. Which of the following is true?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6614978313446045
+    },
+    {
+      "question": "Which of the following is likely to shift the long-run aggregate supply curve to the right?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6618640422821045
+    },
+    {
+      "question": "If the cost of the basket of goods and services the Bureau of Labor Statistics uses to calculate the consumer price index rises from $200 in the base period to $400 in the current period then the consumer price index",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.6619789600372314
+    },
+    {
+      "question": "Which of the following is a consequence of removal of a protective tariff on imported steel?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.662075996398926
+    },
+    {
+      "question": "If the FED buys bonds in the secondary market",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6621668338775635
+    },
+    {
+      "question": "A financial planner on a popular TV show convinces more Americans to save for retirement. What is the result on the supply and demand for loanable funds?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.662256956100464
+    },
+    {
+      "question": "The aggregate demand curve has a negative slope in part because when the price level increases",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.161316156387329
+    },
+    {
+      "question": "A budget deficit exists when",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.1617631912231445
+    },
+    {
+      "question": "Of the following choices the most direct exchange in the circular flow model of a private closed economy is when",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.1621291637420654
+    },
+    {
+      "question": "Depreciation of the dollar is most likely to",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.162661075592041
+    },
+    {
+      "question": "Which of the following increases the size of the tax multiplier?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.163604974746704
+    },
+    {
+      "question": "Which of the following is not a scarce economic resource?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.1637160778045654
+    },
+    {
+      "question": "Lower interest rates in the United States cause the value of the dollar and exports to change in which of the following ways? VALUE OF THE DOLLAR     U.S. EXPORTS",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.1638081073760986
+    },
+    {
+      "question": "Which of the following is true of automatic fiscal policy stabilizers?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.163905143737793
+    },
+    {
+      "question": "Which of the following would NOT shift the aggregate demand curve?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.1639931201934814
+    },
+    {
+      "question": "Which of the following would likely contribute to faster rates of economic growth?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1640830039978027
+    },
+    {
+      "question": "The Phillips curve represents the relationship between",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2312052249908447
+    },
+    {
+      "question": "If real GDP per capita grows at a rate of 10 percent a year then we can expect the standard of living to double in",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.232928991317749
+    },
+    {
+      "question": "The government can promote economic growth by",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2330479621887207
+    },
+    {
+      "question": "Which of the following would shift the aggregate demand curve to the left?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2331430912017822
+    },
+    {
+      "question": "Which component of a nation's balance of payments recognizes the purchase and sale of real and financial assets between nations?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.233234167098999
+    },
+    {
+      "question": "At the break-even point",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2333271503448486
+    },
+    {
+      "question": "A dark room technician who develops film into photographs loses his job because few people use film cameras any more. This is an example of which of the following?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.233415126800537
+    },
+    {
+      "question": "The fractional reserve banking system's ability to create money is lessened if",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.233504056930542
+    },
+    {
+      "question": "If a bank has $500 in checking deposits and the bank is required to reserve $50 what is the reserve ratio? How much does the bank have in excess reserves?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.2335920333862305
+    },
+    {
+      "question": "The government of a country decides to increase government spending and taxes by the same amount in order to keep a balanced budget. The MPC is 0.75. Which of the following is true of this situation? Policy Direction     Expenditure Multiplier     Tax Multiplier",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2336790561676025
+    },
+    {
+      "question": "How does an increasing national debt impact the market for U.S. dollars and the value of the dollar with respect to other currencies? MARKET FOR THE DOLLAR     VALUE OF THE DOLLAR",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.821861982345581
+    },
+    {
+      "question": "What will happen to the equilibrium price level and the equilibrium quantity of output if the aggregate supply curve shifts to the left? Assume a Classical aggregate supply curve.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8226029872894287
+    },
+    {
+      "question": "If Nation A can produce a good at lower opportunity cost than Nation B can produce the same good it is said that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8229470252990723
+    },
+    {
+      "question": "A stronger stock market is likely to cause which of the following changes in the consumption function and aggregate demand? CONSUMPTION FUNCTION     AGGREGATE DEMAND",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.8233001232147217
+    },
+    {
+      "question": "Suppose the President plans to cut taxes for consumers and also plans to increase spending on the military. How does this affect real GDP and the price level?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.823662042617798
+    },
+    {
+      "question": "Which of the following statements is correct in regard to the federal budget deficit and the federal debt?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.823996067047119
+    },
+    {
+      "question": "Suppose that elected officials and the central bank agree to combine fiscal and monetary policies to lessen the threat of inflation. Which of the following combinations would likely accomplish this goal? FISCAL POLICY     MONETARY POLICY",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.8243789672851562
+    },
+    {
+      "question": "Kevin wants shoes and grows turnips. Lisa wants turnips and makes sheet metal. Bob wants sheet metal and makes shoes. Which function of money will cater most directly to the situation at hand?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8246939182281494
+    },
+    {
+      "question": "Economic growth is best described as",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.8247969150543213
+    },
+    {
+      "question": "Suppose that households increase the demand for U.S. Treasury bonds as financial assets. Which of the following accurately describes changes in the money market the interest rate and the value of the dollar in foreign currency markets? MONEY MARKET     INTEREST RATE     DOLLAR",
+      "model_answer": "B.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.82489013671875
+    },
+    {
+      "question": "Expansionary fiscal policy would best be prescribed to",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3092620372772217
+    },
+    {
+      "question": "Which of the following could cause the aggregate demand curve to shift to the left?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3097081184387207
+    },
+    {
+      "question": "At the peak of a typical business cycle which of the following is likely the greatest threat to the macroeconomy?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3100569248199463
+    },
+    {
+      "question": "Which of the following choices is most likely to create the greatest decrease in real GDP?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.310580015182495
+    },
+    {
+      "question": "The CPI is calculated for each by",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.310931921005249
+    },
+    {
+      "question": "Which of the following creates the trade-offdepicted by the Phillips curve?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.311269998550415
+    },
+    {
+      "question": "What will happen to the equilibrium price level and the equilibrium quantity of output if consumer confidence increases? Assume an upward sloping aggregate supply curve.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3116090297698975
+    },
+    {
+      "question": "You buy 100 shares in XYZ Corporation on the Internet and your broker charges you $29.95.",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.312129020690918
+    },
+    {
+      "question": "Higher levels of consumer wealth and optimism would likely have which of the following changes in the market for loanable funds? MARKET FOR LOANABLE FUNDS     INTEREST RATE",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3122730255126953
+    },
+    {
+      "question": "Which of the following is not an addition to national income?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.312375068664551
+    },
+    {
+      "question": "What will happen to the equilibrium price and the equilibrium quantity of good Z when the price of good X which is a close substitute for Z rises?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5490801334381104
+    },
+    {
+      "question": "Which of the following is a predictable advantage of expansionary monetary policy in a recession?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.54954195022583
+    },
+    {
+      "question": "What is the main contrast between the short-run and long-run Phillips curve?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.5498950481414795
+    },
+    {
+      "question": "Which of the following likely results in a permanent increase in a nation's productive capacity?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5503571033477783
+    },
+    {
+      "question": "If the economy is experiencing a recession how will a plan to decrease taxes for consumers and increase spending on government purchases affect real gross domestic product (GDP) and the price level?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5504651069641113
+    },
+    {
+      "question": "Sue loses her job at a shoe factory when the economy falls into a recession. Sue is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5505590438842773
+    },
+    {
+      "question": "The United States produces rice in a competitive market. With free trade the world price is lower than the domestic price. What must be true?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5506491661071777
+    },
+    {
+      "question": "Which of the following is NOT a major cost of inflation?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.5507380962371826
+    },
+    {
+      "question": "Long-run aggregate supply is most likely to increase as the result of",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.550826072692871
+    },
+    {
+      "question": "According to monetarist analysis a decrease in the money supply would",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.550913095474243
+    },
+    {
+      "question": "There is a strong demand for welders in California but Bill an unemployed welder lives in New York. Bill is",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.230145215988159
+    },
+    {
+      "question": "If households are more optimistic about the future how would the consumption function be affected?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2302701473236084
+    },
+    {
+      "question": "Which of the following is the most likely to be a deterrent to growth in the economy?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.230362892150879
+    },
+    {
+      "question": "An increase in the price level reduces total spending in the economy because I. consumers' incomes cannot go as far now that prices have risen. II. foreigners by less. III. higher prices result in higher interest rates which lower spending.",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.230456829071045
+    },
+    {
+      "question": "Which of the following statements is true?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.2305519580841064
+    },
+    {
+      "question": "A balance of trade surplus can be the result of",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.230642080307007
+    },
+    {
+      "question": "If the economy experienced a decrease in real GDP and price level this could best be explained by",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2307300567626953
+    },
+    {
+      "question": "If the consumer price index (CPI) increases by 2 percent and your nominal income increases by 8 percent your real income has approximately",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.230820894241333
+    },
+    {
+      "question": "On a bank's balance sheet which of the following is considered a liability?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2309131622314453
+    },
+    {
+      "question": "The standard of living is measured by",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2310030460357666
+    },
+    {
+      "question": "If the marginal propensity to consume is 0.8 what is the largest total increase in GDP that can result from $500 of new spending?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.234405040740967
+    },
+    {
+      "question": "Suppose that the unemployment rate falls from 6 percent to 5 percent and the inflation rate falls from 3 percent to 2 percent. Which of the following best explains these trends?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.2348108291625977
+    },
+    {
+      "question": "If prices are expected to rise more slowly in the future",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.2351698875427246
+    },
+    {
+      "question": "If a bank has $1000 in checking deposits and the bank is required to reserve $250 what is the reserve ratio? How much does the bank have in excess reserves? What is the size of the money multiplier?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.235600709915161
+    },
+    {
+      "question": "As a result of automatic stabilizers during economic expansions government expenditures",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.235935926437378
+    },
+    {
+      "question": "Which of the following events has no effect on GDP?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.2369558811187744
+    },
+    {
+      "question": "In the short run contractionary monetary policy causes aggregate demand to output to  and the price level to Aggregate demand      Output      Price Level",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2373597621917725
+    },
+    {
+      "question": "If the demand for dollars rises while the supply of dollars falls then the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.237882137298584
+    },
+    {
+      "question": "When products improve in quality the CPI will",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.2379989624023438
+    },
+    {
+      "question": "Which of the following is true when expansionary fiscal and expansionary monetary (easy money) policy are used at the same time?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2380928993225098
+    },
+    {
+      "question": "Suppose real GDP increases. We can conclude without a doubt that",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.166316032409668
+    },
+    {
+      "question": "It is a monetarist point of view that",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.1666839122772217
+    },
+    {
+      "question": "Labor productivity and economic growth increase if",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.167099952697754
+    },
+    {
+      "question": "Which of the following is a component of the M 1 measure of money supply?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.1674609184265137
+    },
+    {
+      "question": "If nominal GDP equals $5000 and real GDP equals $4000 then the GDP Deflator equals",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.1678481101989746
+    },
+    {
+      "question": "According to the quantity theory of money increasing the money supply serves to",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.168396234512329
+    },
+    {
+      "question": "Which of the following would increase the aggregate demand function?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1685478687286377
+    },
+    {
+      "question": "Classical economists believe",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.1686460971832275
+    },
+    {
+      "question": "Which of the following will shift the demand curve for the Mexican peso to the left?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.168739080429077
+    },
+    {
+      "question": "Real GDP",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.1688342094421387
+    },
+    {
+      "question": "Which of the following is a predictable consequence of import quotas?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3419649600982666
+    },
+    {
+      "question": "The \"crowding-out\" effect is the result of",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3440630435943604
+    },
+    {
+      "question": "Suppose a nation is experiencing an annual budget surplus and uses some of this surplus to pay down part of the national debt. One potential side effect of this policy would be",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3443338871002197
+    },
+    {
+      "question": "Which of the following lessens the impact of expansionary fiscal policy?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3444697856903076
+    },
+    {
+      "question": "Which of the following is an example of contractionary monetary policy?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3445851802825928
+    },
+    {
+      "question": "When we observe an unplanned decrease in inventories we can expect",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.344697952270508
+    },
+    {
+      "question": "A contractionary monetary policy will cause the nominal interest rate aggregate demand output and the price level to change in which of the following ways? NOMINAL INTEREST RATE     AGGREGATE DEMAND     OUTPUT     PRICE LEVEL",
+      "model_answer": "B.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.344810962677002
+    },
+    {
+      "question": "A decrease in real investment stemming from higher interest rates due to government purchases is most commonly called",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3449249267578125
+    },
+    {
+      "question": "If the standard of living increases we can conclude that",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3450350761413574
+    },
+    {
+      "question": "The cabbages you grow in your summer garden are",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3451428413391113
+    },
+    {
+      "question": "Which of the following might worsen a nation's trade deficit?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.618666887283325
+    },
+    {
+      "question": "If prices rise in the United States relative to other countries then",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6190357208251953
+    },
+    {
+      "question": "Which of the following is true about the consumption function?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.619377851486206
+    },
+    {
+      "question": "Recessions",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.619731903076172
+    },
+    {
+      "question": "When the value of the U.S. dollar appreciates relative to other currencies which of the following is the most likely to occur?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.6214630603790283
+    },
+    {
+      "question": "According to Keynesian analysis the Great Depression was caused by",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.621656894683838
+    },
+    {
+      "question": "An expansionary monetary policy tends to",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.621755838394165
+    },
+    {
+      "question": "If a nation is operating at full employment and the central bank engages in contractionary monetary policy the nation can expect the interest rate the purchases of new homes and the unemployment rate to change in which of the following ways? INTEREST RATES     NEW HOMES     UNEMPLOYMENT RATE",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.6218478679656982
+    },
+    {
+      "question": "Which of the following statements would \"supply-side\" economists disagree with?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.6219429969787598
+    },
+    {
+      "question": "Suppose the reserve ratio is 10 percent and the Fed buys $1 million in Treasury securities from commercial banks. If money demand is perfectly elastic which of the following is likely to occur?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.6220316886901855
+    },
+    {
+      "question": "Assuming there is no statistical discrepancy a trade surplus must be offset elsewhere in the",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1555497646331787
+    },
+    {
+      "question": "Which of the following is most likely to produce stronger economic growth over time?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1559107303619385
+    },
+    {
+      "question": "The secondary market for government securities is",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1563520431518555
+    },
+    {
+      "question": "An important assumption underlying monetarism is that",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1567039489746094
+    },
+    {
+      "question": "Which of the following could limit the ability of a central bank to conduct expansionary monetary policy?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.158207893371582
+    },
+    {
+      "question": "Fiscal policy refers to",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.158505916595459
+    },
+    {
+      "question": "If real GDP per capita was $10000 in 1990 and $15000 in 2000 then the amount of economic growth is",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.1586050987243652
+    },
+    {
+      "question": "GDP is calculated for each by",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.1586978435516357
+    },
+    {
+      "question": "A balance of payments deficit means that a country has",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.1587891578674316
+    },
+    {
+      "question": "In a given period the average price level in the country of Sherwood tripled and Robin's income increased from $30000 to $60000. What happened to Robin's nominal and real income? Nominal Income     Real Income",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.1588778495788574
+    },
+    {
+      "question": "The economy is in a deep recession. Given this economic situation which of the following statements about monetary policy is accurate?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.5547611713409424
+    },
+    {
+      "question": "If the government of country Z increases spending by $12 million dollars and raises tax collections by the same amount then what will be the overall impact of these moves on real GDP in country Z?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.5551249980926514
+    },
+    {
+      "question": "Suppose the price level in the United States has risen in the past year but production of goods and services has remained constant. Based on this information which of the following is true? NOMINAL GDP     REAL GDP",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.555464029312134
+    },
+    {
+      "question": "Imagine an economy that produces only two goods cheese and crackers. Calculate GDP for this economy if cheese retails for $3 a pound and 10 pounds are produced while crackers sell for $2 a pound and 20 pounds are produced.",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.558137893676758
+    },
+    {
+      "question": "In the balance of payments the trade balance",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5583231449127197
+    },
+    {
+      "question": "In the last 20 years firms that produce cameras have begun to produce fewer 35-mm cameras and more digital cameras. This trend is an example of",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5584189891815186
+    },
+    {
+      "question": "Which of the following events most likely increases real GDP?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.558511972427368
+    },
+    {
+      "question": "What will happen to the equilibrium price level and the equilibrium quantity of output if a major earthquake destroys much of the plant and equipment on the West Coast? Assume an upward sloping aggregate supply curve.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.5586040019989014
+    },
+    {
+      "question": "The Federal Reserve is",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.558695077896118
+    },
+    {
+      "question": "In a private closed economy which of the following statements is true?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.5587868690490723
+    },
+    {
+      "question": "Imagine someone who is not looking for work because they are embarrassed in the interview process when their inability to read is revealed. However this person would take just about any job that was offered. According to the Bureau of Labor Statistics this person is",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2475829124450684
+    },
+    {
+      "question": "If current real GDP is $5000 and full employment real GDP is at $4000 which of the following combinations of policies is the most likely to have brought the economy to this point?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.2480602264404297
+    },
+    {
+      "question": "Which of the following will promote economic growth?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2484700679779053
+    },
+    {
+      "question": "According to experts the CPI",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2491371631622314
+    },
+    {
+      "question": "Which of the following are harmed by unexpectedly high rates of inflation?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2493088245391846
+    },
+    {
+      "question": "Prices in capitalist economies are",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.249415874481201
+    },
+    {
+      "question": "Which of the following will cause the aggregate demand curve to shift to the left?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.249516010284424
+    },
+    {
+      "question": "According to Keynesian economists",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.249608039855957
+    },
+    {
+      "question": "If the reserve ratio is 10 percent and a new customer deposits $500 what is the maximum amount of money created?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.249706983566284
+    },
+    {
+      "question": "Which of the following would NOT shift the aggregate supply curve?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.249796152114868
+    },
+    {
+      "question": "Which of the following is equal to one?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.089776039123535
+    },
+    {
+      "question": "If in a given year the government collects more money in net taxes than it spends there would exist",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.0902230739593506
+    },
+    {
+      "question": "Which of the following policies might the Fed adopt to counter a recession?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.091191053390503
+    },
+    {
+      "question": "With a managed float",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.0913121700286865
+    },
+    {
+      "question": "If nominal GDP equals $6000 and the GDP deflator equals 200 then real GDP equals",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.0914061069488525
+    },
+    {
+      "question": "If 200 computers with a retail value of $100000 are domestically produced in 2005 but not sold until 2006 then GDP in 2005 is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.0914978981018066
+    },
+    {
+      "question": "In order to go from national income to GDP one must",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.0915870666503906
+    },
+    {
+      "question": "The appropriate fiscal policy to remedy inflation calls for",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.091679096221924
+    },
+    {
+      "question": "The potential amount of money created after the Fed increases bank reserves will be diminished if",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.0917720794677734
+    },
+    {
+      "question": "In a command economy",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.091862916946411
+    },
+    {
+      "question": "Total spending",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.184857130050659
+    },
+    {
+      "question": "The velocity of money",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1852850914001465
+    },
+    {
+      "question": "There is relatively more crowding out as the result of expansionary fiscal policy when",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.185662031173706
+    },
+    {
+      "question": "\"Flash\" estimates of GDP",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.1861419677734375
+    },
+    {
+      "question": "Which transactions will not be counted in GDP?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.186500072479248
+    },
+    {
+      "question": "If the CPI goes to 150 from 120 then prices have",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.186944007873535
+    },
+    {
+      "question": "The short-run Phillips curve depicts the ____ relationship between ____ and ____.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.1882951259613037
+    },
+    {
+      "question": "If the demand for our exports rises while our tastes for foreign goods falls off then",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.188408136367798
+    },
+    {
+      "question": "Having a fractional reserve banking system means that",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.188502073287964
+    },
+    {
+      "question": "As the Japanese economy expands in what ways do U.S. net exports the values of the dollar and the yen change? U.S. NET EXPORTS     VALUE OF DOLLAR     VALUE OF YEN",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.1885921955108643
+    },
+    {
+      "question": "Droughts technical glitches and restrictions on the use of resources can all result in",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3469960689544678
+    },
+    {
+      "question": "The GDP Deflator I. is used to calculate inflation rates. II. is an alternative to the CPI. III. is more accurate than the CPI.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3473589420318604
+    },
+    {
+      "question": "Which of the following would be classified under C when calculating GDP?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.348015785217285
+    },
+    {
+      "question": "The aggregate demand curve is",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3492398262023926
+    },
+    {
+      "question": "Suppose the reserve ratio is 0.1. If a bank gets $200 in deposits what is the maximum amount it can lend?",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3493330478668213
+    },
+    {
+      "question": "Corn is exchanged in a competitive market. Which of the following definitely increases the equilibrium price of corn?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3494248390197754
+    },
+    {
+      "question": "Which of the following will have an effect on GDP?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3495140075683594
+    },
+    {
+      "question": "Which of the following is a tool used by the Fed to increase the money supply?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.349602699279785
+    },
+    {
+      "question": "Suppose yesterday the euro was trading on the foreign exchange market at $1.36 U.S. and today it is trading at $1.40 U.S. Which of the following is true?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3496909141540527
+    },
+    {
+      "question": "The government has just lowered personal income taxes. Which of the following best describes the effects that this policy has on the economy?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.349781036376953
+    },
+    {
+      "question": "Suppose you observe an economy where prices are falling and real GDP is rising. This may have been caused by",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6966140270233154
+    },
+    {
+      "question": "An import quota on foreign automobiles is expected to",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.6971020698547363
+    },
+    {
+      "question": "Ceteris paribus",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.6999552249908447
+    },
+    {
+      "question": "Suppose taxes are cut in an economy that is in equilibrium at full employment. In the long run the tax cut will",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.7000648975372314
+    },
+    {
+      "question": "An increase in corporate optimism will have which of the following effects in the market for loanable funds?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.70015811920166
+    },
+    {
+      "question": "Suppose the real interest rate in a country rises. What can be expected to happen to the demand for this nation's currency and therefore the value of its currency and net exports? Demand for currency      Value of currency      Net exports",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.7002480030059814
+    },
+    {
+      "question": "Lowering reserve requirements would",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.700343132019043
+    },
+    {
+      "question": "How would fiscal and monetary policymakers combine spending tax and monetary policy to fight a recessionary gap while avoiding large budget deficits? SPENDING POLICY     TAX POLICY     MONETARY POLICY",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.700432062149048
+    },
+    {
+      "question": "You are working at a supermarket bagging groceries but you are unhappy about your wage so you quit and begin looking for a new job at a competing grocery store. What type of unemployment is this?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.7005228996276855
+    },
+    {
+      "question": "Stagflation is the result of",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.7006142139434814
+    },
+    {
+      "question": "If $100 of new autonomous private investment were added to an economy with a marginal propensity to consume of .90 by how much would aggregate demand shift to the right?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5011658668518066
+    },
+    {
+      "question": "What will happen to the equilibrium price level and the equilibrium quantity of output if the aggregate demand curve shifts to the right? Assume a Classical aggregate supply curve.",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.501274824142456
+    },
+    {
+      "question": "If the world price of copper exceeds the domestic (U.S.) price of copper we would expect",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5013797283172607
+    },
+    {
+      "question": "Which of the following persons is considered to be unemployed? I. Mary who has quit her job to look for another. II. John who fulfilled his dream by retiring from work at age 45. III. Diane who works part-time but would like to work full-time.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.501469850540161
+    },
+    {
+      "question": "Which choice produces a faster rate of economic growth for the United States?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.501638889312744
+    },
+    {
+      "question": "Which of the following would reduce economic growth?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5017459392547607
+    },
+    {
+      "question": "An increase in the price level and a decrease in real GDP in the short run could be the result of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.501858711242676
+    },
+    {
+      "question": "Inflation",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5019519329071045
+    },
+    {
+      "question": "Which of the following fiscal policy combinations would be most likely to slowly increase real GDP without putting tremendous upward pressure on the price level?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.502044916152954
+    },
+    {
+      "question": "Suppose the Japanese economy is suffering a prolonged recession. Lower Japanese household incomes will affect U.S. exports to Japan demand for the dollar and the value of the dollar relative to the yen in which of the following ways? EXPORTS TO JAPAN     DEMAND FOR $     VALUE OF $",
+      "model_answer": "B.",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.5021398067474365
+    },
+    {
+      "question": "Which of the following is an example of expansionary monetary policy for the Federal Reserve?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4034979343414307
+    },
+    {
+      "question": "What is the main difference between the short-run and long-run Phillips curve?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.4038689136505127
+    },
+    {
+      "question": "According to Classical economic analysis in the long run an increase in the money supply results in",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4045729637145996
+    },
+    {
+      "question": "An increase in the federal deficit may affect the demand for loan funds and therefore the real interest rate and investment spending. Which of the following gives the correct direction of these effects? Demand for loanable funds      Real interest rate      Investment spending",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4047200679779053
+    },
+    {
+      "question": "Which of the following is true of a typical contraction of the business cycle?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4048891067504883
+    },
+    {
+      "question": "If interest rates rise relatively more in country A than in country B then the value of country A's currency will",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.404991865158081
+    },
+    {
+      "question": "For a given level of government spending the federal government usually experiences a budget____during economic____and a budget ______during economic_______.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.405087947845459
+    },
+    {
+      "question": "A decrease in the price of a particular product will result in",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.405184030532837
+    },
+    {
+      "question": "Which of the following would likely slow a nation's economic growth?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.405272960662842
+    },
+    {
+      "question": "Suppose the economy is in long-run equilibrium when a temporary expansionary supply shock is felt in the economy. This changes the short-run Phillips curve the short-run unemployment rate and the long-run unemployment rate in which of the following ways? SHORT-RUN PHILLIPS CURVE     SHORT-RUN UNEMPLOYMENT     LONG-RUN UNEMPLOYMENT",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.405362844467163
+    },
+    {
+      "question": "Given the table below which statement is true? Labor hours needed to produce a unit of: Country      Wine      Cheese France      40      80 Belgium      15      60",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.482677936553955
+    },
+    {
+      "question": "The natural rate of unemployment",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.483222723007202
+    },
+    {
+      "question": "When nominal GDP is rising we would expect money demand to",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.483640670776367
+    },
+    {
+      "question": "GDP measures a country's level of I. production. II. stability. III. income.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4839937686920166
+    },
+    {
+      "question": "When the FED lowers the discount rate its intention is to",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.48441481590271
+    },
+    {
+      "question": "The size of the labor force in Japan is expected to shrink beginning in 2010 as a large segment of its population retires. This will",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4847617149353027
+    },
+    {
+      "question": "If firms that make a particular product expect its price will be lower in the future",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.485079765319824
+    },
+    {
+      "question": "Excess reserves in the banking system will increase if",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4851818084716797
+    },
+    {
+      "question": "Which of the following statements is true of production possibility curves and trade between nations?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4852728843688965
+    },
+    {
+      "question": "If the economy is in disequilibrium where the price level is such that the aggregate quantity of products demanded exceeds the aggregate quantity of products supplied then",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.485363006591797
+    },
+    {
+      "question": "In a long period of economic expansion the tax revenue collected ____ and the amount spent on welfare programs ____ creating a budget ____ .",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3755218982696533
+    },
+    {
+      "question": "Which of the following will result in economic growth?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.375978946685791
+    },
+    {
+      "question": "According to Classical economic theory the equation of exchange demonstrates the neutrality of money only if the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.377347946166992
+    },
+    {
+      "question": "Which of the following lists contains only policies that will close an inflationary gap?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.377652883529663
+    },
+    {
+      "question": "Appropriate fiscal and monetary polices during the contractionary phase of the business cycle include",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.377758026123047
+    },
+    {
+      "question": "According to Monetarist theory",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3778510093688965
+    },
+    {
+      "question": "Which function of money best defines $1.25 as the price of a 20-ounce bottle of pop?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3779420852661133
+    },
+    {
+      "question": "A policy supported by supply-side economists would be",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3780319690704346
+    },
+    {
+      "question": "To close a recessionary gap",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3781208992004395
+    },
+    {
+      "question": "What will happen to the equilibrium price and the equilibrium quantity of good A when producers of good A expect the price to be higher in the near future?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3782100677490234
+    },
+    {
+      "question": "Which of the following would shift the aggregate demand curve to the right?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3097338676452637
+    },
+    {
+      "question": "Fiat money",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3101718425750732
+    },
+    {
+      "question": "If technology makes production less expensive and at the same time exports decrease which of the following will result with certainty?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3105058670043945
+    },
+    {
+      "question": "Which of the following would not be an example of contractionary fiscal policy?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.310844898223877
+    },
+    {
+      "question": "Crowding out",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.311189889907837
+    },
+    {
+      "question": "Assume the reserve requirement is five percent. If the FED sells $10 million worth of government securities in an open market operation then the money supply can potentially",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3117728233337402
+    },
+    {
+      "question": "Which of the following is an example of capital as an economic resource?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3121249675750732
+    },
+    {
+      "question": "In the equation of exchange",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.312243938446045
+    },
+    {
+      "question": "Which of the following most likely increases aggregate demand in the United States?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.312340021133423
+    },
+    {
+      "question": "In a recession expansionary monetary policy is designed to",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3124279975891113
+    },
+    {
+      "question": "Classical economists generally believe that I.   wages fluctuate quickly II.   Say's law does not hold III.   input and output prices will stay in line with each other IV.   the government should not worry about maintaining aggregate demand at an adequate level",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.299443006515503
+    },
+    {
+      "question": "A difference between M1 and M2 is that",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2998087406158447
+    },
+    {
+      "question": "Monetary tools of the Federal Reserve do not include which of the following choices?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3001480102539062
+    },
+    {
+      "question": "If the U.S. dollar and Chinese yuan are traded in flexible currency markets which of the following causes an appreciation of the dollar relative to the Chinese yuan?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3004958629608154
+    },
+    {
+      "question": "You hear that the United States has a negative balance in the current account. With this information we conclude that",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.301571846008301
+    },
+    {
+      "question": "Which of the following is NOT an argument for restricting trade?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.301675796508789
+    },
+    {
+      "question": "The GDP Deflator differs from the CPI in that the GDP Deflator",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3017659187316895
+    },
+    {
+      "question": "Business cycles",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3018548488616943
+    },
+    {
+      "question": "When disposable income increases by $X ",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3019447326660156
+    },
+    {
+      "question": "Tariffs and quotas",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.302032947540283
+    }
+  ]
+}

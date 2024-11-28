@@ -1,0 +1,2435 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq2_xss",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241127-180437"
+  },
+  "subject": "moral_disputes",
+  "category": "humanities",
+  "correct_rate": 30.924855491329478,
+  "evaluation_results": [
+    {
+      "question": " Just war theory's principle of military necessity belongs to",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.374864101409912
+    },
+    {
+      "question": " According to Mill, censoring speech that is possibly true",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.3752923011779785
+    },
+    {
+      "question": " West argues that feminist rhetoric has",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.3757429122924805
+    },
+    {
+      "question": " According to Mill, the value of a particular pleasure depends on",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.376140117645264
+    },
+    {
+      "question": " According to Carruthers, whenever someone is required to act in a certain way toward an animal for the sake of the animal, what explains that fact are facts about",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.376490116119385
+    },
+    {
+      "question": " What does SCNT stand for, as used in the discussion on cloning?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.376873970031738
+    },
+    {
+      "question": " Velleman worries that, by offering a patient the option of euthanasia,",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.377220153808594
+    },
+    {
+      "question": " Nathanson supports which of the following kinds of retributivism?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.377748012542725
+    },
+    {
+      "question": " Carruthers approaches questions about the moral standing of nonhuman animals from the perspective of which of the following moral theories?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.380289077758789
+    },
+    {
+      "question": " In Gardiner's analysis, which of the following is a characteristic of the climate change problem?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.380964040756226
+    },
+    {
+      "question": " What is the \"intergenerational storm\" of climate change?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.956124782562256
+    },
+    {
+      "question": " Hourdequin argues that one flaw of consequentialist calculation is that",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.956490993499756
+    },
+    {
+      "question": " Dershowitz discusses the hypothetical case where the hijacked planes of 9/11 must be shot down to argue that important decisions like these",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.956828832626343
+    },
+    {
+      "question": " Baxter argues that we should view our treatment of the environment as a matter of various trade-offs whose aim is",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.957176923751831
+    },
+    {
+      "question": " Which of the following is an example of a value-based moral theory?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.9575207233428955
+    },
+    {
+      "question": " Kass worries that cloned individuals:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.957977771759033
+    },
+    {
+      "question": " Why, according to Gill, does Leon Kass think the notion of being \"better off dead\" is incoherent?",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.958332777023315
+    },
+    {
+      "question": " In response to the argument that embryos are not persons because they lack certain rights that all persons have (such as the right to life), Lee and George argue that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.958713054656982
+    },
+    {
+      "question": " The consequentialist approach to punishment is at odds with",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.959060907363892
+    },
+    {
+      "question": " What does Hursthouse say about the claim that any adequate action-guiding (i.e., moral) theory must provide clear guidance about what ought and ought not to be done that any intelligent person could follow?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.9593987464904785
+    },
+    {
+      "question": " Which of the following is not an objection that Kass makes against cloning?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.789144992828369
+    },
+    {
+      "question": " In response to the objection that freedom of association is much more important in the marital context than the political realm, Wellman says",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.7895941734313965
+    },
+    {
+      "question": " If it were known that a policy would wipe out several animal species without negatively affecting human beings, Baxter would most likely say that",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.789992094039917
+    },
+    {
+      "question": " According to Reiman, van den Haag's argument leads to the conclusion that",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.790347099304199
+    },
+    {
+      "question": " According to Singer, the principle of equality requires",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.790694236755371
+    },
+    {
+      "question": " Advocates of care ethics argue that",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.79107403755188
+    },
+    {
+      "question": " According to Norcross, any attempt to justify the claim that humans have a higher moral status than other animals by appealing to some version of rationality as the morally relevant difference between humans and animals will",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.791507244110107
+    },
+    {
+      "question": " In response to the argument that the death penalty does not deter murderers, van den Haag claims that",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.791945934295654
+    },
+    {
+      "question": " Thomas Nagel call the two kinds of moral considerations he discusses in \"War and Massacre\"",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.79237699508667
+    },
+    {
+      "question": " What is the main reason why Arthur doesn't think that the poor have a right to aid from the affluent?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.793056964874268
+    },
+    {
+      "question": " What assumption does Pence think people who object to SCNT make when they say that SCNT is not best for the child?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.476773023605347
+    },
+    {
+      "question": " Van den Haag is",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.477154016494751
+    },
+    {
+      "question": " Against Kant's view of sexual objectification, Papadaki argues that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.477493047714233
+    },
+    {
+      "question": " Thomson discusses a different version of the violinist case wherein the violinist only needs to use your kidneys for one hour to survive. Her own view about this case is that",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.477874994277954
+    },
+    {
+      "question": " Fine asks us to consider the example of a yoga group that practices in Central Park and is free to reject prospective members but isn't free to exclude others from making use of Central Park. The point of this example is to show that",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.4782140254974365
+    },
+    {
+      "question": " The annual death-toll from poverty related causes is, according to Pogge,",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.478799104690552
+    },
+    {
+      "question": " What is the overall percentage of capital cases that are overturned because of serious errors?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.4793219566345215
+    },
+    {
+      "question": " According to Nussbaum, treating someone as an object is",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.479775905609131
+    },
+    {
+      "question": " In Corvino's reading of Aquinas, \"unnatural\" sexual acts are those that are",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.480118989944458
+    },
+    {
+      "question": " Rachels compares the cases of Smith and Jones to show that",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.481843948364258
+    },
+    {
+      "question": " Biocentrism is the view that",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.671907186508179
+    },
+    {
+      "question": " Which of the following is a feature of consequentialist moral theory?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.672273874282837
+    },
+    {
+      "question": " On West's account, women who engage in undesired sex because of actual or felt dependence on their partner may experience injury to their sense of autonomy because",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.6726179122924805
+    },
+    {
+      "question": " Which of the following is not mentioned by Macedo as a duty that societies have toward nonmembers?",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.67297625541687
+    },
+    {
+      "question": " Mill thinks that each person desires",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.673365116119385
+    },
+    {
+      "question": " According to Valls, a just cause for political violence is usually",
+      "model_answer": "B.",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.673788070678711
+    },
+    {
+      "question": " Fine asks us to consider an example in which a private club \"regularly arranges noisy late-night gatherings\" to show that",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.674137115478516
+    },
+    {
+      "question": " According to Huemer, even if drug use harms a person's friends, families, and other relations,",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.674522161483765
+    },
+    {
+      "question": " The basic idea of social contract theories of morality is that correct or justified moral rules or principles are the ones that result from",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.674983263015747
+    },
+    {
+      "question": " In Singer's view, the question of when it's wrong to painlessly kill an animal is one",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.675333023071289
+    },
+    {
+      "question": " Which of the following is one of de Marneffe's responses to the objection that drug prohibition would be paternalistic?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.316772222518921
+    },
+    {
+      "question": " Lukianoff and Haidt argue that the disinvitation of certain speakers",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.317148208618164
+    },
+    {
+      "question": " Ashford's article is meant to address a particular paralysis in the face of",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 5.317491292953491
+    },
+    {
+      "question": " In support of her thesis that global social institutions violate the rights of the world's poor, Ashford argues that",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.317828178405762
+    },
+    {
+      "question": " Papadaki argues that",
+      "model_answer": "B.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.318177938461304
+    },
+    {
+      "question": " The two kinds of anti-homosexuality arguments to which Corvino responds are",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.31864595413208
+    },
+    {
+      "question": " The view that moral considerations do not apply to war is known as",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.319002151489258
+    },
+    {
+      "question": " In the context of Gardiner's article, \"the fragmentation of agency\" refers to what?",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.32544207572937
+    },
+    {
+      "question": " Ashford thinks that the right test of whether or not legal and economic structures are minimally just is to see whether or not",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.326040029525757
+    },
+    {
+      "question": " Little argues that we should accept a prerogative on the part of mothers to end a pregnancy until the fetus is a person because",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.327181100845337
+    },
+    {
+      "question": " Which of the following is, according to the introduction to chapter 8, typically defined as the act or practice of killing or allowing someone to die?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.307054042816162
+    },
+    {
+      "question": " In Baxter's view, the first and foremost step toward a solution of our environmental problems is a clear recognition that our objective is not pure air or water but rather",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.307417154312134
+    },
+    {
+      "question": " Ross's moral theory is a version of",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.307754993438721
+    },
+    {
+      "question": " Which of the following are forms of misogynist speech according to Richardson-Self?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.30811071395874
+    },
+    {
+      "question": " Leopold most likely describes the \"land pyramid\" to",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.308612823486328
+    },
+    {
+      "question": " Ecoholism is the view that",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.309269905090332
+    },
+    {
+      "question": " The view according to which wars are always (or at least nearly always) morally wrong is known as",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.309720039367676
+    },
+    {
+      "question": " According to Reiman, van den Haag's arguments in favor of the death penalty",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.310111999511719
+    },
+    {
+      "question": " What two problems does individualism lead us into, according to Hourdequin?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.310612916946411
+    },
+    {
+      "question": " One message that Nathanson argues we can send by abolishing the death penalty is that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.3110809326171875
+    },
+    {
+      "question": " Aristotle claims that a state of character arises from the repetition of similar",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.2546021938323975
+    },
+    {
+      "question": " Corvino considers the following argument: Homosexuals are \"born that way\"; therefore, homosexual activity is good and natural. Corvino claims that this argument is unsound. Why?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.255041122436523
+    },
+    {
+      "question": " Hardin's approach to the moral issues of hunger and poverty is essentially",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.255402088165283
+    },
+    {
+      "question": " Which of the following theories will approach the morality of abortion by considering how much overall intrinsic value is likely to be brought about by abortion?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.256977081298828
+    },
+    {
+      "question": " In his definition of terrorism, Valls defines \"violence\" as",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.25735330581665
+    },
+    {
+      "question": " What information is available to occupants within Rawls's original position?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.257802963256836
+    },
+    {
+      "question": " Shapiro claims that surveys have been confirmed by longitudinal studies that indicate that",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.258159160614014
+    },
+    {
+      "question": " A truly environmental ethic must hold that which of the following has direct moral standing?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.258505344390869
+    },
+    {
+      "question": " Ashford argues that worries about causing dependency on aid agencies among those in extreme poverty does not mean that we should",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.259177207946777
+    },
+    {
+      "question": " According to Singer, the conclusions argued for in \"all animals are equal\" flow from which of the following principles alone?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.259761095046997
+    },
+    {
+      "question": " Mill thinks that if something is desirable, but not desirable as an end, then it must be",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.894597053527832
+    },
+    {
+      "question": " From the fact that emigration is often associated with significant costs, Fine concludes that",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.8950581550598145
+    },
+    {
+      "question": " Mill defends which of the following liberty-limiting principles?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.895418167114258
+    },
+    {
+      "question": " By definition, if a person or thing needs to be taken into account in moral decision-making (i.e., if it counts morally), then that person or thing has",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.895766019821167
+    },
+    {
+      "question": " What is an example of \"mutual coercion, mutually agreed upon\"?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.896289110183716
+    },
+    {
+      "question": " Which of the following is a problem for Kant's principle of equality and an \"eye for an eye\" according to Nathanson?",
+      "model_answer": "B.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.896651983261108
+    },
+    {
+      "question": " What is Pence's main objective in his article \"Will Cloning Harm People?\"",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.8969950675964355
+    },
+    {
+      "question": " Timmons suggests that many people believe in moral relativism because",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.897340297698975
+    },
+    {
+      "question": " According to Sandel, eugenics and genetic enhancement can be seen to be wrong from a religious perspective because",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.897683143615723
+    },
+    {
+      "question": " Which of the following is a method of torture that Dershowitz believes is appropriate in those cases where torture is permissible?",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.898177146911621
+    },
+    {
+      "question": " In Rachels's thought experiment with Smith and Jones, Jones's action (i.e., his watching the child, who slipped accidentally, drowned in the tub) is supposed to be an example of",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.489422798156738
+    },
+    {
+      "question": " According to Gill, the moral value of autonomy mostly consists in",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.490236043930054
+    },
+    {
+      "question": " Foot's Rescue I and Rescue II cases are intended to",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.4906158447265625
+    },
+    {
+      "question": " In contrast to Garrett Hardin's approach, the Confucian model rejects coercion because",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.490969896316528
+    },
+    {
+      "question": " Velleman believes that the option of euthanasia may harm some patients. What does he think is the most significant way in which this might happen?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.491317987442017
+    },
+    {
+      "question": " Velleman believes that euthanasia can be justified on the basis of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.491907835006714
+    },
+    {
+      "question": " Carruthers argues that, on contractualist grounds, nonhuman animals may be accorded which of the following kinds of moral standing?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.492351055145264
+    },
+    {
+      "question": " One of the premises of the \"lack of imagination\" argument that Kamm discusses is that",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.492902040481567
+    },
+    {
+      "question": " In accordance with the theory of justice proposed by John Rawls, Stephen Macedo argues,\"We must consider the justifiability of policies from the standpoint of the _____ well-off among our fellow citizens.\"",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.497325897216797
+    },
+    {
+      "question": " Which of the following is not a prima facie duty that Ross discusses?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.497792720794678
+    },
+    {
+      "question": " Which of the following is an example of a vice of character?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.0410802364349365
+    },
+    {
+      "question": " Leopold claims that history has shown that \"the conqueror role is eventually self-defeating.\" It is self-defeating, in this view, because",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.042608261108398
+    },
+    {
+      "question": " Sarah Fine's \"internal critique\" of Wellman's argument targets his claim that",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.042988061904907
+    },
+    {
+      "question": " Shapiro discusses experiments about the role of expectations in the experience of drug use to show that",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.043432235717773
+    },
+    {
+      "question": " What kind of consequentialist theory does Dershowitz think can justify terrorism in certain extreme particular cases?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 5.043795347213745
+    },
+    {
+      "question": " On the proposal that we need to establish world food banks to help those who are in need, Hardin would say that",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.04413628578186
+    },
+    {
+      "question": " A utilitarian who recognizes rights will attempt to explain rights on the basis of utility by claiming that",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.044478416442871
+    },
+    {
+      "question": " If a global ban would not be effective in prohibiting genetic engineering that goes beyond eliminating obvious defects, then Singer suggests which \"bolder\" strategy?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.044855117797852
+    },
+    {
+      "question": " Which of the following is a kind of consequentialist theory that explains right action in terms of the net balance of pleasure (or lack of pain) produced by that action?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.0455322265625
+    },
+    {
+      "question": " The retributive theory of punishment does not claim that",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.046136140823364
+    },
+    {
+      "question": " Mary's laptop deserves moral consideration only because she owns it and cares about it. Thus, Mary's laptop has",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.20132303237915
+    },
+    {
+      "question": " Collins suggests that the moral value of caring actions comes from",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.20187520980835
+    },
+    {
+      "question": " Kant's humanity formulation of the categorical imperative makes it impermissible for us to, he argues,",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.202229022979736
+    },
+    {
+      "question": " According to Nathanson, criminals who commit murder forfeit their right to",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.202574968338013
+    },
+    {
+      "question": " Reiman suggests that the refusal to execute criminals teaches",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.202954053878784
+    },
+    {
+      "question": " According to Shapiro, the standard view has to explain the preeminence of controlled use by arguing that",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.203313112258911
+    },
+    {
+      "question": " Which of the following is a premise of Kass's despotism argument?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.203866004943848
+    },
+    {
+      "question": " In Rachels's thought experiment with Smith and Jones, Smith's action (i.e., his holding the child underwater) is supposed to be an example of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.20435905456543
+    },
+    {
+      "question": " All cases of euthanasia in which the patient has consented to the active bringing of his or her death are cases of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.204917907714844
+    },
+    {
+      "question": " According to Ross, when our duties conflict with each other we should",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.205822944641113
+    },
+    {
+      "question": " Kamm claims that Sandel's moral distinction between treatment and enhancement assumes that",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.8881306648254395
+    },
+    {
+      "question": " West argues that feminist legal theory has inadvertently led to the under-acknowledgement of the harms of consensual sex because",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.888663053512573
+    },
+    {
+      "question": " Sinnott-Armstrong is most interested in examining issues about the moral obligations of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.889030933380127
+    },
+    {
+      "question": " The decision to remove Terri Schiavo's feeding tube, thus allowing her to die of dehydration, is a case of:",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.8897809982299805
+    },
+    {
+      "question": " De Marneffe explains that we might call someone a drug addict to show that",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.890332937240601
+    },
+    {
+      "question": " Frances Kamm discusses the case of a scientist who works on finding a cure for congenital blindness and is motivated only by a bad desire for mastery to suggest that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.890688896179199
+    },
+    {
+      "question": " If Thomson's conclusion is correct, then",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.892115831375122
+    },
+    {
+      "question": " In satisfying Kant's Humanity formulation of the categorical imperative, we are obligated to adopt two very general goals: the goal of promoting the (morally permissible) ends of others and the goal of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.892490863800049
+    },
+    {
+      "question": " Ashford defines a structural human rights violation as",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.8928868770599365
+    },
+    {
+      "question": " Which of the following is a possible source of obligations, according to Cohen?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.893490791320801
+    },
+    {
+      "question": " Richardson-Self argues that sexist speech",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.533256769180298
+    },
+    {
+      "question": " Norcross agrees that if a being is incapable of moral reasoning, at even the most basic level, then it cannot be",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.533679723739624
+    },
+    {
+      "question": " Shapiro cites a study of Vietnam veterans, which showed a significant decrease in heroin use after the veterans returned home. Which factor does Shapiro cite as explaining this decrease?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.534331798553467
+    },
+    {
+      "question": " One suggestion that Lukianoff and Haidt make to challenge vindictive protectiveness is",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.53473687171936
+    },
+    {
+      "question": " Aristotle's moral theory is a version of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.535125970840454
+    },
+    {
+      "question": " Suppose Wellman argued that just as you have a right not to marry someone who would be harmed by your refusal, a state is free to exclude others even if it causes harm to them. Fine would respond by saying that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.5356128215789795
+    },
+    {
+      "question": " Which of the following is an example of a \"right of noninterference\" according to Arthur?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.536019802093506
+    },
+    {
+      "question": " Audi proposed that we expand Ross's list of prima facie duties to include",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.536401748657227
+    },
+    {
+      "question": " According to Singer, which of the following historical defenders of the principle of equal consideration of interests was one of the few to recognize that the principle applies to members of other species as well as to our own?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.536757946014404
+    },
+    {
+      "question": " The only way to break out of the \"terrorist cycle,\" says Walzer, is to",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.5371057987213135
+    },
+    {
+      "question": " According to Norcross, which of the following arguments poses a formidable challenge to any proposed criterion of full moral standing that excludes animals?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.23938512802124
+    },
+    {
+      "question": " According to Aquinas's moral theory, morality is ultimately grounded in",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.23979115486145
+    },
+    {
+      "question": " Kant's moral theory is a version of",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.240134239196777
+    },
+    {
+      "question": " Which of the following statements best describes Gill's response to the argument that the Oregon physician-assisted law falsely assumes that doctors are qualified to judge whether a life is worth living?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.24047327041626
+    },
+    {
+      "question": " The best explanation for drug addiction, according to Shapiro, appeals to",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.240957975387573
+    },
+    {
+      "question": " Wellman accepts that there are other values besides the freedom of association, such as",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.241780996322632
+    },
+    {
+      "question": " What does Marquis think is the main reason why it is wrong to kill a fetus?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.24215030670166
+    },
+    {
+      "question": " Altman believes that there are significant difficulties associated with defending a pro-censorship position based solely on claims of which of the following kinds of harm?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.24405312538147
+    },
+    {
+      "question": " According to Hardin, the \"ratchet effect\" refers to the fact that",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.244678974151611
+    },
+    {
+      "question": " Which of the following is the term used to refer to a stage in prenatal development which in humans begins at roughly the second week of pregnancy and lasts until roughly the eighth week?",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.245315074920654
+    },
+    {
+      "question": " Which of the following potentially morally relevant differences between Fred's behavior and the behavior of the consumers of factory-raised meat does Norcross not discuss?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.693101167678833
+    },
+    {
+      "question": " According to Singer, international corporations that deal with corrupt dictators are akin to",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.693839073181152
+    },
+    {
+      "question": " Since we who live in wealthy countries have directly caused harm, Pogge argues that we have very stringent",
+      "model_answer": "B.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.695578098297119
+    },
+    {
+      "question": " Which of the following is not a requirement on the definition of \"legal punishment\"?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.695958137512207
+    },
+    {
+      "question": " According to Mill, the only evidence it is possible to produce that anything is desirable is that",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.6963372230529785
+    },
+    {
+      "question": " Velleman worries that the word dignity is sometimes used (incorrectly) to glorify which of the following:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.6968629360198975
+    },
+    {
+      "question": " Which of the following is an example of a virtue of character?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.6982550621032715
+    },
+    {
+      "question": " The most common form of cosmopolitanism is _____ cosmopolitanism, according to which those in a position to do so have an obligation to assist those in need because of poverty and to promote basic human rights.",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.698624134063721
+    },
+    {
+      "question": " What is wrong with a conservation system based wholly on economic motives according to Leopold?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.698971271514893
+    },
+    {
+      "question": " Singer argues that developing nations are harming poor nations by",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.699393033981323
+    },
+    {
+      "question": " According to Sandel, eugenics and genetic enhancement can be seen to be wrong from a secular perspective because they would produce unwelcome changes in",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.9314019680023193
+    },
+    {
+      "question": " According to some defenders of meat-eating, the suffering of animals counts less than the suffering of humans (if at all) because",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.9318482875823975
+    },
+    {
+      "question": " To say that an action is intrinsically permissible (a feature mentioned in the doctrine of double effect) is to say that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.93330717086792
+    },
+    {
+      "question": " Locke can be thought of as accepting a",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.93367600440979
+    },
+    {
+      "question": " Metz argues that dignity is based in",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.934023141860962
+    },
+    {
+      "question": " According to Singer, which of the following is the single relevant factor in determining whether something has moral status?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.935231924057007
+    },
+    {
+      "question": " Nathanson proposes a form of retributivism that requires all of the following except",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.935598134994507
+    },
+    {
+      "question": " According to Kant, all imperatives are expressed by the word",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.9359450340270996
+    },
+    {
+      "question": " The goal of cognitive-behavioral therapy is to",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.936284303665161
+    },
+    {
+      "question": " Thomson's appeal to the vices of callousness and self-centeredness relates to what kind of approach to abortion?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.936622142791748
+    },
+    {
+      "question": " Which of the following is evidence that de Marneffe cites in support of the claim that increased availability of a drug leads to increased use of that drug?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.500297784805298
+    },
+    {
+      "question": " Carens's main conclusion is that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.500672817230225
+    },
+    {
+      "question": " Carens accepts that it is possible for the sudden opening of one country's borders to do more harm than good from a liberal egalitarian perspective. However, he argues that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.501021862030029
+    },
+    {
+      "question": " Callahan is against the legalization of euthanasia because he believes legalization would",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.501373767852783
+    },
+    {
+      "question": " Callahan discusses the Dutch Commission on Euthanasia in 1990 to show that",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.502939701080322
+    },
+    {
+      "question": " According to Lukianoff and Haidt, institutionalizing vindictive protectiveness will",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.503769636154175
+    },
+    {
+      "question": " Baxter claims that his \"very general way\" of stating what we should strive for environmentally assumes that",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.504173994064331
+    },
+    {
+      "question": " Which of the following objections to adopting speech codes does Altman discuss?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.5045506954193115
+    },
+    {
+      "question": " In Singer's understanding, the principle of the equality of human beings is",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.505084753036499
+    },
+    {
+      "question": " Nathanson believes that killing another person in self-defense is compatible with",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.505552768707275
+    },
+    {
+      "question": " Sandel believes that the use of genetic enhancement is inherently wrong because",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.251399755477905
+    },
+    {
+      "question": "According to Michael Huemer, the harm of drug use to individual drug users",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.251922845840454
+    },
+    {
+      "question": " Which of the following is a basic intrinsic good, according to Aquinas's version of natural law theory?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.252358913421631
+    },
+    {
+      "question": " Mary is a person, and as such she plausibly deserves moral consideration because of features inherent to her (e.g., being self-aware). This suggests that she has",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.252713918685913
+    },
+    {
+      "question": " In his objection to \"the second prong of the libertarian case for open borders,\" Wellman responds to the objection that he is essentially denying that we have a right to freedom of movement. Which of the following is part of his response?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.253061771392822
+    },
+    {
+      "question": " Richardson-Self discusses which of the following kinds of speech?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.253442764282227
+    },
+    {
+      "question": " Lex talionis is another name for",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.253791809082031
+    },
+    {
+      "question": " Huemer argues that there is no reason to think that the harms of drug use are in an important sense",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.254292011260986
+    },
+    {
+      "question": " Which of the following is a value that Arthur believes is more fundamental than rights and desert?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.254664897918701
+    },
+    {
+      "question": " One of the main factors that Hardin links to world hunger and poverty is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.255497932434082
+    },
+    {
+      "question": " According to the Humanity formulation of Kant's principle, we must treat persons",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.023283243179321
+    },
+    {
+      "question": " Since Nagel thinks there can be genuine moral dilemmas, he denies the moral principle that",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.024121999740601
+    },
+    {
+      "question": " Which of the following is not an example of vice?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.0245020389556885
+    },
+    {
+      "question": " On Metz's view, what kind of punishment is justified for wrongdoers?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.025658130645752
+    },
+    {
+      "question": " According to the principle of greatest equal liberty proposed by John Rawls, each person is to have an equal right to",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.026008129119873
+    },
+    {
+      "question": " Wellman argues that insisting on unlimited property rights commits one to",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.02634596824646
+    },
+    {
+      "question": " Ross argues that the existing body of moral convictions of the best people is the cumulative product of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.02683424949646
+    },
+    {
+      "question": " Kant argues that marriage allows spouses to treat each other not as mere means when engaging in sexual activity because",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.027227163314819
+    },
+    {
+      "question": " On Pogge's view, affluent citizens are harming the poor by",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.0278120040893555
+    },
+    {
+      "question": " According to Aquinas, the first precept of natural law is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.028485059738159
+    },
+    {
+      "question": " Shapiro discusses Mediterranean cultures' use of alcohol to show that",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.586730003356934
+    },
+    {
+      "question": " Little argues that the norms governing the moral permission of abortion are",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.5870959758758545
+    },
+    {
+      "question": " According to Hardin, the fundamental error of \"sharing ethics\" is that",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.587639093399048
+    },
+    {
+      "question": " The principle Arthur calls \"the greater moral evil rule\"says that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.590224027633667
+    },
+    {
+      "question": " Ross claims that the essential defect of utilitarianism is that it ignores",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.590663909912109
+    },
+    {
+      "question": " The second premise in Singer's main argument is: \"If it is in your power to prevent something bad from happening, without sacrificing anything nearly as important, it is wrong not to do so.\" Which phrase in this premise is deliberately left vague?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.591980934143066
+    },
+    {
+      "question": " According to Lukianoff and Haidt, the recent trend to uncover microaggressions encourages",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.59834098815918
+    },
+    {
+      "question": " Marcia Baron argues that the artificiality of ticking bomb cases is problematic because",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.5986878871917725
+    },
+    {
+      "question": " Carens argues that a policy of exclusion does not always imply that the culture and people being protected are superior because",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.59985876083374
+    },
+    {
+      "question": " In responding to terrorism, says Walzer, it is particularly important that",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.60034704208374
+    },
+    {
+      "question": " In response to the argument that embryos are not persons because they do not exercise higher mental capacities, Lee and George argue that",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.28413200378418
+    },
+    {
+      "question": " Mill considers which of the following cases?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.288662910461426
+    },
+    {
+      "question": " According to Velleman, who, if anyone, should decide whether a patient receives euthanasia?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.289079904556274
+    },
+    {
+      "question": " In response to the objection that it would be wrong to prohibit the manufacture and sale of fatty foods and tobacco products, de Marneffe argues that",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.291001081466675
+    },
+    {
+      "question": " According to Kass, one problem with cloning is that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.291645050048828
+    },
+    {
+      "question": " In Carruther's view, the justification for moral criticism for things that we do (or don't to do) to an animal derives from",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.291810035705566
+    },
+    {
+      "question": " One way to value a patient's autonomy is by aiming to maximize his or her effective options. When we value a patient's autonomy in this way, what, according to Velleman, do we value?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.291946887969971
+    },
+    {
+      "question": " McGrecgor, following Hampton, argues that the harm of rape involves",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.292085886001587
+    },
+    {
+      "question": " On Mill's view, the collision with error makes",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.29222297668457
+    },
+    {
+      "question": " According to Kass the fact that people (like him) feel repugnance at the thought of human reproductive cloning",
+      "model_answer": "A)",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.292370080947876
+    },
+    {
+      "question": " Which of the following capacities does Carruther's assume that animals lack?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.7595438957214355
+    },
+    {
+      "question": " Which of the following best characterizes de Marneffe's view?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.760146856307983
+    },
+    {
+      "question": " Wellman's response to the \"egalitarian\" objection to the state's right to exclude is that states can fulfill their duties to outsiders without allowing them into their territory. Fine thinks Wellman's response is insufficient because",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.760518789291382
+    },
+    {
+      "question": " According to Huemer,",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.760887861251831
+    },
+    {
+      "question": " One kind of externality imposed on the world's poor by the economic activity of wealthy nation is",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.761322021484375
+    },
+    {
+      "question": " In therapeutic cloning, the goal is to",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.761676073074341
+    },
+    {
+      "question": " According to Collins, one key claim of care ethics is that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.76201868057251
+    },
+    {
+      "question": " According to Confucian the model of persons,",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.76239800453186
+    },
+    {
+      "question": " Which of the following is an example of a virtue?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.762743711471558
+    },
+    {
+      "question": " Carens argues that, for example, liberal egalitarianism has nothing to say about the question of whether a black doctor has a moral obligation to practice in a black community. This is because the only limit that liberal egalitarianism places on individuals' moral obligations, according to Caren, is that they",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.7630839347839355
+    },
+    {
+      "question": " Sandel's case against moral engineering can best be considered",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.569524049758911
+    },
+    {
+      "question": " One problem with treating the ticking bomb case as involving only a single instance of torture, according to Baron, is that",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.5699779987335205
+    },
+    {
+      "question": " According to Cohen, animals are",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.570396184921265
+    },
+    {
+      "question": " One objection to care ethics is thatit seems to imply that we areresponsible for our attitudes, even though they seem not to be under our voluntary control. Collins responds by arguing that",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.57079291343689
+    },
+    {
+      "question": " According to Sinnott-Armstrong, if we cannot find any moral principle to back up our intuition that wasteful driving (of the sort mentioned in his article) is wrong, then",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.571288108825684
+    },
+    {
+      "question": " The idea of \"using someone as a mere means\" is centrally relevant to which of the following moral theories?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.571712970733643
+    },
+    {
+      "question": " According to consequentialist theories of punishment, a lawbreaker should be punished only if",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.572268009185791
+    },
+    {
+      "question": " Which of the following is not an example Aquinas gives of a self-evident proposition?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.579867124557495
+    },
+    {
+      "question": " Marquis argues that abortion is morally wrong by",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.580284118652344
+    },
+    {
+      "question": " Of the following social problems that could result from a genetic supermarket, which does Singer think is the least serious?",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.58063817024231
+    },
+    {
+      "question": " In response to Sandel's argument about the relationship between genetic enhancement and parent-child relationships, Kamm argues that",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.5764100551605225
+    },
+    {
+      "question": " According to Marquis, abortion is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.576786994934082
+    },
+    {
+      "question": " Michael Gill begins by discussing arguments against autonomy-based justifications of euthanasia. According to these arguments, autonomy-based justifications are contradictory because",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.5780370235443115
+    },
+    {
+      "question": " A war over ideological differences carried out by methods short of sustained overt military action and usually without breaking off diplomatic relations is known as",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.578507900238037
+    },
+    {
+      "question": " Huemer worries that the employment of a \"war\" metaphor when describing government policies about drug use",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.578864097595215
+    },
+    {
+      "question": " Which of the following is not one of the four main excuses for terrorism that Michael Walzer discusses?",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.579210996627808
+    },
+    {
+      "question": " Christopher Heath Wellman defends the position that",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.579554080963135
+    },
+    {
+      "question": " Ross proposed that we have a duty of reparation-that is, the prima facie duty-to",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.589550018310547
+    },
+    {
+      "question": " Joseph Carens argues that restrictions on free migration can be justified if",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.590395927429199
+    },
+    {
+      "question": " An unborn vertebrate animal that has developed to the point of having the basic structure that is characteristic of its kind is known as",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.590585947036743
+    },
+    {
+      "question": " Corresponding to the theoretical aim of moral theory is the principle of",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.770652770996094
+    },
+    {
+      "question": " According to Aquinas, every law is ordained to",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.771039009094238
+    },
+    {
+      "question": " The question of whether the killing/letting die distinction is morally relevant can be posed by asking whether we are equally to blame for allowing people in Third World countries to starve as we would be for",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.771410226821899
+    },
+    {
+      "question": " Singer presents his three-premise argument in addition to appealing to the case of the drowning child because",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.771872043609619
+    },
+    {
+      "question": " Why can't animals be bearers of rights according to Cohen?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.772285223007202
+    },
+    {
+      "question": " An oocyte is",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.772630929946899
+    },
+    {
+      "question": " According to Corvino, the \"unnaturalness\" charge can carry moral weight only if those who level it can do two things:",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.773234844207764
+    },
+    {
+      "question": " Mill defends the harm principle on the basis of which moral theory?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.77360200881958
+    },
+    {
+      "question": " According to Carruthers, our duties to animals are",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.7742979526519775
+    },
+    {
+      "question": " Nagel clarifies that absolutism is the view that we should",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.775084972381592
+    },
+    {
+      "question": " An unjust society, according to John Rawls, can be roughly characterized as any society where",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.7210869789123535
+    },
+    {
+      "question": " With respect to the issue of world hunger and poverty, Arthur points out that Singer ignores",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.721515893936157
+    },
+    {
+      "question": " According to Altman, a viewpoint-biased speech restriction should be troubling to whom?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.721861839294434
+    },
+    {
+      "question": " According to McGregor, the expressive harm of rape",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.722397804260254
+    },
+    {
+      "question": " Which of the following is not an objection Pence gives to the argument that SCNT is not best for the child?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.722805023193359
+    },
+    {
+      "question": " According to rule consequentialism, the rightness or wrongness of an action depends on",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.724186897277832
+    },
+    {
+      "question": " Kant argues that because sexual attraction involves seeing another person as the object of one's appetites,",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.724538803100586
+    },
+    {
+      "question": " One common objection to utilitarianism is that the principle of utility is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.72500467300415
+    },
+    {
+      "question": " According to Macedo, we have special obligations to our fellow citizens arising from",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.725383758544922
+    },
+    {
+      "question": " According to the basic principle of natural law theory, an action is right if and only if (and because)",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.725725889205933
+    },
+    {
+      "question": " In reproductive cloning, the cloned individual will have nearly the same genetic makeup as",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.0465147495269775
+    },
+    {
+      "question": " One of the messages Nathanson believes we can send by abolishing the death penalty is that",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.0470240116119385
+    },
+    {
+      "question": " Rachels believes that active euthanasia is better than passive euthanasia in cases where",
+      "model_answer": "A)",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.047529935836792
+    },
+    {
+      "question": " According to Altman, expressive harm is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.048926830291748
+    },
+    {
+      "question": " Papadaki thinks that in cases where partners in a relationship mutually deny each other's humanity that",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.049529075622559
+    },
+    {
+      "question": " Which of the following statements would Macedo disagree with?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.050244092941284
+    },
+    {
+      "question": " Which of the following best characterizes Rachels's argument?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.050644874572754
+    },
+    {
+      "question": " Suppose two athletes, A and B, are equally skilled. Suppose also that A naturally inherited certain traits from her father that made playing the sport easier for her, and thus she didn't have to train as hard as B. According to the ethic of willfulness,",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.053379058837891
+    },
+    {
+      "question": " According to Altman, justifications of speech codes that take account of which of the following kinds of harm have the best prospects for success?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.054297924041748
+    },
+    {
+      "question": " Kant's Universal Law formulation does not refer to an agent's wants; rather, it represents",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.0547919273376465
+    },
+    {
+      "question": " Wellman cites a number of \"unpalatable implications that follow from denying a country's right to freedom of association,\" including",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.108720064163208
+    },
+    {
+      "question": " According to West, which of the following reasons for a women to engage in sex with her male partner may cause her harm?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.109385967254639
+    },
+    {
+      "question": " According to Kant, an imperative that represents an action as a necessary means to something that is willed is what kind of imperative?",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.109764099121094
+    },
+    {
+      "question": " What does Pence think is an appropriate standard for the safety of SCNT before it should be allowed?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.110116004943848
+    },
+    {
+      "question": " Which of the following claims would Leopold clearly accept?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.110491037368774
+    },
+    {
+      "question": " Mill argues on that even a false opinion should not be censored because",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.1109819412231445
+    },
+    {
+      "question": " Norcross claims that if morality demands that we not torture puppies merely to enhance our own eating pleasure, morality also demands that",
+      "model_answer": "A)",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.111343145370483
+    },
+    {
+      "question": " Which of the following is not one of the potentially negative consequences of imposing the death penalty?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 5.112208843231201
+    },
+    {
+      "question": " According to Sinnott-Armstrong, the fact your government morally ought to do something",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.112555980682373
+    },
+    {
+      "question": " Some forms of misogynist speech only target a subset of women. Richardson-Self argues that we should",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 5.112900972366333
+    },
+    {
+      "question": " Instead of asking why the act of destroying the environment might be immoral, Hill wants to ask",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.305732727050781
+    },
+    {
+      "question": " Philippa Foot explains the moral relevance of the killing/letting die distinction by appealing to",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.306179761886597
+    },
+    {
+      "question": " Which of the following is an example of a duty-based moral theory?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.306565761566162
+    },
+    {
+      "question": " Lukianoff and Haidt argue that trigger warnings involve which kind of pathological thinking?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.306915760040283
+    },
+    {
+      "question": " Corresponding to the practical aim of moral theory is the principle of",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.307259798049927
+    },
+    {
+      "question": " By recognizing that we have backup duties to donate to aid agencies, Ashford argues that we can",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.30772590637207
+    },
+    {
+      "question": " Which of the following is a view that Dershowitz argues for?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.308265924453735
+    },
+    {
+      "question": " According to de Marneffe, which of the following is a reason we might call someone a drug addict?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.308665752410889
+    },
+    {
+      "question": " On McGregor's view, our rights carve out",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.3090128898620605
+    },
+    {
+      "question": " Which of the following is an example of a duty that corresponds to a right to goods and service?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.309355020523071
+    },
+    {
+      "question": " In response to the worry that the freedom of association could justify immigration policies that exclude entry to members of a given race, Wellman claims that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.122053146362305
+    },
+    {
+      "question": " Which of the following conditions would make a slippery-slope argument fallacious?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.123502969741821
+    },
+    {
+      "question": " According to Carruthers, which of the following groups should not be accorded direct moral standing?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.124379873275757
+    },
+    {
+      "question": " If the killing/letting die distinction is morally relevant, then that would show that the following distinction is also morally relevant:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.1247758865356445
+    },
+    {
+      "question": " Macedo describes his position on immigration as politically",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.1251959800720215
+    },
+    {
+      "question": " In the context of Gardiner's article, what is \"the dispersion of causes and effects\"?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.1255409717559814
+    },
+    {
+      "question": " Kant refers to the special worth or value of persons as",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.126018047332764
+    },
+    {
+      "question": " Stephen Macedo approaches the ethical issue of immigration from the perspective of _____ justice.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.126394748687744
+    },
+    {
+      "question": " On Kant's view, it is morally permissible to:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.1268370151519775
+    },
+    {
+      "question": " West posits that one reason that these harms go unnoticed in the U.S. is that people in the U.S.",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.127187967300415
+    },
+    {
+      "question": " Cases in which a doctor is involved to some degree in assisting an individual to commit suicide are known as",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.163455963134766
+    },
+    {
+      "question": " In contrast to other moral theories, care ethics emphasizes",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.163907051086426
+    },
+    {
+      "question": " Why does Metz think that extant dignity-based arguments based on African values fail?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.167372941970825
+    },
+    {
+      "question": " John considers what Mary has done and thinks to himself, Mary did the right thing. This thought is primarily a judgment about",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.167827129364014
+    },
+    {
+      "question": " A central premise of Wellman's argument is that the state's right to freedom of association implies a right to _____ prospective members:",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.1693150997161865
+    },
+    {
+      "question": " Papadaki argues that the narrow view of sexual objectification",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.169884204864502
+    },
+    {
+      "question": " Baron cites a summary of Ali Soufan's Senate testimony to suggest that",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.17043399810791
+    },
+    {
+      "question": " A war that involves actual fighting is known as",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.175515174865723
+    },
+    {
+      "question": " Carens defends a form of",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.17590594291687
+    },
+    {
+      "question": " Callahan cites the Oregon Death with Dignity Legal Defense and the Education Center's finding that \"after four full years .. there have been no missteps, abuses or coercive tendencies\" regarding laws permitting euthanasia. In response he argues that",
+      "model_answer": "A)",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.177680015563965
+    },
+    {
+      "question": " Which of the following is not an example of a natural right that Locke uses?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.275412082672119
+    },
+    {
+      "question": " Shapiro claims that humans are social or cultural animals, which is significant for his view because it implies that",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.2758629322052
+    },
+    {
+      "question": " Van den Haag thinks that we can't know whether a murderer who receives the death penalty",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.276226043701172
+    },
+    {
+      "question": " Critics of speech codes adopted in the 1980s and early 1990s argued that these codes violated which of the following principles?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.276633024215698
+    },
+    {
+      "question": " According to Aristotle, if something has a function, then its good depends on",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.277462005615234
+    },
+    {
+      "question": " Suppose Nathan argues that while neither nonhuman nor nonsentient beings have direct moral standing, we still ought to have a certain noninstrumental regard for the environment because failing to do so involves a deficiency in one's moral character. Nathan is most likely applying what moral theory?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.277889013290405
+    },
+    {
+      "question": " More than communicating to an individual, McGregor argues that rape",
+      "model_answer": "A)",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.278247117996216
+    },
+    {
+      "question": " What is the main difference between a cloned (SCNT) individual and an individual who is a product of normal sexual reproduction?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.279512166976929
+    },
+    {
+      "question": " According to Lee and George, ova/sperm are not human beings because",
+      "model_answer": "D.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.279871940612793
+    },
+    {
+      "question": " Little suggests that we should think about the abortion issue in terms of degrees and layers because",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.28036093711853
+    },
+    {
+      "question": " West worries that liberal theory in academia has inadvertently led to the under-acknowledgement of the harms of consensual sex because",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.400709867477417
+    },
+    {
+      "question": " Utilitarian arguments depend heavily on factual claims about",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.401104688644409
+    },
+    {
+      "question": " In his discussion of discrimination in war, Valls suggests that",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.4014856815338135
+    },
+    {
+      "question": " Which of the following is not, according to Carens, a concern for all liberal egalitarians?",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.402939796447754
+    },
+    {
+      "question": " Lukianoff and Haidt argue that American colleges and universities now encourage",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.403318643569946
+    },
+    {
+      "question": " Aristotle defines virtue as",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.40366268157959
+    },
+    {
+      "question": " Nagel thinks that the core of the absolutist position is that",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.404041767120361
+    },
+    {
+      "question": " Which of the following is a \"positional good,\" according to Peter Singer's definition?",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.404390811920166
+    },
+    {
+      "question": " Aquinas's moral theory is a version of",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.405785799026489
+    },
+    {
+      "question": " Van den Haag responds to the \"miscarriages of justice\" objection by claiming that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.406184911727905
+    },
+    {
+      "question": " Which of the following does Corvino take to be a problematic \"hidden assumption\" of harm arguments against homosexuality?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.8605899810791016
+    },
+    {
+      "question": " Patrick Lee and Robert George argue that human embryos are complete human beings because",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.860956907272339
+    },
+    {
+      "question": " Hate speech, according to Richardson-Self involves",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.861475944519043
+    },
+    {
+      "question": " When we think about the norms of creation, Little argues that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.861828088760376
+    },
+    {
+      "question": " In Altman's characterization, racial epithets and similar terms of abuse are communicative tools for expressing an extreme form of which of the following?",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8622829914093018
+    },
+    {
+      "question": " In ethics, the terms \"right\" and \"wrong\" are used primarily to evaluate the morality of",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.8626327514648438
+    }
+  ]
+}

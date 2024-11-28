@@ -1,0 +1,1084 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq1_m",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-183216"
+  },
+  "subject": "logical_fallacies",
+  "category": "humanities",
+  "correct_rate": 27.450980392156865,
+  "evaluation_results": [
+    {
+      "question": "A valid disjunctive syllogism has a major premise that:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.5281050205230713
+    },
+    {
+      "question": "Which of the following best describes the fallacy of style over substance?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.528480052947998
+    },
+    {
+      "question": "Which of the following fallacies is a way of suppressing evidence that eliminates a source of evidence from consideration by claiming the source is flawed, when there is no true relationship between the alleged flaw and the reliability of the source?",
+      "model_answer": "Please note that this question is a multiple-choice",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.5289599895477295
+    },
+    {
+      "question": "The false analogy fallacy is",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.52939510345459
+    },
+    {
+      "question": "The _ad nauseam_ fallacy is",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.529768943786621
+    },
+    {
+      "question": "Arguing that what is true of an entire object is also true of each part of that object is the fallacy of",
+      "model_answer": "Answer key: A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5301380157470703
+    },
+    {
+      "question": "Which of the following describes the horse laugh fallacy?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.5305018424987793
+    },
+    {
+      "question": "Arguing that a lack of evidence proves something is the fallacy of...",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.5308640003204346
+    },
+    {
+      "question": "The argument against the person consists of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.531989097595215
+    },
+    {
+      "question": "Which of the following fallacies happens when someone concludes that someone must be honest because the people he hangs around with are honest?",
+      "model_answer": "**B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.5323991775512695
+    },
+    {
+      "question": "Asking a question that includes an unproven assumption may lead to which of the following fallacies?",
+      "model_answer": "Answer: D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.909467935562134
+    },
+    {
+      "question": "Notice from the Hyatt Regency Hotel in New Orleans: We are pleased to confirm your reservation. It will be held on a space-available basis.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9239988327026367
+    },
+    {
+      "question": "The natural law fallacy is",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.9242827892303467
+    },
+    {
+      "question": "If someone uses an emotionally charged restatement of a claim in place of support for the claim, that person may have committed which of the following fallacies?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.924405813217163
+    },
+    {
+      "question": "Arguing that a claim must be true merely because a substantial number of people believe it is called the fallacy of...",
+      "model_answer": "Answer key: A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.9245247840881348
+    },
+    {
+      "question": "_Ad populum_. is another name for which fallacy?",
+      "model_answer": "**D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9247398376464844
+    },
+    {
+      "question": "In a valid disjunctive syllogism the minor premise must",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.9250147342681885
+    },
+    {
+      "question": "Which of the following describes the fallacy of appeal to spite?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.925156831741333
+    },
+    {
+      "question": "_Ad hominem_ is another name for the fallacy of",
+      "model_answer": "**D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9252758026123047
+    },
+    {
+      "question": "The fallacy of appeal to the person is rejecting a claim by...",
+      "model_answer": "Please note that the answer is B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6308579444885254
+    },
+    {
+      "question": "Another name for hasty conclusion is",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.6313979625701904
+    },
+    {
+      "question": "John S. Knight, Detroit Free Press (3 July 1970): ...Capitalism is the economic system in which the means of production and distribution are privately owned and operated for profit. The alternative system is called socialism, the theory of the ownership and operation of the means of production by society, with all members sharing in the work and the products.",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.6319351196289062
+    },
+    {
+      "question": "The fallacy of composition is",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.64188289642334
+    },
+    {
+      "question": "\" _Ad crumenam_ \" is a specific kind of",
+      "model_answer": "Please note that the correct answer is A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.6422688961029053
+    },
+    {
+      "question": "Which of the following fallacies happens when someone draws a conclusion that is simply a restatement of one of the premises?",
+      "model_answer": "**D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.642615795135498
+    },
+    {
+      "question": "I don't know what the answer is to number 8. But Heather hasn't made the third option into the correct answer for a while, and even then only once, so I'm guessing that this is the fallacy of Composition!",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.6453208923339844
+    },
+    {
+      "question": "When someone argues that making a change will have no significant effect, but there is no evidence that the effect will not be significant, that person has committed which of the following fallacies?",
+      "model_answer": "**D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.645447015762329
+    },
+    {
+      "question": "Which of the following best describes the fallacy of question begging epithets?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.6455628871917725
+    },
+    {
+      "question": "Which of the following describes he fallacy of appeal to pride?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.645676851272583
+    },
+    {
+      "question": "A syllogism that is formally invalid",
+      "model_answer": "*",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3572609424591064
+    },
+    {
+      "question": "Another name for the fallacy of false dilemma is",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.358140230178833
+    },
+    {
+      "question": "When someone responds to your argument with a sarcastic statement such as, \"Yeah, right. Like that's ever going to happen,\" that person may have committed which fallacy?",
+      "model_answer": "Please",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.358582019805908
+    },
+    {
+      "question": "The _post hoc_ fallacy is",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3590900897979736
+    },
+    {
+      "question": "The fallacy of reprehensible personality is a specific type of",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.3597099781036377
+    },
+    {
+      "question": "_A priori_ is a fallacy that involves",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.360461950302124
+    },
+    {
+      "question": "If you say an opposing arguer has taken a position that you can easily defeat, when he or she has not taken that position, then you go on to defeat that position and claim to have done significant damage to that arguer's overall argument, you are probably guilty of which of the following fallacies?",
+      "model_answer": "Straw person",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3608131408691406
+    },
+    {
+      "question": "Arguing that someone couldn't have done something good because he is incapable of doing good commits the fallacy of",
+      "model_answer": "Answer key: A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.361255168914795
+    },
+    {
+      "question": "The complex proposition fallacy involves",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.3616139888763428
+    },
+    {
+      "question": "Anecdotal evidence is a specific kind of",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.1621339321136475
+    },
+    {
+      "question": "Fallacies can be psychologically persuasive even though they are...",
+      "model_answer": "**D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.17769193649292
+    },
+    {
+      "question": "Referring to an act committed by an opponent in negative terms while referring to the same act committed by the arguer or supporters in favorable terms describes which of the following fallacies?",
+      "model_answer": "Answer key: B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.1781439781188965
+    },
+    {
+      "question": "Which of the following explanations best fits the fallacy of ignorance of refutation?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1787750720977783
+    },
+    {
+      "question": "Another name for the fallacy of reducing to an absurdity is",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.1793620586395264
+    },
+    {
+      "question": "Another name for the fallacy of complex question is",
+      "model_answer": "Answer: B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.1802597045898438
+    },
+    {
+      "question": "The appeal to joy fallacy involves",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1808788776397705
+    },
+    {
+      "question": "Another name for the fallacy of accident is",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.1814117431640625
+    },
+    {
+      "question": "Which of the following describes the fallacy of evading the issue?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.1817619800567627
+    },
+    {
+      "question": "Including more than one claim in a proposition may lead to which of the following fallacies?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.1819028854370117
+    },
+    {
+      "question": "Which of the following fallacies happens when someone concludes that someone couldn't have done something bad because he or she has good qualities?",
+      "model_answer": "Please note that this is a multiple-choice question",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.384464740753174
+    },
+    {
+      "question": "Which of the following describes the fallacy of appeal to popularity?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.3848676681518555
+    },
+    {
+      "question": "Which fallacy happens because of a failure to recognize the alternatives presented are not mutually exclusive?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.3852179050445557
+    },
+    {
+      "question": "In a conditional syllogism, when the minor premise denies the antecedent",
+      "model_answer": "**D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.3857977390289307
+    },
+    {
+      "question": "The Dean was showing a visitor around the campus. The visitor asked, \"About how many students do you have here?\" After a moment of reflection the Dean replied, \"Oh, I'd guess about one in a hundred.\"",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.3861687183380127
+    },
+    {
+      "question": "The appeal to anonymous authority fallacy consists of",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.386549949645996
+    },
+    {
+      "question": "A hasty generalization is a fallacy of...",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.3869149684906006
+    },
+    {
+      "question": "Which of the following best describes the fallacy of figure of speech?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3873789310455322
+    },
+    {
+      "question": "The fallacy of extension consists of",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.3887150287628174
+    },
+    {
+      "question": "Arguing that a claim must be true because there is no evidence that it is false is which of the following fallacies?",
+      "model_answer": "**C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.3893330097198486
+    },
+    {
+      "question": "Which of the following describes the fallacy of appeal to common practice?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.282989978790283
+    },
+    {
+      "question": "Which of the following is another name for evading the issue?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.2834091186523438
+    },
+    {
+      "question": "I don't understand why everyone thinks they belong in college. After all, everyone knows that when you are intelligent you'll succeed. But so many people that elect to attend college don't have even the most basic intelligence. How do they expect to get anywhere here?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2841708660125732
+    },
+    {
+      "question": "When someone treats an imaginary concept as if it was something tangible that person might commit the fallacy of",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2845401763916016
+    },
+    {
+      "question": "Another name for hasty generalization is",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.2848780155181885
+    },
+    {
+      "question": "An arguer who threatens another to gain agreement commits the fallacy of",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.285212993621826
+    },
+    {
+      "question": "Which type of syllogism's major premise takes the form, \"All A's are B\"?",
+      "model_answer": "Please note that the correct answer is A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.285578966140747
+    },
+    {
+      "question": "If you think that someone's argument is strong based on their compelling use of language and confident delivery, you've probably committed which fallacy?",
+      "model_answer": "Please note that the correct answer is B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.2865829467773438
+    },
+    {
+      "question": "Which of the following describes the fallacy of appeal to indignation?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2869369983673096
+    },
+    {
+      "question": "Evading burden of proof is another name for the fallacy of",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.396505832672119
+    },
+    {
+      "question": "In a hypothetical syllogism, when the minor premise affirms the antecedent",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.397455930709839
+    },
+    {
+      "question": "Moses Maimonides, \"The Guide of the Perplexed\": God, may He be exalted ... existed alone, and nothing else. ...Afterwards, through His will and His volition, He brought into existence out of nothing all the beings as they are, time itself being one of the created things. For time is consequent upon motion, and motion is an accident of what is moved. Furthermore, what is moved...is itself created in time ....",
+      "model_answer": "None",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3978047370910645
+    },
+    {
+      "question": "John Stuart Mill: Each person's happiness is a good to that person, and the general happiness, therefore, a good to the aggregate of all persons.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.398193836212158
+    },
+    {
+      "question": "Arguing that an idea should be accepted or rejected only because of the source of the idea commits which of the following fallacies?",
+      "model_answer": "**D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.398552894592285
+    },
+    {
+      "question": "Which of the following best describes the fallacy of equivocation?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.3989038467407227
+    },
+    {
+      "question": "The fallacy of appeal to emotions consists of",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.399237871170044
+    },
+    {
+      "question": "\"To be valid, the minor premise must either agree with the antecedent, or disagree with the consequent\" is a requirement for",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3995718955993652
+    },
+    {
+      "question": "Which of the following fallacies happens when someone concludes that someone couldn't have done something good because he or she has negative qualities?",
+      "model_answer": "Please note that this is a multiple-choice question",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.684382200241089
+    },
+    {
+      "question": "Another name for the bandwagon appeal is",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.6847479343414307
+    },
+    {
+      "question": "A valid disjunctive syllogism has which of the following characteristics?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.6851251125335693
+    },
+    {
+      "question": "When a claim is supported only by asserting that unidentified experts accept the claim the arguer has committed which of the following fallacies?",
+      "model_answer": "Please note that this question is a multiple-choice",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.685486078262329
+    },
+    {
+      "question": "The black-or-white fallacy is another name for",
+      "model_answer": "Please note that you are a helpful assistant",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.6859512329101562
+    },
+    {
+      "question": "The false sign fallacy is",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6863131523132324
+    },
+    {
+      "question": "\" _Ad novitatem_ \" is",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.68677020072937
+    },
+    {
+      "question": "When someone tries to support a proposition with information that really has nothing to do with the claim being made, that person has probably committed which of the following fallacies?",
+      "model_answer": "**A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.687145233154297
+    },
+    {
+      "question": "Applying irrelevant standards to the subject of the argument is the fallacy of",
+      "model_answer": "Please note that the correct answer is A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.700136184692383
+    },
+    {
+      "question": "If you argued something is flawed because it fails to do something, when it was never intended to do that, you may have committed which of the following fallacies?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.489243984222412
+    },
+    {
+      "question": "\" _Ad antiquitatem_ \" is",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.489725112915039
+    },
+    {
+      "question": "\" _Ad crumenam_ \" is",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.490065097808838
+    },
+    {
+      "question": "The fallacy of laudatory personality is a specific type of",
+      "model_answer": "Please note that you are not to be taken",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.490489959716797
+    },
+    {
+      "question": "Appeal to ignorance is a fallacy that involves",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.4908289909362793
+    },
+    {
+      "question": "Which of the following statements is **not** true?",
+      "model_answer": "**A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.4913299083709717
+    },
+    {
+      "question": "\"The minor premise must affirm the antecedent or deny the consequent\" is a validity requirement of which type of argument?",
+      "model_answer": "**D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.4916701316833496
+    },
+    {
+      "question": "Which of the following describes the fallacy of appeal to loyalty?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.492140769958496
+    },
+    {
+      "question": "Arguing in favor of a claim based only on the evidence that some regular people believe the claim is one way to commit which of the following fallacies?",
+      "model_answer": "The answer is A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.4925038814544678
+    },
+    {
+      "question": "The appeal to fear involves",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.4928650856018066
+    },
+    {
+      "question": "It's silly to pass laws against discrimination, since it is obvious that we can't live without it. We discriminate between pleasant and unpleasant tastes in selecting our food, between pleasant and unpleasant sounds in selecting our music, between harmonious and unharmonious colors in decorating our homes, between interesting and uninteresting people in choosing our friends, and so on. We can't live without discriminating.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.5730879306793213
+    },
+    {
+      "question": "The fallacy of guilt by association is a specific type of",
+      "model_answer": "Please note that the correct answer is A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.573709011077881
+    },
+    {
+      "question": "Appeal to compassion is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.5742390155792236
+    },
+    {
+      "question": "When someone uses highly emotionally charged terms during an argument, without giving any reasons why those terms fit the subject, that person may have committed which of the following fallacies?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.5746049880981445
+    },
+    {
+      "question": "Arguing that someone couldn't have done something good because she holds a particular position commits the fallacy of",
+      "model_answer": "Answer key: A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.575002908706665
+    },
+    {
+      "question": "\" _Ad antiquitatem_ \" is a specific kind of",
+      "model_answer": "Please note that the correct answer is D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.5753750801086426
+    },
+    {
+      "question": "The hasty conclusion fallacy is",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.5760040283203125
+    },
+    {
+      "question": "\" _Ad lazarum_ \" is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.5766029357910156
+    },
+    {
+      "question": "All things that are spoiled are inedible. Timothy is spoiled. So, Timothy is inedible.",
+      "model_answer": "None",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.576960802078247
+    },
+    {
+      "question": "Which of the statements below is correct about the following argument?\n\n\"If the sky is blue there won't be rain. The sky is blue today. Therefore, there won't be rain.\"",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.577300786972046
+    },
+    {
+      "question": "Which of the following best describes the snob appeal fallacy?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6007239818573
+    },
+    {
+      "question": "\"Each term must be used twice, no more and no less,\" is a test of validity for which type of syllogism?",
+      "model_answer": "Please note that the question is about logical fall",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.601161003112793
+    },
+    {
+      "question": "The natural law fallacy is a specific type of",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.601989984512329
+    },
+    {
+      "question": "Given the following major premise, which of the following minor premises could lead to a valid conclusion?\n\n\"Either I'm going to do well on this test or I'm going to be mad.\"",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.6024961471557617
+    },
+    {
+      "question": "Men are better drivers than women are. The proof of this is that men are more capable than women of managing cars on the road.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.6028969287872314
+    },
+    {
+      "question": "In a faulty analogy, the things being compared are...",
+      "model_answer": "Please note that the correct answer is A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6038742065429688
+    },
+    {
+      "question": "Which of the following describes the _tu quoque_ fallacy?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.604264974594116
+    },
+    {
+      "question": "Responding to charges of wrongdoing by saying the accuser or others do the same thing describes which of the following fallacies?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6050751209259033
+    },
+    {
+      "question": "The genetic fallacy consists of",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3278090953826904
+    },
+    {
+      "question": "Another name for the fallacy of begging the question is",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.336266040802002
+    },
+    {
+      "question": "The fallacy of _ignoratio elenchi_ is also known as",
+      "model_answer": "Please note that this question is a multiple-choice",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.337571144104004
+    },
+    {
+      "question": "William Safire in American Heritage Magazine (December 1987): ...The greatness of Lincoln was his purposefulness. He saw something that few others saw: that the democratic experiment centered on the Union and that majority rule was everything. The minute you allowed secession, you made democracy an absurdity---because what would happen would be continued subdivision.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.3384482860565186
+    },
+    {
+      "question": "So, how long have you been beating your wife?",
+      "model_answer": "None",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3395802974700928
+    },
+    {
+      "question": "\"Misuse of statistics,\" \"questionable statistics,\" and \"questionable use of statistics\" are all other names for the fallacy of",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.3397581577301025
+    },
+    {
+      "question": "E.F. Schumacher, famous economist, in an article in the Atlantic (April 1979): Fifteen months [after I had advised that rural India should have a technology intermediate between the hoe and the tractor,] an all-India conference on intermediate technology was arranged. (They still didn't like the term [intermediate], so they called it appropriate technology. That's all right: when I come to India and somebody says, \"Oh, Mr. Schumacher, I don't believe in appropriate technology\", I just look him straight in the face and say, \"Oh, that's splendid. Do you believe in inappropriate technology?\")",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.3402371406555176
+    },
+    {
+      "question": "We must assume that he is a Communist, because he says that he is not, and we know that Communists are taught always to deny party membership.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.3404552936553955
+    },
+    {
+      "question": "If someone argues that something should be done in a certain way because that's the way it's always been done, that person has committed which of the following fallacies?",
+      "model_answer": "**B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.340623140335083
+    },
+    {
+      "question": "False analogy is another name for which fallacy?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3407862186431885
+    },
+    {
+      "question": "Which fallacy happens when someone argues in favor of a two part proposition, only supports one part of the proposition, then asserts that the entire proposition has been supported.",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.355414867401123
+    },
+    {
+      "question": "Which of the following is a test of the validity of a conditional syllogism?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3558199405670166
+    },
+    {
+      "question": "Which of the following is another name for the fallacy of amphiboly?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.356334686279297
+    },
+    {
+      "question": "Tan ah Tiat, forty-nine years old, a native of Kuala Lumpar, Malaysia, was charged with possession of opium. Arguing for acquittal, he told the judge that his opium habit did no harm, as he was too old to work anyway. Asked how he lived, he replied that he lived on the earnings of his grandmother.",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.356987714767456
+    },
+    {
+      "question": "Which of the following best describes the fallacy of self-evident truths?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.357330799102783
+    },
+    {
+      "question": "\" _Ad lazarum_ \" is a specific kind of",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.3576648235321045
+    },
+    {
+      "question": "We're perfectly entitled to believe there is a God. After all, every effort by atheists to prove otherwise has failed.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.358001708984375
+    },
+    {
+      "question": "When someone makes an argument, and the only evidence he or she uses to support the claim is the testimony that an authority figure believes the claim, the arguer has committed which fallacy?",
+      "model_answer": "Answering this question with a single letter:",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.358365774154663
+    },
+    {
+      "question": "When someone changes the meaning of a word or phrase from one part of the argument to another that person may have committed which of the following fallacies?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.1547470092773438
+    },
+    {
+      "question": "Another name for the fallacy of accident is",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.155487060546875
+    },
+    {
+      "question": "\"Each term must be used twice, no more and no less\" is a requirement for",
+      "model_answer": "**D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.1559600830078125
+    },
+    {
+      "question": "The false cause fallacy is",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.156397819519043
+    },
+    {
+      "question": "Arguing that someone should do something because other people are doing it is a description of which of the following fallacies?",
+      "model_answer": "The answer is B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.156771183013916
+    },
+    {
+      "question": "Which of the following describes the fallacy of false consolation?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.1571102142333984
+    },
+    {
+      "question": "Which of the following fallacies happens when someone concludes that a legitimate generalization necessarily applies to a particular case?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.1574809551239014
+    },
+    {
+      "question": "Which of the following best describes the fallacy of poisoning the well?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1581010818481445
+    },
+    {
+      "question": "Which of the following describes the straw person fallacy?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1585209369659424
+    },
+    {
+      "question": "Which of the following is another name for appeal to the people?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1591200828552246
+    },
+    {
+      "question": "Which of the following describes the fallacy of appeal to tradition?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.507613182067871
+    },
+    {
+      "question": "Which of the following is the best explanation of the fallacy of loaded language?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.5079832077026367
+    },
+    {
+      "question": "Automatically rejecting a claim just because it's traditional is...",
+      "model_answer": "Answer: **D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.5083281993865967
+    },
+    {
+      "question": "A slippery-slope pattern of argument is fallacious when...",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5086781978607178
+    },
+    {
+      "question": "Which of the following best describes the fallacy of special pleading?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.523677349090576
+    },
+    {
+      "question": "Whether someone is hypocritical regarding her claims is...",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.523916244506836
+    },
+    {
+      "question": "If someone says if you do something it will lead to extreme consequences, but doesn't provide you with any evidence of a cause and effect relationship between your act and those consequences, that person has probably committed which of the following fallacies?",
+      "model_answer": "**B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.5241072177886963
+    },
+    {
+      "question": "The concomitant variation fallacy is",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.5242953300476074
+    },
+    {
+      "question": "\" _Ad novitatem_ \" is a specific kind of fallacy of",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.524480104446411
+    },
+    {
+      "question": "Rejecting a claim by criticizing the person who makes it rather than the claim itself is known as the fallacy of...",
+      "model_answer": "Answer: D) Appeal to the person",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.524672031402588
+    },
+    {
+      "question": "Which of the following best describes the fallacy of amphiboly?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 0.8685929775238037
+    },
+    {
+      "question": "When someone uses grammar or punctuation in a way that makes a statement have more than one possible interpretation, that person may have committed which of the following fallacies?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 0.8689637184143066
+    },
+    {
+      "question": "Telling people that they haven't been harmed because there is something they should be thankful for commits which of the following fallacies?",
+      "model_answer": "**B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 0.8694517612457275
+    }
+  ]
+}

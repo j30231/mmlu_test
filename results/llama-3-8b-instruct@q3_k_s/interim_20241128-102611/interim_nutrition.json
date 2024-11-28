@@ -1,0 +1,2155 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@q3_k_s",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-112429"
+  },
+  "subject": "nutrition",
+  "category": "other (business, health, misc.)",
+  "correct_rate": 58.496732026143796,
+  "evaluation_results": [
+    {
+      "question": "Which foods tend to be consumed in lower quantities in Wales and Scotland (as of 2020)?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.038311004638672
+    },
+    {
+      "question": "In which one of the following circumstances will the prevalence of a disease in the population increase, all else being constant?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.038702964782715
+    },
+    {
+      "question": "Which of the following statements is correct?\n",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.0390379428863525
+    },
+    {
+      "question": "What are the main causes of the obesity epidemic?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.039393186569214
+    },
+    {
+      "question": "Which vitamin is a major lipid-soluble antioxidant in cell membranes?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.0398709774017334
+    },
+    {
+      "question": "Which of the following contributes to vitamin B12 deficiency in older adults?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.041745901107788
+    },
+    {
+      "question": "Obesity increases the risk of endometrial cancer. Which hormone is thought to mediate this effect?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.042585849761963
+    },
+    {
+      "question": "Which vitamin is required for calcium absorption from the small intestine?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0427050590515137
+    },
+    {
+      "question": "Which of the following statements about the metabolic demand for amino acids is correct?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.042797088623047
+    },
+    {
+      "question": "Which of the following statements about human amino acid requirements in human nutrition is correct?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0428879261016846
+    },
+    {
+      "question": "A food additive is considered to be safe when:\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.434497117996216
+    },
+    {
+      "question": "Which of the following statements is true:\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.434943914413452
+    },
+    {
+      "question": "What role do women play in food security?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.4354259967803955
+    },
+    {
+      "question": "The following amino acids are all essential components of the diet:\n",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.4357850551605225
+    },
+    {
+      "question": "Which single statement about fat digestion and absorption is correct?\n",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.4359071254730225
+    },
+    {
+      "question": "Which fatty acids found in plasma phospholipids are associated with reduced cardiovascular mortality?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.436002016067505
+    },
+    {
+      "question": "Crohn's disease:\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.4361000061035156
+    },
+    {
+      "question": "Which of the following is true about the diagnosis of \"osteopenia\" or \"osteoporosis\" in North America and Western Europe\n",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.436192035675049
+    },
+    {
+      "question": "Which country has undergone the most rapid nutrition transition in the last two decades?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.4362831115722656
+    },
+    {
+      "question": "Acute binge drinking is associated with?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.436370849609375
+    },
+    {
+      "question": "Why are some specific indices of iron status (such as serum ferritin or transferrin receptors) generally considered to be more reliable indices of iron status, than blood haemoglobin levels are?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8331298828125
+    },
+    {
+      "question": "What stable isotope is commonly given for the measurement of total body water?\n",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.8334999084472656
+    },
+    {
+      "question": "What are focus areas of nutritional epidemiology?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.83386492729187
+    },
+    {
+      "question": "Which of the following diet-derived compounds have epigenetic effects?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.834199905395508
+    },
+    {
+      "question": "Which of the following does not occur with increasing age?\n",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.834533929824829
+    },
+    {
+      "question": "Which vitamin is required for synthesis of the blood clotting proteins?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.834923028945923
+    },
+    {
+      "question": "What the largest endogenous substrate source in the body?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.835021734237671
+    },
+    {
+      "question": "Which of the following statements concerning transamination is correct?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.8351149559020996
+    },
+    {
+      "question": "What is food security?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8352038860321045
+    },
+    {
+      "question": "What is the likely reason that evidence to support the relationship between dietary cholesterol and plasma LDL cholesterol levels in humans is inconclusive?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.8352959156036377
+    },
+    {
+      "question": "Which of the following statements about amino acid scoring for predicting protein quality in human nutrition is correct?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.3846137523651123
+    },
+    {
+      "question": "A 20 year old student who has recently arrived in Britain from Sudan visits the university health centre to complain of abdominal cramps and diarrhoea after drinking milk. Which of the following is the most likely cause of his problem?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.3851470947265625
+    },
+    {
+      "question": "Which of the following is the main nitrogenous compound in urine?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.385577917098999
+    },
+    {
+      "question": "It has been observed that a reduction in family size and improved sanitary condition have led to an increase in allergic conditions. The 'hygiene hypothesis' suggests that\n",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.3861188888549805
+    },
+    {
+      "question": "Why might some biochemical (eg plasma or serum) indices of micronutrient status give misleading results in people with infections or inflammatory states?\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3862478733062744
+    },
+    {
+      "question": "What proportion of vegans is likely to be deficient in vitamin B12?\n",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.386341094970703
+    },
+    {
+      "question": "Which of these factors increases the risk for cancer of the oesophagus?\n",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3864328861236572
+    },
+    {
+      "question": "Which one of the following statements about protein nutrition is correct?\n",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.3865280151367188
+    },
+    {
+      "question": "Higher dietary sodium (salt) intake is generally associated with:\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.3866169452667236
+    },
+    {
+      "question": "Which of the following is a function of vitamin B6?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.3867039680480957
+    },
+    {
+      "question": "Which of the following statements is/are true?\nThere is increasing concern about the importance of adequate nutrition in the pre-conception period to support a successful pregnancy. This is because:\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3990209102630615
+    },
+    {
+      "question": "Which of the following best explains the antioxidant action of vitamin E?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.3994698524475098
+    },
+    {
+      "question": "Which of these factors increases the risk for cancer of the stomach?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.39988112449646
+    },
+    {
+      "question": "What are the main enzyme systems for catalysing ethanol to acetaldehyde?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.4003841876983643
+    },
+    {
+      "question": "In a healthy person maintaining energy balance in equilibrium (i.e. mathematical equality of energy intake and energy expenditure) is generally achieved on a:\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.4007058143615723
+    },
+    {
+      "question": "Which of the following statements is incorrect regarding fatty acid ß-oxidation?\n",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.4008169174194336
+    },
+    {
+      "question": "Intestinal lactase deficiency leads to lactose maldigestion which subsequently can lead to lactose intolerance, i.e. causing clinical symptoms. Infants and children normally express sufficient lactase levels as not to experience clinical symptoms. Overall, adults can be classified as lactase-persisters or lactase non-persisters. What is the approximate percentage of Lactase non-persisters worldwide?\n",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.400912046432495
+    },
+    {
+      "question": "Which of the following vitamins provides the coenzyme for carboxylation reactions?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.401003837585449
+    },
+    {
+      "question": "According to trials on diabetes prevention, high-risk individuals can reduce their risk to develop diabetes by doing the following:\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.401094913482666
+    },
+    {
+      "question": "IBS\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.40118408203125
+    },
+    {
+      "question": "The gut microbes metabolize L-carnitine into which metabolite that has been shown increase cardiovascular disease?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8471150398254395
+    },
+    {
+      "question": "Which of the following statements is correct?\n",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.847641944885254
+    },
+    {
+      "question": "Eosinophilic oesophagitis\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.848140001296997
+    },
+    {
+      "question": "Which of the following vitamins is required for fatty acid b-oxidation?\n",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.8485629558563232
+    },
+    {
+      "question": "Children who are obese should:\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8490700721740723
+    },
+    {
+      "question": "Which of the treatments below has not demonstrated efficacy in BED\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.8493361473083496
+    },
+    {
+      "question": "Which of the following is a function of biotin?\n",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8494348526000977
+    },
+    {
+      "question": "How is iron transported in the circulation from the intestine to the sites of metabolism in the body?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.84952712059021
+    },
+    {
+      "question": "The safety of which of the following substances must be demonstrated prior to their introduction into food?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.849618911743164
+    },
+    {
+      "question": "Select the single most accurate statement about the absorptive area of the human intestine?\n",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.8497071266174316
+    },
+    {
+      "question": "Infants and children with a suspected food allergy e.g. cow's milk allergy/intolerance could display the following symptoms and signs:\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.8425300121307373
+    },
+    {
+      "question": "High intake of which of these dietary components predisposes to accelerated cognitive decline\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.8430168628692627
+    },
+    {
+      "question": "Which of the following statements is/are true?\nHow can smoking affect breastfeeding?\n",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.8443260192871094
+    },
+    {
+      "question": "Which of the following statements about the global ageing population is correct?\n",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.8448829650878906
+    },
+    {
+      "question": "Which of the following changes in body composition are associated with ageing in older adults?\n",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8455309867858887
+    },
+    {
+      "question": "What is the main source of protein in the British diet?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8456759452819824
+    },
+    {
+      "question": "What is leptin resistance?\n",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8457698822021484
+    },
+    {
+      "question": "The two most common causes of foodborne illness in the United States and Europe are:\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8458621501922607
+    },
+    {
+      "question": "Bariatric surgery is used for obesity treatment but how much is the incidence of type 2 diabetes reduced in obese individuals after surgery?\n",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.8459601402282715
+    },
+    {
+      "question": "What are the disadvantages of identifying under-reporting of usual intake using the doubly labelled water technique?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.846050977706909
+    },
+    {
+      "question": "Facial flushing is seen in approximately 50% of East Asians and is thought to be due to a deficiency of?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6541519165039062
+    },
+    {
+      "question": "Which of the following foods do not contain free sugars\n",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.6545279026031494
+    },
+    {
+      "question": "Which of the following inborn errors of metabolism gives rise to zinc deficiency?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.655648946762085
+    },
+    {
+      "question": "Ulcerative Colitis\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6560440063476562
+    },
+    {
+      "question": "What characteristic is not representative of a type IIb muscle fibre?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6561620235443115
+    },
+    {
+      "question": "Which of the following statements is not true?\n",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.656259059906006
+    },
+    {
+      "question": "Intestinal failiure:\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.6563520431518555
+    },
+    {
+      "question": "Which of the following statements is correct?\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.656444787979126
+    },
+    {
+      "question": "Which of the following is true about dietary calcium:\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.656536817550659
+    },
+    {
+      "question": "Oral bacterial synthesise extracellular glucans (dextran and mutan) from which host dietary component?\n",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.656625986099243
+    },
+    {
+      "question": "What is the definition of overweight?\n",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.7628629207611084
+    },
+    {
+      "question": "Pregnancy and lactation is known to:\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7632529735565186
+    },
+    {
+      "question": "Observational epidemiology studies have produced useful in identifying health effects of many food contaminants, but not for assessing risk, because:\n",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.763587713241577
+    },
+    {
+      "question": "It is correct to state that for the treatment of Bulimia Nervosa:\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.7640860080718994
+    },
+    {
+      "question": "The respiration quotient (RQ):\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.764270782470703
+    },
+    {
+      "question": "Nitrites are added to processed meats mainly to prevent the growth of the following genus of microorganisms\n",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.7643768787384033
+    },
+    {
+      "question": "At what stage(s) during pregnancy did in utero exposure to the Dutch Hunger Winter have the biggest effects on DNA methylation in blood cells from the adult offspring?\n",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.764469861984253
+    },
+    {
+      "question": "The body's adjustment of heat production to changes in the plane of nutrition (under- or over-nutrition) and to minimize energy imbalance is known as:\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.7645628452301025
+    },
+    {
+      "question": "Which drug(s) is/are approved for the treatment of obesity in Europe?\n",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.7646536827087402
+    },
+    {
+      "question": "In order to achieve optimal nutritional status it is recommended that older adults consume:\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.764742851257324
+    },
+    {
+      "question": "The measurement of a specific biochemical status index for a micronutrient such as vitamin C is most likely to be useful in practice to estimate:\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.2163519859313965
+    },
+    {
+      "question": "Which statement about protein digestion and absorption is most correct?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.216855049133301
+    },
+    {
+      "question": "What is the density of fat free mass?\n",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.217392921447754
+    },
+    {
+      "question": "In an epidemiological context, what is the population at risk?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.2177720069885254
+    },
+    {
+      "question": "How will climate change affect future food security?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2181179523468018
+    },
+    {
+      "question": "What is a major limitation of using BMI (body mass index) as a method of body fat measurements?\n",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.218458890914917
+    },
+    {
+      "question": "Which of the following vitamins provides the cofactor for hydroxylation reactions in collagen synthesis?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.2187998294830322
+    },
+    {
+      "question": "Endurance type exercise training modulates fuel storage and substrate use. Adaptive responses include:\n",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.2191429138183594
+    },
+    {
+      "question": "Which vitamins are most likely to be lacking in a vegan diet?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.2192468643188477
+    },
+    {
+      "question": "A blood sample is taken from a 45 year old man after he has broken his overnight fast by eating three slices of toast and a boiled egg. Which one of the following will be at a higher concentration than if the blood sample had been taken before breakfast?\n",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.2193379402160645
+    },
+    {
+      "question": "In adolescence:\n",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.064409017562866
+    },
+    {
+      "question": "In which form is selenium found in the 25 human selenoproteins?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0648560523986816
+    },
+    {
+      "question": "On a global scale, trends are suggesting that with rising incomes and urbanization we are seeing a rise in which food commodities?\n",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.0652520656585693
+    },
+    {
+      "question": "Intestinal motility is a complex process, orchestrated by nerves, hormones and the presence of food in the stomach. Which statement about this process is correct?\n",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.0656521320343018
+    },
+    {
+      "question": "It is possible to reduce (though not eliminate) information bias in assessment of dietary intake by\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0660080909729004
+    },
+    {
+      "question": "To characterize a binge eating episode one must investigate the presence of:\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.0664560794830322
+    },
+    {
+      "question": "Which of the factors below is NOT considered a risk factor for Eating Disorders\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.0667192935943604
+    },
+    {
+      "question": "Which statement about absorption from the gastro-intestinal (GI) tract is most correct?\n",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.066815137863159
+    },
+    {
+      "question": "Of the classes of dietary fatty acids which have the most beneficial effect on plasma LDL cholesterol levels?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.0669102668762207
+    },
+    {
+      "question": "Which of the following is not a function of vitamin D?\n",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.067002058029175
+    },
+    {
+      "question": "How many kcal are there in one gram of ethanol?\n",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.7401058673858643
+    },
+    {
+      "question": "Colonic microbiome:\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.7404799461364746
+    },
+    {
+      "question": "Which of the following amino acids cannot provide a substrate for gluconeogenesis?\n",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.7408547401428223
+    },
+    {
+      "question": "What nutritional strategies will not improve performance during prolonged endurance type exercise?\n",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.741212844848633
+    },
+    {
+      "question": "Which body composition method would you use to measure body mineral content?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7418408393859863
+    },
+    {
+      "question": "These factors increase risk of osteoporotic fracture:\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.742034912109375
+    },
+    {
+      "question": "Fruit and vegetable consumption\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.742128849029541
+    },
+    {
+      "question": "Which are the FIVE main series of apoproteins that have been identified?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.742220640182495
+    },
+    {
+      "question": "Which of the following is the yield of ATP from complete oxidation of glucose to carbon dioxide and water?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.742311954498291
+    },
+    {
+      "question": "Nutrients may pose health risks:\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.7424018383026123
+    },
+    {
+      "question": "The Atherogenic Lipoprotein Phenotype (ALP) is a collection of which lipoprotein abnormalities?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.3948400020599365
+    },
+    {
+      "question": "The colonic microflora can be considered as \"an organ within an organ\". Which of the following statements best describes the functions of the microbiota?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.39496111869812
+    },
+    {
+      "question": "Which of the following statements about glucose metabolism is correct?\n",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.395073890686035
+    },
+    {
+      "question": "What dietary component has been shown to improve hypertension in humans?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.3951661586761475
+    },
+    {
+      "question": "Fats normally contain triacylglycerols at concentrations of:\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.3952560424804688
+    },
+    {
+      "question": "Which of the following statements about protein structure is correct?\n",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3953499794006348
+    },
+    {
+      "question": "Which of the following statements about exposures is true?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.395442008972168
+    },
+    {
+      "question": "The test for checking mean plasma glucose concentration over the previous 8-10 weeks is:\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.3955330848693848
+    },
+    {
+      "question": "Which one of these organs has the lowest energy expenditure per unit of body mass (kg)?\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.395634174346924
+    },
+    {
+      "question": "Are GM foods a valuable tool with which to address global food security and climate change?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.395738124847412
+    },
+    {
+      "question": "What do flavonoids (polyphenols), including isoflavones (phytoestrogens), inositol phosphates (phytates), lignans (phytoestrogens), isothiocyanates, indoles, phenols and sulphides and thiols, have in common?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.043346881866455
+    },
+    {
+      "question": "Which of the following will increase in vitamin D deficiency?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.0439722537994385
+    },
+    {
+      "question": "The 'mad cows disease' has had the greatest impact on food choice due to which of the following?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.045910120010376
+    },
+    {
+      "question": "Which one of the following is a definition of glycaemic index?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0460610389709473
+    },
+    {
+      "question": "Which of the following statements is true?\nImpaired foetal growth is described as intrauterine growth retardation (IUGR). IUGR has the same definition as:\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.0461511611938477
+    },
+    {
+      "question": "Which statement about dietary fibre is most correct?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.046239137649536
+    },
+    {
+      "question": "Which of the following is not a reason for increased risk of vitamin or mineral deficiencies among older people in high income countries?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.046326160430908
+    },
+    {
+      "question": "What is the estimated global prevalence of untreated dental caries?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0464141368865967
+    },
+    {
+      "question": "Bone mineral accretion\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.0465011596679688
+    },
+    {
+      "question": "Which of the following is not considered a diagnostic feature of Anorexia Nervosa\n",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.0465900897979736
+    },
+    {
+      "question": "Supplementation with long-chain fatty acids EPA and DHA during pregnancy and infancy will likely benefit the following:\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.0348551273345947
+    },
+    {
+      "question": "Deficiency of thiamin in alcoholics leads to\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.035391092300415
+    },
+    {
+      "question": "In human DNA, which nucleotide base is methylated at the 5' position?\n",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.0355191230773926
+    },
+    {
+      "question": "Which of the following statements is correct regarding intracellular fat metabolism?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.035612106323242
+    },
+    {
+      "question": "Which of the following statements about the digestibility of dietary proteins is correct?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.03570818901062
+    },
+    {
+      "question": "Basal Metabolic Rate (BMR):\n",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.035799980163574
+    },
+    {
+      "question": "What is the best method to estimate changes in body fat during weight loss?\n",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.035889148712158
+    },
+    {
+      "question": "Which of the following statements is correct?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.035979986190796
+    },
+    {
+      "question": "Which of the following statements about the role of the intestine in development of obesity best describes the situation?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0360701084136963
+    },
+    {
+      "question": "Which of these factors is associated with an increase in the risk for prostate cancer?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.036160945892334
+    },
+    {
+      "question": "Which of the following is not a function of vitamin A\n",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.225942850112915
+    },
+    {
+      "question": "Which of the following confirmed values meet the diagnostic threshold for diabetes?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.226062774658203
+    },
+    {
+      "question": "What is the basic functional unit of skeletal muscle tissue?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.2261576652526855
+    },
+    {
+      "question": "In the past two decades, interest in maternal nutrition has been heightened following the findings of epidemiological studies that show links between early experience and later health. Which of the following statements is true:\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.226247787475586
+    },
+    {
+      "question": "Was T.R. Malthus correct in concluding that population growth will outstrip food production growth?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.226346969604492
+    },
+    {
+      "question": "What are histones?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.226439952850342
+    },
+    {
+      "question": "Which of the following statements about methods of evaluating protein quality in human nutrition is correct?\n",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2265307903289795
+    },
+    {
+      "question": "Alcohol is a major risk factor for cancer development. Which alcohol metabolite plays a prominent role in cancer development?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.2266218662261963
+    },
+    {
+      "question": "The body mass index (BMI) of vegetarians differs on average from meat-eaters by how much?\n",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2267088890075684
+    },
+    {
+      "question": "Which of the following statements about the diets and nutritional status of older people is correct?\n",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2268006801605225
+    },
+    {
+      "question": "Cholesterol and fatty acids absorbed from the intestinal lumen are packaged into which types of lipoproteins and secreted from the enterocytes into the lymph?\n",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.6291141510009766
+    },
+    {
+      "question": "Which of the following vitamins is involved in one-carbon metabolism?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.629568099975586
+    },
+    {
+      "question": "Which of the following is not a beneficial effect of exercise in people with diabetes:\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6300530433654785
+    },
+    {
+      "question": "Which of the following cannot be a substrate for gluconeogenesis?\n",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.630409002304077
+    },
+    {
+      "question": "The intake of which minerals is not affected by high intakes of foods containing phytic acid?\n",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.630533218383789
+    },
+    {
+      "question": "The pathogenesis of hyperglycemia in type 2 diabetes includes all the following mechanisms except for:\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.630627155303955
+    },
+    {
+      "question": "Inviduals suffering from inhalant allergies may also react to cross- reacting food allergens. A person suffering from a natural latex allergy might not react to one of the following allergens\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.63071608543396
+    },
+    {
+      "question": "Which of the following methods is recommended to screen for malnutrition on admission to hospital?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6308090686798096
+    },
+    {
+      "question": "Which of the following in not a zinc-dependent enzyme?\n",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.6308979988098145
+    },
+    {
+      "question": "Which of the following statements about the protein requirement is correct\n",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.6309871673583984
+    },
+    {
+      "question": "What dietary pattern shows most promise in preventing age related cognitive decline\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8464698791503906
+    },
+    {
+      "question": "What enzyme is responsible for copying methylation marks from the parental to the daughter strand of DNA during replication?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8468470573425293
+    },
+    {
+      "question": "What is the worldwide prevalence of obesity?\n",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.8472540378570557
+    },
+    {
+      "question": "Lactose\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.8476932048797607
+    },
+    {
+      "question": "How many stages within the food supply chain can food availability and consumption be measured?\n",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.848109006881714
+    },
+    {
+      "question": "Which of the following is a function of folate?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8482351303100586
+    },
+    {
+      "question": "The vitamins which are lost most readily during cooking are:\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.848330020904541
+    },
+    {
+      "question": "Doses of substances used in animal toxicity studies are usually many times greater than those experienced by people because:\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.848433017730713
+    },
+    {
+      "question": "Risk management for chemical contaminants of food generally relies on:\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.8485279083251953
+    },
+    {
+      "question": "The effects of iron on certain aspects of socio-emotional development (shyness, orientation/engagement and response to unfamiliar pictures) is due to:\n",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.848618984222412
+    },
+    {
+      "question": "Insulin deficiency is associated with\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.1136691570281982
+    },
+    {
+      "question": "Which of the following vitamins provides the coenzyme for reduction reactions in fatty acid synthesis?\n",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1140453815460205
+    },
+    {
+      "question": "On an average daily basis, the gross energy intake of a healthy woman is 9279 kJ, the energy content of her faeces and urine are 647 kJ and 318 kJ, respectively. Her average daily digestible energy intake and metabolisable energy intake would be, respectively,:\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.1143863201141357
+    },
+    {
+      "question": "When epidemiologists judge the evidence to establish possible causes of a health outcome, they consider\n",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.1150052547454834
+    },
+    {
+      "question": "Women who are planning a pregnancy are recommended to take a supplement of 400ìg folic acid/ day before and until the end of the first trimester of pregnancy. What effect does such supplementation have on methylation of the imprinted gene IGF2 in the resulting children?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.1153671741485596
+    },
+    {
+      "question": "Occasionally infants are born without a normally functioning immune system. What are the signs most suggestive of a severe combined immunodeficiency?\n",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.115816354751587
+    },
+    {
+      "question": "Fibre supplements\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1161673069000244
+    },
+    {
+      "question": "Which life-style factors do not confound the interpretation of the health of vegetarians compared with meat-eaters?\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.1166181564331055
+    },
+    {
+      "question": "Which of the following has not at one point in the past few decades been considered as a cause of the oedema of kwashiorkor?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.116739273071289
+    },
+    {
+      "question": "Which of the following is not a non-coding RNA?\n",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.1168320178985596
+    },
+    {
+      "question": "More and more detrimental effects of malnutrition during childhood and adult life have been identified. The effects of over nutrition e.g. overweight and obesity are less well known. Overweight and obesity are associated with which of the following\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.41925311088562
+    },
+    {
+      "question": "After consumption of a mixed meal, a complex cascade of events takes place that integrates fat metabolism at the whole body level. Which of the following is correct?\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.4196300506591797
+    },
+    {
+      "question": "What difference will urbanisation make for hunger and malnutrition?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.4200918674468994
+    },
+    {
+      "question": "Which membrane fatty acids are precursors for eicosanoids?\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.4204440116882324
+    },
+    {
+      "question": "Under conditions of metabolic or other stress, which of the following amino acids generally regarded as being dispensable may be required in greater amount than can readily be synthesised in the body?\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.420558214187622
+    },
+    {
+      "question": "The most direct method for measuring body composition is:\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.4206559658050537
+    },
+    {
+      "question": "What type of diet is recommended for weight maintenance?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.420747995376587
+    },
+    {
+      "question": "The Worldwide HIV/AIDS campaigns have made significant progress over the last years. The HIV infection rates in Europe\n",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.420837879180908
+    },
+    {
+      "question": "For certain micronutrients, 'biochemical functional indices' have been developed, to assess the adequacy of one or more biochemical pathways that respond predictably to changes in status of that specific micronutrient. One example is serum methylmalonic acid as a biochemical functional index for vitamin B12 status. What is the primary aim of such biochemical functional index measurements?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.4209280014038086
+    },
+    {
+      "question": "In terms of price per calorie, which of the following foods is the cheapest and most nutritious?\n",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.42101788520813
+    },
+    {
+      "question": "All babies lose weight after birth, you should be concerned when:\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.845302104949951
+    },
+    {
+      "question": "Which of the following statements about glucose metabolism is correct?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.8456640243530273
+    },
+    {
+      "question": "Risk assessment is applied to data on toxicity and human exposure to:\n",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.8460023403167725
+    },
+    {
+      "question": "What is the typical body composition of a normal weight young adult man?\n",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.846670150756836
+    },
+    {
+      "question": "The critical pH below which demineralisation of tooth enamel occurs is usually around:\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.846797227859497
+    },
+    {
+      "question": "The supplementation of diet with which fat soluble vitamins has been shown to reduce cardiovascular disease?\n",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.8468921184539795
+    },
+    {
+      "question": "Vitamin D deficiency can often be found as a single nutrient deficiency, that is, in an otherwise well-nourished person. The main reason this can happen is because:\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.8469831943511963
+    },
+    {
+      "question": "Water transport can occur from the lumen of the intestine to the blood stream, or from the blood stream to the intestinal lumen. Which single statement about this phenomenon, below, is actually correct?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.8470752239227295
+    },
+    {
+      "question": "Which of the following are the recommended blood pressure and lipid goals for the prevention of cardiovascular disease in adults with diabetes?\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.8471662998199463
+    },
+    {
+      "question": "Current recommendations are that:\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.8472533226013184
+    },
+    {
+      "question": "Food allergies:\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.1344010829925537
+    },
+    {
+      "question": "The UNICEF model of the causes of malnutrition identifies several levels of causes: immediate, underlying and basic. Which of the following is not one of the underlying causes in the UNICEF model?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1345200538635254
+    },
+    {
+      "question": "Which statement about intestinal \"brakes\" and \"accelerators\" is FALSE?\n",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.1346139907836914
+    },
+    {
+      "question": "What is meant by the term 'functional isolation'?\n",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.134705066680908
+    },
+    {
+      "question": "Which of the following proteins is not involved in the absorption of cholesterol in the small intestine?\n",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1347992420196533
+    },
+    {
+      "question": "What is the prevalence of alcoholic myopathy in alcoholics\n",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.134895086288452
+    },
+    {
+      "question": "Molecules of natural polyunsaturated fatty acids in vegetable oils contain:\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.134989023208618
+    },
+    {
+      "question": "Which of the following statements is not true?\n",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.1350820064544678
+    },
+    {
+      "question": "Which of the following statements about glycogen metabolism is correct?\n",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.135181188583374
+    },
+    {
+      "question": "The WHO made a strong recommendation that the maximum intake of free sugars by individuals within populations should be\n",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.1352760791778564
+    },
+    {
+      "question": "Rickets of prematurity is associated with:\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.025956153869629
+    },
+    {
+      "question": "Which of the following diseases does obesity increase the risk of developing?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.0260732173919678
+    },
+    {
+      "question": "Which of the following statements about the protein:energy ratio of the requirement is correct?\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.0261690616607666
+    },
+    {
+      "question": "Since the 1996 World Food Summit, how has the number of food insecure people in the world changed?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0262651443481445
+    },
+    {
+      "question": "Which of the following statements is correct?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.026421070098877
+    },
+    {
+      "question": "What caused the food-price spike of 2007-2008?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.0265309810638428
+    },
+    {
+      "question": "Toxicity and dose-response data from animal studies, together with data of which of the following types, are used to evaluate the safety of a food substance?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.026628017425537
+    },
+    {
+      "question": "Epidemiological measures of effect assess the _______ between an exposure and an outcome.\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.0267231464385986
+    },
+    {
+      "question": "The risk factors for type 2 diabetes mellitus include:\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.026818037033081
+    },
+    {
+      "question": "The World Health Organization recommends zinc supplements for which groups of people?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.026907205581665
+    },
+    {
+      "question": "Which of the following statements is/are true? Epigenetic changes may be key to understanding the links between early experience and later health. They may:\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.9475109577178955
+    },
+    {
+      "question": "Confounding is a particular challenge in nutritional epidemiology because\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9480128288269043
+    },
+    {
+      "question": "Infants born to mothers who are vegan may be at increased risk of deficiency of which nutrient?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.948370933532715
+    },
+    {
+      "question": "Which of the following statements about proteolysis is correct?\n",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.9489059448242188
+    },
+    {
+      "question": "Which of the following statements about plant sources of amino acids in human nutrition is correct?\n",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.9491987228393555
+    },
+    {
+      "question": "Which of the following vitamins provides the coenzyme for oxidative decarboxylation of pyruvate?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9493110179901123
+    },
+    {
+      "question": "Gluten\n",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.94940185546875
+    },
+    {
+      "question": "Adaptive thermogenesis refers to:\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.949492931365967
+    },
+    {
+      "question": "Which of the following rules regarding the interconversion of fuels are central to the integration of metabolic pathways?\n",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.9495818614959717
+    },
+    {
+      "question": "Assessing growth in routine practice should be:\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.9496707916259766
+    },
+    {
+      "question": "The daily amount of protein oxidized in the body of a person spending 24 hours in a respiratory chamber can be determined from his/her:\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.0202481746673584
+    },
+    {
+      "question": "What is the primary lipoprotein secreted from the liver that is at least partially composed of dietary derived lipids?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.02036714553833
+    },
+    {
+      "question": "Which of the following statements about the nutritional status of older people is correct?\n",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.020461082458496
+    },
+    {
+      "question": "Which of the following could lead to iodine deficiency?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.020551919937134
+    },
+    {
+      "question": "In relation to Eating Disorders, it is correct that:\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0206499099731445
+    },
+    {
+      "question": "What are the limitations of food balance sheets? (select all that apply)?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.0207459926605225
+    },
+    {
+      "question": "The pancreas secretes a large amount of digestive enzymes after a meal. Which statement about this process is correct?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.020836114883423
+    },
+    {
+      "question": "A deficiency of which vitamin has been associated with enamel defects and increased risk of dental caries?\n",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.020930051803589
+    },
+    {
+      "question": "Which of these factors reduces the risk for cancer of the colorectum?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0210180282592773
+    },
+    {
+      "question": "Deficiencies of which of the following nutrients can lead to anaemia?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0211069583892822
+    },
+    {
+      "question": "Which of two hormones act on the hypothalamus to increase satiety and hunger, respectively?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.225245952606201
+    },
+    {
+      "question": "What is the phenotype of a congenital disorder impairing the secretion of leptin?\n",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2259020805358887
+    },
+    {
+      "question": "What are the effects of globalisation on food security?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2264208793640137
+    },
+    {
+      "question": "Which of the following statements is correct?\n",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.2271409034729004
+    },
+    {
+      "question": "Which statement about Engel's law on food economics is correct?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2272958755493164
+    },
+    {
+      "question": "The stomach lining contains several types of cells. Which statement about them is correct?\n",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.2274129390716553
+    },
+    {
+      "question": "Which of these factors increases the risk for lung cancer?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.2275259494781494
+    },
+    {
+      "question": "According to the recommendations for the nutritional management of patients with diabetes, the consumption of saturated fat should be:\n",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.2276368141174316
+    },
+    {
+      "question": "When using bioelectrical impedance for measuring body composition, why does an electrical current travel faster through muscle than it does through fat?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.227747917175293
+    },
+    {
+      "question": "Maternal weight gain is usually monitored in pregnancy. Which of the following statements is/are true:\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.2278599739074707
+    },
+    {
+      "question": "Which of the following will provide the main fuel for muscle contraction during short-term intense activity such as sprinting?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.8145339488983154
+    },
+    {
+      "question": "How many calories should a woman eat each day during pregnancy?\n",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.8148958683013916
+    },
+    {
+      "question": "Which of the following will be increased in vitamin K deficiency\n",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.815419912338257
+    },
+    {
+      "question": "Which of the following contributes to reduced energy expenditure in older adults?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.815544843673706
+    },
+    {
+      "question": "Which one of following statements about nitrogen balance is correct?\n",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8156418800354004
+    },
+    {
+      "question": "Deficiency of vitamin A in children causes:\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.815732002258301
+    },
+    {
+      "question": "Which of these factors increases the risk for postmenopausal breast cancer?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.815825939178467
+    },
+    {
+      "question": "Which of the following foods might be considered a \"goitrogen\"?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.8159210681915283
+    },
+    {
+      "question": "Which statement best describes the differences between the characteristics of type 1 and type 2 diabetes:\n",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8160111904144287
+    },
+    {
+      "question": "Which of the following nutritional interventions has been shown to improve child development?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.816098928451538
+    },
+    {
+      "question": "Food supplements, including trace minerals and vitamins are frequently advertised with promising health benefits. Which of the following substance could be consumed in excess, i.e. well above the recommended daily requirement?\n",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.051119804382324
+    },
+    {
+      "question": "The thermic effect of food\n",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.0518898963928223
+    },
+    {
+      "question": "What is the primary method of dietary assessment used in epidemiological studies?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.0522937774658203
+    },
+    {
+      "question": "Calculate the body mass index (BMI) for a patient whose height is 1.75 m and whose weight is 99 kg.\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0526368618011475
+    },
+    {
+      "question": "Diagnosis of iron deficiency can be complicated by concurrent infection since many markers of iron status are altered by infection. Which of the following combinations of iron status markers is likely to be found in a person with both iron deficiency and a severe infection?\n",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.053076982498169
+    },
+    {
+      "question": "How much dietary protein should athletes consume daily?\n",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.053464651107788
+    },
+    {
+      "question": "Which vitamins are important in lowering circulating homocysteine levels\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.0535967350006104
+    },
+    {
+      "question": "The function of the gastrointestinal tract can be classified in several ways. Which of the following functions is most important for survival immediately after a meal?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.053712844848633
+    },
+    {
+      "question": "Which single statement below, about the stomach, is actually correct?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.053806781768799
+    },
+    {
+      "question": "The best evidence exists for which nutrients in the prevention of age related cognitive decline?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.053907871246338
+    },
+    {
+      "question": "Which diseases are not less frequent among vegetarians?\n",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.2011420726776123
+    },
+    {
+      "question": "For Binge Eating Disorder it is incorrect that:\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2015111446380615
+    },
+    {
+      "question": "Although theoretically any food protein could act as a food allergen, there are eight major food allergens in Europe and North America which account for most of the allergic triggers observed in childhood. Which of the allergens pairings contains an allergen, which is not part of the group of eight major allergens?\n",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.2018470764160156
+    },
+    {
+      "question": "Prenatal programming:\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.2021970748901367
+    },
+    {
+      "question": "The best available evidence for an association between amount of sugars and risk of dental caries comes from which type of study design?\n",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.20253586769104
+    },
+    {
+      "question": "Which of the following statements about nutritional status and health outcomes is correct?\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.202874183654785
+    },
+    {
+      "question": "Which of the following statements about the consequence of an adaptive metabolic demand for the determination of the minimum protein requirement is correct.\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.2034120559692383
+    },
+    {
+      "question": "De novo fatty acid synthesis usually signifies which of the following?\n",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.20353102684021
+    },
+    {
+      "question": "Which of the following lipoproteins is produced via the exogenous lipoprotein pathway?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.2036259174346924
+    },
+    {
+      "question": "The following types of research findings provide strong evidence for an association between diet and skeletal health:\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2037172317504883
+    },
+    {
+      "question": "Which vitamin is required for vision in dim light?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2060470581054688
+    },
+    {
+      "question": "The amount and composition of dietary fat are important factors for influencing blood lipid metabolism. Which of the following statements is correct?\n",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.2066283226013184
+    },
+    {
+      "question": "Additional dietary protein may:\n",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.207024335861206
+    },
+    {
+      "question": "Greater milk consumption\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2073752880096436
+    },
+    {
+      "question": "It is correct to state about the epidemiology of Anorexia Nervosa that:\n",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2077221870422363
+    },
+    {
+      "question": "What should elite athletes ideally consume during prolonged high intensity exercise (>2.5 hours)?\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.2080631256103516
+    },
+    {
+      "question": "What endogenous substrate source provides the most energy during moderate to high intensity exercise?\n",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.2084081172943115
+    },
+    {
+      "question": "How does agricultural research help reduce hunger and poverty?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.2088823318481445
+    },
+    {
+      "question": "Severe acute malnutrition in young children is defined as:\n",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.208998203277588
+    },
+    {
+      "question": "What are the main metabolites of alcohol metabolism?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2090952396392822
+    },
+    {
+      "question": "Energy that is expended for standing at an office desk, walking to a file cabinet, and other office job-related activities is referred to the following energy expenditure component:\n",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.0149989128112793
+    },
+    {
+      "question": "Are most developing-country farmers engaged in subsistence or commercial production?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.0154869556427
+    },
+    {
+      "question": "Which of the following statements about protein synthesis is correct?\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.015964984893799
+    },
+    {
+      "question": "Which of the following is closest to the amount of retinol formed from ß-carotene?\n",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.0179951190948486
+    },
+    {
+      "question": "From the list of oral microorganisms, which is primarily responsible for the initiation of dental caries?\n",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.0181078910827637
+    },
+    {
+      "question": "Which statement about the oral phase of digestion is INCORRECT?\n",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.0182018280029297
+    }
+  ]
+}

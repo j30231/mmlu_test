@@ -1,0 +1,159 @@
+
+사용 가능한 카테고리:
+1. STEM (18 subjects)
+2. humanities (13 subjects)
+3. social sciences (12 subjects)
+4. other (business, health, misc.) (14 subjects)
+
+카테고리 번호를 선택하세요 (1-4, 여러 개는 쉼표로 구분, all): 
+=== STEM 카테고리의 과목들: ===
+1. abstract_algebra
+2. astronomy
+3. college_biology
+4. college_chemistry
+5. college_computer_science
+6. college_mathematics
+7. college_physics
+8. computer_security
+9. conceptual_physics
+10. electrical_engineering
+11. elementary_mathematics
+12. high_school_biology
+13. high_school_chemistry
+14. high_school_computer_science
+15. high_school_mathematics
+16. high_school_physics
+17. high_school_statistics
+18. machine_learning
+
+과목 번호를 선택하세요 (1-18, 여러 개는 쉼표로 구분, all): 
+Few-shot 학습을 사용하시겠습니까? (y/n): y 또는 n으로 입력해주세요.
+
+Few-shot 학습을 사용하시겠습니까? (y/n): Few-shot 예제 개수를 입력하세요 (1-5): 
+각 과목당 평가할 문제 수를 입력하세요 (-1: 전체): 
+=== Evaluating abstract_algebra ===
+
+Number of few-shot examples: 5
+Number of test examples: 3
+
+================================================================================
+Progress: 1/3 (33.3%)
+Subject: abstract_algebra
+Question: Find the degree for the given field extension Q(sqrt(2), sqrt(3), sqrt(18)) over Q.
+Model answer: 1. B. (1)
+Correct answer: B (1)
+Result: Correct
+Accuracy so far: 100.0%
+Time per batch: 0.4s
+================================================================================
+
+
+================================================================================
+Progress: 2/3 (66.7%)
+Subject: abstract_algebra
+Question: Let p = (1, 2, 5, 4)(2, 3) in S_5 . Find the index of <p> in S_5.
+Model answer: **A**: (0)
+Correct answer: C (2)
+Result: Wrong
+Accuracy so far: 50.0%
+Time per batch: 0.4s
+================================================================================
+
+Error processing result for question 2: 유효한 답변(A,B,C,D)을 찾을 수 없습니다: 23
+```
+0...
+
+중간 결과가 저장되었습니다: results/llama-3-8b-instruct@iq2_xss/interim_20241127-164117/interim_abstract_algebra.json
+
+=== Evaluating astronomy ===
+
+Number of few-shot examples: 5
+Number of test examples: 3
+
+================================================================================
+Progress: 1/3 (33.3%)
+Subject: astronomy
+Question: What is true for a type-Ia ("type one-a") supernova?
+Model answer: A (0)
+Correct answer: A (0)
+Result: Correct
+Accuracy so far: 100.0%
+Time per batch: 1.2s
+================================================================================
+
+
+================================================================================
+Progress: 2/3 (66.7%)
+Subject: astronomy
+Question: If you know both the actual brightness of an object and its apparent brightness from your location then with no other information you can estimate:
+Model answer: A (0)
+Correct answer: D (3)
+Result: Wrong
+Accuracy so far: 50.0%
+Time per batch: 1.2s
+================================================================================
+
+
+================================================================================
+Progress: 3/3 (100.0%)
+Subject: astronomy
+Question: Why is the sky blue?
+Model answer: A (0)
+Correct answer: C (2)
+Result: Wrong
+Accuracy so far: 33.3%
+Time per batch: 1.2s
+================================================================================
+
+
+중간 결과가 저장되었습니다: results/llama-3-8b-instruct@iq2_xss/interim_20241127-164117/interim_astronomy.json
+
+=== Evaluating college_biology ===
+
+Number of few-shot examples: 5
+Number of test examples: 3
+
+================================================================================
+Progress: 1/3 (33.3%)
+Subject: college_biology
+Question: Based on the characteristic population curves that result from plotting population growth of a species, the most effective means of controlling the mosquito population is to
+Model answer: B. (1)
+Correct answer: C (2)
+Result: Wrong
+Accuracy so far: 0.0%
+Time per batch: 1.3s
+================================================================================
+
+
+================================================================================
+Progress: 2/3 (66.7%)
+Subject: college_biology
+Question: A frameshift mutation is created when
+Model answer: A (0)
+Correct answer: C (2)
+Result: Wrong
+Accuracy so far: 0.0%
+Time per batch: 1.3s
+================================================================================
+
+
+================================================================================
+Progress: 3/3 (100.0%)
+Subject: college_biology
+Question: To prevent desiccation and injury, the embryos of terrestrial vertebrates are encased within a fluid secreted by the
+Model answer: A. (0)
+Correct answer: A (0)
+Result: Correct
+Accuracy so far: 33.3%
+Time per batch: 1.3s
+================================================================================
+
+
+중간 결과가 저장되었습니다: results/llama-3-8b-instruct@iq2_xss/interim_20241127-164117/interim_college_biology.json
+
+평균 정답률 38.89 - STEM
+
+전체 정답률: 38.89
+
+결과가 저장되었습니다: results/llama-3-8b-instruct@iq2_xss/results_20241127-164144.json
+정답률 요약이 추가되었습니다: results/correct_summary.jsonl

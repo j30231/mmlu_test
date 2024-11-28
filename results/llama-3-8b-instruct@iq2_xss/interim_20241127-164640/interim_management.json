@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq2_xss",
+    "ntrain": 0,
+    "ntest": 1,
+    "timestamp": "20241127-164721"
+  },
+  "subject": "management",
+  "category": "other (business, health, misc.)",
+  "correct_rate": 100.0,
+  "evaluation_results": [
+    {
+      "question": "What is the term for a sub-optimal but acceptable outcome of negotiations between parties?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 0.5206060409545898
+    }
+  ]
+}

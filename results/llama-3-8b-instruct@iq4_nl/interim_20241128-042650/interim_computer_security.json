@@ -1,0 +1,713 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq4_nl",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-043451"
+  },
+  "subject": "computer_security",
+  "category": "STEM",
+  "correct_rate": 73.0,
+  "evaluation_results": [
+    {
+      "question": "Which of the following styles of fuzzer is more likely to explore paths covering every line of code in the following program?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.3202810287475586
+    },
+    {
+      "question": "Assume that a TLS connection has been established successfully between a client and a server. Establishing the session included checking the server certificate and executing a DiffieHelmann exchange, but the client did not provide a client certificate. Further, assume that the client and server are honest, that the client and server don’t leak their keys, and that the cryptography is good. Which of the following attacks does TLS protect against?\n1. An attacker replaying bytes that a client sent earlier.\n2. An attacker impersonating the server.",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.320729970932007
+    },
+    {
+      "question": "MIT’s Kerberos KDC server has a maximum ticket lifetime of 24 hours (for most user principals). What ensures that an expired Kerberos ticket can no longer be used?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.3211300373077393
+    },
+    {
+      "question": "In Message Condentiality, the transmitted message must make sense to only intended",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.321614980697632
+    },
+    {
+      "question": "Which of the following is a remote Trojan?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.3217501640319824
+    },
+    {
+      "question": "______________ is a widespread app’s coding mistake made by developers which could be exploited by an attacker for gaining access or malfunctioning your system.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.3218472003936768
+    },
+    {
+      "question": "Consider the paper Native Client: A Sandbox for Portable, Untrusted x86 Native Code by Yee et al. Ben Bitdiddle notes that NaCl uses Intel x86 segmentation to ensure that the sandboxed module does not read or write memory outside its own data area, and does not execute instructions outside its own code. Ben thinks that with these restrictions alone, executing the sandboxed module must be safe; that is, he thinks validation is not needed. Ben is wrong. Circle the types of x86 machine instructions that the validator always forbids in sandboxed code. Please ignore trampoline and springboard code.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.321942090988159
+    },
+    {
+      "question": "____________ is also a part of darknet that is employed for transferring files anonymously.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.322032928466797
+    },
+    {
+      "question": "Why apps developed in languages like C, C++ is prone to Buffer-overflow?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.322122097015381
+    },
+    {
+      "question": "Man in the middle attack can endanger the security of Diffie Hellman method if two parties are not",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.3222100734710693
+    },
+    {
+      "question": "An integer overflow occurs when",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.118680953979492
+    },
+    {
+      "question": "Let HH be a Merkle-Damgard hash function is H:X^{\\leq L} \\to TH:X^≤L  →T. Construct a MAC from this HH as follows: \\ \\ S(k,m) = H(k \\| m)  S(k,m)=H(k∥m). This mac is insecure because:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.119083881378174
+    },
+    {
+      "question": "Suppose that Alice and Bob sent confidential text messages to one another last month through an encrypted messaging system. Alice and Bob are worried that an adversary might compromise one of their computers today, while they are taking the 6.858 final exam, and would then be able to decrypt those messages. Which of the following security properties can address Alice and Bob’s concern?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.1194469928741455
+    },
+    {
+      "question": "The AH Protocol provides source authentication and data integrity, but not",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1197848320007324
+    },
+    {
+      "question": "Which of the following is not a security exploit?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.1201188564300537
+    },
+    {
+      "question": "_______________ is the central node of 802.11 wireless operations.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.120745897293091
+    },
+    {
+      "question": "In MD-5 the length of the message digest is",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.120872974395752
+    },
+    {
+      "question": "What is Nmap?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1209771633148193
+    },
+    {
+      "question": "How do you prevent SQL injection?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.1210689544677734
+    },
+    {
+      "question": "What does it mean to \"be stealthy\" during a penetration test?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.121159076690674
+    },
+    {
+      "question": "Which of the following is not a transport layer vulnerability?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.1165430545806885
+    },
+    {
+      "question": "In Brumley and Boneh’s paper on side-channel attacks, why does blinding prevent the timing attack from working?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.117112159729004
+    },
+    {
+      "question": "The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following performance optimizations: Chinese Remainder (CR), Montgomery Representation (MR), Karatsuba Multiplication (KM), and Repeated squaring and Sliding windows (RS). Which of the following options would close the timing channel attack described in the paper if you turned the listed optimizations off?\n1. RS and KM\n2. RS and MR",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.1175649166107178
+    },
+    {
+      "question": "Public key encryption is advantageous over Symmetric key Cryptography because of",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.1179919242858887
+    },
+    {
+      "question": "The __________ was a huge marketplace of Dark Web specifically famous for selling of illegal drugs & narcotics as well as you can find a wide range of other goods for sale.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.118407964706421
+    },
+    {
+      "question": "The ______________ is categorized as an unknown segment of the Deep Web which has been purposely kept hidden & is inaccessible using standard web browsers.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.1188230514526367
+    },
+    {
+      "question": "What does EXE do when the STP solver times out on a constraint query for a particular path?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1193108558654785
+    },
+    {
+      "question": "To verify a digital signature we need the",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.119709014892578
+    },
+    {
+      "question": "Suppose you want to use fuzzing on a program to try to find memory errors; which of the following statements is true?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.1198301315307617
+    },
+    {
+      "question": "Based on the paper “SoK: SSL and HTTPS: Revisiting past challenges and evaluating certificates trust model enhancements”, which of the following statements are false?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1199240684509277
+    },
+    {
+      "question": "What tool can be used to perform SNMP enumeration?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.523543119430542
+    },
+    {
+      "question": "Which among them has the strongest wireless security?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.524026870727539
+    },
+    {
+      "question": "Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file descriptors from a parent on fork and exec. What aspects of the OKWS design would break without file descriptor passing?\n1. It would be impossible for services to get a TCP connection to the client web browser.\n2. It would be impossible for okd to run as a non-root user.",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5244140625
+    },
+    {
+      "question": "Failed sessions allow brute-force attacks on access credentials. This type of attacks are done in which layer of the OSI model?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5247702598571777
+    },
+    {
+      "question": "Which of the following is an authentication method?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.525114059448242
+    },
+    {
+      "question": "When does a buffer overflow occur, generally speaking?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.525455951690674
+    },
+    {
+      "question": "A digital signature needs a",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.526175022125244
+    },
+    {
+      "question": "A packet filter firewall filters at the",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5262842178344727
+    },
+    {
+      "question": "Let I = (S,V)I=(S,V) be a MAC. Suppose S(k,m)S(k,m) is always 5 bits long. Can this MAC be secure?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.5263781547546387
+    },
+    {
+      "question": "Which of the following deals with network intrusion detection and real-time traffic analysis?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.52646803855896
+    },
+    {
+      "question": "The Message condentiality or privacy means that the sender and the receiver expect",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4810690879821777
+    },
+    {
+      "question": "When a wireless user authenticates to any AP, both of them go in the course of four-step authentication progression which is called _____________",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.484621047973633
+    },
+    {
+      "question": "Message authentication is a service beyond",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4847500324249268
+    },
+    {
+      "question": "Which of the following are most vulnerable to injection attacks?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4848439693450928
+    },
+    {
+      "question": "Assume that a TLS connection has been established successfully between a client and a server. Establishing the session included checking the server certificate and executing a DiffieHelmann exchange, but the client did not provide a client certificate. Further, assume that the client and server are honest, that the client and server don’t leak their keys, and that the cryptography is good. Which of the following attacks does TLS protect against?\n1. An attacker replacing bytes sent by a client with bytes of the attacker’s own choosing.\n2. An attacker reading the plaintext bytes sent by a client.",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.484934091567993
+    },
+    {
+      "question": "Which of the following is a Wireless traffic Sniffing tool?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.485030174255371
+    },
+    {
+      "question": "A ___________ is a method in which a computer security mechanism is bypassed untraceable for accessing the computer or its information.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.485117197036743
+    },
+    {
+      "question": "Which of the following is not a block cipher operating mode?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4852049350738525
+    },
+    {
+      "question": "What is a web proxy?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.48529314994812
+    },
+    {
+      "question": "Buffer-overflow may remain as a bug in apps if __________ are not done fully.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.485377073287964
+    },
+    {
+      "question": "Applications developed by programming languages like ____ and ______ have this common buffer-overflow error.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.251594066619873
+    },
+    {
+      "question": "Encryption and decryption provide secrecy, or condentiality, but not",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.2523560523986816
+    },
+    {
+      "question": "A/an ___________ is a program that steals your logins & passwords for instant messaging applications.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.252487897872925
+    },
+    {
+      "question": "The sub key length at each round of DES is__________",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.252587080001831
+    },
+    {
+      "question": "Which of the following is true of mutation-based fuzzing?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.2526798248291016
+    },
+    {
+      "question": "What are the types of scanning?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2527759075164795
+    },
+    {
+      "question": "A sender must not be able to deny sending a message that was sent, is known as",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.252868890762329
+    },
+    {
+      "question": "A proxy rewall lters at the",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.252959966659546
+    },
+    {
+      "question": "Encapsulating Security Payload (ESP) belongs to which Internet Security Protocol?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2530500888824463
+    },
+    {
+      "question": "A special tool is necessary for entering the network which is _______________ that helps the anonymous internet users to access into the Tor’s network and use various Tor services.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.253139019012451
+    },
+    {
+      "question": "How does a buffer overflow on the stack facilitate running attacker-injected code?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.029608964920044
+    },
+    {
+      "question": "The digest created by a hash function is normally called a",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.0299837589263916
+    },
+    {
+      "question": "Let F: K \\times R \\to MF:K×R→M be a secure PRF. For m \\in Mm∈M define E(k,m) = \\big[ r \\gets R,\\ \\text{output } \\big(r,\\ F(k,r) \\oplus m\\big)\\ \\big]E(k,m)=[r←R, output (r, F(k,r)⊕m) ] Is EE symantically secure under CPA?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.030323028564453
+    },
+    {
+      "question": "Old operating systems like _______ and NT-based systems have buffer-overflow attack a common vulnerability.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.030694007873535
+    },
+    {
+      "question": "What is a replay attack?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.031038999557495
+    },
+    {
+      "question": "Statement 1| A U2F USB dongle prevents malware on the user’s computer from stealing the user’s second factor to authenticate as that user even when the user’s computer is turned off. Statement 2| A server using U2F can reliably determine that the user who is attempting to login is indeed behind the computer that sent the login request.",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.03143572807312
+    },
+    {
+      "question": "____________________ is the anticipation of unauthorized access or break to computers or data by means of wireless networks.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0317940711975098
+    },
+    {
+      "question": "Which of the following are benefits of penetration testing?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.032464027404785
+    },
+    {
+      "question": "1. _________ framework made cracking of vulnerabilities easy like point and click.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0325889587402344
+    },
+    {
+      "question": "You are given a message (m) and its OTP encryption (c). Can you compute the OTP key from m and c ?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0326857566833496
+    },
+    {
+      "question": "The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following performance optimizations: Chinese Remainder (CR), Montgomery Representation (MR), Karatsuba Multiplication (KM), and Repeated squaring and Sliding windows (RS). Which of the following options would close the timing channel attack described in the paper if you turned the listed optimizations off?\n1. CR and MR\n2. CR",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.737999200820923
+    },
+    {
+      "question": "When the data must arrive at the receiver exactly as they were sent, its called",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7383790016174316
+    },
+    {
+      "question": "What is the difference between a direct leak and a side channel?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.7387142181396484
+    },
+    {
+      "question": "A session symmetric key between two parties is used",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.739482879638672
+    },
+    {
+      "question": "What is a nop sled",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.739816904067993
+    },
+    {
+      "question": "Which Nmap scan is does not completely open a TCP connection?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.7399191856384277
+    },
+    {
+      "question": "Based on the paper “Click Trajectories: End-to-End Analysis of the Spam Value Chain”, which of the following statements are true? “Spammers” here refer to operators of various parts of the “spam value chain.”",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.7400190830230713
+    },
+    {
+      "question": "In a _____________ attack, the extra data that holds some specific instructions in the memory for actions is projected by a cyber-criminal or penetration tester to crack the system.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.7401161193847656
+    },
+    {
+      "question": "_______________ is a popular tool used for network analysis in multiprotocol diverse network.",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.740208864212036
+    },
+    {
+      "question": "___________________ is alike as that of Access Point (AP) from 802.11, & the mobile operators uses it for offering signal coverage.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.74029803276062
+    },
+    {
+      "question": "A __________ is a sequential segment of the memory location that is allocated for containing some data such as a character string or an array of integers.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.31009578704834
+    },
+    {
+      "question": "Which form of encryption does WPA use?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.310598850250244
+    },
+    {
+      "question": "Let suppose a search box of an application can take at most 200 words, and you’ve inserted more than that and pressed the search button; the system crashes. Usually this is because of limited __________",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.310908794403076
+    },
+    {
+      "question": "___________________ began to show up few years back on wireless access points as a new way of adding or connecting new devices.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3110368251800537
+    },
+    {
+      "question": "What are the port states determined by Nmap?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3111329078674316
+    },
+    {
+      "question": "Which among the following is the least strong security encryption standard?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3112308979034424
+    },
+    {
+      "question": "Why is it that the compiler does not know the absolute address of a local variable?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3113207817077637
+    },
+    {
+      "question": "The stack is memory for storing",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3114869594573975
+    },
+    {
+      "question": "Can a stream cipher have perfect secrecy?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3115909099578857
+    },
+    {
+      "question": "Which of the following does authorization aim to accomplish?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.311685800552368
+    },
+    {
+      "question": "The message must be encrypted at the sender site and decrypted at the",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5657730102539062
+    },
+    {
+      "question": "A _________________ may be a hidden part of a program, a separate infected program a Trojan in disguise of an executable or code in the firmware of any system’s hardware.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.566138982772827
+    },
+    {
+      "question": "How is IP address spoofing detected?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.566632032394409
+    },
+    {
+      "question": "Which of the following is not an example of presentation layer issues?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5677149295806885
+    },
+    {
+      "question": "Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file descriptors from a parent on fork and exec. What aspects of the OKWS design would break without file descriptor passing?\n1. It would be impossible for services to send messages to oklogd.\n2. It would be impossible for services to get a TCP connection to a database proxy.",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.5678391456604004
+    },
+    {
+      "question": "Why would a ping sweep be used?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.567938804626465
+    },
+    {
+      "question": "The four Primary Security Principles related to messages are",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.568031072616577
+    },
+    {
+      "question": "What was the first buffer overflow attack?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.568121910095215
+    },
+    {
+      "question": "The ______________ can cost you money, by sending text messages from your mobile phone numbers.",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.568214178085327
+    },
+    {
+      "question": "Three of the following are classic security properties; which one is not?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.5683038234710693
+    }
+  ]
+}

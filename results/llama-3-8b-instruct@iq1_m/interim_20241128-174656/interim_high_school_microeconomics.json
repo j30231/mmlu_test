@@ -1,0 +1,1406 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq1_m",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-181513"
+  },
+  "subject": "high_school_microeconomics",
+  "category": "social sciences",
+  "correct_rate": 26.633165829145728,
+  "evaluation_results": [
+    {
+      "question": "Marginal revenue equals marginal cost at the point where",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2175111770629883
+    },
+    {
+      "question": "The price of labor is $2, and the price of capital is $1. The marginal product of labor is 200, and the marginal product of capital is 50. What should the firm do?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.217960834503174
+    },
+    {
+      "question": "At a Nash equilibrium,",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.218461036682129
+    },
+    {
+      "question": "You are told that the cross-price elasticity between goods X and Y is +2.0. This means that",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.2188220024108887
+    },
+    {
+      "question": "An externality",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.2191789150238037
+    },
+    {
+      "question": "What is one reason why the government discourages collusion between large firms in the same industry?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.2196149826049805
+    },
+    {
+      "question": "Which of the following is not the basis for a wage differential?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.220073938369751
+    },
+    {
+      "question": "Patents, control of resources, economies of scale, and exclusive licenses are",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.236268997192383
+    },
+    {
+      "question": "The industry that makes plastic army figures uses a small fraction of the plastic demanded for all purposes. On this basis, we can conclude that the army-figures industry is most likely a(n)",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.2364189624786377
+    },
+    {
+      "question": "Which of the following is most likely an example of production inputs that can be adjusted in the long run, but not in the short run?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.886935234069824
+    },
+    {
+      "question": "The apple market is in equilibrium. Suppose we observe that apple growers are using more pesticides to increase apple production. At the same time, we hear that the price of pears, a substitute for apples, is rising. Which of the following is a reasonable prediction for the new price and quantity of apples?",
+      "model_answer": "Please note that the answer is A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.887322187423706
+    },
+    {
+      "question": "Which of the following is most likely to result in a shift to the right in the demand curve for orange juice?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.887666940689087
+    },
+    {
+      "question": "Which of the following statements is accurate in regard to a perfectly competitive firm?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.8886420726776123
+    },
+    {
+      "question": "Economists use the term \"capital\" to mean",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.889057159423828
+    },
+    {
+      "question": "Mrs. Johnson spends her entire daily budget on potato chips, at a price of $1 each, and onion dip at a price of $2 each. At her current consumption bundle, the marginal utility of chips is 12 and the marginal utility of dip is 30. Mrs. Johnson should",
+      "model_answer": "A)",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.8910160064697266
+    },
+    {
+      "question": "In the absence of intervention, imperfect competition, externalities, public goods, and imperfect information all result in which of the following?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.9009580612182617
+    },
+    {
+      "question": "Marginal cost (MC) is equal to average variable cost (AVC) and average total cost (ATC) when:",
+      "model_answer": "**B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.9012019634246826
+    },
+    {
+      "question": "After Julia received a raise in her income, she began purchasing more ice cream cones and fewer popsicles. For Julia, popsicles",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9766170978546143
+    },
+    {
+      "question": "Which of the following conditions is characteristic of oligopoly?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.977108955383301
+    },
+    {
+      "question": "Which of the following is characteristic of oligopoly? I. Formidable barriers to entry. II. Price (P) = Marginal Revenue (MR). III. Relatively few sellers.",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.977648973464966
+    },
+    {
+      "question": "A monopoly is less efficient than a perfect competitor because",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9780168533325195
+    },
+    {
+      "question": "In the design of a competitive market system, which of the following does NOT describe how resources are allocated?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.978426933288574
+    },
+    {
+      "question": "A production possibility frontier will be a straight line when",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9788999557495117
+    },
+    {
+      "question": "Which of the following statements is correct?",
+      "model_answer": "**B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9793670177459717
+    },
+    {
+      "question": "If the per unit price of labor, a variable resource, increases, it causes which of the following?",
+      "model_answer": "**A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.980088949203491
+    },
+    {
+      "question": "If consumers are advised that multigrained bread will substantially lessen the risk of cancer, which of the following will happen in the market for multigrained bread?",
+      "model_answer": "**B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.980534076690674
+    },
+    {
+      "question": "Jason cleans swimming pools in a perfectly competitive local market. A profit maximizer, he can charge $10 per pool to clean 9 pools per day, incurring total variable costs of $80 and total fixed costs of $20. Which of the following is true?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5109517574310303
+    },
+    {
+      "question": "Which of the following is not a characteristic of oligopoly?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.5118179321289062
+    },
+    {
+      "question": "The competitive market provides the best outcome for society because",
+      "model_answer": "**B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.512316942214966
+    },
+    {
+      "question": "You are told that the income elasticity for DVDs is + 1.5. This means that",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.5211408138275146
+    },
+    {
+      "question": "If the price of a product decreases with the price of a substitute product remaining constant such that the consumer buys more of this product, this is called the",
+      "model_answer": "**B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.5220117568969727
+    },
+    {
+      "question": "A small business estimates price elasticity of demand for the product to be 3. To raise total revenue, owners should",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.5226809978485107
+    },
+    {
+      "question": "If firms are entering an industry that is monopolistically competitive, we would expect",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.2299139499664307
+    },
+    {
+      "question": "The Law of Diminishing Marginal Returns is responsible for",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.2303340435028076
+    },
+    {
+      "question": "Which of the following would best complete a short definition of economics? \"Economics is the study of . . .\"",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.2307300567626953
+    },
+    {
+      "question": "With capital fixed at one unit with 1, 2, 3 units of labor added in equal successive units, production of the output increases from 300 (1 unit of labor), to 350 (2 units of labor) to 375 (3 units of labor). Which of the following is a correct interpretation?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.2314260005950928
+    },
+    {
+      "question": "Which of the following is the best example of a public good?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.231781005859375
+    },
+    {
+      "question": "When the cross-price elasticity of demand is negative, the goods in question are necessarily",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.23223614692688
+    },
+    {
+      "question": "Which of the following is true of equilibrium in a purely (or perfectly) competitive market for good X?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.232675790786743
+    },
+    {
+      "question": "When the price of pears increases, we expect the following:",
+      "model_answer": "**A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.256779193878174
+    },
+    {
+      "question": "If the demand for grapes increases simultaneously with an increase in the supply of grapes, we can say that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2573161125183105
+    },
+    {
+      "question": "When price elasticity of demand is greater than 1, demand is",
+      "model_answer": "**Answer**: A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.2576751708984375
+    },
+    {
+      "question": "Which of the following tax systems is designed to redistribute income from the wealthy to the poor?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.258010149002075
+    },
+    {
+      "question": "Which of these situations is not an example of price discrimination?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.258338212966919
+    },
+    {
+      "question": "With the presence of a positive externality, which of the following would correct the externality?",
+      "model_answer": "**D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.258989095687866
+    },
+    {
+      "question": "The market for denim jeans is in equilibrium, and the price of polyester pants, a substitute good, rises. In the jean market",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.259467124938965
+    },
+    {
+      "question": "A rational consumer who is eating Girl Scout cookies stops eating when",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.263085126876831
+    },
+    {
+      "question": "Which of the following correctly illustrates why price (P) equals marginal revenue (MR) under perfect competition, and why price (P) is greater than marginal revenue under monopoly or imperfect competition? I. MR = P = demand on horizontal function for perfect competition. II. P > MR as downward sloping functions for imperfect competition. III. Demand and Price are represented as a vertical function for imperfect competition.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.2738990783691406
+    },
+    {
+      "question": "When a good is taxed, the tax burden falls mainly on the consumer if",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.7982099056243896
+    },
+    {
+      "question": "The long-run average cost curve",
+      "model_answer": "**A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.798597812652588
+    },
+    {
+      "question": "Which of the following is not a characteristic of a kinked demand curve?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7989418506622314
+    },
+    {
+      "question": "Economics is a social science that",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.799287796020508
+    },
+    {
+      "question": "Which of the following is true?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.8018808364868164
+    },
+    {
+      "question": "If the price of one good (A) increases and the quantity demanded of another good (B) increases, the two goods are",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.8024508953094482
+    },
+    {
+      "question": "Which of the following statements is true for a firm in a perfectly competitive industry?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.8028578758239746
+    },
+    {
+      "question": "A perfectly competitive employer hires labor up to the point where",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.8035268783569336
+    },
+    {
+      "question": "The necessity for a monopoly to lower its price in order to sell more units of its product explains why",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.8039679527282715
+    },
+    {
+      "question": "A minimum wage in the market for fast-food workers is likely to produce",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.1437368392944336
+    },
+    {
+      "question": "Which of the following is true of the perfectly competitive firm in the short run?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.1445488929748535
+    },
+    {
+      "question": "A competitive market for coffee, a normal good, is currently in equilibrium. Which of the following would most likely result in an increase in the demand for coffee?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1449389457702637
+    },
+    {
+      "question": "When a firm is earning a normal profit from the production of a good, it is true that",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.145279884338379
+    },
+    {
+      "question": "Which of the following is a characteristic of monopolistic competition?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.145638942718506
+    },
+    {
+      "question": "The backward bending supply curve is characterized by which of the following?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.145979881286621
+    },
+    {
+      "question": "Which of the following goods is likely to provide both the largest total utility and the smallest marginal utility?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.146397829055786
+    },
+    {
+      "question": "The Lorenz Curve is used to measure which of the following:",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.1469016075134277
+    },
+    {
+      "question": "Which of the following examples would result in consumers paying for the largest burden of an excise tax placed on a producer?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.1854488849639893
+    },
+    {
+      "question": "Which of the following could have caused an increase in the demand for ice cream cones?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.186149835586548
+    },
+    {
+      "question": "The primary focus of microeconomics is",
+      "model_answer": "**B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.186501979827881
+    },
+    {
+      "question": "In order for a firm to successfully carry out price discrimination, which of the following conditions must hold? I. The firm cannot face a downward sloping demand curve. II. The firm must have market power. III. Buyers with differing demand elasticities must be separable. IV. The firm must have motives beyond profit maximization. V. The firm must be able to prevent the re-sale of its products.",
+      "model_answer": "Answer key is B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.1868979930877686
+    },
+    {
+      "question": "Which of the following is an example of an economic rent?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1872398853302
+    },
+    {
+      "question": "With the presence of a negative externality, which of the following would internalize (or correct) the externality?",
+      "model_answer": "**D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1880829334259033
+    },
+    {
+      "question": "A monopoly with a straight, downward-sloping demand curve has a marginal revenue curve that is",
+      "model_answer": "**A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1884429454803467
+    },
+    {
+      "question": "A consequence of a price floor is",
+      "model_answer": "**A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.1898648738861084
+    },
+    {
+      "question": "Which of the following is not among the methods unions use to increase wages?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.190419912338257
+    },
+    {
+      "question": "Which of the following is a characteristic of perfect competition?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2066009044647217
+    },
+    {
+      "question": "Which of the following is correct?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2070131301879883
+    },
+    {
+      "question": "Monopolistic competition is said to be productively inefficient because",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.2073628902435303
+    },
+    {
+      "question": "Compared to perfect competition in the long run, monopoly has",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.2083370685577393
+    },
+    {
+      "question": "If the price of firm A's cell phone service rises by 5 percent and the quantity demanded for firm B's cell phone service increases by 10 percent, we can say that",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2087857723236084
+    },
+    {
+      "question": "The relationship between the marginal revenue curve and the demand curve for a monopoly is most similar to the relationship between the marginal factor cost curve and what curve for a monopsony?",
+      "model_answer": "Please note that this question is about high school",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.2093088626861572
+    },
+    {
+      "question": "Suppose the market for roses is currently in equilibrium. If the supply of roses falls, while at the same time the demand for roses rises, what can you say about the price and quantity of roses in the market?",
+      "model_answer": "**A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.210131883621216
+    },
+    {
+      "question": "The competitive market for gasoline, a normal good, is currently in a state of equilibrium. Which of the following would most likely increase the price of gasoline?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.210541009902954
+    },
+    {
+      "question": "Which of the following will increase wages for tuba makers?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.2110159397125244
+    },
+    {
+      "question": "Diminishing marginal returns to short-run production begin when",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.211432933807373
+    },
+    {
+      "question": "What you give up to pursue another alternative is known as",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9564359188079834
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of perfectly competitive industry?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.956836700439453
+    },
+    {
+      "question": "Relative to a competitive input market, a monopsony",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9571738243103027
+    },
+    {
+      "question": "If a monopsony labor market suddenly were transformed into a perfectly competitive labor market, how would the wage and employment change?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.957512855529785
+    },
+    {
+      "question": "Marginal cost always intersects average variable cost at",
+      "model_answer": "**B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.958038568496704
+    },
+    {
+      "question": "Production possibilities frontiers are concave to the origin because",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.958394765853882
+    },
+    {
+      "question": "Scarcity is best defined as",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.9587416648864746
+    },
+    {
+      "question": "The market for Cincinnati Reds baseball tickets is currently in equilibrium. Which of the following events would most likely increase the consumer surplus received by Reds fans?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.9592015743255615
+    },
+    {
+      "question": "Firms with the following market structure(s) maximize profits by producing where marginal cost equals marginal revenue, if at all. I. Perfect competition II. Oligopoly III. Monopoly IV. Monopolistic competition",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.959599733352661
+    },
+    {
+      "question": "Consumer surplus is",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.034126043319702
+    },
+    {
+      "question": "Which of the following statements is positive?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.034677028656006
+    },
+    {
+      "question": "Relatively free or easy entry (low or nonexistent barriers to entry) is best matched by which of the following?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.0350329875946045
+    },
+    {
+      "question": "Firms maximize their profits by producing a level of output at which",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.0354089736938477
+    },
+    {
+      "question": "A typical characteristic of capitalist market economies is",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.0357749462127686
+    },
+    {
+      "question": "When a monopolist has maximized profit,",
+      "model_answer": "**A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.0363078117370605
+    },
+    {
+      "question": "Which of the following situations best exemplifies the concept of consumer surplus?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.0366859436035156
+    },
+    {
+      "question": "If the perfectly competitive price is currently below minimum average total cost, we can expect which of the following events in the long run?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.0370490550994873
+    },
+    {
+      "question": "Price times quantity measures",
+      "model_answer": "**A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3444879055023193
+    },
+    {
+      "question": "The law of increasing costs",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.3450679779052734
+    },
+    {
+      "question": "Consider a profit-maximizing firm in a perfectly competitive market with several sellers and several buyers (i.e., the firm is a \"price taker\" of the goods it sells and a \"price taker\" of the hourly wages it pays its workers). If a technological innovation made by someone in this firm were to significantly raise the firm's marginal physical product (but not that of any other firm's), then this innovation would",
+      "model_answer": "**A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3454439640045166
+    },
+    {
+      "question": "Suppose the price of beef rises by 10 percent and the quantity of beef demanded falls by 20 percent. We can conclude that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.3459980487823486
+    },
+    {
+      "question": "The elasticity of supply is typically greater when",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.346453905105591
+    },
+    {
+      "question": "Which of the following is true?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3471951484680176
+    },
+    {
+      "question": "Which of the following is most likely to decrease the demand for kindergarten teachers?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.347615957260132
+    },
+    {
+      "question": "Monopoly deadweight loss is the result of",
+      "model_answer": "**B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.348068952560425
+    },
+    {
+      "question": "Education makes Chris a better worker, voter, parent, and citizen. Because the benefits from education go beyond those that Chris enjoys himself, education provides",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.981285810470581
+    },
+    {
+      "question": "If, for each additional unit of a variable input, the increases in output become smaller, which of the following correctly identifies the concept?",
+      "model_answer": "**B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.981426954269409
+    },
+    {
+      "question": "If there is a positive externality associated with the production of a private good, which of the following is an action of government that would most likely move the market to an efficient outcome?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.9815480709075928
+    },
+    {
+      "question": "A positive sign on cross price elasticity of demand indicates that the two products are",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.981663942337036
+    },
+    {
+      "question": "The price elasticity of demand for a product is greater if",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.9817800521850586
+    },
+    {
+      "question": "A price discriminating monopoly differs from a non-discriminating monopoly because a discriminating monopoly",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.9818949699401855
+    },
+    {
+      "question": "Every time Mr. Hamm makes another pizza in his shop, he places $0.45 worth of sauce on top. For Mr. Hamm, the cost of pizza sauce is a component of which of the following? I. Total Fixed Costs II. Total Variable Costs III. Marginal Cost IV. Total Costs",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.982010841369629
+    },
+    {
+      "question": "The law of increasing costs is useful in describing",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.982697010040283
+    },
+    {
+      "question": "Suppose that aluminum is a key production input in the production of bicycles. If the price of aluminum falls, and all other variables are held constant, we expect",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.983308792114258
+    },
+    {
+      "question": "The sales tax that you pay at the grocery store is commonly labeled a",
+      "model_answer": "**B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9837567806243896
+    },
+    {
+      "question": "Which of the following is the best example of the free-rider effect?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.435549259185791
+    },
+    {
+      "question": "Which of the following is the best example of a negative externality and the appropriate plan for eliminating it?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.4359781742095947
+    },
+    {
+      "question": "Which of the following indicates that two goods are complements?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.4363832473754883
+    },
+    {
+      "question": "If the government subsidizes the production of halogen headlights,",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.437117338180542
+    },
+    {
+      "question": "Suppose the county government sends each parent a coupon that can be used to subsidize the cost of sending each child to daycare. What would you expect to occur in the market for daycare services?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.437859058380127
+    },
+    {
+      "question": "A price ceiling is characterized by",
+      "model_answer": "**B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.4383082389831543
+    },
+    {
+      "question": "Elsa values her time at $50 per hour, and tutors David for two hours. David is willing to pay $175 for two hours of tutoring, but they negotiate a price of $125 for the entire two hours. Which of the following statements is true about the transaction above:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.438676357269287
+    },
+    {
+      "question": "For a competitive firm, what is the most important thing to consider in deciding whether to shut down in the short run?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1573331356048584
+    },
+    {
+      "question": "Which is true of monopolistic competition?",
+      "model_answer": "**D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.1578588485717773
+    },
+    {
+      "question": "The supply curve for lawn-mowing services is likely to slope upward because of",
+      "model_answer": "**A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1582190990448
+    },
+    {
+      "question": "Labor, human capital, entrepreneurship, natural resources, and physical capital are all examples of which of the following?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.158565044403076
+    },
+    {
+      "question": "If a market is organized by a cartel, we can expect",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1589388847351074
+    },
+    {
+      "question": "At the birthday party of your best friend, you see Skylar help himself to a second piece of cake. For this individual, it must be the case that",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.159295082092285
+    },
+    {
+      "question": "In the short run, a firm employs labor and capital to produce gadgets. If the annual price of capital increases, what will happen to the short-run cost curves?",
+      "model_answer": "A)",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.160125970840454
+    },
+    {
+      "question": "Which of the following is true?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.1572279930114746
+    },
+    {
+      "question": "Which of the following is correct about the demand for labor?",
+      "model_answer": "**A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.157640218734741
+    },
+    {
+      "question": "Which of the following is not correct for the perfectly competitive firm, in the long run?",
+      "model_answer": "The answer is A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.158071994781494
+    },
+    {
+      "question": "The demand curve for a perfectly competitive firm's product is",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1584830284118652
+    },
+    {
+      "question": "Normal goods always have a/an",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.1629889011383057
+    },
+    {
+      "question": "Which of the following represents a measure of a firm's monopoly pricing or market power, i.e., the larger the value of the index, the greater the firm's market pricing power?",
+      "model_answer": "Answer: A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.1634578704833984
+    },
+    {
+      "question": "The market demand curve for labor would shift to the left as the result of",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.163839817047119
+    },
+    {
+      "question": "If the market price is above the perfectly competitive firm's average total cost curve, we expect that in the long run,",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3285439014434814
+    },
+    {
+      "question": "Land, labor, capital and entrepreneurial talent are often referred to as",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.329148054122925
+    },
+    {
+      "question": "Which of the following goods is likely to have the most elastic demand curve?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.3295512199401855
+    },
+    {
+      "question": "Deadweight loss occurs in",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.3299031257629395
+    },
+    {
+      "question": "The individual firm, operating under perfect competition, is characterized as:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.3305861949920654
+    },
+    {
+      "question": "Which of the following are associated with public goods? I. Free riders II. Adding demand curves vertically to find the demand curve for society III. Nonrivalry in consumption IV. Nonexcludability",
+      "model_answer": "Only answer with a letter A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3313231468200684
+    },
+    {
+      "question": "Which of the following is true about the pure public good?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.331965208053589
+    },
+    {
+      "question": "Nancy has the choice to spend one hour studying for an exam, mowing the lawn for one hour at a wage of $6, or babysitting her niece for one hour at a wage of $8. If we know that Nancy has chosen to study for the exam, which of the following is true?",
+      "model_answer": "A)",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.3324460983276367
+    },
+    {
+      "question": "Which of the following statements accurately describes the relationship between average product (AP) and marginal product (MP) of labor?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.332810163497925
+    },
+    {
+      "question": "Because people with relatively low incomes spend a larger percentage of their income on food than people with relatively high incomes, a sales tax on food would fall into which category of taxes?",
+      "model_answer": "**D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.0972139835357666
+    },
+    {
+      "question": "Which of the following is NOT a source of wage differentials?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.0978219509124756
+    },
+    {
+      "question": "Which of the following certainly lowers the equilibrium price of a good exchanged in a competitive market?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.0982000827789307
+    },
+    {
+      "question": "Which of the following is true for a firm operating under perfect competition in the long run?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.0985419750213623
+    },
+    {
+      "question": "A negative externality in the market for a good exists when",
+      "model_answer": "**D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.098879814147949
+    },
+    {
+      "question": "Which characteristic is likely a part of a monopoly market but not of monopolistic competition?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.0992178916931152
+    },
+    {
+      "question": "Every day Melanie spends her lunch money consuming apples, at $1 each, and oranges, at $2 each. At her current level of consumption, Melanie's marginal utility of apples is 12 and her marginal utility of oranges is 18. If she has already spent all of her lunch money, how should Melanie change her consumption decision to maximize utility?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.0996227264404297
+    },
+    {
+      "question": "Which of the following describes the theory behind the demand curve?",
+      "model_answer": "**B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.1093809604644775
+    },
+    {
+      "question": "Economics is best described as",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.110231876373291
+    },
+    {
+      "question": "An effective price ceiling in the market for good X likely results in",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.111102819442749
+    },
+    {
+      "question": "When the production or consumption of a good creates a positive externality, it is deemed a market failure because at the market quantity",
+      "model_answer": "**A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.16088604927063
+    },
+    {
+      "question": "When a perfectly competitive labor market is in equilibrium,",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1613008975982666
+    },
+    {
+      "question": "The market demand curve for labor will shift to the right when",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1618497371673584
+    },
+    {
+      "question": "Which of the following was not a landmark antitrust act?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1628198623657227
+    },
+    {
+      "question": "Which of the following might explain how a price decrease might cause a decrease in quantity demanded and an upward-sloping demand curve?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.163540840148926
+    },
+    {
+      "question": "Which of the following is an implicit cost for the owner of a small store in your hometown?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.164438009262085
+    },
+    {
+      "question": "The greater (higher) the wage elasticity of demand, the",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.16487979888916
+    },
+    {
+      "question": "The law of diminishing marginal utility is most useful for explaining the",
+      "model_answer": "**A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.103847026824951
+    },
+    {
+      "question": "Which of the following statements is most consistent with a capitalist market economy?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.104356050491333
+    },
+    {
+      "question": "Which of the following is most likely to be true in the long run for a monopoly firm?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.1047661304473877
+    },
+    {
+      "question": "Which of the following is not correct about economies of scale?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.105196952819824
+    },
+    {
+      "question": "For the perfectly competitive firm, the profit-maximizing decision to shut down is made when the price",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.1055920124053955
+    },
+    {
+      "question": "Which of the following is true in the long run in perfect competition?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.10650897026062
+    },
+    {
+      "question": "If the perfectly competitive price is currently above minimum ATC, we can expect which of the following events in the long run?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.1069421768188477
+    },
+    {
+      "question": "If Matt's total utility from consuming bratwurst increased at a constant rate, no matter how many bratwurst Matt consumed, what would Matt's demand curve for bratwurst look like?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1073708534240723
+    },
+    {
+      "question": "Which of the following causes the supply curve of paper to shift to the left?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.91304612159729
+    },
+    {
+      "question": "When opportunity cost is constant across all production levels, the productions possibilities frontier is",
+      "model_answer": "**A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.9134280681610107
+    },
+    {
+      "question": "Which of the following is likely to have a demand curve that is the least elastic?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.913875102996826
+    },
+    {
+      "question": "A demand curve slopes downward for an individual as the result of",
+      "model_answer": "**D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.914250135421753
+    },
+    {
+      "question": "In order to find the market supply curve for a particular good, one would",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.914586067199707
+    },
+    {
+      "question": "The ability for firms to enter and exit a market over time means that",
+      "model_answer": "**D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.9150550365448
+    },
+    {
+      "question": "If one person has the only original signed copy of The Wealth of Nations by Adam Smith, which of the following would illustrate this situation?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.915400981903076
+    },
+    {
+      "question": "Land refers to",
+      "model_answer": "**B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9157450199127197
+    },
+    {
+      "question": "The basis for the answer in number 1 is",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.916112184524536
+    },
+    {
+      "question": "In the same period there is a drought affecting the supply of pineapples and a discovery that may assist in the avoidance of cancer. How will this combination of events affect the equilibrium price and quantity of pineapples?Equilibrium Quantity",
+      "model_answer": "**A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.9165639877319336
+    },
+    {
+      "question": "Suppose that there are only two goods: x and y. Which of the following is NOT correct?",
+      "model_answer": "None",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.2637088298797607
+    },
+    {
+      "question": "The total utility from sardines is maximized when they are purchased until",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2642598152160645
+    },
+    {
+      "question": "Assume a firm hires labor for $15 each and sells its products for $3 each. If the MP of the 3rd worker is 10, which of the following statements would be the most true?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.264780044555664
+    },
+    {
+      "question": "The demand curve for labor is derived from",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.265148878097534
+    },
+    {
+      "question": "Monopolistic competition is often characterized by",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.265565872192383
+    },
+    {
+      "question": "A student decides that, having already spent three hours studying for an exam, she should spend one more hour studying for the same exam. Which of the following is most likely true?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.2659199237823486
+    },
+    {
+      "question": "Macroeconomics focuses on",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.2666068077087402
+    },
+    {
+      "question": "Which of the following is true?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.281583786010742
+    },
+    {
+      "question": "What could the government do to most effectively avoid a free rider problem?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.756432294845581
+    },
+    {
+      "question": "In order to hire the least-cost combination of labor and capital, the firm must do which of the following?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.756810188293457
+    },
+    {
+      "question": "Which of the following is a characteristic of monopolistic competition in the long run?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.7571561336517334
+    },
+    {
+      "question": "A student eats 3 slices of pizza while studying for his Economics exam. The marginal utility of the first slice of pizza is 10 utils, the second slice is 7 utils, and the third slice is 3 utils. Which of the statements below holds true with the above data?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.757582187652588
+    },
+    {
+      "question": "The United States is trading salmon to Peru in exchange for anchovies. If these nations are trading based upon relative opportunity costs, what must be the case?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.75793719291687
+    },
+    {
+      "question": "Which of the following is true about the relationship of the average total cost (ATC) curve and the marginal cost (MC) curve?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.758300304412842
+    },
+    {
+      "question": "In an oligopoly market, firms",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.75868821144104
+    }
+  ]
+}

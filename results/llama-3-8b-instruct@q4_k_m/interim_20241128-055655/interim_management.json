@@ -1,0 +1,734 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@q4_k_m",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-064108"
+  },
+  "subject": "management",
+  "category": "other (business, health, misc.)",
+  "correct_rate": 82.52427184466019,
+  "evaluation_results": [
+    {
+      "question": "What is the term for a sub-optimal but acceptable outcome of negotiations between parties?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3885531425476074
+    },
+    {
+      "question": "What is the term for the 'rule of thumb' type of bias in decision making?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.38967227935791
+    },
+    {
+      "question": "What is a normative perspective?",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.390545129776001
+    },
+    {
+      "question": "In the 'five forces model', what is the type of competitive activity that exists between organisations?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3911242485046387
+    },
+    {
+      "question": "Which one of the following political leaders could not be termed a 'transformational' leader?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3915672302246094
+    },
+    {
+      "question": "What is a Gantt chart a type of?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.391907215118408
+    },
+    {
+      "question": "Which one of the following is a feature of McGregor's Theory X?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3925440311431885
+    },
+    {
+      "question": "What is the term for power derived from status or position in an organisation?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.392888069152832
+    },
+    {
+      "question": "Which writer is most associated with bureaucratic structures?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3932290077209473
+    },
+    {
+      "question": "Who of the following is the industrial philanthropist?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.393663167953491
+    },
+    {
+      "question": "Individualism as a guiding moral philosophy was advocated by which economist?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4000561237335205
+    },
+    {
+      "question": "The Hawthorn Studies are most associated with which writer?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.400580883026123
+    },
+    {
+      "question": "How can you describe the thinking and outlook of transformational leaders?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.400707960128784
+    },
+    {
+      "question": "What are the key characteristics of transactional leaders?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.400800943374634
+    },
+    {
+      "question": "What is not an assumption underpinning the rational decision making model?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.400892972946167
+    },
+    {
+      "question": "Which one of the following is not one of Drucker's five guiding principles of management?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4009830951690674
+    },
+    {
+      "question": "What is a paradigm?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.401071786880493
+    },
+    {
+      "question": "What one of the following is not a key management skill in planning?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.401160955429077
+    },
+    {
+      "question": "According to Belbin (1981) an extroverted and enthusiastic person fits with what role?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4012510776519775
+    },
+    {
+      "question": "Which is not a recognised form of business continuity planning?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.401338815689087
+    },
+    {
+      "question": "What is the term for an organisation that adapts to changes in the environment by quickly responding to shifts in supply and demand conditions?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.272817850112915
+    },
+    {
+      "question": "Which of these is not part of the recognised challenges for modern managers?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2732009887695312
+    },
+    {
+      "question": "To what does emotional intelligence refer?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2762980461120605
+    },
+    {
+      "question": "Of what is individual freedom to schedule work an example?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.276409149169922
+    },
+    {
+      "question": "What are workers primarily motivated by according to the instrumental approach?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.276503086090088
+    },
+    {
+      "question": "Which is not a characteristic of corporate social responsibility?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2765979766845703
+    },
+    {
+      "question": "Who was a major protagonist of utilitarianism?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2766871452331543
+    },
+    {
+      "question": "As what is ensuring that one individual does not carry the burden of a whole work task referred to?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.276776075363159
+    },
+    {
+      "question": "How do you describe a work group that comprises workers with demarcated tasks and distant line managers?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2768661975860596
+    },
+    {
+      "question": "Specialisation is a feature of which organisational structure?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2769532203674316
+    },
+    {
+      "question": "Which one is not an element in the primary activities of a value chain?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.270686149597168
+    },
+    {
+      "question": "What is the term for the act of getting individuals to behave in ways that are acceptable to a group?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2714099884033203
+    },
+    {
+      "question": "When does an acquisition take place?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2718610763549805
+    },
+    {
+      "question": "Who of these is the entrepreneur?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2723190784454346
+    },
+    {
+      "question": "Which of these is not an advantage of a virtual team?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2726542949676514
+    },
+    {
+      "question": "What is the richest form of information?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.2735280990600586
+    },
+    {
+      "question": "What is the purpose of a 'quality circle'?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.273759126663208
+    },
+    {
+      "question": "What is the guiding principle behind New Public Management?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.273853063583374
+    },
+    {
+      "question": "Profitability stemming from how well a firm positions itself in the market is a key feature of which writer's view on strategy?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.273944139480591
+    },
+    {
+      "question": "Functional structures help to create...",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.274034023284912
+    },
+    {
+      "question": "What is a succession plan?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3424336910247803
+    },
+    {
+      "question": "What is the definition of a scenario in scenario planning?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.342974901199341
+    },
+    {
+      "question": "What assumption is the garbage can model of decision making based on?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3433239459991455
+    },
+    {
+      "question": "By which principle is utilitarianism defined?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.343674898147583
+    },
+    {
+      "question": "What is the term for the set of behaviours and tasks that a member of the group is expected to perform because he or she is a member of the group?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3440968990325928
+    },
+    {
+      "question": "What is the term for a process that enables an organisation to assess and demonstrate its social, economic, and environmental benefits and limitation?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3444478511810303
+    },
+    {
+      "question": "What type of organisational culture is most likely to deliver stability and efficiency?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3445658683776855
+    },
+    {
+      "question": "Who of the following is a leading writer on contingency theory of leadership?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.344660997390747
+    },
+    {
+      "question": "What are characteristics of a programmed decision?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.344752788543701
+    },
+    {
+      "question": "What is not an advantage of a hierarchical structure?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.344845771789551
+    },
+    {
+      "question": "What is a strategic alliance?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.437319278717041
+    },
+    {
+      "question": "What are group norms?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.437747001647949
+    },
+    {
+      "question": "Which of the following is not a recognised type of plan?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.438140392303467
+    },
+    {
+      "question": "What is the term for the extent to which competition in one country is influenced by competition in other countries?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.43847918510437
+    },
+    {
+      "question": "As what are key factors that reflect the situation of an organisation referred to?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.438601016998291
+    },
+    {
+      "question": "Which of these does not form part of the key streams identified by March (1988) in decision making in highly ambiguous environments?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4387052059173584
+    },
+    {
+      "question": "What does PEST stand for?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.438796043395996
+    },
+    {
+      "question": "What does the acronym SMART stand for?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4388890266418457
+    },
+    {
+      "question": "Which writer was concerned with the reaction of workers to key characteristics of bureaucracies?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4389781951904297
+    },
+    {
+      "question": "What is the optimal span of control?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.4390673637390137
+    },
+    {
+      "question": "What one of these is not a recognised type of authority?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2513480186462402
+    },
+    {
+      "question": "Which one of the following is not a characteristic of a team?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2517178058624268
+    },
+    {
+      "question": "Which of these factors is not one of the competing responsibilities that influence corporate social responsibility?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.2520580291748047
+    },
+    {
+      "question": "What is the term used in Ansoff's matrix for increasing market share with existing products in existing markets?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.252410888671875
+    },
+    {
+      "question": "What is characteristic for the location of a virtual team?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.255350112915039
+    },
+    {
+      "question": "According to the Five Factor model, 'extraversion' as a personality type is characterised by what type of people?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.255460023880005
+    },
+    {
+      "question": "What is the overriding philosophy underpinning the strategic direction of an organisation?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.255558967590332
+    },
+    {
+      "question": "What is the term for the action in which managers at an organisation analyse the current situation of their organisation and then develop plans to accomplish its mission and achieve its goals?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.255654811859131
+    },
+    {
+      "question": "What is Frank Gilbreth`s work most noted for?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.255747079849243
+    },
+    {
+      "question": "What is another name for contingency planning?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2558369636535645
+    },
+    {
+      "question": "Which feature does not form one of Fayol's 14 principles of management?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.36230206489563
+    },
+    {
+      "question": "What one of the following is not a characteristic of the job characteristics model?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3628721237182617
+    },
+    {
+      "question": "Workers' acceptance of change is characteristic of what type of culture?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3651740550994873
+    },
+    {
+      "question": "What is a virtual organisation?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3652899265289307
+    },
+    {
+      "question": "From what does a chain of command extend?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3653831481933594
+    },
+    {
+      "question": "What do you call a style of leadership that takes account of others' views, opinions and ideas?",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.365474224090576
+    },
+    {
+      "question": "What is the guiding principle of scientific management?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.365565061569214
+    },
+    {
+      "question": "What is the term Tuckman uses for reaching consensus as a group?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3656551837921143
+    },
+    {
+      "question": "What theory is built around the principle that 'people make choices regarding how to behave based on values and beliefs'?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.365744113922119
+    },
+    {
+      "question": "What is the term for decisions limited by human capacity to absorb and analyse information?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3658339977264404
+    },
+    {
+      "question": "What is a definition of an objective?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3560078144073486
+    },
+    {
+      "question": "What is not a purpose of an organisational structure?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3564207553863525
+    },
+    {
+      "question": "To what time-frame do strategic plans relate?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3567588329315186
+    },
+    {
+      "question": "What is the term for organisational development through a formally designed organisational structure?",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.357456684112549
+    },
+    {
+      "question": "'There is no discernible link between planning and performance'. Who is this position held by?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.358482837677002
+    },
+    {
+      "question": "What does situational theory of leadership emphasise?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.359407663345337
+    },
+    {
+      "question": "What is intuitive decision making based on?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.359592914581299
+    },
+    {
+      "question": "Enhancement of job satisfaction and productivity are key characteristics of which theoretical perspective of work design?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.359694004058838
+    },
+    {
+      "question": "Which 18th century writer produced a famous book called 'The Wealth of Nations'?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3597848415374756
+    },
+    {
+      "question": "Which one of these characteristics is most commonly associated with the 'rational goal' model of management?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3598740100860596
+    },
+    {
+      "question": "In what order do managers typically perform the managerial functions?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2633841037750244
+    },
+    {
+      "question": "How does lateral communication in an organisation occur?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.2639482021331787
+    },
+    {
+      "question": "Of what is advertising a form?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.264491081237793
+    },
+    {
+      "question": "What is not a component of an agile organisation?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.2646090984344482
+    },
+    {
+      "question": "Of what is worker autonomy in decision making an example?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.2647032737731934
+    },
+    {
+      "question": "Vertical integration forwards is when a firm mergers or acquires another",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.264798402786255
+    },
+    {
+      "question": "What is the term for an autonomous business entity within an overall corporate enterprise which is set apart from other areas of the business?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.2648942470550537
+    },
+    {
+      "question": "What is not a characteristic of a corporate social responsibility framework?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2649831771850586
+    },
+    {
+      "question": "What is a whistleblower?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2650721073150635
+    },
+    {
+      "question": "What is T-group training?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.265162229537964
+    },
+    {
+      "question": "What is a social enterprise concerned with?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 0.6744339466094971
+    },
+    {
+      "question": "Which of the following is not part of Schein's model of the formation of culture?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 0.6749119758605957
+    },
+    {
+      "question": "What is not one of the layers of cultural influence?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 0.6752541065216064
+    }
+  ]
+}

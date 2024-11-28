@@ -1,0 +1,1028 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq2_xss",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241127-170445"
+  },
+  "subject": "electrical_engineering",
+  "category": "STEM",
+  "correct_rate": 26.20689655172414,
+  "evaluation_results": [
+    {
+      "question": "The Barkhausen criterion for an oscillator",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.281940937042236
+    },
+    {
+      "question": "Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.282586097717285
+    },
+    {
+      "question": "Which of these sets of logic gates are designated as universal gates?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.2830650806427
+    },
+    {
+      "question": "A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source voltage. For a load counter emf of 200 V, the range of firing angle control is",
+      "model_answer": "B.",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.283413887023926
+    },
+    {
+      "question": "A box which tells the effect of inputs on control sub system is known as",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.283766031265259
+    },
+    {
+      "question": "Two infinite parallel metal plates are charged with equal surface charge density of the same polarity. The electric field in the gap between the plates is",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.284149885177612
+    },
+    {
+      "question": "The resistance in the circuit of the moving coil of a dynamometer wattmeter should be",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.2845799922943115
+    },
+    {
+      "question": "The following are the necessary requirements of an oscillator",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.284961938858032
+    },
+    {
+      "question": "The normal voltage used in directional heating is",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.285147190093994
+    },
+    {
+      "question": "LC oscillators are used for produce a waveform with frequency ranging from",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.285288095474243
+    },
+    {
+      "question": "A working diode must have",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.5173819065093994
+    },
+    {
+      "question": "What is the name of the fluorescent material that gives red colour fluorescence?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5177528858184814
+    },
+    {
+      "question": "How many bits are required to store one BCD digit ?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.51816987991333
+    },
+    {
+      "question": "Commutator in DC generator is used for",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5185470581054688
+    },
+    {
+      "question": "1 F is theoretically equal to",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.5186879634857178
+    },
+    {
+      "question": "How many entries will be in the truth table of a 3 input NAND gate ?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.518821954727173
+    },
+    {
+      "question": "In decimal number system what is MSD",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.518951892852783
+    },
+    {
+      "question": "In Digital Logic Designs, GAL is abbreviated as",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.519085168838501
+    },
+    {
+      "question": "Inintel 8085A microprocessor ALE signal is made high to",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.519212007522583
+    },
+    {
+      "question": "For an SCR gate cathode characteristic is a straight line of 130. For triggered source volume of 15 V and allowable gate power dissipation of 0.5 W compute the gate source resistance?",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.5193400382995605
+    },
+    {
+      "question": "The concept of V/f control of inverters driving induction motors resuls in",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.6471688747406006
+    },
+    {
+      "question": "The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carrying a current at 10 amp, is",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.647538900375366
+    },
+    {
+      "question": "While operating on variable frequency supplies, the AC motor requires variable voltage in order to",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.6478850841522217
+    },
+    {
+      "question": "Which of the following windings are necessary in case of all dc machines?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.6486690044403076
+    },
+    {
+      "question": "Relaxation Voltage controlled oscillators are used to generate",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6488378047943115
+    },
+    {
+      "question": "The supply frequency usually employed for high frequency eddy current heating is",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.648967981338501
+    },
+    {
+      "question": "In the toggle mode a JK flip-flop has",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.6490938663482666
+    },
+    {
+      "question": "Electric drive is becoming more and more popular because",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.6492180824279785
+    },
+    {
+      "question": "A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.649340867996216
+    },
+    {
+      "question": "A Binary number system has how many digits.",
+      "model_answer": "A. 0",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.649462938308716
+    },
+    {
+      "question": "Lowest critical frequency is due to pole and it may be present at the origin or nearer to the origin, then the type of network is",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.6487040519714355
+    },
+    {
+      "question": "Advantages of open loop control system is/are",
+      "model_answer": "B.",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.64910626411438
+    },
+    {
+      "question": "The voltage induced in an inductor is represented as,",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6496293544769287
+    },
+    {
+      "question": "If a Hexadecimal number needs to convert to binary. For each hexadecimal digit, there will be how many bits",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.6500043869018555
+    },
+    {
+      "question": "Induction heating takes place in",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.6503469944000244
+    },
+    {
+      "question": "In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.6508400440216064
+    },
+    {
+      "question": "Magnetic flux has the unit of",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.651179075241089
+    },
+    {
+      "question": "In balanced bridge, if the positions of detector and source are interchanged, the bridge will still remain balanced. This can be explained from which theorem",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.6515493392944336
+    },
+    {
+      "question": "A D-flip-flop is said to be transparent when",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6517140865325928
+    },
+    {
+      "question": "A Lissajous pattern on an oscilloscope has 5 horinzontal tangencies and 2 vertical tangencies. The frequency of horizontal input is 100 Hz. The frequency of the vertical will be",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.6518502235412598
+    },
+    {
+      "question": "Speed control by variation of field flux results in",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.4673349857330322
+    },
+    {
+      "question": "Which of the following memories uses one transistor and one capacitor as basic memory unit",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.4678428173065186
+    },
+    {
+      "question": "What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * 3m rectangular room?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.469064950942993
+    },
+    {
+      "question": "The output of the system has an effect upon the input quantity, then the system is a",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.469421863555908
+    },
+    {
+      "question": "A sinusoidal signal is analog signal, because",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.4697680473327637
+    },
+    {
+      "question": "FM stands for",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.4702658653259277
+    },
+    {
+      "question": "Stack is also known as",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.4706530570983887
+    },
+    {
+      "question": "In Ward-Leonard system, the lower limit of the speed imposed by",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.47125506401062
+    },
+    {
+      "question": "Colpitts oscillator is also called as",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.47143292427063
+    },
+    {
+      "question": "An SCR has half cycle surge current rating of 3000 A for 50 Hz supply. One cycle surge current will be",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.4715700149536133
+    },
+    {
+      "question": "Both the ALU and control section of CPU employ which special purpose storage location?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.338909864425659
+    },
+    {
+      "question": "Systematic errors are",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3395278453826904
+    },
+    {
+      "question": "Which of the following is/are the disadvantages of an open loop control system?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3425071239471436
+    },
+    {
+      "question": "A diode (p-n junction) when reverse biased act as",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.342679023742676
+    },
+    {
+      "question": "Piezoelectric effect is carried out in",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.3428280353546143
+    },
+    {
+      "question": "The resistivity of the conductor depends on",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.342972993850708
+    },
+    {
+      "question": "The smallest change in measured variable to which instrument will respond is",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.3431169986724854
+    },
+    {
+      "question": "In electronic communications, \"AM\" stands for",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3432602882385254
+    },
+    {
+      "question": "Which system is also known as automatic control system?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.3434019088745117
+    },
+    {
+      "question": "A combinational PLD with a fixed AND array and a programmable OR array is called a",
+      "model_answer": "A. PLD",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.3435440063476562
+    },
+    {
+      "question": "A null type instrument as compared to a deflected type instrument has",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.4853272438049316
+    },
+    {
+      "question": "Length of the cable is doubled, its capacitance C will be",
+      "model_answer": "C. doubled",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.4856951236724854
+    },
+    {
+      "question": "Electrons in p-type material of a semi-conductor are called as",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.486037015914917
+    },
+    {
+      "question": "________ is the most detrimental impurity in the magnetic materials",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.486467123031616
+    },
+    {
+      "question": "Voltage controlled oscillators are used commonly in",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.4889981746673584
+    },
+    {
+      "question": "Low frequency supply is necessary for direct core type induction furnaces because",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.489169120788574
+    },
+    {
+      "question": "The moving coil-meters, damping is provided by",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.489311933517456
+    },
+    {
+      "question": "Which of the following is the analogous quantity for mass element in force-voltage analogy?",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.4894461631774902
+    },
+    {
+      "question": "A latch is ________ sensitive",
+      "model_answer": "A. Level",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.4895811080932617
+    },
+    {
+      "question": "What is used to protect the SCR from over current ?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.489716053009033
+    },
+    {
+      "question": "The errors mainly caused by human mistakes are",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1430490016937256
+    },
+    {
+      "question": "Electrical analogous quantity for dash-pot in force-current analogy is",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1434922218322754
+    },
+    {
+      "question": "Which lamp has the best Colour Rendering Index (CRI)?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.143852949142456
+    },
+    {
+      "question": "Power dissipation in ideal inductor is",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.144205093383789
+    },
+    {
+      "question": "For intermittent work which of the following furnace is suitable?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1447269916534424
+    },
+    {
+      "question": "In electrical resistance welding material of electrode should have",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.1449191570281982
+    },
+    {
+      "question": "Which of the following are the passive elements?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.1450748443603516
+    },
+    {
+      "question": "The main advantage of dielectric heating is that",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1452250480651855
+    },
+    {
+      "question": "Materials used in heat sink should have",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.145372152328491
+    },
+    {
+      "question": "Conductor is static and the field is varying then emf will be induced. This principle is called",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.1455180644989014
+    },
+    {
+      "question": "Four identical alternators each are rated for 20 MVA, 11 KV having a subtransient reactance of 16% are working in parallel. The short circuit level at the busbar is",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.5906481742858887
+    },
+    {
+      "question": "According to the Bohr model, an electron gains or losses energy only by",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.5918071269989014
+    },
+    {
+      "question": "A three-state buffer has the following output states",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.592172145843506
+    },
+    {
+      "question": "By using which of the following elements, mechanical translational systems are obtained?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.592515230178833
+    },
+    {
+      "question": "Four capacitors each of 40 µF are connected in parallel, the equivalent capacitance of the system will be",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.592881202697754
+    },
+    {
+      "question": "The resistance of a conductor of diameter d and length l is R Ω. If the diameter of the conductor is halved and its length is doubled, the resistance will be",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.593224287033081
+    },
+    {
+      "question": "A single phase full bridge inverter can operated in load commutation mode in case load consist of",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.5936591625213623
+    },
+    {
+      "question": "A microprocessor is ALU",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5940001010894775
+    },
+    {
+      "question": "To obtain a high value of capacitance, the permittivity of dielectric medium should be",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.5941319465637207
+    },
+    {
+      "question": "Deflection method direct measurements are most widely used as these are",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.5942561626434326
+    },
+    {
+      "question": "Purely mechanical instrument cannot be used for dynamic measurements because they have",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3893706798553467
+    },
+    {
+      "question": "Advantages of higher transmission voltage is/are",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3898890018463135
+    },
+    {
+      "question": "Under over voltage condition impedance offered by the voltage clamping device is",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.3902359008789062
+    },
+    {
+      "question": "A long wire composed of a smooth round conductor runs above and parallel to the ground (assumed to be a large conducting plane). A high voltage exists between the conductor and the ground. The maximum electric stress occurs at",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.3907177448272705
+    },
+    {
+      "question": "In a dc machine 6 pole wave winding is used. The number of parallel paths are?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3913347721099854
+    },
+    {
+      "question": "Which of the following is a digital device",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3917486667633057
+    },
+    {
+      "question": "Instantaneous power in inductor is proportional to the",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.3921289443969727
+    },
+    {
+      "question": "Which of the following is a variable displacement transducer?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.392521858215332
+    },
+    {
+      "question": "Five capacitors each of 5 µF are connected in series, the equivalent capacitance of the system will be",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.392911672592163
+    },
+    {
+      "question": "Susceptibility is negative for",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.3932878971099854
+    },
+    {
+      "question": "One of the following is the primary function of an oscillator",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.2663938999176025
+    },
+    {
+      "question": "The metal surfaces for electrical resistance welding must be",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.266849994659424
+    },
+    {
+      "question": "The latching current of SCR is 20 mA. Its holding current will be",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2672929763793945
+    },
+    {
+      "question": "In force-current analogy, electrical analogous quantity for displacement (x) is",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.2689778804779053
+    },
+    {
+      "question": "Feedback circuit in an oscillator can be accomplished by",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.2691118717193604
+    },
+    {
+      "question": "Lowest critical frequency is due to zero and it may be present at the origin or nearer to the origin, then the type of network is",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.269237995147705
+    },
+    {
+      "question": "What is the value of dielectric constant of air?",
+      "model_answer": "A.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2693629264831543
+    },
+    {
+      "question": "Temperature variation is a/an",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.2694900035858154
+    },
+    {
+      "question": "The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2696220874786377
+    },
+    {
+      "question": "For a dc machine shunt resistance and armature resistance values are",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.2697670459747314
+    },
+    {
+      "question": "The change of cross sectional area of conductor in magnetic field will affect",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3581490516662598
+    },
+    {
+      "question": "Which of the following is used in SCR to protect from high dV / dt?",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.3587229251861572
+    },
+    {
+      "question": "What are the sets of commands in a program which are not translated into machine instructions during assembly process, called?",
+      "model_answer": "A.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.3591248989105225
+    },
+    {
+      "question": "Speed of data transmission in 4-G network of telecom is",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3595728874206543
+    },
+    {
+      "question": "Which of the followings is/are active element?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.359992027282715
+    },
+    {
+      "question": "Electrical analogous quantity for spring element (K) in force-voltage analogy is",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3601768016815186
+    },
+    {
+      "question": "A quartz crystal oscillator consists of",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3603289127349854
+    },
+    {
+      "question": "Which of the following oscillators are used for low frequency (LF) applications",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.3604729175567627
+    },
+    {
+      "question": "The solid angle subtended by an area of 2400 cm^2 on the surface of a sphere of diameter 1.2 m is",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3606157302856445
+    },
+    {
+      "question": "Relative error is same as",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.3607609272003174
+    },
+    {
+      "question": "If holding current of a thyristor is 2 mA then latching current should be",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.9490880966186523
+    },
+    {
+      "question": "In an intel 8085A, which is the first machine cycle of an instruction?",
+      "model_answer": "A. An op-code fetch cycle",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.949456214904785
+    },
+    {
+      "question": "Which of the following are the disadvantages of a closed loop control system?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.949799060821533
+    },
+    {
+      "question": "Poles and zeros are arranged alternatively on negative real axis, then type of network is/are",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.950252056121826
+    },
+    {
+      "question": "The magnetisation and applied field in ferromagnetic materials are related",
+      "model_answer": "C.",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.950645923614502
+    },
+    {
+      "question": "Thin laminations are used in a machine in order to reduce",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.9508280754089355
+    },
+    {
+      "question": "A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The total outward electric displacement normal to the surface of the cube is",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.950982093811035
+    },
+    {
+      "question": "In binary number system the first digit (bit) from right to left is called as",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.9511349201202393
+    },
+    {
+      "question": "In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of the system is",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.951289176940918
+    },
+    {
+      "question": "A 0 - 100 V voltmeter has a guaranteed accuracy of 2 % of full scale reading. The voltage measured by the voltmeter is 75 V. The limiting error is in percentage",
+      "model_answer": "A. 3.33 %",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.951439142227173
+    },
+    {
+      "question": "Which of the following methods is/are used for reactive or voltage compensation",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.54526424407959
+    },
+    {
+      "question": "The ROM programmed during manufacturing process itself is called",
+      "model_answer": "B. PROM",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.5456931591033936
+    },
+    {
+      "question": "In 8085 name/names of the 16 bit registers is/are",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.5460410118103027
+    },
+    {
+      "question": "Stability of a transmission line can be increased by",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.546386241912842
+    },
+    {
+      "question": "Snubber circuit is used with SCR",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.5467891693115234
+    },
+    {
+      "question": "The number of rings in the Bohr model of any element is determined by what?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.547234058380127
+    },
+    {
+      "question": "Silicon and Germanium are ________ elements.",
+      "model_answer": "A. trivalant",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5476720333099365
+    },
+    {
+      "question": "The number of output pins in 8085 microprocessors are",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.5478482246398926
+    },
+    {
+      "question": "If P is the power of a star connected system then what will be power of an equivalent delta connected system?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.5480000972747803
+    },
+    {
+      "question": "Which oscillators are easy to fabricate in a monolithic IC?",
+      "model_answer": "A.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5481462478637695
+    },
+    {
+      "question": "If all the elements in a particular network are linear, then the superposition theorem would hold, when the excitation is",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 1.9080801010131836
+    },
+    {
+      "question": "The feedback factor of a Wien bridge oscillator using Op-Amp is",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 1.9084930419921875
+    },
+    {
+      "question": "The length of bus cycle in 8086/8088 is four clock cycles, T1, T2, T3, T4 and an indeterminate number of wait state clock cycles denoted by Tw. The wait states are always inserted between",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 1.911073923110962
+    },
+    {
+      "question": "Which of the following is not a sinusoidal oscillator?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 1.9112539291381836
+    },
+    {
+      "question": "A wire carrying current is bent in the form of a circular loop. Then the magnetic field around each portion of the wire will be",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 1.9113991260528564
+    }
+  ]
+}

@@ -1,0 +1,1420 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@q4_0",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-085019"
+  },
+  "subject": "sociology",
+  "category": "social sciences",
+  "correct_rate": 78.1094527363184,
+  "evaluation_results": [
+    {
+      "question": "Mass-society theory suggests that:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.528174877166748
+    },
+    {
+      "question": "The ecological approach to urban sociology involved studying:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5287251472473145
+    },
+    {
+      "question": "Becker proclaimed that cannabis use was:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.529252052307129
+    },
+    {
+      "question": "The middle classes that developed over the nineteenth century were:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5297188758850098
+    },
+    {
+      "question": "Technological forms of surveillance have made it easier to:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.530061960220337
+    },
+    {
+      "question": "The concept of gemeinschaft developed by Ferdinand Tönnies describes basically the same relational characteristics as",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.530400037765503
+    },
+    {
+      "question": "There was a growth in income inequality in the 1980s because:",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.5307469367980957
+    },
+    {
+      "question": "If a deviant act is 'normalized', it is:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.531083106994629
+    },
+    {
+      "question": "In the debate about the 'managerial revolution', John Scott (1997) argued that:",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.531416893005371
+    },
+    {
+      "question": "Marxist feminists explain patriarchy in terms of:",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.531749963760376
+    },
+    {
+      "question": "Which of the following was not defined by Giddens (1998) as part of New Labour's 'third way':",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.450817108154297
+    },
+    {
+      "question": "Anti-psychiatrists like Laing & Esterson believed that:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.451282024383545
+    },
+    {
+      "question": "Butler & Stokes (1969) suggested that working class support for the Labour Party arose from:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4520320892333984
+    },
+    {
+      "question": "In contemporary societies, social institutions are:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.452789068222046
+    },
+    {
+      "question": "The term 'emotion work' (Hochschild 1983) refers to:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4535140991210938
+    },
+    {
+      "question": "When sociologists study the structure of layers in society and people's movement between them, they call this:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.454123020172119
+    },
+    {
+      "question": "The four ideal types of social action that Weber identified were as follows: instrumentally-rational, value-rational, traditional, and...",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4544639587402344
+    },
+    {
+      "question": "An ecclesia is:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4548192024230957
+    },
+    {
+      "question": "After slavery was abolished in the USA and British Empire, policy makers claimed that former slaves migrating to these cities would experience:",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4551639556884766
+    },
+    {
+      "question": "Sutherland's study of the 'professional thief' suggested that:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4555091857910156
+    },
+    {
+      "question": "Which of the following policies did the New Labour government not pursue?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5119688510894775
+    },
+    {
+      "question": "Stone's research suggests that prior to industrialization, the nuclear family:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.512356758117676
+    },
+    {
+      "question": "Statistics about rural, suburban, and urban patterns of development and mobility are almost always reported based on a geographical area labeled as Metropolitan Statistical Areas (MSA). What constitutes an MSA?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5126938819885254
+    },
+    {
+      "question": "Mosca and Pareto identified the ruling elite as:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.51304292678833
+    },
+    {
+      "question": "Bourdieu attributed the reproduction of class to:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5134117603302
+    },
+    {
+      "question": "Secularization involves the two related ideas of:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.51374888420105
+    },
+    {
+      "question": "The general fertility rate fell between 1964 and 2000 because of:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5140838623046875
+    },
+    {
+      "question": "Howard's idea of the garden city consisted of:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5144567489624023
+    },
+    {
+      "question": "The 'third age' of the life course is said to involve:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5148918628692627
+    },
+    {
+      "question": "Weber (1919) said that the state's monopoly of the use of force was legitimated by:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.515246868133545
+    },
+    {
+      "question": "Sullivan's (2000) study suggested that the proportion of housework men did was greatest when:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.500930070877075
+    },
+    {
+      "question": "The shift from custodial to joint parenthood after divorce means that:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5013608932495117
+    },
+    {
+      "question": "Émile Durkheim believed the primary focus of sociology should be which of the following?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.501706838607788
+    },
+    {
+      "question": "The term \"sociology\" was coined in the early 1800s by which of the following?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.502058982849121
+    },
+    {
+      "question": "In their study of depression, Brown & Harris (1978) found that:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.502739906311035
+    },
+    {
+      "question": "The alternative form of 'network organization' means that:",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.503469705581665
+    },
+    {
+      "question": "Margaret Mead suggested that:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.504189968109131
+    },
+    {
+      "question": "The term 'secondary deviation' refers to:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.5049889087677
+    },
+    {
+      "question": "The effect of the Internet upon the public sphere has been to:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.505728006362915
+    },
+    {
+      "question": "Weber said that the 'spirit of capitalism' could be traced back to:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5064709186553955
+    },
+    {
+      "question": "The terms 'crisis of the 1970s' is used to refer to:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4383060932159424
+    },
+    {
+      "question": "The Macpherson Report highlighted the increasing problem of:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4389822483062744
+    },
+    {
+      "question": "Seven people standing silently while waiting for a bus at a bus stop is an example of which of the following?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4393250942230225
+    },
+    {
+      "question": "Environmentalist social movements are global in the sense that:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4396891593933105
+    },
+    {
+      "question": "Chodorow (1978) argued that gender socialization occurred through:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.440037250518799
+    },
+    {
+      "question": "The 'new man' of the 1980s was alleged to be:",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.4404029846191406
+    },
+    {
+      "question": "In the 1960s, comprehensive schools did not eradicate class inequalities in education because:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4407451152801514
+    },
+    {
+      "question": "In idealized views of science, the experimental method is said to involve:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.441089153289795
+    },
+    {
+      "question": "An 'open' society is one that:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.441457986831665
+    },
+    {
+      "question": "The Nation of Islam group appealed to:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4417972564697266
+    },
+    {
+      "question": "Comte's term 'positivism' refers to:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8922119140625
+    },
+    {
+      "question": "Theories of racialized discourse suggest that:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.892958879470825
+    },
+    {
+      "question": "A major car accident occurs. One man stops his car and starts helping people. After seeing him stop, others also stop and start helping. Which of the following theories best explains the scenario?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.893522024154663
+    },
+    {
+      "question": "A new highway extends from a major city though an area used for farmland. Which of the following is most likely to happen as a result?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.89387583732605
+    },
+    {
+      "question": "According to W. E. B. Dubois, progress for African Americans in the aftermath of slavery",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.8942339420318604
+    },
+    {
+      "question": "Pluralist theories suggest that:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8945767879486084
+    },
+    {
+      "question": "The term 'over-urbanization' means that:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8949179649353027
+    },
+    {
+      "question": "The capitalist class of the mid-twentieth century were said to join the upper class because they:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.89548397064209
+    },
+    {
+      "question": "The term inter-generational mobility refers to:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.896245002746582
+    },
+    {
+      "question": "The term 'culture industry', used by members of the Frankfurt School, referred to:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8966317176818848
+    },
+    {
+      "question": "According to Hakim (1995, 1996), the majority of part-time work is done by women because:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5625617504119873
+    },
+    {
+      "question": "A sect is organised around:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.563192844390869
+    },
+    {
+      "question": "What is the name of the process by which we acquire a sense of identity and become members of society?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5635359287261963
+    },
+    {
+      "question": "Pre-testing a questionnaire is useful for:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.563894748687744
+    },
+    {
+      "question": "Judith Butler (1999) suggested that:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.564250946044922
+    },
+    {
+      "question": "Patterns of drug use in Britain reveal that:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.564598798751831
+    },
+    {
+      "question": "Murray thought that the 'underclass' consisted of people who:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.564980983734131
+    },
+    {
+      "question": "Religious organizations such as the Church of Norway, Islam, the Church of England, and the Church of Greece have which of the following characteristics in common?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5653278827667236
+    },
+    {
+      "question": "A researcher mailed 1,000 questionnaires to members of a labor union and received 300 back. Most of those who returned the questionnaires indicated that they were dissatisfied with the union. Results based only on the returned questionnaires are most likely contaminated by",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5658509731292725
+    },
+    {
+      "question": "Role-learning theory suggests that",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.5661909580230713
+    },
+    {
+      "question": "Post-modernist writers have argued that:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.5113296508789062
+    },
+    {
+      "question": "Leroy visits his parents, who live in a primarily African American working-class neighborhood. During his visit, he notices that the community is changing. Several developments have been built to accommodate single-family homes, and upscale shopping centers have been added. While Leroy appreciates these changes, he is worried that his parents will not be able to afford to continue living in their neighborhood because property values are rising. Which of the following best explains what is happening to Leroy's old neighborhood?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5116889476776123
+    },
+    {
+      "question": "Warner's study of the city of Natchez in the American Deep South showed that the 'colour line' there was:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.512051820755005
+    },
+    {
+      "question": "The social construction of childhood can be traced back to:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5123908519744873
+    },
+    {
+      "question": "In Marx's theory, the 'mode of production' means:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5127487182617188
+    },
+    {
+      "question": "The trend of decarceration involves:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5130879878997803
+    },
+    {
+      "question": "The work of Smart suggested that:",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5134317874908447
+    },
+    {
+      "question": "Allen's (2001) study of nurses showed that:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.513770818710327
+    },
+    {
+      "question": "Which of the following best describes the practice of placing the blame for the problems of a society on one particular group?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.514298677444458
+    },
+    {
+      "question": "Dahrendorf, Rex, and Habermas focused their attention on:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5150039196014404
+    },
+    {
+      "question": "Sreberny-Mohammadi (1996) argues that national cultures can resist American cultural domination of the media by:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.661993980407715
+    },
+    {
+      "question": "Mulholland (1998) argued that privatization changed the relationship between companies and managers in that:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.662748098373413
+    },
+    {
+      "question": "Which of the following is consistent with results of current research conducted in the area of gender roles and the workplace?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.663087844848633
+    },
+    {
+      "question": "Socialization is:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.6635611057281494
+    },
+    {
+      "question": "The term 'assets' refers to:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.6639440059661865
+    },
+    {
+      "question": "In the traditional hierarchy of status and precedence, which of these members of the upper class are in the right order (from highest to lowest status)?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.664293050765991
+    },
+    {
+      "question": "Social norms are:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.664640188217163
+    },
+    {
+      "question": "The 'nuclear family' means:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.6649811267852783
+    },
+    {
+      "question": "The rise of new social movements indicates that:",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.6653149127960205
+    },
+    {
+      "question": "Which of the following sociological perspectives views society as a system of interdependent and coordinated parts?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.665656805038452
+    },
+    {
+      "question": "Post-Fordist forms of media production and consumption involve:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.67193603515625
+    },
+    {
+      "question": "Marx said that the development of the labour movement through factory-based production would turn the working class into:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.6723062992095947
+    },
+    {
+      "question": "In stage 3 of the 'health transition', the main causes of illness and death are:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.672682046890259
+    },
+    {
+      "question": "Sociologists like Bordo (1993) have attributed the 'epidemic' of anorexia in Western cultures to:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.673581123352051
+    },
+    {
+      "question": "One of the difficulties in 'operationalizing' concepts like social class is that:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6744191646575928
+    },
+    {
+      "question": "In the 1990 reform of the National Health Service, hospitals became:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6752991676330566
+    },
+    {
+      "question": "Law and order was privatized in the 1980s and 1990s through:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.6756463050842285
+    },
+    {
+      "question": "The 'correspondence principle' (Bowles & Gintis) suggests that:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6760051250457764
+    },
+    {
+      "question": "Class segregation was apparent in mid-twentieth century Britain insofar as:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.676363945007324
+    },
+    {
+      "question": "Charles Cooley's theory of the looking-glass self emphasizes",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.676720142364502
+    },
+    {
+      "question": "Queer Theory makes the claim that:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3687140941619873
+    },
+    {
+      "question": "Scott (1991) introduced the term 'power elite' to describe:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3692100048065186
+    },
+    {
+      "question": "A sociologist is conducting research on institutional power relations at a local hospital. The sociologist is on staff at the hospital for several weeks, recording data as field notes. This method of research is called",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.369558095932007
+    },
+    {
+      "question": "In Symbolic Interactionist theory, Mead defined the 'generalized other' as:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3699238300323486
+    },
+    {
+      "question": "According to Davis (1995), women may seek cosmetic surgery because:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3704068660736084
+    },
+    {
+      "question": "Marx (1844) claimed that capitalism had alienated workers from:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.370738983154297
+    },
+    {
+      "question": "Herberg's (1955) study of religion in America suggested that:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.371086835861206
+    },
+    {
+      "question": "Structural-Functionalists describe society as:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3714239597320557
+    },
+    {
+      "question": "Booth's (1901) study revealed that the percentage of people in London who were living in poverty was:",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.371762990951538
+    },
+    {
+      "question": "Traditional working class identity was based around:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3721511363983154
+    },
+    {
+      "question": "Bernstein thought that using 'restricted codes' of language disadvantaged pupils at school because:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3526992797851562
+    },
+    {
+      "question": "Telework is a form of employment that involves:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3534562587738037
+    },
+    {
+      "question": "Frank (1967) made the claim that 'underdeveloped' societies were:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3542580604553223
+    },
+    {
+      "question": "The case of the former Soviet Union supports Kerr et al.'s (1960) claim that:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3548879623413086
+    },
+    {
+      "question": "The print revolution of the nineteenth century resulted in:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.355224132537842
+    },
+    {
+      "question": "The term 'feminist standpoint' suggests:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3555819988250732
+    },
+    {
+      "question": "Ethnographic research produces qualitative data because:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3559250831604004
+    },
+    {
+      "question": "Marx proclaimed that religion would disappear when:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.356264114379883
+    },
+    {
+      "question": "Which of the following is not a feature of globalization?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.356886148452759
+    },
+    {
+      "question": "Someone who gains a higher (or lower) social position than he or she was born into has experienced",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3576042652130127
+    },
+    {
+      "question": "A survey should avoid asking:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4913790225982666
+    },
+    {
+      "question": "The theory of development which suggests that societies move from traditional to modern, industrial forms of organization is called:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4917478561401367
+    },
+    {
+      "question": "In modern societies, social status is typically measured by a person's:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4920852184295654
+    },
+    {
+      "question": "Sociology differs from common sense in that:",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.492434024810791
+    },
+    {
+      "question": "World-affirming religions:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.493000030517578
+    },
+    {
+      "question": "The 'extension pattern' that Parker (1976) identified was said to be:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4937312602996826
+    },
+    {
+      "question": "Weber defined a 'class situation' as:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4944632053375244
+    },
+    {
+      "question": "The introduction of market principles to educational policy in the 1980s resulted in:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.495082139968872
+    },
+    {
+      "question": "Smith & Tomlinson argued that:",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4954230785369873
+    },
+    {
+      "question": "The 'post-industrial society' identified by Bell (1973) involved:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4957809448242188
+    },
+    {
+      "question": "White-collar crime is low in visibility because:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.424687147140503
+    },
+    {
+      "question": "With industrial capitalism, leisure emerged as a concept that meant:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4251489639282227
+    },
+    {
+      "question": "A moral panic occurs when:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4254798889160156
+    },
+    {
+      "question": "The 'demographic transition' is a social trend that involves:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4260191917419434
+    },
+    {
+      "question": "'Snowballing' is an example of:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4263832569122314
+    },
+    {
+      "question": "The 'class polarization' that Marx predicted referred to:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.426715850830078
+    },
+    {
+      "question": "In the context of the labour movement in the nineteenth century, 'incorporation' meant:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.428446054458618
+    },
+    {
+      "question": "Millions of immigrant children who entered the United States learned English and the duties of citizenship while attending public schools in the communities in which they settled. This is an example of which of the following sociological concepts?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.429434061050415
+    },
+    {
+      "question": "The capitalist world economy is what Wallerstein (1974) would call a 'world system'. This term refers to:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4303030967712402
+    },
+    {
+      "question": "According to Foucault, carceral organizations:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4310550689697266
+    },
+    {
+      "question": "Which of the following is not recognised as a level of society?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.348883867263794
+    },
+    {
+      "question": "Ethnic identity refers to:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3492431640625
+    },
+    {
+      "question": "Marriage appears to be in decline because:",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.349605083465576
+    },
+    {
+      "question": "The market model of state welfare is based on the principle of:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.349966049194336
+    },
+    {
+      "question": "The term feminization of poverty refers to:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.35031795501709
+    },
+    {
+      "question": "Which of the following is not identified as a new form of community?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3506648540496826
+    },
+    {
+      "question": "The use of 'indentured labour' in the nineteenth century involved:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.351005792617798
+    },
+    {
+      "question": "Cultural restructuring has involved:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.351452112197876
+    },
+    {
+      "question": "Which of the following was not part of Weber's ideal type of bureaucracy?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.351952075958252
+    },
+    {
+      "question": "Which of the following is the most important agent of socialization in early childhood?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.352285146713257
+    },
+    {
+      "question": "Which of the following is not a 'research purpose'?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3235321044921875
+    },
+    {
+      "question": "'Scientific' theories in the nineteenth century tried to explain race in naturalistic terms. Which of the following ideas was not considered?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.323895215988159
+    },
+    {
+      "question": "Which of the following is not a regular national survey carried out by the British government?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3242440223693848
+    },
+    {
+      "question": "Which of the following industries did Blauner (1964) suggest was most alienating to its employees?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.324603319168091
+    },
+    {
+      "question": "The 'decentralized city' can be identified by:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3249521255493164
+    },
+    {
+      "question": "Lombroso claimed that:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.325294256210327
+    },
+    {
+      "question": "Warner and Myrdal claimed that black former slaves were not joining the 'ethnic melting pot' of the North American cities because:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3256351947784424
+    },
+    {
+      "question": "When Berger & Luckmann said that reality is socially constructed, they meant:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3259730339050293
+    },
+    {
+      "question": "Which of the following groups or organizations can be identified as having the characteristics of a bureaucracy?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3263370990753174
+    },
+    {
+      "question": "Pilcher (1999) identified soap operas as a 'feminine genre' of media because:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.32705020904541
+    },
+    {
+      "question": "Which of these was not one of Townsend's (1979) indicators of relative deprivation?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.571070909500122
+    },
+    {
+      "question": "Children who are still sucking their thumbs when they enter kindergarten are often subject to teasing and ridicule for this behavior. What type of social sanction is applied in this instance?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5714378356933594
+    },
+    {
+      "question": "The concept of political culture refers to the",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5717740058898926
+    },
+    {
+      "question": "Walt Disney, Sony and Time Warner are examples of:",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.572359800338745
+    },
+    {
+      "question": "Equilibrium theories of social change emphasize",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.573003053665161
+    },
+    {
+      "question": "Which of the following best describes the definition of poverty used by the United States government?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.573333978652954
+    },
+    {
+      "question": "The 'absolute' poverty line is drawn to show:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.573699712753296
+    },
+    {
+      "question": "'Eyeballing' is a technique that involves:",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5740349292755127
+    },
+    {
+      "question": "Which of the following was not a strategy used by the Conservative government of 1979 to reduce the power of the labour movement?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.574392795562744
+    },
+    {
+      "question": "In the nineteenth century, homosexuality was understood as:",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5747358798980713
+    },
+    {
+      "question": "The population pyramid of a population that has had a slightly larger birth rate than death rate for several generations will most likely have which of the following shapes?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4957408905029297
+    },
+    {
+      "question": "The 'new racism' refers to:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4961209297180176
+    },
+    {
+      "question": "Giselle graduated from college with high honors in management. She was recruited immediately following college by a large corporation and accepted a position in junior management. She quickly advanced to middle management. Ten years later Giselle was still in a middle-management position and had witnessed junior male colleagues promoted over her. Which of the following is a phenomenon that is most likely to explain Giselle's lack of promotion?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4965009689331055
+    },
+    {
+      "question": "The Mafia is an example of:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4968578815460205
+    },
+    {
+      "question": "Goldthorpe identified the 'service class' as:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4972128868103027
+    },
+    {
+      "question": "Industrial production in the nineteenth century was characterized by:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.497551918029785
+    },
+    {
+      "question": "The term 'collective consumption' (Castells 1977) refers to:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.4978890419006348
+    },
+    {
+      "question": "The deviant subculture of homosexuals who met in seventeenth and eighteenth century London was called the:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4982259273529053
+    },
+    {
+      "question": "Robert and Tanya are married and live with their three children. Their family unit is called",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.498600959777832
+    },
+    {
+      "question": "In Durkheim's work, the term 'collective representations' refers to:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.4992997646331787
+    },
+    {
+      "question": "Which of the following is not a characteristic of totalitarian societies?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3514068126678467
+    },
+    {
+      "question": "Freud's notion of the 'ego' referred to:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.351818799972534
+    },
+    {
+      "question": "Which of the following theories focuses on how society manages to carry out the activities necessary to maintain order and stability?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3521528244018555
+    },
+    {
+      "question": "Which of the following is a personal document with closed access?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.352484703063965
+    },
+    {
+      "question": "The tripartite system used the 11+ exam to select pupils for:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.352813959121704
+    },
+    {
+      "question": "Durkheim defined social facts as:",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.353198766708374
+    },
+    {
+      "question": "The media-themes model of media influence claims that:",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3538198471069336
+    },
+    {
+      "question": "Bowlby's maternal deprivation thesis claimed that:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.354151964187622
+    },
+    {
+      "question": "War became possible between nation states in the nineteenth century because:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3544929027557373
+    },
+    {
+      "question": "Which of the following is not identified by Fulcher & Scott as a criterion of community?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.3548479080200195
+    },
+    {
+      "question": "The 'Great Migration' of 1916-1919 meant that Chicago became an ethnically diverse city. The consequence of this was:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5803098678588867
+    },
+    {
+      "question": "According to Scott (1990), a document is 'authentic' if it:",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.5806808471679688
+    },
+    {
+      "question": "Which of the following is not a consequence of global tourism?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.5810177326202393
+    },
+    {
+      "question": "Which of the following did Thatcher's government not strive to achieve:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5814049243927
+    },
+    {
+      "question": "One of the ethical problems with covert participant observation is:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.581744909286499
+    },
+    {
+      "question": "The embourgeoisement thesis suggests that:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.582089900970459
+    },
+    {
+      "question": "Women have been excluded from the public sphere because:",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5824368000030518
+    },
+    {
+      "question": "Economic aid has largely failed to promote modernization in the developing countries because:",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5827667713165283
+    },
+    {
+      "question": "How is terrorism different from the types of crime described by the Chicago School?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.583143949508667
+    },
+    {
+      "question": "The human relations approach emphasized the importance of:",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.583587884902954
+    },
+    {
+      "question": "Which of the following did Domhoff not identify as a process of decision-making in the USA?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 0.19281792640686035
+    }
+  ]
+}

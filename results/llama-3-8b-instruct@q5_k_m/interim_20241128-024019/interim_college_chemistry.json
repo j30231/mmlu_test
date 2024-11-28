@@ -1,0 +1,713 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@q5_k_m",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-024554"
+  },
+  "subject": "college_chemistry",
+  "category": "STEM",
+  "correct_rate": 39.0,
+  "evaluation_results": [
+    {
+      "question": "The rate, r, of a zero-order chemical reaction A → B can be expressed as which of the following?",
+      "model_answer": "D.",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.498969078063965
+    },
+    {
+      "question": "Infrared (IR) spectroscopy is useful for determining certain aspects of the structure of organic molecules because",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.5006401538848877
+    },
+    {
+      "question": "What is the maximum number of phases that can be at equilibrium with each other in a three component mixture?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.500757932662964
+    },
+    {
+      "question": "When the following equation is balanced, which of the following is true?\n__ MnO4− + __ I− + __ H+ <-> __ Mn2+ + __ IO3− + __ H2O",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.500850200653076
+    },
+    {
+      "question": "The equation ΔH = ΔU + PΔV is applicable",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.500946283340454
+    },
+    {
+      "question": "Nitronyl nitroxides are stable radicals in which the unpaired electron is coupled to two equivalent nitrogen nuclei. How many lines will appear in the EPR spectrum of a solution of a rigid nitronyl nitroxide diradical with J << a?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.501038074493408
+    },
+    {
+      "question": "Cobalt-60 is used in the radiation therapy of cancer and can be produced by bombardment of cobalt-59 with which of the following?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.5011250972747803
+    },
+    {
+      "question": "Which of the following is required for both paramagnetism and ferromagnetism?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.5012121200561523
+    },
+    {
+      "question": "The 1H spectrum of a mixture of dimethylsulphoxide (DMSO) and acetonitrile (AN) contains lines with relative intensities α and 3α, respectively. What is the ratio of the two concentrations, [DMSO]:[AN]?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.5012950897216797
+    },
+    {
+      "question": "Which of the following statements most accurately explains why the T1 of a nucleus is sometimes longer than its T2?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.501380205154419
+    },
+    {
+      "question": "The 1H Larmor frequency of benzene exceeds that of trifluoroacetic acid by 1.656 kHz on a 400 MHz spectrometer. The 1H chemical shift of benzene is 7.16 ppm. What is the chemical shift of trifluoroacetic acid?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.796736001968384
+    },
+    {
+      "question": "Suppose that the 13C nuclei in a molecule in a 600 MHz spectrometer can be 100% polarized (p = 1). If T1 = 5.0 s, how long does it take for p to reach a value equal to twice the thermal equilibrium polarization at 298 K?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.797100067138672
+    },
+    {
+      "question": "Estimate the β-hyperfine value for the cyclobutyl radical (C4H7•) assuming the radical is flat and the HCH angle is 115°.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.797435998916626
+    },
+    {
+      "question": "What is the ratio of line intensities in the EPR spectrum of the t-Bu radical (CH3)3C•?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.797790050506592
+    },
+    {
+      "question": "Which one sentence explains most accurately why spin trapping is often used to detect free radical intermediates?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.7981860637664795
+    },
+    {
+      "question": "Calculate the magnetic moment (μI) of a 13C nucleus.",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.7990989685058594
+    },
+    {
+      "question": "The normal modes of a carbon dioxide molecule that are infrared-active include which of the following?\nI. Bending\nII. Symmetric stretching\nIII. Asymmetric stretching",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.7992148399353027
+    },
+    {
+      "question": "Which of the following is a true statement about optical isomerism of complexes containing achiral ligands?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.7993102073669434
+    },
+    {
+      "question": "Which one of the following statements is true:",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.799401044845581
+    },
+    {
+      "question": "Calculate the Larmor frequency for a proton in a magnetic field of 1 T.",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.799492120742798
+    },
+    {
+      "question": "Which of the following is an n-type semiconductor?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.6151480674743652
+    },
+    {
+      "question": "Which of the following statements most accurately explains why the 1H spectrum of 12CHCl3 is a singlet?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.618342876434326
+    },
+    {
+      "question": "At 25°C, the maximum amount of PbI2 that can be dissolved in 1.00 L of pure water is 1.0 mmol. Assuming complete dissociation, the solubility product, K_sp, for lead iodide at 25°C is",
+      "model_answer": "B.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.618515968322754
+    },
+    {
+      "question": "The 13C spectrum of which isomer of C6H14 has lines with five distinct chemical shifts?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.6186139583587646
+    },
+    {
+      "question": "Which of the following is the most common naturally-occurring form in which silicon is found?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.6187047958374023
+    },
+    {
+      "question": "Which nuclide has an NMR frequency of 115.5 MHz in a 20.0 T magnetic field?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.618792772293091
+    },
+    {
+      "question": "Which of the following must be true about a binary liquid mixture that obeys Raoult’s law?\nI. The partial pressure of each component at equilibrium is proportional to its mole fraction in the liquid mixture.\nII. The volume of the mixture is equal to the sum of the volumes of each component before mixing.\nIII. Intermolecular interactions in the mixture are identical to intermolecular interactions in the pure components.",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.618880033493042
+    },
+    {
+      "question": "A single line is seen in the 31P spectrum of a solution of sodium phosphate. The 31P chemical shifts of H2PO4‾ and HPO42– are 3.42 ppm and 5.82 ppm respectively. What is the chemical shift when the pH of the solution equals the pKa of H2PO4‾?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6189708709716797
+    },
+    {
+      "question": "For EDTA titrations, the analyte solution and the titrant solution are both buffered at the same pH for which of the following reasons?\nI. The conditional formation constant is affected by pH.\nII. The fraction of EDTA in the fully deprotonated Y4− form varies with pH.\nIII. When EDTA reacts to form a metal complex, H+ is a product in most cases.",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.61906099319458
+    },
+    {
+      "question": "The Henry’s law constant for CO2 dissolved in water at 25°C is 30.0 atm M^−1. The concentration of dissolved CO2 in a vessel pressurized with 2.0 atm of CO2 is",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.6191487312316895
+    },
+    {
+      "question": "A student performs five titrations and obtains a mean result of 0.110 M, with a standard deviation of 0.001 M. If the actual concentration of the titrated solution is 0.100 M, which of the following is true about the titration results?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.92401385307312
+    },
+    {
+      "question": "A Cu(II) metal ion (giso = 2.12) produces four lines with a separation of 500 MHz between each line. Express the hyperfine splitting in field units of mT and the hyperfine coupling in units of wavenumbers.",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.924443006515503
+    },
+    {
+      "question": "On the basis of oxidation-reduction potential, which of the following is most likely to occur?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.924860954284668
+    },
+    {
+      "question": "Which of the following statements is not a reason why tetramethylsilane is used as a 1H chemical shift reference.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.925384044647217
+    },
+    {
+      "question": "The X-band (9.5 GHz) EPR spectrum of a matrix isolated Na atom reveals four hyperfine lines with resonant field positions of 3074 G, 3174 G, 3274 G and 3374 G. Calculate the g value of the atom.",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.925734043121338
+    },
+    {
+      "question": "Calculate the spin angular momentum of 43Ca. [I = 7⁄2]",
+      "model_answer": "D.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.9260799884796143
+    },
+    {
+      "question": "Calculate the magnetic field responsible for the polarization of 2.5 x 10^-6 for 13C at 298 K.",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.926424980163574
+    },
+    {
+      "question": "The T2 of an NMR line is 15 ms. Ignoring other sources of linebroadening, calculate its linewidth.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.9267568588256836
+    },
+    {
+      "question": "What is the maximum value of the z-component of the spin angular momentum of 43Ca? [I = 7⁄2]",
+      "model_answer": "C.",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.9270899295806885
+    },
+    {
+      "question": "Of the following compounds, which has the lowest melting point?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.9274260997772217
+    },
+    {
+      "question": "Which of the following statements about nuclear binding energies is NOT true?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.574718952178955
+    },
+    {
+      "question": "Predict the hyperfine value for the EPR spectrum of fully deuteriated benzene radical anion C6D6•-.",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.57527232170105
+    },
+    {
+      "question": "The strongest base in liquid ammonia is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.5757110118865967
+    },
+    {
+      "question": "The equilibrium populations of the 1H energy levels of a molecule are nα = nαeq and nβ = nβeq. What are the populations after a 5.0 μs pulse when B1 = 4.697 mT?",
+      "model_answer": "B.",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.576287031173706
+    },
+    {
+      "question": "Calculate the Q-factor for an X-band EPR cavity with a resonator bandwidth of 1.58 MHz.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.576399087905884
+    },
+    {
+      "question": "The 13C chemical shifts of benzene and chloroform are 128.4 ppm and 77.2 ppm respectively. What is the difference in the 13C NMR frequencies of the two compounds on a 600 MHz spectrometer?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.5764920711517334
+    },
+    {
+      "question": "Of the following solutions, which will have the highest ionic strength? (Assume complete dissociation.)",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.576582193374634
+    },
+    {
+      "question": "What is the strength (B1) of a 13C 90° pulse of duration 1 μs?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.5766711235046387
+    },
+    {
+      "question": "Which of the following experimental observations were explained by Planck’s quantum theory?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.5767621994018555
+    },
+    {
+      "question": "A radioactive isotope, which is used in diagnostic imaging, has a half-life of 6.0 hours. If a quantity of this isotope has an activity of 150 mCi when it is delivered to a hospital, how much activity will remain 24 hours after delivery? (mCi = microcuries)",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5768520832061768
+    },
+    {
+      "question": "What is the orbital angular momentum quantum number, l, of the electron that is most easily removed when ground-state aluminum is ionized?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.571058750152588
+    },
+    {
+      "question": "Considering 0.1 M aqueous solutions of each of the following, which solution has the lowest pH?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.5718588829040527
+    },
+    {
+      "question": "A silyl radical bearing an Si-H· fragment has a g value of 2.0033 and a pair of lines separated by 15.5 MHz. Express the splitting in units of mT, Gauss and cm-1.",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.5723986625671387
+    },
+    {
+      "question": "Elements with partially filled 4f or 5f orbitals include all of the following EXCEPT",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.5725958347320557
+    },
+    {
+      "question": "Calculate spin density on the central carbon atom of malonic acid radical (•CH(COOH)2) if the hyperfine value for the α-hydrogen atom is 21.9 G.",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.572694778442383
+    },
+    {
+      "question": "In fluorescence spectroscopy, the quantum yield (Φ_f) is best defined as the",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.5727858543395996
+    },
+    {
+      "question": "Which one of the following statements is true:",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.5728797912597656
+    },
+    {
+      "question": "What is the magnetic moment of 205Tl?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.572967767715454
+    },
+    {
+      "question": "A molecule has a rotational correlation time of 1 ns. At what magnetic field would protons in this molecule have the fastest spin-lattice relaxation? [Use eqns 5.3 and 5.4.]",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.573054790496826
+    },
+    {
+      "question": "Of the following ionic substances, which has the greatest lattice enthalpy?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.5731427669525146
+    },
+    {
+      "question": "Which of the following compounds has a 1H resonance approximately 1.55 kHz away from TMS on a spectrometer with a 12.0 T magnet?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.518461227416992
+    },
+    {
+      "question": "Calculate the equilibrium polarization of 13C nuclei in a 20.0 T magnetic field at 300 K.",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5188910961151123
+    },
+    {
+      "question": "The magnetic moment (μI) of an unknown nuclide is 2.884 x 10^-27 J T-1. Given the nuclear spin is known to be 1, identify the unknown nuclide.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.5195043087005615
+    },
+    {
+      "question": "Which of the following is (are) characteristic of mass spectrometry?\nI. Analyte molecules are converted to gaseous ions.\nII. The ions are separated according to their mass-to-charge ratio.\nIII. In addition to compound identification, mass spectra can be utilized to determine precise isotopic masses and isotopic ratios.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.5205602645874023
+    },
+    {
+      "question": "Which of the following types of spectroscopy is a light-scattering technique?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.5210371017456055
+    },
+    {
+      "question": "When the Heisenberg uncertainty principle is applied to a quantum mechanical particle in the lowest energy level of a one-dimensional box, which of the following is true?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5214521884918213
+    },
+    {
+      "question": "The dissociation energy for a hydrogen-bromine bond is defined as the change in enthalpy, DH, for which of the following reactions?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.521576404571533
+    },
+    {
+      "question": "23Na has an NMR frequency of 198.52 MHz in a 750 MHz NMR spectrometer. What is its magnetogyric ratio?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.5216691493988037
+    },
+    {
+      "question": "Exact solutions of the Schrödinger equation CANNOT be obtained for a",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.5217621326446533
+    },
+    {
+      "question": "What is the limiting high-temperature molar heat capacity at constant volume (C_V) of a gas-phase diatomic molecule?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5218522548675537
+    },
+    {
+      "question": "The +1 oxidation state is more stable than the +3 oxidation state for which group 13 element?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.2567970752716064
+    },
+    {
+      "question": "The fact that the infrared absorption frequency of deuterium chloride (DCl) is shifted from that of hydrogen chloride (HCl) is due to the differences in their",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.257159948348999
+    },
+    {
+      "question": "The number of allowed energy levels for the 55Mn nuclide are:",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.2574989795684814
+    },
+    {
+      "question": "A substance that is NOT generally considered to be a toxic pollutant in water is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.257891893386841
+    },
+    {
+      "question": "All proteins absorb electromagnetic radiation of wavelength around 190 nm, which corresponds to a π → π* excitation in the protein molecule. In which region of the spectrum is this wavelength found?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.2582318782806396
+    },
+    {
+      "question": "The rotational correlation time of a spherical object of radius r immersed in a liquid with viscosity η is given by the Stokes equation: τc = 4πηr3/3kBT. A small molecule with relative molecular mass Mr = 100 in water at 298 K has τc = 50 ps. Assuming that Mr is proportional to the molecular volume, estimate τc for a small protein with Mr = 8400.",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.2586960792541504
+    },
+    {
+      "question": "Chlorofluorocarbons (CFCs) such as F3CCCl3 are implicated in the decomposition of stratospheric ozone. Which of the following methods would be best suited to measurement of trace amounts (sub-ppb) of CFCs in an air sample?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.25901198387146
+    },
+    {
+      "question": "The solid-state structures of the principal allotropes of elemental boron are made up of which of the following structural units?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2591328620910645
+    },
+    {
+      "question": "A buffer is made from equal concentrations of a weak acid and its conjugate base. Doubling the volume of the buffer solution by adding water has what effect on its pH?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2592248916625977
+    },
+    {
+      "question": "Which of the following is classified as a conjugate acid-base pair?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.2593159675598145
+    },
+    {
+      "question": "Which of the following metal ions cannot be used as a paramagnetic quencher?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.157083034515381
+    },
+    {
+      "question": "An electron and a proton are placed in a 1.0 T magnetic field at 300 K. What is the ratio of the equilibrium polarizations: |pe / pH| ?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.157482862472534
+    },
+    {
+      "question": "The amplitude of a free induction decay drops to 25% of its initial intensity after 1.0 s. Assuming exponential relaxation and Ω = 0, determine the value of T2.",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.157934904098511
+    },
+    {
+      "question": "The molecular geometry of thionyl chloride, SOCl2, is best described as",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.158298969268799
+    },
+    {
+      "question": "Which of the following procedures tend(s) to minimize the influence of random errors on measured results?\nI. Signal averaging\nII. Use of internal standards\nIII. Averaging the results from multiple samples",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.158743858337402
+    },
+    {
+      "question": "A PO3- radical produces a pair of lines separated by 280 MHz with giso = 2.005. Calculate the expected resonant field positions of both lines in the X-band EPR spectrum (ν = 9.5 GHz).",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.160151958465576
+    },
+    {
+      "question": "Calculate the relative occupancies of the α and β spin energy levels for a radical species with g = 2.05, at L- and W-band frequencies (take TS = 300 K).",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.160269021987915
+    },
+    {
+      "question": "Which of the following is a primary standard for use in standardizing bases?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.1603639125823975
+    },
+    {
+      "question": "Which of the following is lower for argon than for neon?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.160454988479614
+    },
+    {
+      "question": "The 99Ru chemical shift of [Ru(H2O)6]2+ is 16,050 ppm relative to [Ru(CN)6]2- at 0 ppm. The electronic excitation energies of [Ru(H2O)6]2+, [Ru(CN)6]2- and [Ru(NH3)6]2+ are 18,900, 40,000 and 25,600 cm-1 respectively. Assuming that the chemical shift differences are dominated by paramagnetic currents, determine the chemical shift of [Ru(NH3)6]2+.",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.160543918609619
+    },
+    {
+      "question": "During a delay, spins with an offset frequency Ω = 250 rad s-1 precess through an angle of 60°. How long is the delay?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.926240921020508
+    },
+    {
+      "question": "Which of the following is always true of a spontaneous process?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.926616907119751
+    },
+    {
+      "question": "Nitronyl nitroxides are stable radicals in which the unpaired electron is coupled to two equivalent nitrogen nuclei. How many lines will appear in the EPR spectrum of a solution of a rigid nitronyl nitroxide diradical with J >> a?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.9269559383392334
+    },
+    {
+      "question": "Redox enzyme catalysis involves the cyclic oxidation and reduction of metal ions that have at least two stable positive oxidation states. Which of the following groups of metals could be found at the active site of redox enzymes?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.9273757934570312
+    },
+    {
+      "question": "In the vibrational-rotational spectrum of a diatomic molecule, the R-branch of the spectrum is the result of which of the following transitions?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.9277279376983643
+    },
+    {
+      "question": "Of the following atoms, which has the lowest electron affinity?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.9278509616851807
+    },
+    {
+      "question": "Of the following ions, which has the smallest radius?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.927942991256714
+    },
+    {
+      "question": "What is the NMR frequency of 31P in a 20.0 T magnetic field?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.9280331134796143
+    },
+    {
+      "question": "Predict the number of lines in the EPR spectrum of a solution of dimethylnitroxide (CH3)2NO• assuming the lines do not overlap.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9281198978424072
+    },
+    {
+      "question": "Of the following compounds, which is LEAST likely to behave as a Lewis acid?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.9282119274139404
+    }
+  ]
+}

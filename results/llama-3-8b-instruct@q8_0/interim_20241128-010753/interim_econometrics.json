@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@q8_0",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-011806"
+  },
+  "subject": "econometrics",
+  "category": "social sciences",
+  "correct_rate": 49.122807017543856,
+  "evaluation_results": [
+    {
+      "question": "Which one of the following is the most appropriate definition of a 99% confidence interval?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.073068141937256
+    },
+    {
+      "question": "What is the main difference between the Dickey Fuller (DF) and Phillips-Perron (PP) approaches to unit root testing?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.073507070541382
+    },
+    {
+      "question": "If there were a leverage effect in practice, what would be the shape of the news impact curve for as model that accounted for that leverage?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.073850154876709
+    },
+    {
+      "question": "Which of the following statements is false concerning the linear probability model?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.073970317840576
+    },
+    {
+      "question": "Which of the following statements concerning the regression population and sample is FALSE?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.0740721225738525
+    },
+    {
+      "question": "Which of the following statements is INCORRECT concerning a comparison of the Box-Pierce Q and the Ljung-Box Q* statistics for linear dependence in time series?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.074174165725708
+    },
+    {
+      "question": "A parsimonious model is one that",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.074266195297241
+    },
+    {
+      "question": "Which of the following is NOT a feature of continuously compounded returns (i.e. log-returns)?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.074360132217407
+    },
+    {
+      "question": "Which of the following features of financial asset return time-series could be captured using a standard GARCH(1,1) model?\n\ni) Fat tails in the return distribution\n\n\nii) Leverage effects\n\n\niii) Volatility clustering\n\n\niv) Volatility affecting returns",
+      "model_answer": "B. (i) and (iii) only",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.074457168579102
+    },
+    {
+      "question": "Consider the estimation of a GARCH-M model. If the data employed were a time-series of daily corporate bond percentage returns, which of the following would you expect the value of the GARCH-in-mean parameter estimate to be?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.074554204940796
+    },
+    {
+      "question": "Under which of the following situations would bootstrapping be preferred to pure simulation?\n\ni) If it is desired that the distributional properties of the data in the experiment\n\nare the same as those of some actual data\n\n\nii) If it is desired that the distributional properties of the data in the experiment\n\nare known exactly\n\n\niii) If the distributional properties of the actual data are unknown\n\n\niv) If the sample of actual data available is very small",
+      "model_answer": "B. (i) and (iii) only",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.0875818729400635
+    },
+    {
+      "question": "Which of the following may be consequences of one or more of the CLRM assumptions being violated?\n\ni) The coefficient estimates are not optimal\n\n\nii) The standard error estimates are not optimal\n\n\niii) The distributions assumed for the test statistics are inappropriate\n\n\niv) Conclusions regarding the strength of relationships between the dependent\n\nand independent variables may be invalid.",
+      "model_answer": "D.",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.087763786315918
+    },
+    {
+      "question": "Which of the following statements is true concerning forecasting in econometrics?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.087867021560669
+    },
+    {
+      "question": "The pacf is necessary for distinguishing between",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.087959051132202
+    },
+    {
+      "question": "Negative residual autocorrelation is indicated by which one of the following?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.088057994842529
+    },
+    {
+      "question": "Which of the following statements are true concerning a comparison between ARCH(q) and GARCH(1,1) models?\n\ni) The ARCH(q) model is likely to be the more parsimonious\n\n\nii) The ARCH(q) model is the more likely to violate non-negativity constraints\n\n\niii) The ARCH(q) model can allow for an infinite number of previous lags of squared\n\nreturns to affect the current conditional variance\n\n\niv) The GARCH(1,1) model will usually be sufficient to capture all of the dependence\n\nin the conditional variance",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.088150978088379
+    },
+    {
+      "question": "Which of the following statements are true concerning a triangular or recursive system?\n\ni) The parameters can be validly estimated using separate applications of OLS to\n\neach equation\n\n\nii) The independent variables may be correlated with the error terms in other\n\nequations\n\n\niii) An application of 2SLS would lead to unbiased but inefficient parameter estimates\n\n\niv) The independent variables may be correlated with the error terms in the equations\n\nin which they appear as independent variables",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.088248014450073
+    },
+    {
+      "question": "Which one of the following statements best describes the algebraic representation of the fitted regression line?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.088345050811768
+    },
+    {
+      "question": "What are the dimensions of $\\hat{u}^t \\hat{u}?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.088435888290405
+    },
+    {
+      "question": "The characteristic roots of the MA process\n\n$y_t = -3u_{t-1} + u_{t-2} + u_t$\n\nare",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.088521957397461
+    },
+    {
+      "question": "Which of the following is an equivalent expression for saying that the explanatory variable is \"non-stochastic\"?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.3273370265960693
+    },
+    {
+      "question": "Suppose that the Durbin Watson test is applied to a regression containing two explanatory variables plus a constant with 50 data points. The test statistic takes a value of 1.53. What is the appropriate conclusion?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.330538034439087
+    },
+    {
+      "question": "If OLS is used in the presence of autocorrelation, which of the following will be likely consequences?\n\ni) Coefficient estimates may be misleading\n\n\nii) Hypothesis tests could reach the wrong conclusions\n\n\niii) Forecasts made from the model could be biased\n\n\niv) Standard errors may inappropriate",
+      "model_answer": "D.",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.330656051635742
+    },
+    {
+      "question": "What will be the properties of the OLS estimator in the presence of multicollinearity?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.3307509422302246
+    },
+    {
+      "question": "Which one of the following would NOT be a consequence of using non-stationary data in levels form?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3308441638946533
+    },
+    {
+      "question": "If a series, y, follows a random walk, what is the optimal one-step ahead forecast of y?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.3309340476989746
+    },
+    {
+      "question": "The order condition is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.3310229778289795
+    },
+    {
+      "question": "If an estimator is said to have minimum variance, which of the following statements is NOT implied?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.331112861633301
+    },
+    {
+      "question": "Which of the following are disadvantages of the Dickey-Fuller / Engle-Granger approach to testing for cointegration and modelling cointegrating relationships?\n\ni) Only one cointegrating relationship can be estimated\n\nii) Particularly for small samples. There is a high chance of the tests suggestingthat variables are not cointegrated when they are\n\niii) It is not possible to make inferences on the cointegrating regression\n\niv) The procedure forces the researcher to specify which is the dependent variable and which are the independent variables.",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3312020301818848
+    },
+    {
+      "question": "Which of the following statements is true concerning the population regression function (PRF) and sample regression function (SRF)?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.3312911987304688
+    },
+    {
+      "question": "Which one of the following is a disadvantage of the general to specific or \"LSE\" (\"Hendry\") approach to building econometric models, relative to the specific to general approach?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.730074167251587
+    },
+    {
+      "question": "Which of the following statements are true concerning maximum likelihood (ML) estimation in the context of GARCH models?\n\ni) Maximum likelihood estimation selects the parameter values that maximise the\n\nprobability that we would have actually observed the values of the series y that we\n\nactually did.\n\n\nii) GARCH models can only be estimated by ML and not by OLS\n\n\niii) For estimation of a standard linear model (with no GARCH), the OLS and ML\n\nestimates for the slope and intercept parameters will be identical but the estimator\n\nfor the variance of the disturbances is slightly different\n\n\niv) Most computer packages use numerical procedures to estimate GARCH models\n\nrather than a set of analytical formulae",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.731058120727539
+    },
+    {
+      "question": "Including relevant lagged values of the dependent variable on the right hand side of a regression equation could lead to which one of the following?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.731497049331665
+    },
+    {
+      "question": "Which one of the following factors is likely to lead to a relatively high degree of out-of-sample forecast accuracy?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.7318270206451416
+    },
+    {
+      "question": "Which of the following are plausible approaches to dealing with residual autocorrelation?\n\ni) Take logarithms of each of the variables\n\nii) Add lagged values of the variables to the regression equation\n\niii) Use dummy variables to remove outlying observations\n\niv) Try a model in first differenced form rather than in levels.",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.732156991958618
+    },
+    {
+      "question": "For an autoregressive process to be considered stationary",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.732487201690674
+    },
+    {
+      "question": "Which of the following statements are true concerning information criteria?\n\n(i) Adjusted R-squared is an information criterion\n\n(ii) If the residual sum of squares falls when an additional term is added, the value of the information criterion will fall\n\n(iii) Akaike's information criterion always leads to model orders that are at least as large as those of Schwarz's information criterion\n\n(iv) Akaike's information criterion is consistent",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.7328200340270996
+    },
+    {
+      "question": "The \"within transform\" involves",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.7332000732421875
+    },
+    {
+      "question": "The purpose of \"augmenting\" the Dickey-Fuller test regression is to",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.7337069511413574
+    },
+    {
+      "question": "If a series, y, follows a random walk with drift b, what is the optimal one-step ahead forecast of the change in y?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.734004020690918
+    },
+    {
+      "question": "Which of the following are plausible approaches to dealing with a model that exhibits heteroscedasticity?\n\ni) Take logarithms of each of the variables\n\nii) Use suitably modified standard errors\n\niii) Use a generalised least squares procedure\n\niv) Add lagged values of the variables to the regression equation.",
+      "model_answer": "B. (i) and (iii) only",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.995666027069092
+    },
+    {
+      "question": "Which of the following statements are true concerning the standardised residuals (residuals divided by their respective conditional standard deviations) from an estimated GARCH model?\n\ni) They are assumed to be normally distributed\n\n\nii) Their squares will be related to their lagged squared values if the GARCH model is\n\nappropriate\n\n\niii) In practice, they are likely to have fat tails\n\n\niv) If the GARCH model is adequate, the standardised residuals and the raw residuals\n\nwill be identical",
+      "model_answer": "B. (i) and (iii) only",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.996206045150757
+    },
+    {
+      "question": "Which one of the following statements is true concerning VARs?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.996680974960327
+    },
+    {
+      "question": "Which of the following statements is INCORRECT concerning the classical hypothesis testing framework?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.997666120529175
+    },
+    {
+      "question": "An ARMA(p,q) (p, q are integers bigger than zero) model will have",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.9980340003967285
+    },
+    {
+      "question": "Suppose that the following regression is estimated using 27 quarterly observations:\n\n$y_t = \\beta_1 + \\beta_2 x_2 + \\beta_3 x_{3t} + u_t$\n\nWhat is the appropriate critical value for a 2-sided 5% size of test of $H_0: \\beta_3 = 1$?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.998430013656616
+    },
+    {
+      "question": "Suppose that two researchers, using the same 3 variables and the same 250 observations on each variable, estimate a VAR. One estimates a VAR(6), while the other estimates a VAR(4). The determinants of the variance-covariance matrices of the residuals for each VAR are 0.0036 and 0.0049 respectively. What is the values of the test statistic for performing a test of whether the VAR(6) can be restricted to a VAR(4)?",
+      "model_answer": "A.",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.9985411167144775
+    },
+    {
+      "question": "Which of the following is a DISADVANTAGE of using pure time-series models (relative to structural models)?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.998632907867432
+    },
+    {
+      "question": "Which of the following are alternative names for the dependent variable (usually denoted by y) in linear regression analysis?\n\n(i) The regressand\n\n(ii) The regressor\n\n(iii) The explained variable\n\n(iv) The explanatory variable",
+      "model_answer": "B. (i) and (iii) only",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.9987242221832275
+    },
+    {
+      "question": "Which of the following are advantages of the VAR approach to modelling the relationship between variables relative to the estimation of full structural models?\n\ni) VARs receive strong motivation from financial and economic theory\n\n\nii) VARs in their reduced forms can be used easily to produce time-series forecasts\n\n\niii) VAR models are typically highly parsimonious\n\n\niv) OLS can be applied separately to each equation in a reduced form VAR",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.998812913894653
+    },
+    {
+      "question": "Which of the following statements is TRUE concerning the standard regression model?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.021676063537598
+    },
+    {
+      "question": "Consider the following model for $y_t$:\n\n$y_t = \\mu + \\lambda t + u_t$\n\nWhich one of the following most accurately describes the process for $y_t$?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.022039890289307
+    },
+    {
+      "question": "Which of the following is correct concerning logit and probit models?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.022767066955566
+    },
+    {
+      "question": "What is the most important disadvantage of the diagonal VECH approach to building multivariate GARCH models that is overcome by the BEKK formulation?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.023993015289307
+    },
+    {
+      "question": "If a relevant variable is omitted from a regression equation, the consequences would be that:\n\ni) The standard errors would be biased\n\n\nii) If the excluded variable is uncorrelated with all of the included variables, all of\n\nthe slope coefficients will be inconsistent.\n\n\niii) If the excluded variable is uncorrelated with all of the included variables, the\n\nintercept coefficient will be inconsistent.\n\n\niv) If the excluded variable is uncorrelated with all of the included variables, all of\n\nthe slope and intercept coefficients will be consistent and unbiased but inefficient.",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.024367094039917
+    },
+    {
+      "question": "Which of the following are alternative names for the independent variable (usually denoted by x) in linear regression analysis?\n\n(i) The regressor\n\n(ii) The regressand\n\n(iii) The causal variable\n\n(iv) The effect variable",
+      "model_answer": "B. (i) and (iii) only",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.024801015853882
+    },
+    {
+      "question": "Consider the OLS estimator for the standard error of the slope coefficient. Which of the following statement(s) is (are) true?\n\n(i) The standard error will be positively related to the residual variance\n\n(ii) The standard error will be negatively related to the dispersion of the observations on the explanatory variable about their mean value\n\n(iii) The standard error will be negatively related to the sample size\n\n(iv) The standard error gives a measure of the precision of the coefficient estimate.",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.025222063064575
+    },
+    {
+      "question": "What is the meaning of the term \"heteroscedasticity\"?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.025353908538818
+    },
+    {
+      "question": "If a Durbin Watson statistic takes a value close to zero, what will be the value of the first order autocorrelation coefficient?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.025449991226196
+    },
+    {
+      "question": "Under the null hypothesis of a Bera-Jarque test, the distribution has",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.0255420207977295
+    },
+    {
+      "question": "If an estimator is said to be consistent, it is implied that",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.169180870056152
+    },
+    {
+      "question": "Which of the following is a typical characteristic of financial asset return time-series?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.169543027877808
+    },
+    {
+      "question": "Which of the following assumptions are required to show the consistency, unbiasedness and efficiency of the OLS estimator?\n\ni) $E(u_t) = 0$\n\n\nii) $\\text{Var}(u_t) = \\sigma^2$\n\n\niii) $\\text{Cov}(u_t, u_{t-j}) = 0 \\forall j$\n\n\niv) $u_t \\sim N(0, \\sigma^2)$",
+      "model_answer": "D.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.169922113418579
+    },
+    {
+      "question": "Which of the following is a disadvantage of the fixed effects approach to estimating a panel model?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.170255899429321
+    },
+    {
+      "question": "Consider an identical situation to that of question 21, except that now a 2-sided alternative is used. What would now be the appropriate conclusion?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.170609951019287
+    },
+    {
+      "question": "The price of a house is best described as what type of number?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.170723915100098
+    },
+    {
+      "question": "If a Johansen \"trace\" test for a null hypothesis of 2 cointegrating vectors is applied to a system containing 4 variables is conducted, which eigenvalues would be used in the test?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.1708149909973145
+    },
+    {
+      "question": "Which of the following statements is true concerning variance decomposition analysis of VARs?\n\ni) Variance decompositions measure the impact of a unit shock to each of the variables on the VAR\n\nii) Variance decompositions can be thought of as measuring the proportion of the forecast error variance that is attributable to each variable\n\niii) The ordering of the variables is important for calculating impulse responses but not variance decompositions\n\niv) It is usual that most of the forecast error variance for a given variable is attributable to shocks to that variable",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.170912027359009
+    },
+    {
+      "question": "Suppose that we have estimated a GARCH model for daily equity returns, and we are interested in producing a 10-day forecast of the volatility (measured by the standard deviation of returns) for use in a value at risk model. How could such a forecast most validly be calculated?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.1710169315338135
+    },
+    {
+      "question": "Suppose that the value of $R^2$ for an estimated regression model is exactly zero. Which of the following are true?\n\ni) All coefficient estimates on the slopes will be zero\n\nii) The fitted line will be horizontal with respect to all of the explanatory variables\n\niii) The regression line has not explained any of the variability of y about its mean value\n\niv) The intercept coefficient estimate must be zero.",
+      "model_answer": "B. (i) and (iii) only",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.171169996261597
+    },
+    {
+      "question": "A white noise process will have\n\n(i) A zero mean\n\n(ii) A constant variance\n\n(iii) Autocovariances that are constant\n\n(iv) Autocovariances that are zero except at lag zero",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.551323890686035
+    },
+    {
+      "question": "Which of the following statements are true concerning the Box-Jenkins approach to diagnostic testing for ARMA models?\n\n(i) The tests will show whether the identified model is either too large or too small\n\n(ii) The tests involve checking the model residuals for autocorrelation, heteroscedasticity, and non-normality\n\n(iii) If the model suggested at the identification stage is appropriate, the acf and pacf for the residuals should show no additional structure\n\n(iv) If the model suggested at the identification stage is appropriate, the coefficients on the additional variables under the overfitting approach will be statistically insignificant",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.551785945892334
+    },
+    {
+      "question": "Which one of the following would be a plausible response to a finding of residual non-normality?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.55220103263855
+    },
+    {
+      "question": "The fixed effects panel model is also sometimes known as",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.55273175239563
+    },
+    {
+      "question": "Which of the following statements is TRUE concerning OLS estimation?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.552855968475342
+    },
+    {
+      "question": "If the standard tools for time-series analysis, such as estimation of the acf, pacf and spectral analysis, find no evidence of structure in the data, this implies that the data are which of the following?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.5529510974884033
+    },
+    {
+      "question": "If two variables, $x_t$ and $y_t$ are said to be cointegrated, which of the following statements are true?\n\ni) $x_t$ and $y_t$ must both be stationary\n\n\nii) Only one linear combination of $x_t$ and $y_t$ will be stationary\n\n\niii) The cointegrating equation for $x_t$ and $y_t$ describes the short-run relationship\n\nbetween the two series\n\n\niv) The residuals of a regression of $y_t$ on $x_t$ must be stationary",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.553048849105835
+    },
+    {
+      "question": "A dependent variable whose values are not observable outside a certain range but where the corresponding values of the independent variables are still available would be most accurately described as what kind of variable?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.553140878677368
+    },
+    {
+      "question": "A Hausman test would be used for",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.553229808807373
+    },
+    {
+      "question": "Under the matrix notation for the classical linear regression model, $y = X \\beta + u$, what are the dimensions of $u$?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.55332088470459
+    },
+    {
+      "question": "How many parameters will be required to be estimated in total for all equations of a standard form, unrestricted, tri-variate VAR(4), ignoring the intercepts?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.255953073501587
+    },
+    {
+      "question": "A researcher tests for structural stability in the following regression model:\n\n$y_t = \\beta_1 + \\beta_2 x_{2t} + \\beta_3 x_{3t} + u_t$\n\nThe total sample of 200 observations is split exactly in half for the sub-sample regressions. Which would be the unrestricted residual sum of squares?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.2563209533691406
+    },
+    {
+      "question": "Suppose that we are interested in testing the null hypothesis that a GARCH(2,2) model can be restricted to a process with a constant conditional variance using the likelihood ratio test approach. Which of the following statements are true?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.2566580772399902
+    },
+    {
+      "question": "Which one of the following is NOT a plausible remedy for near multicollinearity?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.2570018768310547
+    },
+    {
+      "question": "Consider the following AR(2) process:\n\nyt = 1.5 yt-1 - 0.5 yt-2 + ut\n\nThis is a",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.257341146469116
+    },
+    {
+      "question": "Which of the following could be used as a test for autocorrelation up to third order?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.2578659057617188
+    },
+    {
+      "question": "The residual from a standard regression model is defined as",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.2580580711364746
+    },
+    {
+      "question": "If OLS is applied separately to each equation that is part of a simultaneous system, the resulting estimates will be",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.258150100708008
+    },
+    {
+      "question": "Which one of the following is NOT an example of mis-specification of functional form?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.258239984512329
+    },
+    {
+      "question": "Suppose that we wished to evaluate the factors that affected the probability that an investor would choose an equity fund rather than a bond fund or a cash investment. Which class of model would be most appropriate?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.258329153060913
+    },
+    {
+      "question": "Which of the following statements will be true if the number of replications used in a Monte Carlo study is small?\n\ni) The statistic of interest may be estimated imprecisely\n\n\nii) The results may be affected by unrepresentative combinations of random draws\n\n\niii) The standard errors on the estimated quantities may be unacceptably large\n\n\niv) Variance reduction techniques can be used to reduce the standard errors",
+      "model_answer": "B. (i) and (iii) only",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.686446905136108
+    },
+    {
+      "question": "Which of the following is a disadvantage of the random effects approach to estimating a panel model?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.686969041824341
+    },
+    {
+      "question": "Which of the following could result in autocorrelated residuals?\n\ni) Slowness of response of the dependent variable to changes in the values of the independent variables\n\nii) Over-reactions of the dependent variable to changes in the independent variables\n\niii) Omission of relevant explanatory variables that are autocorrelated\n\niv) Outliers in the data",
+      "model_answer": "B.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.688070774078369
+    },
+    {
+      "question": "Which of the following statements are true concerning the acf and pacf?\n\n(i) The acf and pacf are often hard to interpret in practice\n\n(ii) The acf and pacf can be difficult to calculate for some data sets\n\n(iii) Information criteria represent an alternative approach to model order determination\n\n(iv) If applied correctly, the acf and pacf will always deliver unique model selections",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.688231945037842
+    },
+    {
+      "question": "Which of the following conditions are necessary for a series to be classifiable as a weakly stationary process?\n\n(i) It must have a constant mean\n\n(ii) It must have a constant variance\n\n(iii) It must have constant autocovariances for given lags\n\n(iv) It must have a constant probability distribution",
+      "model_answer": "C.",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.688333034515381
+    },
+    {
+      "question": "Consider the following equation and determine the class of model that it best represents\n\n$y_{it} = \\alpha + \\beta_{it} + \\mu_i + \\nu_{it}$",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.688422918319702
+    },
+    {
+      "question": "Note that statistical tables are not necessary to answer this question. For a sample of 1000 observations, the Dickey-Fuller test statistic values are",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 4.6885130405426025
+    },
+    {
+      "question": "Suppose that a hypothesis test is conducted using a 5% significance level. Which of the following statements are correct?\n\n(i) The significance level is equal to the size of the test\n\n(ii) The significance level is equal to the power of the test\n\n(iii) 2.5% of the total distribution will be in each tail rejection region for a 2-sided test\n\n(iv) 5% of the total distribution will be in each tail rejection region for a 2-sided test.",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 4.688601016998291
+    },
+    {
+      "question": "Which one of the following criticisms of the Dickey-Fuller/Engle-Granger approach to dealing with cointegrated variables is overcome by the Engle-Yoo (EY) procedure?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.688690900802612
+    },
+    {
+      "question": "Consider a series that follows an MA(1) with zero mean and a moving average coefficient of 0.4. What is the value of the autocovariance at lag 1?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.688779830932617
+    },
+    {
+      "question": "Which of the following estimation techniques are available for the estimation of over-identified systems of simultaneous equations?\n\ni) OLS\n\nii) ILS\n\niii) 2SLS\n\niv) IV",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.0234739780426025
+    },
+    {
+      "question": "Which one of the following statements best describes a Type II error?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.023917198181152
+    },
+    {
+      "question": "Which one of the following would be the most appropriate as a 95% (two-sided) confidence interval for the intercept term of the model given in question 21?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.02432107925415
+    },
+    {
+      "question": "Which of the following are characteristics of a stationary process?\n\ni) It crosses its mean value frequently\n\n\nii) It has constant mean and variance\n\n\niii) It contains no trend component\n\n\niv) It will be stationary in first difference form",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.024733066558838
+    },
+    {
+      "question": "Consider again the VAR model of equation 16. Which of the following conditions must hold for it to be said that there is bi-directional feedback?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.025245904922485
+    },
+    {
+      "question": "Consider the following sample autocorrelation estimates obtained using 250 data points:\n\n1) Lag 1 2 3\n\n2) Coefficient 0.2 -0.15 -0.1\n\n3) Assuming that the coefficients are approximately normally distributed, which of the coefficients are statistically significant at the 5% level?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.025572061538696
+    },
+    {
+      "question": "Which one of the following is examined by looking at a goodness of fit statistic?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.025670289993286
+    },
+    {
+      "question": "Which of the following statements are correct concerning the use of antithetic variates as part of a Monte Carlo experiment?\n\ni) Antithetic variates work by reducing the number of replications required to cover the whole probability space\n\nii) Antithetic variates involve employing a similar variable to that used in the simulation, but whose properties are known analytically\n\niii) Antithetic variates involve using the negative of each of the random draws and repeating the experiment using those values as the draws\n\niv) Antithetic variates involve taking one over each of the random draws and repeating the experiment using those values as the draws",
+      "model_answer": "B. (i) and (iii) only",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.025783061981201
+    },
+    {
+      "question": "Which one of the following statements is true concerning alternative forecast accuracy measures?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 4.02589225769043
+    },
+    {
+      "question": "Which of the following criticisms of standard (\"plain vanilla\") GARCH models can be overcome by EGARCH models?\n\ni) Estimated coefficient values from GARCH models may be negative\n\nii) GARCH models cannot account for leverage effects\n\niii) The responsiveness of future volatility to positive and negative shocks is symmetric under a GARCH formulation\n\niv) GARCH models cannot allow for a feedback from the volatility to the returns",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.025999069213867
+    },
+    {
+      "question": "Suppose that 100 separate firms were tested to determine how many of them \"beat the market\" using a Jensen-type regression, and it is found that 3 fund managers significantly do so. Does this suggest prima facie evidence for stock market inefficiency?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 1.742508888244629
+    },
+    {
+      "question": "Which of the following are advantages of the use of panel data over pure cross-sectional or pure time-series modelling?\n\n(i) The use of panel data can increase the number of degrees of freedom and therefore the power of tests\n\n(ii) The use of panel data allows the average value of the dependent variable to vary either cross-sectionally or over time or both\n\n(iii) The use of panel data enables the researcher allows the estimated relationship between the independent and dependent variables to vary either cross-sectionally or over time or both",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 1.745680809020996
+    },
+    {
+      "question": "If the Engle-Granger test is applied to the residuals of a potentially cointegrating regression, what would be the interpretation of the null hypothesis?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 1.7457988262176514
+    },
+    {
+      "question": "Which of the following statements are true concerning the autocorrelation function (acf) and partial autocorrelation function (pacf)?\n\ni) The acf and pacf will always be identical at lag one whatever the model\n\nii) The pacf for an MA(q) model will in general be non-zero beyond lag q\n\niii) The pacf for an AR(p) model will be zero beyond lag p\n\niv) The acf and pacf will be the same at lag two for an MA(1) model",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 1.7458930015563965
+    }
+  ]
+}

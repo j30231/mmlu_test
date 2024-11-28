@@ -1,0 +1,958 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq1_m",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-192318"
+  },
+  "subject": "world_religions",
+  "category": "humanities",
+  "correct_rate": 40.74074074074074,
+  "evaluation_results": [
+    {
+      "question": " What can murtis be translated as?",
+      "model_answer": "Answer: B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.713409662246704
+    },
+    {
+      "question": " Naturalists who concentrated on natural elements and processes are associated with which of the following?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.7138450145721436
+    },
+    {
+      "question": " When was the first Buddhist temple constructed in Japan?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.7141928672790527
+    },
+    {
+      "question": " What is the name of the ten day New Year festival that celebrated Babylon's culture?",
+      "model_answer": "**A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.7149558067321777
+    },
+    {
+      "question": " Guru Nanak and his successors instructed the use of particular Sikh Ragas in order to promote which of the following?",
+      "model_answer": "**D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.7150957584381104
+    },
+    {
+      "question": " Guru Nanak used what term to denote the \"divine word\" as part of divine revelation?",
+      "model_answer": "**A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.7151918411254883
+    },
+    {
+      "question": "What is the mi'raj?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.7152867317199707
+    },
+    {
+      "question": "What is the name of the most famous dharmashastras, which probably dates from around the first century?",
+      "model_answer": "Answer: D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.715381622314453
+    },
+    {
+      "question": "What does the term \"Qur'an\" literally mean?",
+      "model_answer": "Answer: B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.7154757976531982
+    },
+    {
+      "question": " Which tradition is known to promote \"gradual enlightenment\"?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.5301849842071533
+    },
+    {
+      "question": "To which tradition do the anti-Han rebel group known as the Celestial Masters belong?",
+      "model_answer": "**B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.530299186706543
+    },
+    {
+      "question": "What does the word \"Islam\" mean in Arabic?",
+      "model_answer": "**B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.530393123626709
+    },
+    {
+      "question": "What does the term anatman mean?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.530487060546875
+    },
+    {
+      "question": " What genre of Sikh literature is denoted by the term janam-sakhis?",
+      "model_answer": "The answer is **B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5305771827697754
+    },
+    {
+      "question": "Pure Land Buddhism belongs to which school?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5306661128997803
+    },
+    {
+      "question": " Which Jaina group only allows women to lead a life of semi-renunciation?",
+      "model_answer": "**D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.5307552814483643
+    },
+    {
+      "question": "What is the most important prayer in Judaism?",
+      "model_answer": "**B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.530846118927002
+    },
+    {
+      "question": " Which early battle led to the conversion of Mecca?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.6051559448242188
+    },
+    {
+      "question": " During Japan's occupation of Korea (1910-1945), which of the following was imposed upon the Koreans?",
+      "model_answer": "**D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.6052918434143066
+    },
+    {
+      "question": "What is the meaning of the Punjabi word \"Sikh\"?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.605390787124634
+    },
+    {
+      "question": " Which of the following shuns politics?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.605487823486328
+    },
+    {
+      "question": "What does the Hebrew word mashiach mean?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6055970191955566
+    },
+    {
+      "question": "According to Jaina traditions, what does the term ajiva mean?",
+      "model_answer": "**D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.605694055557251
+    },
+    {
+      "question": " What is a central component of tantric Buddhism?",
+      "model_answer": "**A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.6058077812194824
+    },
+    {
+      "question": " How does the Egyptian composition Ludul Bel Nemequi (\"I will praise the Lord of wisdom) portray Marduk?",
+      "model_answer": "**B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4239120483398438
+    },
+    {
+      "question": " In addition to Jainism, which other tradition began as a world-renouncing movement?",
+      "model_answer": "**B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.424463987350464
+    },
+    {
+      "question": "According to Hindu tradition, which age are we in currently?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4248850345611572
+    },
+    {
+      "question": " In the Zoroastrian tradition, the term Gathas refers to which of the following?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.42546010017395
+    },
+    {
+      "question": "Which form of Buddhism taught the only hope for salvation was in the saving grace of Amida?",
+      "model_answer": "**A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.425605058670044
+    },
+    {
+      "question": " According to Hindu tradition, who is considered to be the ideal wife?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.425701141357422
+    },
+    {
+      "question": "Who is the woman mystic who exemplified the all-consuming love of the divine?",
+      "model_answer": "**B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.425795078277588
+    },
+    {
+      "question": " Who is the eighth-century CE female poet worshipped throughout many South Indian temples dedicated to Vishnu?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.425887107849121
+    },
+    {
+      "question": " Who is associated with the stigmata and preaching to birds?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.425978183746338
+    },
+    {
+      "question": " In his final work, Laws, Plato shifted from cosmology to which of the following issues?",
+      "model_answer": "**B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.3893449306488037
+    },
+    {
+      "question": " Which Christian denomination promotes a stripped-down Christianity?",
+      "model_answer": "**D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3897101879119873
+    },
+    {
+      "question": " Rome claimed that their bishop (pope) was the director successor of which leader?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.390052080154419
+    },
+    {
+      "question": "When was the current Dalai Lama born?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.39040207862854
+    },
+    {
+      "question": "Zhuangzi describes a state as ziran, which means which of the following?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.3907649517059326
+    },
+    {
+      "question": " The mudras, which are an important feature of Buddhist art, are also known as what?",
+      "model_answer": "**B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.3913140296936035
+    },
+    {
+      "question": " The Maccabean Revolt is associated with which ruler?",
+      "model_answer": "**B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3914408683776855
+    },
+    {
+      "question": " How old was Guru Nanak when he started to preach the message of the divine Name?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.391540050506592
+    },
+    {
+      "question": "The widely adored Egyptian goddess Hathor was depicted as which of the following?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.3916327953338623
+    },
+    {
+      "question": "What does the phrase Guru-Panth mean within the Sikh traditions?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.530057907104492
+    },
+    {
+      "question": " After what event did the Rabbinical period begin within Judaism?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5301737785339355
+    },
+    {
+      "question": "Which monk developed Pure Land Buddhism as we know it today?",
+      "model_answer": "**D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.530268907546997
+    },
+    {
+      "question": "Which is the largest Muslim country in the world with more than 200 million adherents?",
+      "model_answer": "Please",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.530366897583008
+    },
+    {
+      "question": "Which pope promoted the cults of St. Peter and St. Paul to bolster authority in Rome?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5304617881774902
+    },
+    {
+      "question": " Which Guru donned the two swords symbolling temporal and spiritual authority?",
+      "model_answer": "**A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5305678844451904
+    },
+    {
+      "question": "Which is one of the most fundamental themes of Japanese culture and civilization?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5306649208068848
+    },
+    {
+      "question": " Where did people believe in the goddess known as Holy Mother of Mount Fairy Peach?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4058139324188232
+    },
+    {
+      "question": " To whom is the Yoga Sutras attributed?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4066860675811768
+    },
+    {
+      "question": " Which of the following does NOT describe the Ka'ba?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.406816005706787
+    },
+    {
+      "question": "Which elephant-headed Hindu deity is often described as the most beloved?",
+      "model_answer": "**B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.4069149494171143
+    },
+    {
+      "question": "Sacred literature originated with which of the following jina?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.407010793685913
+    },
+    {
+      "question": " Who is the author of Admonitions for Women?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4071030616760254
+    },
+    {
+      "question": "How many female renouncers were under the tutelage of Chandanbala?",
+      "model_answer": "**A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4071929454803467
+    },
+    {
+      "question": "According to the Sikh tradition, the Mul Mantar illuminates the nature of what?",
+      "model_answer": "**A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.40728497505188
+    },
+    {
+      "question": " How many books are in the New Testament?",
+      "model_answer": "**A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.673419952392578
+    },
+    {
+      "question": "Which form of Buddhism focuses on social engagement that attracts lay participation?",
+      "model_answer": "**B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.673992872238159
+    },
+    {
+      "question": "When did the first Jaina temples appear?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.6745810508728027
+    },
+    {
+      "question": "How many Jinas have appeared during our age?",
+      "model_answer": "**A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.6748709678649902
+    },
+    {
+      "question": "What is bhakti often translated as?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.674983024597168
+    },
+    {
+      "question": " Which Hindu god or goddess is speech incarnate, the power of the word, and the mother of the Vedas?",
+      "model_answer": "**A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.675077199935913
+    },
+    {
+      "question": "Krishna and Rama are incarnations of which Hindu god?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4843289852142334
+    },
+    {
+      "question": " The kshatriyas is the caste name assigned to which group?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.48471999168396
+    },
+    {
+      "question": "When was the Old Babylonian version of Gilgamesh modified into the standard version?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4850709438323975
+    },
+    {
+      "question": " What is the meaning ofsamyak jnanawithin the Jaina traditions?",
+      "model_answer": "**A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4855289459228516
+    },
+    {
+      "question": " What type of Buddhist organization is the Bodu Bala Sena?",
+      "model_answer": "**A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4858510494232178
+    },
+    {
+      "question": "Which mystic believed that evil was a distortion that reveals divine love more clearly?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.485971212387085
+    },
+    {
+      "question": " During what Japanese festival do the spirits of deceased family members return to receive ritual offerings of food made by their loved ones?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.486077070236206
+    },
+    {
+      "question": "What does \"Mahavira\" mean?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4861721992492676
+    },
+    {
+      "question": " What does the Tripitaka mean?",
+      "model_answer": "**A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.686413049697876
+    },
+    {
+      "question": "Where is the largest network of Confucian shrines in the world?",
+      "model_answer": "**A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.686784029006958
+    },
+    {
+      "question": " Ghosa, Apala and Lopamurda, all named in the early Vedas, are which of the following?",
+      "model_answer": "**D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.6871230602264404
+    },
+    {
+      "question": "Which of the following is NOT included in the Islamic understanding of jurisprudence?",
+      "model_answer": "Please note that the answer is B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.687727928161621
+    },
+    {
+      "question": "Why is Mahavira a significant person in the Jaina traditions?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6878671646118164
+    },
+    {
+      "question": " The Tibetan Book of the Dead is also known as which of the following?",
+      "model_answer": "**B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.687972068786621
+    },
+    {
+      "question": " Which Hindu festival involves decorating the house with lights, setting off firecrackers and wearing new clothes?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6880650520324707
+    },
+    {
+      "question": "What hours are set aside as the ambrosial hours for the Sikhs?",
+      "model_answer": "**B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.6881580352783203
+    },
+    {
+      "question": " Self-sacrifice is an important theme for which Buddhist thinker?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.688246965408325
+    },
+    {
+      "question": " How many times a day is the Fatihah recited?",
+      "model_answer": "**B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.498434066772461
+    },
+    {
+      "question": "Which branch of Judaism founded by Zacharias Frankel is known for its \"Positive-Historical Judaism\"?",
+      "model_answer": "**D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.498957872390747
+    },
+    {
+      "question": "Who is the founder of Sikhism?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.4994089603424072
+    },
+    {
+      "question": "What is another name for Enuma Elish?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.4998137950897217
+    },
+    {
+      "question": "Speaking in tongues is a feature of which Christian denomination?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.49995493888855
+    },
+    {
+      "question": " In Islam, what is the qiblah?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5000579357147217
+    },
+    {
+      "question": "In Tendai Buddhism, what does the term honji mean?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.3778021335601807
+    },
+    {
+      "question": " What is the name of a recent revivalist movement in Turkey led by Fetullah Gülen?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.3782992362976074
+    },
+    {
+      "question": "For whom are the Hindu Vedas most significant?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.378692150115967
+    },
+    {
+      "question": " According to the Korean foundation myth, who transformed into a human in order to father Dangun?",
+      "model_answer": "**A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.379031181335449
+    },
+    {
+      "question": " In Buddhism, what are ordained women known as?",
+      "model_answer": "**B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.379366159439087
+    },
+    {
+      "question": " What is the name of the most authoritative Kabbalah text?",
+      "model_answer": "Answer: A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.38002610206604
+    },
+    {
+      "question": " Which Confucian philosopher is described as a mystic due to his focus on qi (or ch'i)?",
+      "model_answer": "**B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.380195140838623
+    },
+    {
+      "question": " Which of the following does the Qur'an permit?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.3802952766418457
+    },
+    {
+      "question": " Which is the main form of Buddhism in Sri Lanka?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.380403995513916
+    },
+    {
+      "question": " Which leader is known for spreading the dharma of non-violence?",
+      "model_answer": "**B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.380510091781616
+    },
+    {
+      "question": "What is the most important festival for Sikhs?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4230849742889404
+    },
+    {
+      "question": " Who declared Muhammad a prophet?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4241530895233154
+    },
+    {
+      "question": "The Jataka tales are a collection of which genre of stories?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.42433500289917
+    },
+    {
+      "question": " In Yiddish, what is the word for covenant?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.424437999725342
+    },
+    {
+      "question": "What is the name of the Hindu community associated with environmental activism?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.424544095993042
+    },
+    {
+      "question": " Which bodhisattva is known for conducting the souls of dead children to salvation?",
+      "model_answer": "**A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4246368408203125
+    },
+    {
+      "question": " The Gospel of John is associated with which theological concept?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.424726963043213
+    },
+    {
+      "question": "Which god supplanted the earlier Mesopotamian supreme god Enil?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.242110013961792
+    },
+    {
+      "question": "Which of the following movements was founded by Mordechai Kaplan?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.2424960136413574
+    },
+    {
+      "question": "When was the State of Israel established?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.243091106414795
+    },
+    {
+      "question": " Icons are a main feature of which church?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2435548305511475
+    },
+    {
+      "question": "The first of the Four Noble Truths teaches which of the following cannot be escaped?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.243691921234131
+    },
+    {
+      "question": " The Continental Reformation started in what year?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.2437949180603027
+    },
+    {
+      "question": "The minimalism of Haiku is said to be derived from which tradition?",
+      "model_answer": "**A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.243894100189209
+    },
+    {
+      "question": "Which deity is the Roman counterpart to the Greek god Zeus?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.2439889907836914
+    },
+    {
+      "question": "The philosopher Laozi is associated with which tradition?",
+      "model_answer": "**B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.244084119796753
+    },
+    {
+      "question": " Which Egyptian gods did Akhenaten make a determined effort to eliminate?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.2441768646240234
+    },
+    {
+      "question": "The term xin refers to which of the following?",
+      "model_answer": "**B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.46252703666687
+    },
+    {
+      "question": "What is the term for commentary on the Qur'an, which means \"unveiling\"?",
+      "model_answer": "**D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.462980031967163
+    },
+    {
+      "question": " With which branch of Islam are the Isma'ilis are associated?",
+      "model_answer": "**A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.463340997695923
+    },
+    {
+      "question": " The term mappo is associated with which of the following?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.464445114135742
+    },
+    {
+      "question": "Who was the first significant anchorite hermit?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4647531509399414
+    },
+    {
+      "question": "Which are the synoptic Gospels?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.4648561477661133
+    },
+    {
+      "question": "What is the English title for the divination text also known as the Yijing?",
+      "model_answer": "**A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.4649500846862793
+    },
+    {
+      "question": " Where was the most famous site of the mystery cults in Greece?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.4650421142578125
+    },
+    {
+      "question": "When did the Babylonian captivity of \"Exile\" begin?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.6430490016937256
+    },
+    {
+      "question": " The term vajrya means diamond and which of the following?",
+      "model_answer": "**D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.643470048904419
+    },
+    {
+      "question": " The Communidades de Base is associated with which of the following?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.644011974334717
+    },
+    {
+      "question": "What does the term matsuri mean?",
+      "model_answer": "**D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.6462290287017822
+    },
+    {
+      "question": " What does \"Svetambara\" mean?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.646836996078491
+    },
+    {
+      "question": "What is a mohel?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5090959072113037
+    },
+    {
+      "question": "The \"Flower Sermon\" is associated with which form of Buddhism?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.5092148780822754
+    },
+    {
+      "question": " When was the major shift by Greek philosophers who rejected the anthropomorphic view of the divine?",
+      "model_answer": "**A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5093162059783936
+    },
+    {
+      "question": "The Oral Torah, in its written form, is known as what?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.509424924850464
+    },
+    {
+      "question": "What has been a central focus of religious traditions in China and Korea?",
+      "model_answer": "**B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.509523868560791
+    },
+    {
+      "question": " To whom did ordinary folk appeal during a drought in the time of the Han Dynasty?",
+      "model_answer": "**A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.509614944458008
+    },
+    {
+      "question": " The theological term homoousios means which of the following?",
+      "model_answer": "**B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.5097107887268066
+    },
+    {
+      "question": "According to the Japanese origin myth, who gives birth to Amaterasu from his left eye?",
+      "model_answer": "**A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.5098061561584473
+    },
+    {
+      "question": " The numen of Augustus referred to which of the following characteristics?",
+      "model_answer": "**B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 0.25942087173461914
+    }
+  ]
+}

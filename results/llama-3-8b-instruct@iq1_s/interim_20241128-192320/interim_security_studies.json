@@ -1,0 +1,1511 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq1_s",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-212933"
+  },
+  "subject": "security_studies",
+  "category": "social sciences",
+  "correct_rate": 17.289719626168225,
+  "evaluation_results": [
+    {
+      "question": "Which of these principles is not an element of the responsibility to protect?",
+      "model_answer": "The answer is a single letter (B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.795484781265259
+    },
+    {
+      "question": "Can environmental changes be reconciled with national security interests?",
+      "model_answer": "The question is security",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.7960100173950195
+    },
+    {
+      "question": "Which of the following statements could be described as a liberal perspective on future energy security?",
+      "model_answer": "The answer is D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.796327829360962
+    },
+    {
+      "question": "Which of the following is a common criticism of the human security concept?",
+      "model_answer": "What are the security concerns that you have to",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.7966039180755615
+    },
+    {
+      "question": "What potential problem for policy in the institutionalization of academe-policy interaction emerged?",
+      "model_answer": "The answer to this multiple choice question is a",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.796904802322388
+    },
+    {
+      "question": "Which of the following is not one of the 10 steps of the Washington Consensus?",
+      "model_answer": "The answer is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.797170877456665
+    },
+    {
+      "question": "Which of the following concepts does NOT form part of the technical discourse on cyber-security?",
+      "model_answer": "The answer to this question is D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.797436952590942
+    },
+    {
+      "question": "What are the characteristics and manifestations of the strategy adopted by the USA in pursuit of energy security?",
+      "model_answer": "The answer is a single letter (B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 6.797698974609375
+    },
+    {
+      "question": "In what ways do theories of conventional and critical social constructivism differ?",
+      "model_answer": "This question explores the differences between conventional and critical",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.79797101020813
+    },
+    {
+      "question": "Considering commerce and marketing, which of the following present the most significant obstacle to developing IT security?",
+      "model_answer": "The answer is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.553912162780762
+    },
+    {
+      "question": "How can we best describe liberalism?",
+      "model_answer": "I'm going to answer this question with only",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.554376125335693
+    },
+    {
+      "question": "Which of the following is not one of the unifying principles of Critical Security Studies, as defined by Krause?",
+      "model_answer": "I'm a helpful assistant that answers multiple choice",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.554830074310303
+    },
+    {
+      "question": "Considering 'offensive' and 'defensive realism', which of these statements is not correct?",
+      "model_answer": "I'm going to answer this question with only",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.555291175842285
+    },
+    {
+      "question": "Following the terrorist attacks of 9/11, what is the predominant paradigm in security and threat perception and to what extent is it an adequate response?",
+      "model_answer": "The answer is A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.556239128112793
+    },
+    {
+      "question": "In what ways has the concept of environmental security been contested?",
+      "model_answer": "The concept of security has been contested in various",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.556500196456909
+    },
+    {
+      "question": "How can the origins of weak state insecurity be explained?",
+      "model_answer": "The answer is a weak state in the historical",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.556742191314697
+    },
+    {
+      "question": "Which of the following best describes the 'subaltern' in postcolonialism?",
+      "model_answer": "The answer is D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.556967258453369
+    },
+    {
+      "question": "How do biological differences affect the roles that men and women must perform for the state?",
+      "model_answer": "The security studies answer this question with the help",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.557184934616089
+    },
+    {
+      "question": "In which year was the seminal Human Development Report published?",
+      "model_answer": "The answer is: D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.107797145843506
+    },
+    {
+      "question": "What does it mean to be secure?",
+      "model_answer": "Security refers to security from the ability to secure",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.1084160804748535
+    },
+    {
+      "question": "What has been the effect of biological weapons on national security in the international community?",
+      "model_answer": "The answer is the only one that has been",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.108791828155518
+    },
+    {
+      "question": "How are US 'military moms' important to a critical reading of security?",
+      "model_answer": "The question is about the importance of mothers in",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.109194993972778
+    },
+    {
+      "question": "Weak states face a number of security threats, which of the following threats is the odd one out?",
+      "model_answer": "The answer to this multiple choice question is D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.109549045562744
+    },
+    {
+      "question": "In what ways may TNC be regarded as a new concept?",
+      "model_answer": "I'm going to answer this multiple choice question",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.1101789474487305
+    },
+    {
+      "question": "Which of the following statements does not characterise our understanding of disease pandemics within the contemporary international political system?",
+      "model_answer": "The answer is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.110520839691162
+    },
+    {
+      "question": "In what ways does gender shape the conceptualization of nationhood and conflict?",
+      "model_answer": "I'm going to answer this question with a",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.110810995101929
+    },
+    {
+      "question": "What might the pragmatic implications of biology be on post-conflict gender security?",
+      "model_answer": "The question was asked about the security of the",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.111088991165161
+    },
+    {
+      "question": "How have the World Bank and International Monetary Fund, as international financial institutions (IFIs), affected the development of poorer countries?",
+      "model_answer": "The answer is a single letter (A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.752269268035889
+    },
+    {
+      "question": "When may an issue fail to become securitized?",
+      "model_answer": "What a security issue!",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.752691030502319
+    },
+    {
+      "question": "What are the practical problems associated with applying coercive diplomacy in the West?",
+      "model_answer": "The security studies answer this question",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.753351211547852
+    },
+    {
+      "question": "How is capitalism defined or regarded within the HM paradigm?",
+      "model_answer": "The answer is the most difficult to the question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.753666162490845
+    },
+    {
+      "question": "Which statement best describes Booth's attitude toward constructivism and post-structuralism within Critical Security Studies?",
+      "model_answer": "I'm not sure what you're saying here",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.754054307937622
+    },
+    {
+      "question": "What is Critical Security Studies?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.75428318977356
+    },
+    {
+      "question": "What role does language play in the process of securitization?",
+      "model_answer": "The answer to this multiple-choice question about security",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.285238027572632
+    },
+    {
+      "question": "In what ways is it possible to gain a definition of terrorism?",
+      "model_answer": "I'm a helpful assistant that answers this multiple",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.285820960998535
+    },
+    {
+      "question": "Which of these statements best describes the HM approach to sectoral security analysis?",
+      "model_answer": "I'm not sure what you're saying here",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.2863171100616455
+    },
+    {
+      "question": "What was the importance of peace research during the 1980s?",
+      "model_answer": "What was the importance of peace research during the",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.286971807479858
+    },
+    {
+      "question": "Which of these statements does not describe the liberalist conception of the international system?",
+      "model_answer": "The answer is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.287748098373413
+    },
+    {
+      "question": "In what ways will the changing global security environment shape the nature of developing conflicts in the twenty-first century?",
+      "model_answer": "The question of security in the changing global environment",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.74433708190918
+    },
+    {
+      "question": "Is the weak state security dilemma an inescapable condition?",
+      "model_answer": "The question is a multiple-choice question that asks",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.744636058807373
+    },
+    {
+      "question": "How might the recent global economic crisis be viewed as a challenge to the liberalist perspective?",
+      "model_answer": "The question is answered with only one letter (",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.7449281215667725
+    },
+    {
+      "question": "What factors facilitated the institutional innovation of security studies?",
+      "model_answer": "The answer is a single letter (B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.745203971862793
+    },
+    {
+      "question": "Which of the following are true of the Great Law of Peace of the Haudenosaunee Confederacy?",
+      "model_answer": "The answer is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.74547004699707
+    },
+    {
+      "question": "What has been the impact of nuclear deterrence on international politics post-Cold War?",
+      "model_answer": "The answer to this multiple choice question about security",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.745733976364136
+    },
+    {
+      "question": "In what ways does the Ideal Policy framework explain previous understandings of the necessary conditions for successful coercive diplomacy actions?",
+      "model_answer": "The security framework explains previous understandings of the",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.745997905731201
+    },
+    {
+      "question": "In what way might postcolonial analysis use the term 'thick space'?",
+      "model_answer": "The answer is a thick space",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.746268033981323
+    },
+    {
+      "question": "In which of these wars did the overwhelming technological superiority of one side lead to rapid defeat of its enemy?",
+      "model_answer": "What was your response?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.746531963348389
+    },
+    {
+      "question": "Which approach or perspective dominates post-Cold War Security Studies?",
+      "model_answer": "The answer to this multiple choice question is",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.746799945831299
+    },
+    {
+      "question": "How can we define the role of the state in achieving human security?",
+      "model_answer": "I'm going to answer this question with only",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.869735240936279
+    },
+    {
+      "question": "What is the relevance of behaviour in economic security analysis?",
+      "model_answer": "The answer to this multiple choice question is a",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.869980096817017
+    },
+    {
+      "question": "What long-term trends can be foreseen in the concept of environmental security?",
+      "model_answer": "The question is a multiple choice question about the",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.870204210281372
+    },
+    {
+      "question": "What is meant by the term 'energy security nexus'?",
+      "model_answer": "I'm going to answer this multiple choice question",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.87043023109436
+    },
+    {
+      "question": "It has been argued by Braun and Chyba (2004) that indigenous nuclear programs are making proliferation safeguards obsolete. In what ways, if any, can a case be made to support this argument?",
+      "model_answer": "The answer to this multiple choice question about security",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.870645046234131
+    },
+    {
+      "question": "Which of the following statements is true within the postcolonial approach?",
+      "model_answer": "The answer is D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.870864152908325
+    },
+    {
+      "question": "What differences emerged with regard to theorizing on both sides of the Atlantic?",
+      "model_answer": "The question of security and how to conceptualize",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.871081113815308
+    },
+    {
+      "question": "Traditional approaches seek to explain why and how states have sought security. Which answer best describes the approach of traditional Security Studies?",
+      "model_answer": "I'm going to answer this question with only",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.8712990283966064
+    },
+    {
+      "question": "Which of the following statements is the odd one out?",
+      "model_answer": "I'm going to answer this question with the",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.87152099609375
+    },
+    {
+      "question": "To what extent can societal identity be defended militarily?",
+      "model_answer": "The question of whether the threat posed by one",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.871733903884888
+    },
+    {
+      "question": "Which of the following defines a Revolution in Military Affairs?",
+      "model_answer": "What a security study does not exist",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.146053075790405
+    },
+    {
+      "question": "What is the relationship between historical materialism and the global justice movement?",
+      "model_answer": "The question is a multiple choice question that asks",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.1465840339660645
+    },
+    {
+      "question": "What is the relationship between Westphalian sovereignty and humanitarian intervention?",
+      "model_answer": "The answer to this multiple choice question is A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.147238254547119
+    },
+    {
+      "question": "In what ways have post-Cold War developments undermined state authority?",
+      "model_answer": "The question is security authority",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.147627115249634
+    },
+    {
+      "question": "What are the implications of recent technological change and development, according to peace studies?",
+      "model_answer": "The question of security studies is a multiple choice",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.148195028305054
+    },
+    {
+      "question": "Inefficient balancing or buckpassing by states can lead to what?",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.148495197296143
+    },
+    {
+      "question": "Which of the following is essential to societal security?",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.148732900619507
+    },
+    {
+      "question": "Which of the following best describes the existing legacy of structural adjustment policies?",
+      "model_answer": "The answer to this multiple choice question is a",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.148966073989868
+    },
+    {
+      "question": "Which of the following is not an economic tool of security policy?",
+      "model_answer": "What are you going to do?",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.149190187454224
+    },
+    {
+      "question": "What is the value of a post-structuralist critique in security studies?",
+      "model_answer": "What is the value of a post-structural",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.149412155151367
+    },
+    {
+      "question": "Which of the following ways is NOT a defining feature that distinguishes postcolonialism from other perspectives on security?",
+      "model_answer": "What you are looking for is a way to",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.7376110553741455
+    },
+    {
+      "question": "In what ways does the Ideal Policy framework provide an analytical framework for practitioners' success?",
+      "model_answer": "I'm a helpful assistant that answers multiple questions",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.738054037094116
+    },
+    {
+      "question": "What challenges to liberalism were shown by the Western response to the Arab Spring?",
+      "model_answer": "The answer to this multiple choice question is a",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.738554000854492
+    },
+    {
+      "question": "What is realism?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 6.738750219345093
+    },
+    {
+      "question": "Which of the following is NOT one of the 3 forms of violence identified by postcolonialism?",
+      "model_answer": "What a fascinating question!",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.73885703086853
+    },
+    {
+      "question": "Which of the following represent a move away from traditional interpretations of security studies?",
+      "model_answer": "What is your response to this question?",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 6.738954067230225
+    },
+    {
+      "question": "What are the causes of terrorism?",
+      "model_answer": "The answer is the only one that provides the",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.739048957824707
+    },
+    {
+      "question": "What techniques and targets belong to a workable definition of terrorism and terrorist concerns?",
+      "model_answer": "The question is about the security forces and the",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.739143133163452
+    },
+    {
+      "question": "In what ways do environmental issues present a concern for peace researchers in the twenty-first century?",
+      "model_answer": "The answer to this multiple choice question is the",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.739253997802734
+    },
+    {
+      "question": "There is a need to establish the nature and consequences of insecurity in the developing world. Why is this?",
+      "model_answer": "I'm going to answer this question with only",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.903005838394165
+    },
+    {
+      "question": "When considering the international system from a realist perspective, which of the following statements concerning the advent of war is true?",
+      "model_answer": "The answer to this question is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.903398036956787
+    },
+    {
+      "question": "Describe the relationship between the military security domain and social constructivism.",
+      "model_answer": "The answer is a single letter (B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.903754949569702
+    },
+    {
+      "question": "How do gun shows and international arms fairs contribute to illicit arms markets?",
+      "model_answer": "The question of how gun shows and international arms",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.904358148574829
+    },
+    {
+      "question": "Which of the following statements is the odd one out?",
+      "model_answer": "What's the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.904768943786621
+    },
+    {
+      "question": "Which of the following was not stated as an objective of the Commission on Human Security when it was launched?",
+      "model_answer": "What was the question that you were asked about",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.905056953430176
+    },
+    {
+      "question": "In terms of cyber-security, what is meant by 'resilience' and why is it important?",
+      "model_answer": "What is meant by 'resilience'",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.90533709526062
+    },
+    {
+      "question": "Has TNC become a national security threat?",
+      "model_answer": "The security threat is a national security threat",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.905609846115112
+    },
+    {
+      "question": "In what ways is a fusion nuclear device different from a fission device?",
+      "model_answer": "The answer to this multiple choice question about security",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.905879020690918
+    },
+    {
+      "question": "In defining the term 'historical materialism', which of the following statements best defines the term 'materialism'?",
+      "model_answer": "The answer is a single letter (B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.9061479568481445
+    },
+    {
+      "question": "Which of the following events can be regarded as contributing to the emergence of environmental security during the 1960s and 1970s?",
+      "model_answer": "The answer is B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.27551007270813
+    },
+    {
+      "question": "Is TNC a new phenomenon?",
+      "model_answer": "I'm a helpful assistant that answers multiple questions",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.276201963424683
+    },
+    {
+      "question": "Which of the following is not a response to the illicit arms trade?",
+      "model_answer": "The answer to this question is: D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.276581048965454
+    },
+    {
+      "question": "Prior to the late 20th century the role of women in war had been neglected as an area of concern in security studies, for what reason?",
+      "model_answer": "The answer is a single letter (B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.276956081390381
+    },
+    {
+      "question": "Which of the following statements best describes our understanding of the term 'globalization'?",
+      "model_answer": "The answer to this question is the only one",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.277338027954102
+    },
+    {
+      "question": "In what ways may weak states be challenged externally?",
+      "model_answer": "The question of security studies",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.278008937835693
+    },
+    {
+      "question": "Which of the following is applicable when considering the concept of security dilemmas in terms of societal identity?",
+      "model_answer": "The security dilemma is a complex and multifac",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.278617858886719
+    },
+    {
+      "question": "What is meant by the term 'security dilemma' and how does it impact on the international security environment?",
+      "model_answer": "The security dilemma can be utilized as a force",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.278933048248291
+    },
+    {
+      "question": "What are the types of terrorism? Are all groups the same?",
+      "model_answer": "The question is to answer the multiple choice questions",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.999989986419678
+    },
+    {
+      "question": "What kind of actors are involved in the defence trade?",
+      "model_answer": "What is the answer?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.000396013259888
+    },
+    {
+      "question": "To what extent is TNC linked with terrorism, and in what ways?",
+      "model_answer": "The question was answered with only one letter (",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.00078272819519
+    },
+    {
+      "question": "Which statement best describes the relationship between realist international relations theorists and peace researchers in the early 1960s?",
+      "model_answer": "The answer is B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.001427888870239
+    },
+    {
+      "question": "In what ways did strategic circumstances have an effect on environmental security perspectives?",
+      "model_answer": "The answer to this multiple choice question about security",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.0018088817596436
+    },
+    {
+      "question": "The following statements define the conceptualization of 'class' within HM; which is incorrect?",
+      "model_answer": "The answer to this question is: D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.002187013626099
+    },
+    {
+      "question": "Which of the following security sectors are intrinsically linked with energy security?",
+      "model_answer": "The answer is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.00256085395813
+    },
+    {
+      "question": "What is the relationship between HM and realism?",
+      "model_answer": "What is the relationship between the two",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.003256797790527
+    },
+    {
+      "question": "What factors enabled the expansion of transnational crime (TNC) in the 1990s?",
+      "model_answer": "The answer is a single letter (B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.079771041870117
+    },
+    {
+      "question": "Why do so many feminist scholars regard the exclusion of women from the military sphere or from armed combat as important?",
+      "model_answer": "The question was answered with the letter D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.080079078674316
+    },
+    {
+      "question": "In the context of energy security and the production of oil, which of the following does not define the term 'stability'?",
+      "model_answer": "The answer to this multiple choice question is:",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.080384016036987
+    },
+    {
+      "question": "In what ways is the case for humanitarian intervention, as outlined in this chapter, limited?",
+      "model_answer": "The question is limited in this case",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.08066201210022
+    },
+    {
+      "question": "Which of the following statements is not applicable to the Securitization process?",
+      "model_answer": "The Securitization process is a complex",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 7.080939054489136
+    },
+    {
+      "question": "During the 20th century, how has the focus of security studies changed regarding military security?",
+      "model_answer": "Security studies has always focused on a wide range",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.081211090087891
+    },
+    {
+      "question": "Which of these statements is not applicable to the development of peace studies in the twentieth century?",
+      "model_answer": "I'm going to answer this question with only",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.081557989120483
+    },
+    {
+      "question": "In the contemporary context, how can peace studies best be defined?",
+      "model_answer": "The question of security best can be answered as",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.08185601234436
+    },
+    {
+      "question": "What role does 'Information' play in the economic science of decision making?",
+      "model_answer": "The answer is A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.082081079483032
+    },
+    {
+      "question": "Which of the following are frequently cited criticisms of HM?",
+      "model_answer": "The security of the laborer",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 5.557004690170288
+    },
+    {
+      "question": "Which of the following phrases is not likely to indicate legitimacy in the new terminology of RMA?",
+      "model_answer": "I'm going to answer this question with only",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 5.557556867599487
+    },
+    {
+      "question": "Which of the following did not emerge as a trend of the defence trade in the 20th century?",
+      "model_answer": "What did you do?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 5.558271884918213
+    },
+    {
+      "question": "Which of these are characteristics of realist theory?",
+      "model_answer": "The answer is B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.558836936950684
+    },
+    {
+      "question": "Which of these statements defines the Copenhagen School's view of security?",
+      "model_answer": "I'm going to answer this question with a",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 5.559135913848877
+    },
+    {
+      "question": "How do institutional constraints affect behaviour?",
+      "model_answer": "I'm a helpful assistant that answers multiple choice",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.559423923492432
+    },
+    {
+      "question": "Which of the following policies is not true of economic policy?",
+      "model_answer": "I'm not sure what you're saying here",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 5.559691667556763
+    },
+    {
+      "question": "Which of the following is not an assertion made in the realist case against humanitarian inventions?",
+      "model_answer": "I'm a helpful assistant",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.447932958602905
+    },
+    {
+      "question": "Why, in the contemporary studies of security, is the subject of energy security so important?",
+      "model_answer": "What is your response to this question?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.448421001434326
+    },
+    {
+      "question": "Which of the following is a legitimate threat to societal security?",
+      "model_answer": "The answer is the only one that has been",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 7.448780059814453
+    },
+    {
+      "question": "Which of the following statements best describes the orientation of military security within the traditional conception of security studies?",
+      "model_answer": "I'm not sure what you're saying here",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.449373006820679
+    },
+    {
+      "question": "Which of these statements cannot be applied to the initial development of peace studies?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.450058937072754
+    },
+    {
+      "question": "To what extent and to what effect has the environment been securitized?",
+      "model_answer": "The question is a multiple choice question that has",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.4504430294036865
+    },
+    {
+      "question": "Which of the following is not a common criticism of Securitization?",
+      "model_answer": "I'm going to answer this question with the",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.4507458209991455
+    },
+    {
+      "question": "Which of these statements characterizes the traditional concept of national security, as opposed to human security?",
+      "model_answer": "The answer is a single letter (B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.45102596282959
+    },
+    {
+      "question": "How does Buzan's concept of 'societal security' mark a departure from traditional understandings of security?",
+      "model_answer": "The concept of security in Buzan's",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.451303958892822
+    },
+    {
+      "question": "Which of the following conditions does not constitute 'human security'?",
+      "model_answer": "The security conditions are a condition that does not",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.068323135375977
+    },
+    {
+      "question": "What are the effects of nuclear weapons?",
+      "model_answer": "The question is about security studies",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.06883692741394
+    },
+    {
+      "question": "Which statement best describes commercial liberalism?",
+      "model_answer": "I'm a helpful assistant that answers multiple questions",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.069701910018921
+    },
+    {
+      "question": "Security studies can be interpreted as an imperial field of knowledge in which of the following ways?",
+      "model_answer": "The answer is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.070129871368408
+    },
+    {
+      "question": "What do critics fear would be the result of granting rights of humanitarian intervention?",
+      "model_answer": "What do critics fear about the security of the",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.070365905761719
+    },
+    {
+      "question": "In what ways did the Human Development Report, published by the United Nations Development Program in 1994, challenge the traditional security paradigm?",
+      "model_answer": "The answer is B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.0705859661102295
+    },
+    {
+      "question": "How might we understand the terms gender and gender security?",
+      "model_answer": "I'm going to answer this multiple choice question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.0708208084106445
+    },
+    {
+      "question": "Which of the following best describes what is meant by security in the contemporary world, according to the field of Security Studies?",
+      "model_answer": "I'm a helpful assistant that answers multiple choice",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.071035861968994
+    },
+    {
+      "question": "Which of these is an effective way of securing against cyber threats?",
+      "model_answer": "I'm a helpful assistant",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.07125186920166
+    },
+    {
+      "question": "Which of the following are trends to emerge in the global defence trade since the end of the Cold War?",
+      "model_answer": "The answer is a single letter (A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.07146692276001
+    },
+    {
+      "question": "In theorising the Responsibility to Protect, fundamental questions are raised about the nature of state sovereignty. Regarding this tension between R2P and notions of sovereignty, which of the following is not an accurate statement?",
+      "model_answer": "The answer to this question is D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.439060926437378
+    },
+    {
+      "question": "In what ways might international measures be employed? Are they a help or a hindrance?",
+      "model_answer": "The answer is a single letter without any explanation",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.439382076263428
+    },
+    {
+      "question": "According to Krause and Williams, what agenda would most likely attract scholars to the 'broad church' of security studies?",
+      "model_answer": "The answer is D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.439663887023926
+    },
+    {
+      "question": "According to George and Simons, what factors influence the outcomes of an act of coercive diplomacy?",
+      "model_answer": "The answer to this multiple choice question is a",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.439939737319946
+    },
+    {
+      "question": "What is the significance of anarchy to the realist explanation of international politics?",
+      "model_answer": "The security of anarchy refers to the state",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.440212965011597
+    },
+    {
+      "question": "Which of the following ideas have become mainstreamed within human security since the Human Development Report?",
+      "model_answer": "What are the multiple choice questions about security?",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.440476894378662
+    },
+    {
+      "question": "Which of the statements below is not one of the eight themes of post-Marxist critical security theory identified by Ken Booth as being important to critical security theory?",
+      "model_answer": "What are the eight themes of post-Marist",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.440741777420044
+    },
+    {
+      "question": "Which statement best defines the term 'international regime' in relation to liberalism?",
+      "model_answer": "The correct answer is D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.441004037857056
+    },
+    {
+      "question": "How can we define energy security?",
+      "model_answer": "Energy Security refers to the ability of individuals",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.441260099411011
+    },
+    {
+      "question": "Which of the following statements best describes the characteristics of a weak state?",
+      "model_answer": "The answer is the most important characteristic of a",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.44151496887207
+    },
+    {
+      "question": "What is distinguishable about security studies theory?",
+      "model_answer": "Security studies theory refers to the historical systematic distinction",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.1068501472473145
+    },
+    {
+      "question": "How does the preoccupation with human rights affect the human rights orientated school of liberalism?",
+      "model_answer": "The question of security studies is a multiple choice",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.107310056686401
+    },
+    {
+      "question": "What would be the policy implications of a hierarchical vision of TNC?",
+      "model_answer": "The hierarchical vision is a single-level structure that",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.108260154724121
+    },
+    {
+      "question": "What are the specific elements of a comprehensive national defence trade control system?",
+      "model_answer": "The answer is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.108520984649658
+    },
+    {
+      "question": "Which of the following are Schelling's necessary conditions for compellence success?",
+      "model_answer": "The security of the Schelling's conditions for",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.108725070953369
+    },
+    {
+      "question": "Which of the following characteristics describe 'Category B' agents, as defined by the US Centers for Disease Control?",
+      "model_answer": "The answer is a single letter (B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.108915090560913
+    },
+    {
+      "question": "When did the cyber-security discourse emerge? (When did politicians, academics, and other agents begin to talk seriously about cyber-security?)",
+      "model_answer": "The answer is a single letter (B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.109110116958618
+    },
+    {
+      "question": "In the context of military security, which of the following is not an obvious benefit of adopting a 'critical' theoretical approach?",
+      "model_answer": "I'm a helpful assistant that answers multiple choice",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.109302997589111
+    },
+    {
+      "question": "Considering Wendt's three cultures of anarchy; which of the following defines the Lockean culture?",
+      "model_answer": "The answer to this question is the one that",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.1094889640808105
+    },
+    {
+      "question": "In what ways does the idea of 'victim' impact on the way in which gender security is regarded?",
+      "model_answer": "The question of security studies in this case is",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.163804054260254
+    },
+    {
+      "question": "In what ways is gender applicable to the field of Security Studies?",
+      "model_answer": "The answer is Security Studies",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.164237976074219
+    },
+    {
+      "question": "What is the function of sanctions?",
+      "model_answer": "The answer is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.164746284484863
+    },
+    {
+      "question": "Given current patterns of industrial development, what are the future prospects for energy security?",
+      "model_answer": "I'm a helpful assistant that answers this multiple",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.16533899307251
+    },
+    {
+      "question": "Which of the following is not a correct definition?",
+      "model_answer": "What you're looking for the right way to",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.165637016296387
+    },
+    {
+      "question": "What external strategies do elites employ?",
+      "model_answer": "I'm going to answer this question with only",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.165886163711548
+    },
+    {
+      "question": "What problems has the post-Cold War security literature revealed on women, war, development, and security?",
+      "model_answer": "The security issue has been a key factor in",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.166114091873169
+    },
+    {
+      "question": "How might weapons belonging to state military or police forces arrive on the illicit arms market?",
+      "model_answer": "The answer to this multiple choice question about security",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.1663360595703125
+    },
+    {
+      "question": "Can armed forces be linked to environmental security and in what ways?",
+      "model_answer": "The question is a security issue in the military",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.672474145889282
+    },
+    {
+      "question": "When considering economic tools for security policy, which of the following is the odd one out?",
+      "model_answer": "The answer is D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.672896862030029
+    },
+    {
+      "question": "What impact did the end of the Cold War have on warlord politics?",
+      "model_answer": "The answer is a single letter (A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.673705816268921
+    },
+    {
+      "question": "In what ways might the effects of chemical weapons affect the decision to deploy them against a target?",
+      "model_answer": "The question of the chemical weapons deployment was a",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.673989772796631
+    },
+    {
+      "question": "What is the relationship between war, military security, and security studies?",
+      "model_answer": "The security studies are best regarded as a rational",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.6742188930511475
+    },
+    {
+      "question": "How has coercive diplomacy featured in contemporary security studies?",
+      "model_answer": "The question was answered with only one letter (",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.674458026885986
+    },
+    {
+      "question": "In what ways is defining coercive diplomacy success problematic?",
+      "model_answer": "I'm going to answer this multiple question about",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.674684762954712
+    },
+    {
+      "question": "In what ways, if any, can the environment be considered a security concern?",
+      "model_answer": "The question of security in this case was answered",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.674907922744751
+    },
+    {
+      "question": "Which statement best describes the liberalist attitude towards international organisations?",
+      "model_answer": "The question was answered with only one letter (",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.675151109695435
+    },
+    {
+      "question": "What is the relationship between culture and social constructivism?",
+      "model_answer": "I'm not sure if you're trying to",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.350143194198608
+    },
+    {
+      "question": "Which of the following is an impact of common structural adjustment policies on the poor?",
+      "model_answer": "The answer is the only one that stands alone",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.350675344467163
+    },
+    {
+      "question": "How might the diversity of the current global international system impact upon the case for humanitarian intervention?",
+      "model_answer": "The question is answered with only one letter (",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.351065158843994
+    },
+    {
+      "question": "Which of the following are economic objectives of IMF adjustment policies?",
+      "model_answer": "The answer is a single letter (B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.354119300842285
+    },
+    {
+      "question": "To what extent have biological agents been weaponized?",
+      "model_answer": "The question is about security studies",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.3544020652771
+    },
+    {
+      "question": "According to Buzan, Waever, and de Wilde, in what ways does the Copenhagen School's approach to Security Studies differ from that of Critical Security Studies?",
+      "model_answer": "I'm going to answer this question with only",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.35464334487915
+    },
+    {
+      "question": "What are Fission Nuclear Weapons?",
+      "model_answer": "The question is about the nuclear weapons that are",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.354875326156616
+    },
+    {
+      "question": "Why is HIV/AIDS considered to be a non-traditional security issue?",
+      "model_answer": "The answer is D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.355093002319336
+    },
+    {
+      "question": "Which of the following statements best describes the process of 'medicalization'?",
+      "model_answer": "The answer to this question is the only one",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.3554792404174805
+    },
+    {
+      "question": "How has the conceptualization of health as a security issue changed during the twentieth century?",
+      "model_answer": "The answer is security",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.608915090560913
+    },
+    {
+      "question": "Which statement best describes the circumstances that have shaped the emergence of peace studies as a field of research?",
+      "model_answer": "The answer to this question is the only one",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 7.6092369556427
+    },
+    {
+      "question": "In what ways might a society be threatened?",
+      "model_answer": "I'm going to answer this multiple choice question",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.6095662117004395
+    },
+    {
+      "question": "Which of these statements best defines the concepts of corporate and social identity?",
+      "model_answer": "I'm a security expert in this case",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.609847068786621
+    },
+    {
+      "question": "In what ways has conflict been a concern of the environmental security agenda for strong states?",
+      "model_answer": "The security agenda has been a concern of the",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.610112905502319
+    },
+    {
+      "question": "Threats to IT systems can be classified in many ways; in this chapter three different categories of threat are listed. According to this classification, which of the following would be classified as a 'Failure'?",
+      "model_answer": "The answer to this question is A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 7.610377073287964
+    },
+    {
+      "question": "Which of the following reasons might influence a state's decision to join an alliance such as NATO?",
+      "model_answer": "The answer is D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 7.610637903213501
+    },
+    {
+      "question": "What is the 'security dilemma' that faces weak states?",
+      "model_answer": "The security dilemma that faces weak states is the",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.610896110534668
+    },
+    {
+      "question": "Historical materialism is founded on the ideas and philosophies of which theorists?",
+      "model_answer": "What a great question!",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.44327974319458
+    },
+    {
+      "question": "What internal security policy options are available to elites?",
+      "model_answer": "The security policy options are available to elites",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.443729877471924
+    },
+    {
+      "question": "Are strategies of Arms Control and Deterrence useful in cyber-security?",
+      "model_answer": "I'm a helpful assistant that answers multiple questions",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.444088697433472
+    },
+    {
+      "question": "In what ways does the perspective on terrorism influence the response a government will take?",
+      "model_answer": "The question of security studies",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 6.444504737854004
+    },
+    {
+      "question": "How might the period of academic institutionalization be assessed?",
+      "model_answer": "The answer to this multiple choice question is",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.444874048233032
+    },
+    {
+      "question": "In what ways may the security dimensions of infectious disease be considered in the national security framework?",
+      "model_answer": "The security dimensions of infectious disease can be considered",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 6.445551872253418
+    },
+    {
+      "question": "What is the role of non-governmental organisations (NGOs) in the global defence trade?",
+      "model_answer": "I'm going to answer this question with only",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 6.445931911468506
+    },
+    {
+      "question": "The concept of R2P rests on three pillars, which of these is widely acclaimed to be the most important?",
+      "model_answer": "What a great question!",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 6.44622278213501
+    },
+    {
+      "question": "What is meant by the term 'cyber-crime'?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.705866098403931
+    },
+    {
+      "question": "How might global inequality present a threat to global security?",
+      "model_answer": "The question is answered with only one letter (",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.706286191940308
+    },
+    {
+      "question": "What is the future of WMD?",
+      "model_answer": "The answer to this multiple choice question about security",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.706916093826294
+    },
+    {
+      "question": "In which ways does realism differ from social constructivism in the theorisation of identity within international relations?",
+      "model_answer": "I'm not sure what you're saying here",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.707596063613892
+    },
+    {
+      "question": "What is 'malware'?",
+      "model_answer": "I'm a helpful assistant that answers with only",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.707970142364502
+    },
+    {
+      "question": "For post-structuralists, which of the following is the most important impact of security studies?",
+      "model_answer": "Security studies is the most important impact of security",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.708258152008057
+    },
+    {
+      "question": "In what ways can the different relationship between US and European security studies be explained?",
+      "model_answer": "The security question was answered with a single letter",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 7.708534002304077
+    },
+    {
+      "question": "Which of the following statements does not describe 'nations'?",
+      "model_answer": "What is the answer to this question?",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.70881199836731
+    },
+    {
+      "question": "In what ways have feminist and critical security investigations of the 1980s and 1990s expanded our understanding of gender security issues?",
+      "model_answer": "The answer to this multiple choice question is a",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 7.709076881408691
+    },
+    {
+      "question": "What preventative security measures might a government take in defence of a potential future terrorist attack?",
+      "model_answer": "I'm a security system that's always on",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 7.709341287612915
+    },
+    {
+      "question": "In what ways can a distinction be made between limited force and full-scale force?",
+      "model_answer": "I'm going to answer this multiple-choice question",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6382761001586914
+    },
+    {
+      "question": "What are the challenges for the future of security studies?",
+      "model_answer": "What are the challenges for security studies?",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.6386873722076416
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "model_answer": "I'm a helpful assistant that answers multiple questions",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.6390483379364014
+    },
+    {
+      "question": "Within Critical Security Studies, what is the referent object of security?",
+      "model_answer": "What is the answer to this multiple choice question",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.6394152641296387
+    },
+    {
+      "question": "Why is coercive diplomacy hard? What are the inherent difficulties?",
+      "model_answer": "I'm not sure if you're trying to",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.6406261920928955
+    }
+  ]
+}

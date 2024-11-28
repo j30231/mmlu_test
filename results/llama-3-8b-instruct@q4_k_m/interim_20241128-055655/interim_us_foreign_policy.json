@@ -1,0 +1,713 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@q4_k_m",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-073125"
+  },
+  "subject": "us_foreign_policy",
+  "category": "social sciences",
+  "correct_rate": 83.0,
+  "evaluation_results": [
+    {
+      "question": "What is the structure of the United Nations Security Council?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.7986018657684326
+    },
+    {
+      "question": "What was the significance of the Gulf of Tonkin resolution?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.798725128173828
+    },
+    {
+      "question": "Which is not a nonstate actor that poses a threat to the United States?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.7988200187683105
+    },
+    {
+      "question": "Who was the first American president to visit communist China?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.7989139556884766
+    },
+    {
+      "question": "The Strategic Arms Reduction Treaty was the first accord",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.799006938934326
+    },
+    {
+      "question": "What were the implications of the Cold War for American exceptionalism?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.799100160598755
+    },
+    {
+      "question": "Why did Franklin D. Roosevelt initially favour an 'isolationist' stance on the part of the US during the 1930s?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.799191951751709
+    },
+    {
+      "question": "What was the 'New Populism'?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.799283266067505
+    },
+    {
+      "question": "How did World War I shift economic power from Europe to the United States?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.799375057220459
+    },
+    {
+      "question": "In American government, the power to declare war rests with",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.799462080001831
+    },
+    {
+      "question": "How did the Cold War context shape US perceptions of the Third World?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9304592609405518
+    },
+    {
+      "question": "What was unique about the NATO intervention in Kosovo?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.93087100982666
+    },
+    {
+      "question": "What, according to Systemic theories, is the primary determinant of a state's foreign policy?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9313273429870605
+    },
+    {
+      "question": "Why is there so much uncertainty over which states have nuclear weapons?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9314522743225098
+    },
+    {
+      "question": "Within American politics, the power to accord official recognition to other countries belongs to",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.931549310684204
+    },
+    {
+      "question": "What did the Moscow Treaty on Strategic Offensive Reductions do?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.931640148162842
+    },
+    {
+      "question": "What were the 'open-door notes'?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.9317312240600586
+    },
+    {
+      "question": "International trade will almost always benefit both countries, so why do countries try to protect their own firms from exposure to the world market?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9318201541900635
+    },
+    {
+      "question": "Why did George H.W. Bush allow Saddam Hussein to remain in power after the Gulf War of 1991?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.931908130645752
+    },
+    {
+      "question": "Why do Liberal Internationalists argue that international institutions are important to US grand strategy?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9319963455200195
+    },
+    {
+      "question": "What was the significance of the Truman Doctrine?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.674245834350586
+    },
+    {
+      "question": "What tend to be the effects of oil and other natural resource trade on developing states?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.674614906311035
+    },
+    {
+      "question": "The dominant course for foreign policy throughout most of American history can be categorized as",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.674989938735962
+    },
+    {
+      "question": "What led Britain to impose new taxes on their American colonies?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6753408908843994
+    },
+    {
+      "question": "Who said \"Globalization is not something we can hold off or turn off. It is the economic equivalent of a force of nature-like wind or water\"?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.67568302154541
+    },
+    {
+      "question": "The idea that war is \"the continuation of politics by other means\" helps to capture",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.6760690212249756
+    },
+    {
+      "question": "What are the key elements of the Liberal approach to US foreign policy?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6764111518859863
+    },
+    {
+      "question": "What was the key difference between US expansion pre- and post- 1865?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.6767489910125732
+    },
+    {
+      "question": "What case did President Eisenhower make against the 'military-industrial complex' in his farewell speech?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.6772170066833496
+    },
+    {
+      "question": "Within the United Nations, real power is located in",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.677536964416504
+    },
+    {
+      "question": "In general, how do conservatives and liberals differ when it comes to defense spending?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.6400861740112305
+    },
+    {
+      "question": "Intergovernmental organizations SELDOM do which of the following?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.6404709815979004
+    },
+    {
+      "question": "Which of the following are possible constraints on US foreign policy decision making?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.6405889987945557
+    },
+    {
+      "question": "What is direct diplomacy?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.64068603515625
+    },
+    {
+      "question": "What was the Clinton Administration's policy on the Russian economy?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.640777111053467
+    },
+    {
+      "question": "How many major powers are there in a multipolar system?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.6408660411834717
+    },
+    {
+      "question": "Why did Americans believe that they could found a different kind of empire after 1776?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6409571170806885
+    },
+    {
+      "question": "The trade-off between defense and social spending is often referred to as a choice between",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.6410481929779053
+    },
+    {
+      "question": "What did Charles Krauthammer mean by a 'unipolar moment' when describing the post-Cold War system?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6411383152008057
+    },
+    {
+      "question": "Which of the following considers it immoral to use force abroad to do good things (such human rights protection, democracy, etc)?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.641226053237915
+    },
+    {
+      "question": "According to realists, what is the fundamental difference between the international system and the domestic system?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6337051391601562
+    },
+    {
+      "question": "Which is NOT a reason for why intergovernmental organizations are ineffective at promoting human rights?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.6340761184692383
+    },
+    {
+      "question": "Why might the 'Philadelphian System' be linked to the idea of American exceptionalism?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6344082355499268
+    },
+    {
+      "question": "Which of the following are possible constraints on US foreign policy decision making?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.634906053543091
+    },
+    {
+      "question": "Détente, or the relaxing of tensions coupled with firm guarantees of mutual security, represented a shift in American foreign policy toward the communist world ushered in by",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.6359453201293945
+    },
+    {
+      "question": "Which of these is not a component of the 'American Creed'?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.636334180831909
+    },
+    {
+      "question": "During the early years of his administration, Reagan's foreign and defense policies emphasized",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.637040138244629
+    },
+    {
+      "question": "The Vietnam War can be understood as",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.63716197013855
+    },
+    {
+      "question": "The departments of the executive branch that assist the president in designing and carrying out U.S. foreign policy are known as",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.6372551918029785
+    },
+    {
+      "question": "The largest increase in peacetime defense spending in American history occurred under which president?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6373441219329834
+    },
+    {
+      "question": "What caused a public uproar involving the National Security Agency in 2005?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.734562635421753
+    },
+    {
+      "question": "What was the Marshall Plan?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.734947681427002
+    },
+    {
+      "question": "Bureaucratic politics suggests we should be worried about which of the following with regard to nuclear weapons?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.735287666320801
+    },
+    {
+      "question": "According to International Institutionalists, what problems have international institutions been designed to address?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.735837936401367
+    },
+    {
+      "question": "What was meant by the term 'New World Order'?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.736236572265625
+    },
+    {
+      "question": "The best known and perhaps most important international organization is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.7363336086273193
+    },
+    {
+      "question": "What was meant by the term 'American multiplication table'?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.736428737640381
+    },
+    {
+      "question": "Global and regional international trade agreements work by using which of the following mechanisms?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.7365176677703857
+    },
+    {
+      "question": "Why did Lincoln oppose the southward expansion of the US?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7366068363189697
+    },
+    {
+      "question": "Growing tension between the United States and the Soviet Union resulted in a policy that John Foster Dulles referred to as",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.736694574356079
+    },
+    {
+      "question": "Why do some scholars claim that Reagan 'won the Cold War'?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.721529960632324
+    },
+    {
+      "question": "What is the implication of American exceptionalism in terms of global economics?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.722066879272461
+    },
+    {
+      "question": "What were the primary institutions of the liberal international economic order?\nI. GATT\nII. IMF\nIII. World Bank\nIV. NATO",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.722559928894043
+    },
+    {
+      "question": "According to Rosenau, which factor is important to consider in explaining the foreign policy behavior of the United States?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.722917079925537
+    },
+    {
+      "question": "How many states in the international system are likely to have nuclear weapons right now?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7234418392181396
+    },
+    {
+      "question": "Why is NSC 68 seen as a turning point in US Cold War Foreign policy?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.723590135574341
+    },
+    {
+      "question": "What was meant by the term 'Rogue States'?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.723684072494507
+    },
+    {
+      "question": "The foreign policy doctrine that European nations should stay out of Latin America is known as",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.723775863647461
+    },
+    {
+      "question": "Why do contemporary European liberal democrats tend to object to the influence of exceptionalism on American foreign policy?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7238669395446777
+    },
+    {
+      "question": "In what sense might exceptionalism link isolationist and internationalist strategies?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.7239558696746826
+    },
+    {
+      "question": "Why do realists tend to object to the influence of exceptionalism on American foreign policy?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9211578369140625
+    },
+    {
+      "question": "What features distinguish Socio-Economic accounts of US Cold War foreign policy?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.921531915664673
+    },
+    {
+      "question": "What did Paul Kennedy argue in his book The Rise and Fall of the Great Powers?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9218719005584717
+    },
+    {
+      "question": "The Joint Chiefs of Staff is made up of",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.922445774078369
+    },
+    {
+      "question": "What is American exceptionalism?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.923020839691162
+    },
+    {
+      "question": "The role of gathering and interpreting intelligence about foreign countries in order to allow policymakers to make good foreign policy decisions was given to",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.9231488704681396
+    },
+    {
+      "question": "The cooperative international organization of 185 countries designed to stabilize the exchange of currencies and the world economy is",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9232468605041504
+    },
+    {
+      "question": "What policies are part of a grand strategy of Offshore Balancing?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.923337936401367
+    },
+    {
+      "question": "What was the Marshall plan?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.923426866531372
+    },
+    {
+      "question": "What accounted for the US avoidance of catastrophe at the hands of the British in 1814?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9235169887542725
+    },
+    {
+      "question": "What was a main organizational change proposed by the 9/11 Commission with regard to the U.S. intelligence community?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.587952136993408
+    },
+    {
+      "question": "The government body formed to coordinate American foreign and military policy is known as",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5883898735046387
+    },
+    {
+      "question": "What drives US foreign policy according to the Marxist perspective?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5887579917907715
+    },
+    {
+      "question": "Why might American exceptionalism lead to opposition to world government?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.5891048908233643
+    },
+    {
+      "question": "Which of the following considers states to be the primary actors in international relations?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.589446783065796
+    },
+    {
+      "question": "The importance of oil in shaping U.S. foreign policy helps to highlight",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.5897860527038574
+    },
+    {
+      "question": "The president's principal civilian adviser on the military is the",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.5902230739593506
+    },
+    {
+      "question": "How do Ideational approaches to US foreign policy during the Cold War differ from Realist accounts of the same period?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.590526819229126
+    },
+    {
+      "question": "How did the relationship between President and Congress develop under George H.W. Bush and Bill Clinton?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.5906460285186768
+    },
+    {
+      "question": "Which of the following points supports the argument for American unilateralism?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.590737819671631
+    },
+    {
+      "question": "Historically, what has been the general pattern of defense spending in the United States?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.92374587059021
+    },
+    {
+      "question": "International development may be tied to the security of the state, why?",
+      "model_answer": "D",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.924114942550659
+    },
+    {
+      "question": "What was the 'Domino Theory'?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.924456834793091
+    },
+    {
+      "question": "What has been an effective way of disbursing US foreign aid to encourage change in target states?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.9249258041381836
+    },
+    {
+      "question": "What was established at Bretton Woods in 1994 to stabilize the global economy?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9279448986053467
+    },
+    {
+      "question": "Which of the following is NOT a good predictor of which states will get nuclear weapons?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.928056001663208
+    },
+    {
+      "question": "What was 'democratic enlargement'?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.9281489849090576
+    },
+    {
+      "question": "What is meant by the phrase 'empire by invitation'?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.9282419681549072
+    },
+    {
+      "question": "In what way did the George W Bush administration change the direction of US foreign policy?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.9283339977264404
+    },
+    {
+      "question": "Peace, commerce, and honest friendship with all nations, entangling alliances with none'. Identify the speaker.",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9284238815307617
+    }
+  ]
+}

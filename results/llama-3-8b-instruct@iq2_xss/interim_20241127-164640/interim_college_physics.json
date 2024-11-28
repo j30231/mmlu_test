@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq2_xss",
+    "ntrain": 0,
+    "ntest": 1,
+    "timestamp": "20241127-164655"
+  },
+  "subject": "college_physics",
+  "category": "STEM",
+  "correct_rate": 0.0,
+  "evaluation_results": [
+    {
+      "question": "The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the detector will detect photons",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 0.5081450939178467
+    }
+  ]
+}

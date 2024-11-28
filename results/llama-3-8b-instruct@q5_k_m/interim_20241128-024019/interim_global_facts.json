@@ -1,0 +1,713 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@q5_k_m",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-025550"
+  },
+  "subject": "global_facts",
+  "category": "other (business, health, misc.)",
+  "correct_rate": 44.0,
+  "evaluation_results": [
+    {
+      "question": "As of 2016, about what percentage of adults aged 18 years or older were overweight?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.798865795135498
+    },
+    {
+      "question": "What was GDP per capita in the United States in 1850 when adjusting for inflation and PPP in 2011 prices?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7990000247955322
+    },
+    {
+      "question": "As of 2019, about what percentage of people from the United States says homosexuality should be accepted by society?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.7990918159484863
+    },
+    {
+      "question": "Which of the following countries generated the most total energy from solar sources in 2019?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.7992019653320312
+    },
+    {
+      "question": "Controlling for inflation and PPP-adjustment, about how much did GDP per capita increase from 1950 to 2016 in Japan?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.7993011474609375
+    },
+    {
+      "question": "What is the biggest cause of death in children under five years old (as of 2017)?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.799388885498047
+    },
+    {
+      "question": "As of 2019, about what percentage of the global population does not have access to safe drinking water?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.7994768619537354
+    },
+    {
+      "question": "About what percentage of survey respondents from India report having paid a bribe in the last year to access public services (such as education; judiciary; medical and health; police; registry and permit services; utilities; tax revenue and customs; and land service) as of 2017?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.7995688915252686
+    },
+    {
+      "question": "As of 2017, what fraction of the population in Brazil used the internet in the past three months?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.79966402053833
+    },
+    {
+      "question": "As of 2017, what fraction of the population in India used the internet in the past three months?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7997519969940186
+    },
+    {
+      "question": "As of 2018, about what percentage of Indians say that having an increasing number of people of many different races, ethnic groups and nationalities in their country makes it a better place to live (as opposed to worse or no difference)?",
+      "model_answer": "C.",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.7414987087249756
+    },
+    {
+      "question": "As of 2019, about what percentage of the world population lives in extreme poverty (less than $1.90 a day)?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.74187970161438
+    },
+    {
+      "question": "As of 2020, about what percentage of the world population practices open defecation?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.7422127723693848
+    },
+    {
+      "question": "Which of the following is not an element of the redistribution-with-growth policy approach?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.7425427436828613
+    },
+    {
+      "question": "About what percentage of the global population was literate in 1950?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.742889881134033
+    },
+    {
+      "question": "As of 2016, about what percentage of adults aged 18 years or older were obese?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.743433952331543
+    },
+    {
+      "question": "As of 2019, about what percentage of Germans say the relationship between the U.S. and Germany is good?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.743860960006714
+    },
+    {
+      "question": "As of 2017, what percentage of Americans live in urban areas?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.7439799308776855
+    },
+    {
+      "question": "What was GDP per capita in the United States in 1950 when adjusting for inflation and PPP in 2011 prices?",
+      "model_answer": "B.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.7440807819366455
+    },
+    {
+      "question": "In 2016, about how many people in the United States were homeless?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.744173765182495
+    },
+    {
+      "question": "In 1965 how many Americans thought that sending troops to Vietnam was a mistake?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.853421926498413
+    },
+    {
+      "question": "As of 2013, share of people in the Ethiopia who think political parties are corrupt is",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.8538599014282227
+    },
+    {
+      "question": "In 1997, the World Bank found that the fraction of the world’s population living in low and lower-middle income countries—that is, countries with per capita incomes of $1230 or less—was approximately",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.8542020320892334
+    },
+    {
+      "question": "As of 2015, agriculture made up about what percentage of total Indian GDP?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8545610904693604
+    },
+    {
+      "question": "Which of the following is true as of 2020?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.855025053024292
+    },
+    {
+      "question": "As of 2019, about what percentage of people from Brazil says homosexuality should be accepted by society?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.855391025543213
+    },
+    {
+      "question": "As of 2017, the share of GDP spent on the military by Saudi Arabia is about",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.855515956878662
+    },
+    {
+      "question": "As of 2019, about what share of electricity came from fossil fuels in the United States?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8556079864501953
+    },
+    {
+      "question": "What is the percentage of children aged 13-15 in Egypt who reported being bullied at least once in the past couple of months as of 2015?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.8556981086730957
+    },
+    {
+      "question": "As of 2018, about what percentage of US adults say criminal risk assessment for people up for parole is an unreasonable application of algorithmic decision making?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.85578989982605
+    },
+    {
+      "question": "In 2018, about how many chickens were killed for meat production?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.7619707584381104
+    },
+    {
+      "question": "In 2016, what percentage of the population of South Sudan had access to electricity?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.7632718086242676
+    },
+    {
+      "question": "About what percentage of survey respondents from Mexico report having paid a bribe in the last year to access public services (such as education; judiciary; medical and health; police; registry and permit services; utilities; tax revenue and customs; and land service) as of 2017?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.7637269496917725
+    },
+    {
+      "question": "Controlling for inflation and PPP-adjustment, about how much did GDP per capita increase from 1950 to 2016 in China?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.7638440132141113
+    },
+    {
+      "question": "Ross Perot makes polling history by leading the presidential race briefly in June as a third-party candidate with 39%. He winds up with _% of the popular vote.",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.7639358043670654
+    },
+    {
+      "question": "As of 2019, about what percentage of Turks say God plays an important role in their life?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.7640280723571777
+    },
+    {
+      "question": "Which of the following was responsible for the most death in the 20th century?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.764117956161499
+    },
+    {
+      "question": "What is the percentage of children aged 13-15 in the United States who reported being in a physical fight at school, one or more times during the past 12 months as of 2015?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.764207124710083
+    },
+    {
+      "question": "Controlling for inflation and PPP-adjustment, about how much did GDP per capita increase from 1950 to 2016 in South Korea?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.764295816421509
+    },
+    {
+      "question": "As of 2019, about what percentage of people from Turkey agree that the state is run for the benefit of all the people?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.764382839202881
+    },
+    {
+      "question": "As of 2015, what percentage of the global population over 15 years old was literate?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6826939582824707
+    },
+    {
+      "question": "About what percentage of survey respondents from China report having paid a bribe in the last year to access public services (such as education; judiciary; medical and health; police; registry and permit services; utilities; tax revenue and customs; and land service) as of 2017?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.6830549240112305
+    },
+    {
+      "question": "As of 2019, which of the following had the lowest life expectancy?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.683393955230713
+    },
+    {
+      "question": "As of 2019, unsafe water is responsible for about how many deaths each year?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.6838369369506836
+    },
+    {
+      "question": "Which of the following causes more deaths globally each year (as of 2017)?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.6841719150543213
+    },
+    {
+      "question": "About how many people are infected by HIV/AIDS as of 2020?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.684504985809326
+    },
+    {
+      "question": "What is the percentage of children aged 13-15 in the United States who reported being bullied at least once in the past couple of months as of 2015?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.6848719120025635
+    },
+    {
+      "question": "As of 2019, about what percentage of South Koreans say it is necessary to believe in God in order to be moral and have good values?",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.68521785736084
+    },
+    {
+      "question": "What is the percentage of children aged 13-15 in Japan who reported being bullied at least once in the past couple of months as of 2015?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.6855571269989014
+    },
+    {
+      "question": "As of 2018, about what percentage of US adults say computer programs will always reflect human bias?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.6861319541931152
+    },
+    {
+      "question": "As of 2017, the share of GDP spent on the military by China is about",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.174287796020508
+    },
+    {
+      "question": "The conjecture that inequality first increases with development, then decreases with further development (known as the “inverted U hypothesis”) has, as of 2020, been",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.1748507022857666
+    },
+    {
+      "question": "Worldwide, 30 year old men have spent 10 years in school, on average. How many years have women of the same age spent in school, as of 2020?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.175417900085449
+    },
+    {
+      "question": "As of 2017, the share of deaths in Greenland by suicide is about",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.175773859024048
+    },
+    {
+      "question": "As of 2019, about what percentage of people from Russia says homosexuality should be accepted by society?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.1762118339538574
+    },
+    {
+      "question": "As of 2019, about what percentage of Americans say the relationship between the U.S. and Germany is good?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.176541805267334
+    },
+    {
+      "question": "As of 2019, about what percentage of Americans say it is very important to have free media in our country without government/state censorship?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.177912712097168
+    },
+    {
+      "question": "In 1987 during Iran Contra what percent of Americans believe Reagan was witholding information?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.178457736968994
+    },
+    {
+      "question": "In Sub-Saharan Africa, as of 2020,",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.1785738468170166
+    },
+    {
+      "question": "World Bank data show that in 1995, the poorest 20% of households accounted for 7.5% of household income in Niger, the next 20% of households accounted for 11.8% of income, the middle 20% accounted for 15.5% of income, the second richest 20% accounted for 21.1% of income, and the top 20% accounted for 44.1% of income. What was the cumulative income share of the bottom 60% of households in Niger?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.17866587638855
+    },
+    {
+      "question": "How many children between the ages of 5-14 worked globally as of 2012?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.0403740406036377
+    },
+    {
+      "question": "Different less developed countries have different levels of secondary school enrollment. Some countries with high secondary-school enrollment are, as of 2020,",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.0408802032470703
+    },
+    {
+      "question": "The percentage of children in Vietnam (age 8) who reported physical punishment by teachers in the past week in 2009 was about what?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0410029888153076
+    },
+    {
+      "question": "The percentage of children in India (age 8) who reported physical punishment by teachers in the past week in 2009 was about what?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.0410990715026855
+    },
+    {
+      "question": "Consider the following statements: (1) In every country, people think other individuals in their country are less happy than they actually are. (2) In the United States, women’s happiness has increased both absolutely and relative to men. Which of these statements is True/False?",
+      "model_answer": "B. True, False",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0411932468414307
+    },
+    {
+      "question": "In 2017, about how many people died from terrorism globally?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.041288137435913
+    },
+    {
+      "question": "In 1935 roughly how many Americans were in favor of Social Security act?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.041377067565918
+    },
+    {
+      "question": "Which of the following countries emitted the most CO2 per capita in 2017?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.0414671897888184
+    },
+    {
+      "question": "As of 2019, about what percentage of Indians say it is necessary to believe in God in order to be moral and have good values?",
+      "model_answer": "B.",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.0415589809417725
+    },
+    {
+      "question": "What is the percentage of children aged 13-15 in China who reported being in a physical fight at school, one or more times during the past 12 months as of 2015?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.0417051315307617
+    },
+    {
+      "question": "The percentage of children in Ethiopia (age 8) who reported physical punishment by teachers in the past week in 2009 was about what?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8029119968414307
+    },
+    {
+      "question": "As of 2018, about what percentage of people from Tunisia say that having an increasing number of people of many different races, ethnic groups and nationalities in their country makes it a better place to live (as opposed to worse or no difference)?",
+      "model_answer": "B.",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.8040289878845215
+    },
+    {
+      "question": "As of 2015, the global fertility rate was about",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.804929733276367
+    },
+    {
+      "question": "What is the median international income as of 2020?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8059027194976807
+    },
+    {
+      "question": "Before being reelected for a third term as president how many Americans approved of running a third time?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.806471824645996
+    },
+    {
+      "question": "As of 2019, about what percentage of Italians say it is very important to have free media in our country without government/state censorship?",
+      "model_answer": "B.",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8072898387908936
+    },
+    {
+      "question": "Public spending on education in the world is about what percentage of global GDP as of 2017?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.807663917541504
+    },
+    {
+      "question": "As of 2013, which of the following countries had the highest per capita rate of homelessness?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.808138847351074
+    },
+    {
+      "question": "Overall, the growth rate of average incomes in less developed countries between 1960 and 1995",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8084468841552734
+    },
+    {
+      "question": "As of 2015, about what percentage of the world’s land area is forested?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8085649013519287
+    },
+    {
+      "question": "The greatest population growth rate has taken place",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8992161750793457
+    },
+    {
+      "question": "The global HIV/AIDS death rate is highest for which of these age groups?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8995821475982666
+    },
+    {
+      "question": "As of 2015, agriculture made up about what percentage of total US GDP?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.8999171257019043
+    },
+    {
+      "question": "As of 2017, what percentage of Indians live in urban areas?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.900360107421875
+    },
+    {
+      "question": "Consider the following statements: (1) As countries get richer, the population tends to report higher average life satisfaction. (2) Important life events such as marriage or divorce do affect our happiness, but have surprisingly little long-term impact. Which of these statements is True/False, as of 2020?",
+      "model_answer": "B. True, False",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.9008240699768066
+    },
+    {
+      "question": "At its peak, what was the approximate difference in approval of school desegration from the South and the rest of the U.S.?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9009532928466797
+    },
+    {
+      "question": "As of 2013, share of people in the United States who think political parties are corrupt is",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.901048183441162
+    },
+    {
+      "question": "Which of the following countries invested the largest fraction of its GDP in renewable energy in 2015?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.9011380672454834
+    },
+    {
+      "question": "As of 2020, about how much do you need to make annually to be among the richest one percent in the world?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.9012322425842285
+    },
+    {
+      "question": "In 1943 how many Americans believed in the Holocaust?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.90132212638855
+    },
+    {
+      "question": "Which of the following countries emitted the most CO2 in 2017?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.6495039463043213
+    },
+    {
+      "question": "At the time of independence, there were already hundreds of thousands of university graduates in ____, but hardly any at all in ____.",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.6496169567108154
+    },
+    {
+      "question": "As of 2013, share of people in the India who think political parties are corrupt is",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.6497139930725098
+    },
+    {
+      "question": "As of 2019, about what percentage of French people say God plays an important role in their life?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.6498091220855713
+    },
+    {
+      "question": "As of 2017, the share of GDP spent on the military by the United States is about",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.649902105331421
+    },
+    {
+      "question": "As of 2017, the share of global deaths by suicide is about",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.649991035461426
+    },
+    {
+      "question": "Many countries that became independent after World War II found that the legacy of colonialism hindered their economic development. The list of hindrances included",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.650080919265747
+    },
+    {
+      "question": "Which of the following mental disorders is most prevalent in the world?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.6501731872558594
+    },
+    {
+      "question": "As of 2017, how many people in the world have some access to electricity?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.65026593208313
+    },
+    {
+      "question": "Before Nixon resigned how many believed he should be removed from office?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.650362014770508
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@iq2_xss",
+    "ntrain": 0,
+    "ntest": 1,
+    "timestamp": "20241127-164734"
+  },
+  "subject": "public_relations",
+  "category": "social sciences",
+  "correct_rate": 100.0,
+  "evaluation_results": [
+    {
+      "question": "Which common public relations tactic involves sending journalists on visits to appropriate locations?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 0.5709347724914551
+    }
+  ]
+}

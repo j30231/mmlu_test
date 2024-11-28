@@ -1,0 +1,1434 @@
+{
+  "metadata": {
+    "model_name": "llama-3-8b-instruct@q3_k_l",
+    "ntrain": 0,
+    "ntest": -1,
+    "timestamp": "20241128-090836"
+  },
+  "subject": "high_school_chemistry",
+  "category": "STEM",
+  "correct_rate": 44.827586206896555,
+  "evaluation_results": [
+    {
+      "question": "London dispersion forces are caused by",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.3139569759368896
+    },
+    {
+      "question": "Carbon has an atomic radius of 77 pm and a first ionization energy of 1086 kJ/mol.",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.314383029937744
+    },
+    {
+      "question": "An unknown substance is found to have a high melting point. In addition, it is a poor conductor of electricity and does not dissolve in water. The substance most likely contains",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.314727783203125
+    },
+    {
+      "question": "The net ionic equation expected when solutions of NH4Br and AgNO3 are mixed together is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.315336227416992
+    },
+    {
+      "question": "The symbol for antimony is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.3171160221099854
+    },
+    {
+      "question": "A sealed, rigid container contains three gases: 28.0 g of nitrogen, 40.0 g of argon, and 36.0 g of water vapor. If the total pressure exerted by the gases is 2.0 atm, what is the partial pressure of the nitrogen?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.317706823348999
+    },
+    {
+      "question": "Monatomic ions of the representative elements are often",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.3180887699127197
+    },
+    {
+      "question": "Hund's rule requires that",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.318448066711426
+    },
+    {
+      "question": "All of the following ions have the same electron configuration except",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3188037872314453
+    },
+    {
+      "question": "Sulfurous acid is a weak acid, while sulfuric acid is a much stronger acid because",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.3191421031951904
+    },
+    {
+      "question": "What is the molarity of a sodium hydroxide solution that requires 42.6 mL of 0.108 M HCl to neutralize 40.0 mL of the base?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.0355868339538574
+    },
+    {
+      "question": "Which of the following substances has an asymmetrical molecular structure?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.035982847213745
+    },
+    {
+      "question": "Hydrogen fluoride, HF, is a liquid at 15°C. All other hydrogen halides (represented by HX, where X is any other halogen) are gases at the same temperature. Why?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.0369040966033936
+    },
+    {
+      "question": "The reaction of Br2(g) with Cl2(g) to form BrCl(g) has an equilibrium constant of 15.0 at a certain temperature. If 10.0 grams of BrCl is initially present in a 15.0-liter reaction vessel, what will the concentration of BrCl be at equilibrium?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.037256956100464
+    },
+    {
+      "question": "A sample of liquid NH3 is brought to its boiling point. Which of the following occurs during the boiling process?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.037598133087158
+    },
+    {
+      "question": "A student has a liter of a 0.100 M solution of a strong acid. To prepare a buffer, this should be mixed with",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.0379600524902344
+    },
+    {
+      "question": "Which of the following indicates that a reaction is spontaneous?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.0384700298309326
+    },
+    {
+      "question": "Which of the following is expected to have the largest bond polarity?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.038822889328003
+    },
+    {
+      "question": "A mechanism is a sequence of elementary reactions that add up to the overall reaction stoichiometry. A substance that is produced in one elementary reaction and consumed in another is called",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.039168119430542
+    },
+    {
+      "question": "Approximately how many half-lives will it take to reduce 10.0 kg of a radioactive substance to 1.0 microgram of that substance?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.0395169258117676
+    },
+    {
+      "question": "S(s) + O2(g) → SO2(g)",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.714900016784668
+    },
+    {
+      "question": "Three half-lives after an isotope is prepared,",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.715276002883911
+    },
+    {
+      "question": "Which pair of reactants will have no net ionic equation (that is, all the ions cancel)?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.7160379886627197
+    },
+    {
+      "question": "Which of the following is expected to be the least soluble in water?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.716715097427368
+    },
+    {
+      "question": "The rate law may be written using stoichiometric coefficients for which of the following?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.7170708179473877
+    },
+    {
+      "question": "A liquid element that is a dark-colored, nonconducting substance at room temperature is",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.717427968978882
+    },
+    {
+      "question": "The molecule with a tetrahedral shape is",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.7177929878234863
+    },
+    {
+      "question": "The ideal gas law is successful for most gases because",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.7181308269500732
+    },
+    {
+      "question": "What is an alpha particle?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.71846604347229
+    },
+    {
+      "question": "Your supervisor asks you to determine the enthalpy of a certain chemical reaction. Which would you do?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.7188079357147217
+    },
+    {
+      "question": "The bond length between any two nonmetal atoms is achieved under which of the following conditions?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.4276950359344482
+    },
+    {
+      "question": "The oxidation number of chlorine in the perchlorate ion, ClO4–, is",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.4280660152435303
+    },
+    {
+      "question": "There are a number of experiments for the determination of the molecular mass of a gas. One method begins by heating a solid or liquid in a flask to produce a gaseous product. The gas passes through a tube and displaces water in an inverted, water-filled bottle. The mass of the starting material is measured, along with the volume of the displaced water and the temperature of the system. The pressure in the inverted water-filled bottle is equal to the external pressure. Once the barometric pressure has been recorded, what other information is needed to finish the experiment?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.4284110069274902
+    },
+    {
+      "question": "The melting point of straight-chain hydrocarbons increases as the number of carbon atoms increase. The reason for this is the",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.4287660121917725
+    },
+    {
+      "question": "A sample of a compound known to consist of only carbon, hydrogen, and oxygen is found to have a total mass of 29.05 g. If the mass of the carbon is 18.02 g and the mass of the hydrogen is 3.03 g, what is the empirical formula of the compound?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.429121971130371
+    },
+    {
+      "question": "Which would be the easiest way to burn an iron nail?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.4294731616973877
+    },
+    {
+      "question": "Which of the following has an octet of electrons around the central atom?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.4298179149627686
+    },
+    {
+      "question": "How many milliliters of 0.250 M KOH does it take to neutralize completely 50.0 mL of 0.150 M H3PO4?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.4301609992980957
+    },
+    {
+      "question": "NH4+(aq) + NO2- (aq) → N2(g) + 2H2O(l) Increasing the temperature of the above reaction will increase the rate of reaction. Which of the following is NOT a reason that increased temperature increases reaction rate?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.4305031299591064
+    },
+    {
+      "question": "The relationship between the vapor pressure of a liquid and the heat of vaporization is expressed in the",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.430851936340332
+    },
+    {
+      "question": "Of the following pairs of elements, which pair has the second element with the larger electronegativity based on its position in the periodic table?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.963628053665161
+    },
+    {
+      "question": "The units for R, the ideal gas law equation constant, may be",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.963999032974243
+    },
+    {
+      "question": "Which of the following pair of liquids is expected to be immiscible?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.964338779449463
+    },
+    {
+      "question": "Of the following, the most important experimental information used to deduce the structure of the atom was",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.9647319316864014
+    },
+    {
+      "question": "para-dichlorobenzene is used as \"mothballs.\" This compound can also be named",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9651379585266113
+    },
+    {
+      "question": "Radon is a health hazard because",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.9655559062957764
+    },
+    {
+      "question": "Each resonance form of the nitrate ion, NO3-, has how many sigma and how many pi bonds?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.9659640789031982
+    },
+    {
+      "question": "Which of the following can form hydrogen bonds?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.966377019882202
+    },
+    {
+      "question": "The functional group that represents an organic acid is written as (Note: R represents the rest of the molecule)",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.9667809009552
+    },
+    {
+      "question": "A certain radioactive material has a half-life of 36 minutes. Starting with 10.00 grams of this material, how many grams will be left after 2 hours?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.9671809673309326
+    },
+    {
+      "question": "What is the pH of a solution prepared by dissolving 0.1665 mole of hypochlorous acid (HClO) in enough water to make 500 mL of solution? The Ka is 3.0 × 10^-4",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.207242965698242
+    },
+    {
+      "question": "Iron(III) hydroxide has Ksp = 1.6 × 10^-39. What is the molar solubility of this compound?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2077081203460693
+    },
+    {
+      "question": "The subatomic particle with the most penetrating ability is",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.2081050872802734
+    },
+    {
+      "question": "Consider the Lewis structures for the following molecules: CO2, CO32-, NO2-, and NO3-. Which molecule or molecules exhibit sp2 hybridization around the central atom?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.2084710597991943
+    },
+    {
+      "question": "The photoelectron spectrum of carbon has three equally sized peaks. What peak is at the lowest energy?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.208820104598999
+    },
+    {
+      "question": "The electrolysis of molten magnesium bromide is expected to produce",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.209254026412964
+    },
+    {
+      "question": "The Arrhenius equation may be used to determine",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.2096071243286133
+    },
+    {
+      "question": "Nickel (Z = 28, A = 59) has a first ionization energy of 737 kJ/mol and a boiling point of 2913 °C, while Pt (Z = 78, A = 195) has a first ionization energy of 870 kJ/mol and a boiling point of 3825 °C. Which of the following are the most reasonable values of ionization energy and boiling point for palladium?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.210089921951294
+    },
+    {
+      "question": "In acid solution the bromate ion, BrO3- can react with other substances, resulting in Br2. Balance the half-reaction for bromate ions forming bromine. The balanced half-reaction has",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.2108540534973145
+    },
+    {
+      "question": "0.0025 mol of a weak, monoprotic acid is dissolved in 0.250 L of distilled water. The pH was then measured as 4.26. What is the pKa of this weak acid?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.211561918258667
+    },
+    {
+      "question": "Potassium-40 is a minor isotope found in naturally occurring potassium. It is radioactive and can be detected on simple radiation counters. How many protons, neutrons, and electrons does potassium-40 have when it is part of K2SO4?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.156715154647827
+    },
+    {
+      "question": "Which of the following reactions is expected to have the greatest decrease in entropy?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.157090902328491
+    },
+    {
+      "question": "What is the ionization constant, Ka, for a weak monoprotic acid if a 0.060 molar solution has a pH of 2.0?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1574301719665527
+    },
+    {
+      "question": "Solvents A and B form an ideal solution. Solvent A has a vapor pressure of 345 torr at room temperature. At the same temperature, solvent B has a vapor pressure of 213 torr. What is the vapor pressure of a mixture where the mole fraction of A is 0.285?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.1577789783477783
+    },
+    {
+      "question": "Which of the following is the strongest Brønsted-Lowry acid?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.158128023147583
+    },
+    {
+      "question": "Which of the following molecules cannot hydrogen bond with molecules identical to itself but can hydrogen bond with one of the molecules above or below it in the following responses?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.15848708152771
+    },
+    {
+      "question": "Which following pair of substances can be used to make a buffer solution?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.1588292121887207
+    },
+    {
+      "question": "In which of the following is the negative end of the bond written last?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.159170150756836
+    },
+    {
+      "question": "When will Kp and Kc have the same numerical value?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.159511089324951
+    },
+    {
+      "question": "Silver metal, often amalgamated with mercury, is used to reduce substances to a desired oxidation state. If the silver metal amalgam cannot be used because of concerns about mercury, which of the following would be a reasonable and safe substitute?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.159849166870117
+    },
+    {
+      "question": "PCl3(g) + Cl2(g) ↔ PCl5(g) ΔH = -92.5 kJ/mol In which of the following ways could the reaction above be manipulated to create more product?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.5857489109039307
+    },
+    {
+      "question": "A 25 g sample of a liquid was heated to 100 °C and then quickly transferred to an insulated container holding 100 g of water at 22 °C. The temperature of the mixture rose to reach a final temperature of 35 °C. Which of the following can be concluded?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.5861287117004395
+    },
+    {
+      "question": "A sample of oxygen gas at 50 °C is heated, reaching a final temperature of 100 °C. Which statement best describes the behavior of the gas molecules?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.586474895477295
+    },
+    {
+      "question": "What is the empirical formula of a compound that is 51.9% carbon, 4.86% hydrogen, and 43.2% bromine",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.5868308544158936
+    },
+    {
+      "question": "Three steel containers hold gas samples. The containers are all the same size and at the same temperature. One container has 4.0 g of helium, another has 28.0 g of nitrogen, and the third has 44.0 g of carbon dioxide. Pick the FALSE statement from the following list:",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.5871798992156982
+    },
+    {
+      "question": "Determine the final temperature, in °C, of a sample of helium gas. The sample initially occupied a volume of 5.00 L at 127°C and 875 mm Hg. The sample was heated, at constant pressure, until it occupied a volume of 10.00 L.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.5875561237335205
+    },
+    {
+      "question": "Substances whose Lewis structures must be drawn with an unpaired electron are called",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.5882768630981445
+    },
+    {
+      "question": "Which of the following molecules is expected to have the highest normal boiling point?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.5889928340911865
+    },
+    {
+      "question": "Which net ionic equation below represents a possible reaction that takes place when a strip of magnesium metal is oxidized by a solution of chromium (III) nitrate?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.589550733566284
+    },
+    {
+      "question": "What is the conjugate acid of the H2PO4- ion?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.5899667739868164
+    },
+    {
+      "question": "A 25 g sample of a solid was heated to 100 °C and then quickly transferred to an insulated container holding 100 g of water at 26 °C. The temperature of the mixture rose to reach a final temperature of 37 °C. Which of the following can be concluded?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.9250237941741943
+    },
+    {
+      "question": "Which of the following processes is an irreversible reaction?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.9253907203674316
+    },
+    {
+      "question": "Starting with a stock solution of 18.0 M H2SO4, what is the proper procedure to create a 1.00 L sample of a 3.0 M solution of H2SO4 in a volumetric flask?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.925734758377075
+    },
+    {
+      "question": "Which of the following does not contain oxygen?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.926107883453369
+    },
+    {
+      "question": "Formation of a solution can often be visualized as a three-step process. Step 1. Solvent molecules are separated from each other to make space for the solute. Step 2. Solute molecules are separated so they fit into spaces in the solvent. Step 3. Separated solute and solvent are brought together, filling in the spaces. Which of the following statements about the energy involved in the above is correct?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.9269418716430664
+    },
+    {
+      "question": "Consider the Lewis structures for the following molecules: CO2, CO32-, NO2-, and NO3-. Which molecule would have the shortest bonds?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.927372932434082
+    },
+    {
+      "question": "In determining the order for reactant A in a certain reaction, the concentrations of all other reactants are held constant while the concentration of A is tripled from one experiment to another. The reaction rate is found to triple. The appropriate exponent for A in the rate law is",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.9278147220611572
+    },
+    {
+      "question": "The simplest alkene has",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.928341865539551
+    },
+    {
+      "question": "2Ag+(aq) + Fe(s) → 2Ag(s) + Fe2+(aq) Which of the following would cause an increase in potential in the voltaic cell described by the above reaction?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.928712844848633
+    },
+    {
+      "question": "Hypochlorous acid is an unstable compound, and one of the decomposition products is chlorine gas, Cl2. The decomposition of the acid lowers its concentration over time. What effect will the decomposition of one-fourth of the acid have on the agreement between the endpoint of the titration and the equivalence point during a titration with standard sodium hydroxide?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.929399013519287
+    },
+    {
+      "question": "The name for CH3CHBrCHClCH2CH3 is",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.1647849082946777
+    },
+    {
+      "question": "Under which conditions will a real gas most closely behave as an ideal gas?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.165212869644165
+    },
+    {
+      "question": "How many electrons, neutrons, and protons are in an atom of 52Cr?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.165679931640625
+    },
+    {
+      "question": "S(s) + O2(g) → SO2(g)",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.166167736053467
+    },
+    {
+      "question": "Sulfur dioxide reacts with oxygen to form sulfur trioxide in the presence of a catalyst. The equilibrium constant, Kp, at a certain temperature is 3.0 × 10^22. A 2.0-liter flask has enough SO3 added to it to produce a pressure of 0.789 atm Hg. After the reaction comes to equilibrium, the expected partial pressure of O2 will be",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.166538953781128
+    },
+    {
+      "question": "How many electrons, neutrons, and protons are in an atom of Cr?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.166888952255249
+    },
+    {
+      "question": "When an ideal gas is allowed to expand isothermally, which one of the following is true?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.167330741882324
+    },
+    {
+      "question": "An ideal solution is a",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.1676878929138184
+    },
+    {
+      "question": "Which of the following is true for all bases?",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.168030023574829
+    },
+    {
+      "question": "The Pauli exclusion principle states that",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.16837477684021
+    },
+    {
+      "question": "Joseph Priestly discovered oxygen gas by the decomposition of solid mercury(II) oxide, HgO, to oxygen gas, O2, and liquid mercury metal, Hg. How many moles of oxygen gas will form when 4.32 g of solid mercury(II) oxide decomposes? The formula mass of mercury(II) oxide is 216 g mol^-1.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8948779106140137
+    },
+    {
+      "question": "Atoms of four elements are examined: carbon, nitrogen, neon, and sulfur. Atoms of which element are most likely to form a structure with the formula XF6 (where X is one of the four atoms)?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.895509958267212
+    },
+    {
+      "question": "Chlorine gas reacts most readily with",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.896251916885376
+    },
+    {
+      "question": "An ester is made by reacting",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.896790027618408
+    },
+    {
+      "question": "Atoms of four elements are examined: carbon, nitrogen, neon, and sulfur. Which element would have a photoelectron spectra in which the peak representing electrons with the lowest ionization energy would be three times higher than all other peaks?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8971550464630127
+    },
+    {
+      "question": "What is the work involved if a gas in a 2.0-liter container at 2.4 atmospheres pressure is allowed to expand against a pressure of 0.80 atmosphere?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.8975038528442383
+    },
+    {
+      "question": "Which of the following is incorrectly named?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.897840738296509
+    },
+    {
+      "question": "The standard state for redox reactions includes",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.8981800079345703
+    },
+    {
+      "question": "Chemists often ascribe the macroscopic properties of solids to the underlying microscopic structure. Silicon carbide is almost as hard and brittle as diamond. The solid state structure of silicon carbide is often described as",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.898521900177002
+    },
+    {
+      "question": "Which of the following may need to be balanced using the ion-electron method ?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.898953914642334
+    },
+    {
+      "question": "A solution is prepared by dissolving 30.0 grams of Ni(NO3)2 in enough water to make 250 mL of solution. What is the molarity of this solution?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.944599151611328
+    },
+    {
+      "question": "A solution of a weak base is titrated with a solution of a standard strong acid. The progress of the titration is followed with a pH meter. Which of the following observations would occur?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.9449691772460938
+    },
+    {
+      "question": "A 25 g sample of a liquid was heated to 95 °C and then quickly transferred to an insulated container holding 100 g of water at 26 °C. The temperature of the mixture rose to reach a final temperature of 37 °C. Which of the following can be concluded?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.9453089237213135
+    },
+    {
+      "question": "Changing which of the following will change the numerical value of the equilibrium constant?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.945662021636963
+    },
+    {
+      "question": "What is the general relationship between temperature and entropy for diatomic gases?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.946043014526367
+    },
+    {
+      "question": "Nitrogen's electronegativity value is between those of phosphorus and oxygen. Which of the following correctly describes the relationship between the three values?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.946398973464966
+    },
+    {
+      "question": "A solution contains a mixture of four different compounds: KCl(aq), Fe(NO3)3(aq), MgSO4(aq), and N2H4(aq). Which of these compounds would be easiest to separate via distillation?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.946744918823242
+    },
+    {
+      "question": "The dimerization of NO2(g) to N2O4(g) is an endothermic process. Which of the following will, according to Le Châtelier's principle, increase the amount of N2O4 in a reaction vessel?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.9472501277923584
+    },
+    {
+      "question": "Cerium(III) sulfate, Ce2(SO4)2, is less soluble in hot water than it is in cold. Which of the following conclusions may be related to this?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.94759202003479
+    },
+    {
+      "question": "The weight percent of sodium hydroxide dissolved in water is 50%. What is the mole fraction of sodium hydroxide?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.947929859161377
+    },
+    {
+      "question": "The most massive subatomic particle is the",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.9737629890441895
+    },
+    {
+      "question": "A 50.0 mL sample of 0.0025 M HBr is mixed with 50.0 mL of 0.0023 M KOH. What is the pH of the resulting mixture?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.9741499423980713
+    },
+    {
+      "question": "Which of the following geometries corresponds to a substance that has five sigma bonds and one nonbonding pair of electrons?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.9756839275360107
+    },
+    {
+      "question": "Which of the following should be named using Roman numerals after the cation?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.976701021194458
+    },
+    {
+      "question": "Which of the following is not a good measure of relative intermolecular attractive forces?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 2.9771199226379395
+    },
+    {
+      "question": "The Pauli exclusion principle states that",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.9774649143218994
+    },
+    {
+      "question": "Chlorine is often used to oxidize other substances. It makes a good bleach because it can oxidize many colored compounds. If chlorine is not available, what other substance can be used for oxidizing substances?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 2.977808952331543
+    },
+    {
+      "question": "A proposed mechanism for a reaction is as follows: NO2 + F2 →NO2F + F Slow step. F + NO2 → NO2F Fast step. What is the order of the overall reaction?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.9781830310821533
+    },
+    {
+      "question": "The units for the rate of a chemical reaction are",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 2.978563070297241
+    },
+    {
+      "question": "A stock solution of 12.0 M sulfuric acid is made available. What is the best procedure to make up 100. mL of 4.0 M sulfuric acid using the stock solution and water prior to mixing?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.978911876678467
+    },
+    {
+      "question": "To prepare a buffer, all of the following are needed except",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.1734163761138916
+    },
+    {
+      "question": "Of the following oxo acids, which is predicted to be the strongest acid?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.1737914085388184
+    },
+    {
+      "question": "According to the kinetic-molecular theory of gases,",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.174133062362671
+    },
+    {
+      "question": "Three 25.00 mL samples of approximately 0.10 M phenol, C6H5OH, Ka = 1.0 × 10^-10 were removed from a container and placed in separate 250 mL beakers. The samples were titrated with standard potassium hydroxide, KOH, solution. Cresol red was the acid-base indicator used in the titration. The samples required 31.75, 32.38, and 41.75 mL to reach the endpoint. Which of the following might explain why one of the samples required significantly more base to reach the endpoint?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.174706220626831
+    },
+    {
+      "question": "Which is correct about the calcium atom?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1754422187805176
+    },
+    {
+      "question": "Which of the following correctly lists the individual intermolecular attractive forces from the strongest to the weakest?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.176605224609375
+    },
+    {
+      "question": "Identify the Brønsted-Lowry conjugate acid-base pair in the following list.",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.177380323410034
+    },
+    {
+      "question": "What is the mass of one molecule of cholesterol (C27H46O, molecular mass = 386)?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.178133010864258
+    },
+    {
+      "question": "Using fundamental trends in electronegativity and bond strength, which of the following should be the strongest acid?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.1789963245391846
+    },
+    {
+      "question": "Examining data obtained from mass spectrometry supports which of the following?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.1795451641082764
+    },
+    {
+      "question": "When potassium perchlorate, KClO4, dissolves in water, the temperature of the resultant solution is lower than the initial temperature of the components. Which of the following conclusions may be related to this?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.7360341548919678
+    },
+    {
+      "question": "Hard materials such as silicon carbide, used for grinding wheels, are said to be examples of",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.736403226852417
+    },
+    {
+      "question": "A solution of sulfurous acid, H2SO3, is present in an aqueous solution. Which of the following represents the concentrations of three different ions in solution?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.7367382049560547
+    },
+    {
+      "question": "Which of the following is a reduction half-reaction? (1) Cu2+ + e- → Cu+ (2) Cu+ + e- → Cu0 (3) Fe2+ → Fe3+ + e-",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.737089157104492
+    },
+    {
+      "question": "The first ionization energy for a neutral atom of chlorine is 1.25 MJ/mol and the first ionization energy for a neutral atom of argon is 1.52 MJ/mol. How would the first ionization energy value for a neutral atom of potassum compare to those values?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.737462043762207
+    },
+    {
+      "question": "Which of the following is the correct order of increasing acid strength?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.73781418800354
+    },
+    {
+      "question": "During a chemical reaction, NO(g) gets reduced and no nitrogen-containing compound is oxidized. Which of the following is a possible product of this reaction?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.738225221633911
+    },
+    {
+      "question": "When using the ideal gas law, standard conditions for temperature and pressure are",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.738586187362671
+    },
+    {
+      "question": "Bromine has a normal boiling point of 59 °C, and iodine boils at 184 °C. The I2 molecule is much larger than Br2 (atomic radii are 114 and 133 pm, respectively). Which is the best reason for the large difference in boiling points?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.73903226852417
+    },
+    {
+      "question": "Atoms of four elements are examined: carbon, nitrogen, neon, and sulfur. Atoms of which element would have the strongest magnetic moment?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.739373207092285
+    },
+    {
+      "question": "Argon can be liquefied at low temperature because of",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.3058130741119385
+    },
+    {
+      "question": "Choose the reaction expected to have the greatest decrease in entropy.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.306193113327026
+    },
+    {
+      "question": "A 2.0 L flask holds 0.40 g of helium gas. If the helium is evacuated into a larger container while the temperature is held constant, what will the effect on the entropy of the helium be?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 4.3066041469573975
+    },
+    {
+      "question": "Chemical reactions can be classified as either heterogeneous or homogeneous. Which of the following equations below is best classified as a heterogeneous reaction?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.3069682121276855
+    },
+    {
+      "question": "What is the molar mass of a monoprotic weak acid that requires 26.3 mL of 0.122 M KOH to neutralize 0.682 gram of the acid?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 4.307336330413818
+    },
+    {
+      "question": "An experiment was performed to determine the moles of carbon dioxide gas formed (collected over water) when an acid reacts with limestone. To do this, a piece of dry limestone was weighed. Then carbon dioxide was collected until the limestone disappeared. The atmospheric pressure was measured at 0.965 atm. The temperature was 295 K. The volume of CO2 was measured to the nearest mL and corrected for the vapor pressure of water. The student continuously got low results from what was expected. Can you suggest why?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.30767822265625
+    },
+    {
+      "question": "Nitrous acid, HNO2, has a pKa value of 3.3. If a solution of nitrous acid is found to have a pH of 4.2, what can be said about the concentration of the conjugate acid/base pair found in solution?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 4.308026075363159
+    },
+    {
+      "question": "Which of the following best explains why the ionization of atoms can occur during photoelectron spectroscopy, even though ionization is not a thermodynamically favored process?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.3088061809539795
+    },
+    {
+      "question": "During the investigation of a chemical reaction by a chemistry student, she was able to determine that the reaction was nonspontaneous at 1 atm and 298 K. However, she learned that cooling the system with dry ice (-78°C) caused the reaction to become spontaneous. Which of the following combinations must apply to this reaction?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 4.309556007385254
+    },
+    {
+      "question": "Which of the following is a balanced chemical reaction?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 4.310270071029663
+    },
+    {
+      "question": "Identify the Brønsted-Lowry conjugate acid-base pair in the following list.",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.377204179763794
+    },
+    {
+      "question": "Neutral atoms of chlorine are bombarded by high-energy photons, causing the ejection of electrons from the various filled subshells. Electrons originally from which subshell would have the highest velocity after being ejected?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.377624988555908
+    },
+    {
+      "question": "Sulfurous acid is a weak acid, while sulfuric acid is a much stronger acid because",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.378347873687744
+    },
+    {
+      "question": "Which of the following is a radioactive element?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.3790700435638428
+    },
+    {
+      "question": "Which of the following is expected to have two or more resonance structures?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.379549980163574
+    },
+    {
+      "question": "Formation of a solution can often be visualized as a three-step process. Step 1. Solvent molecules are separated from each other to make space for the solute. Step 2. Solute molecules are separated so they fit into spaces in the solvent. Step 3. Separated solute and solvent are brought together filling in the spaces.All of the fundamental principles below are important in understanding the formation of solutions except which one?",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.379894971847534
+    },
+    {
+      "question": "Most transition metals share a common oxidation state of +2. Which of the following best explains why?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.3802499771118164
+    },
+    {
+      "question": "A 2.35-gram sample was dissolved in water, and the chloride ions were precipitated by adding silver nitrate (Ag+ + Cl- → AgCl). If 0.435 g of precipitate was obtained, what is the percentage of chlorine in the sample?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 3.3805861473083496
+    },
+    {
+      "question": "Nitrous acid is a weak acid, while nitric acid is a much stronger acid because",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3809430599212646
+    },
+    {
+      "question": "Determine the H+(aq) concentration in 1.0 M phenol, C6H5OH, solution. (The Ka for phenol is 1 × 10^-10.)",
+      "model_answer": "A",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3812968730926514
+    },
+    {
+      "question": "The equilibrium constant, Kc, for the dissociation of HI into hydrogen gas and iodine vapor is 21 at a certain temperature. What will be the molar concentration of iodine vapor if 15 grams of HI gas is introduced into a 12.0-L flask and allowed to come to equilibrium?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.3710358142852783
+    },
+    {
+      "question": "0.25 mol of a weak, monoprotic acid is dissolved in 0.25 L of distilled water. The pH was then measured as 4.26. What is the pKa of this weak acid?",
+      "model_answer": "A",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.3717968463897705
+    },
+    {
+      "question": "Fluorine has a normal boiling point of 85 K, and chlorine boils at 239 K. The Cl2 molecule is much larger than F2 (atomic radius is 99 pm for chlorine and is 64 pm for fluorine). Which is the best reason for the large difference in boiling points?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.372288703918457
+    },
+    {
+      "question": "Less than 1/1000 of the mass of any atom is contributed by",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.372635841369629
+    },
+    {
+      "question": "What is the molecular mass of a gas that has a density of 2.05 g/L at 26.0 °C and 722 torr?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.3730266094207764
+    },
+    {
+      "question": "Consider the Lewis structures for the following molecules: CO2, CO32-, NO2-, and NO3-. Which molecules are best represented by multiple resonance structures?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3733837604522705
+    },
+    {
+      "question": "Helium effuses through a pinhole 5.33 times faster than an unknown gas. That gas is most likely",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.3737826347351074
+    },
+    {
+      "question": "When a solid melts, the entropy change and enthalpy changes expected are",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.374126672744751
+    },
+    {
+      "question": "If 1.0 g of rubidium and 1.0 g of bromine are reacted, what will be left in measurable amounts (more than 0.10 mg) in the reaction vessel?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.3744657039642334
+    },
+    {
+      "question": "Magnesium has an atomic radius of 160 pm and a first ionization energy of 737 kJ. Based on periodic trends and the data given above, what are the most probable values for the ionization energy and atomic radius of sodium?",
+      "model_answer": "B",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.3748066425323486
+    },
+    {
+      "question": "Carbon exists in various forms called allotropes. Which of the following is not an allotrope of carbon?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8971798419952393
+    },
+    {
+      "question": "Based on periodic relationships, the concepts related to bond strength, and the concept relating bond strength to acid strength, which of the following correctly predicts the strength of binary acids from strongest to weakest?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.8975417613983154
+    },
+    {
+      "question": "Which of the following is considered a metalloid?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 2.8978888988494873
+    },
+    {
+      "question": "S(s) + O2(g) → SO2(g)",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.8982200622558594
+    },
+    {
+      "question": "Which of the following is expected to have the highest electronegativity?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 2.89855694770813
+    },
+    {
+      "question": "What is the pH of a solution made by dissolving 0.0300 mol of sodium ethanoate in enough water to make 50 mL of solution (Ka for ethanoic acid is 1.8 × 10^-5)?",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.8988847732543945
+    },
+    {
+      "question": "The specific rate constant, k, for a certain first-order reaction is 86 h^-1. What mass of a 0.0500 g sample of starting material will remain after 58 s?",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.8992178440093994
+    },
+    {
+      "question": "The molar heat of vaporization of water is +43.9 kJ. What is the entropy change for the vaporization of water?",
+      "model_answer": "B",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 2.8996307849884033
+    },
+    {
+      "question": "A metal is reacted with HCl to produce hydrogen gas. If 0.0623 gram of metal produces 28.3 mL of hydrogen at STP, the mass of the metal that reacts with one mole of hydrochloric acid is",
+      "model_answer": "D",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 2.900089740753174
+    },
+    {
+      "question": "The rate of a chemical reaction is determined by",
+      "model_answer": "B",
+      "correct_answer": 1,
+      "is_correct": true,
+      "response_time": 2.9008069038391113
+    },
+    {
+      "question": "A first-order reaction has a half-life of 34 minutes. What is the rate constant for this reaction?",
+      "model_answer": "C",
+      "correct_answer": 0,
+      "is_correct": false,
+      "response_time": 3.1836891174316406
+    },
+    {
+      "question": "A certain reaction is nonspontaneous under standard conditions, but becomes spontaneous at higher temperatures. What conclusions may be drawn under standard conditions?",
+      "model_answer": "C",
+      "correct_answer": 3,
+      "is_correct": false,
+      "response_time": 3.184058904647827
+    },
+    {
+      "question": "When collecting a gas over water, it is important to",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.1843981742858887
+    },
+    {
+      "question": "A sample of solid MgCl2 would be most soluble in which of the following solutions?",
+      "model_answer": "A",
+      "correct_answer": 0,
+      "is_correct": true,
+      "response_time": 3.1847739219665527
+    },
+    {
+      "question": "SO2Cl2 → SO2(g) + Cl2(g) At 600 K, SO2Cl2 will decompose to form sulfur dioxide and chlorine gas via the above equation. If the reaction is found to be first order overall, which of the following will cause an increase in the half life of SO2Cl2?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.1851789951324463
+    },
+    {
+      "question": "How many moles of propane (C3H8) are there in 6.2 g of propane?",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.185589075088501
+    },
+    {
+      "question": "You cannot prepare a buffer by",
+      "model_answer": "A",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 3.185992956161499
+    },
+    {
+      "question": "Which would be the easiest way to burn a copper penny?",
+      "model_answer": "C",
+      "correct_answer": 2,
+      "is_correct": true,
+      "response_time": 3.186405897140503
+    },
+    {
+      "question": "Which of the following molecules is a strong electrolyte when dissolved in water?",
+      "model_answer": "D",
+      "correct_answer": 3,
+      "is_correct": true,
+      "response_time": 3.186790943145752
+    },
+    {
+      "question": "Dissolving one mole of each of the following compounds in water results in solutions with different pH values. Under those conditions, which of the following acids will have the highest percentage ionization?",
+      "model_answer": "C",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 3.187122106552124
+    },
+    {
+      "question": "The collision theory of reaction rates does not include",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 0.9596331119537354
+    },
+    {
+      "question": "When the dichromate ion is reacted, one of its most common products is Cr3+. What is the oxidation state (oxidation number) of chromium in the dichromate ion? Does reduction or oxidation occur when dichromate forms Cr3+?",
+      "model_answer": "B",
+      "correct_answer": 2,
+      "is_correct": false,
+      "response_time": 0.9600720405578613
+    },
+    {
+      "question": "During the study of the reaction A → 2B, a chemist constructs several graphs. The graph of [A] versus time and the graph of ln [A] versus time both give a curved line; however, the graph of 1/[A] versus time and gives a straight line. This implies the rate law is",
+      "model_answer": "D",
+      "correct_answer": 1,
+      "is_correct": false,
+      "response_time": 0.9604182243347168
+    }
+  ]
+}
