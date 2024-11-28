@@ -1,18 +1,18 @@
-MMLU Test 소스코드
+MMLU Test Source Code
 
-HuggingFace cais/mmlu dataset을 통해서 테스트
-LLM Model (API방식) 에 대해서 평가 수행
+Test through HuggingFace cais/mmlu dataset
+Perform evaluation on LLM Model (API method)
 
-# 실행 예시
+# Example of execution
 
-## MMLU 카테고리와 서브젝트를 확인하는 방법
+## To check MMLU categories and subjects
 > python show_categories.py
 
 ###
 ```
-=== 카테고리 및 과목 목록 ===
+=== List of categories and subjects ===
 
-=== 전체 과목 리스트 (자동 모드용) ===
+=== List of all subjects (for automatic mode) ===
 1. [STEM] abstract_algebra
 2. [other (business, health, misc.)] anatomy
 3. [STEM] astronomy
@@ -71,10 +71,10 @@ LLM Model (API방식) 에 대해서 평가 수행
 56. [other (business, health, misc.)] virology
 57. [humanities] world_religions
 
-=== 카테고리별 과목 목록 (대화형 모드용) ===
+=== List of subjects by category (for interactive mode) ===
 
 1. STEM (18 subjects)
-   과목 목록:
+   List of subjects:
    1. abstract_algebra
    2. astronomy
    3. college_biology
@@ -95,7 +95,7 @@ LLM Model (API방식) 에 대해서 평가 수행
    18. machine_learning
 
 2. humanities (13 subjects)
-   과목 목록:
+   Subject list:
    1. formal_logic
    2. high_school_european_history
    3. high_school_us_history
@@ -111,7 +111,7 @@ LLM Model (API방식) 에 대해서 평가 수행
    13. world_religions
 
 3. social sciences (12 subjects)
-   과목 목록:
+   List of subjects:
    1. econometrics
    2. high_school_geography
    3. high_school_government_and_politics
@@ -126,7 +126,7 @@ LLM Model (API방식) 에 대해서 평가 수행
    12. us_foreign_policy
 
 4. other (business, health, misc.) (14 subjects)
-   과목 목록:
+   List of subjects:
    1. anatomy
    2. business_ethics
    3. clinical_knowledge
@@ -143,20 +143,23 @@ LLM Model (API방식) 에 대해서 평가 수행
    14. virology
 ```
 
-## arg 변수로 설정을 받는 모드
-### Model (llama-3-8b-instruct@iq2_s) 에 대해서 전체 평가 수행
-> python mmlu_eval1.py --auto_mode --ntest -1 --model_name llama-3-8b-instruct@iq2_s
+## Mode to receive settings as arg variables.
+### Perform full evaluation on Model (llama-3-8b-instruct@iq2_s)
+> python mmlu_eval1_sync.py --auto_mode --ntest -1 --model_name llama-3-8b-instruct@iq2_s
 
-### Model (llama-3-8b-instruct@q4_k_m) 에 대해서 STEM 카테고리 10개 문항만 평가 수행
-> python mmlu_eval1.py --auto_mode --ntest -10 --model_name llama-3-8b-instruct@q4_k_m -category 1
+### Evaluate only 10 questions in STEM category for model (llama-3-8b-instruct@q4_k_m)
+> python mmlu_eval1_sync.py --auto_mode --ntest -10 --model_name llama-3-8b-instruct@q4_k_m -category 1
 
-### Model (llama-3-8b-instruct@q4_k_m) 에 대해서 STEM 카테고리 10개 문항만 평가 수행, Few-shot 사용(5회)
-> python mmlu_eval1.py --auto_mode --ntest -10 --model_name llama-3-8b-instruct@q4_k_m -category 1 -f -k 5
+### Evaluate only 10 questions in STEM category for model (llama-3-8b-instruct@q4_k_m), using Few-shot (5 times)
+> python mmlu_eval1_sync.py --auto_mode --ntest -10 --model_name llama-3-8b-instruct@q4_k_m -category 1 -f -k 5
 
-### 사용자 입력을 직접 받는 모드
-> python mmlu_eval1.py 
+### Direct user input mode
+> python mmlu_eval1.py
 
-## 병럴 처리모드로 실행할 경우 mmlu_eval2.py 또는 mmlu_evla3.py 사용 (2개 파일은 동일함)
-> python mmlu_eval2.py 
+### Use mmlu_eval2_async.py or mmlu_evla3_async.py when running in parallel processing mode
+> python mmlu_eval2_async.py
+
+## Use mmlu_eval3_async.py for low LLM Model performance
+> python mmlu_eval3_async.py (when using 1bit Quantization Model)
 
 Contact E-mail : j30231@gmail.com
