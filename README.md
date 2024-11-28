@@ -154,12 +154,15 @@ Perform evaluation on LLM Model (API method)
 > python mmlu_eval1_sync.py --auto_mode --ntest -10 --model_name llama-3-8b-instruct@q4_k_m -category 1 -f -k 5
 
 ### Direct user input mode
-> python mmlu_eval1.py
+> python mmlu_eval1_sync.py
 
 ### Use mmlu_eval2_async.py or mmlu_evla3_async.py when running in parallel processing mode
 > python mmlu_eval2_async.py
 
 ## Use mmlu_eval3_async.py for low LLM Model performance
 > python mmlu_eval3_async.py (when using 1bit Quantization Model)
+
+## Use batch.sh to run all models (Using LM Studio with LMS CLI)
+> ./batch.sh
 
 Contact E-mail : j30231@gmail.com
