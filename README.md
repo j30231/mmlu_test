@@ -18,7 +18,7 @@ Evaluate the performance of Language Models (LLMs) using HuggingFace's `cais/mml
 Clone the project to your local environment and install the required packages.
 
 ```bash:README.md
-git clone https://github.com/yourusername/mmlu-test.git
+git clone https://github.com/j30231/mmlu_test
 cd mmlu-test
 pip install -r requirements.txt
 ```
@@ -27,12 +27,18 @@ pip install -r requirements.txt
 
 ### Mode Description
 
-- `--auto_mode`: Runs the tests in automatic mode, performing either full or specified range of tests.
+- `--auto_mode`: Runs the tests in automatic mode, performing either a full or specified range of tests.
 - `--ntest`: Specifies the number of questions to test. `-1` signifies a full test.
 - `--model_name`: Specifies the name of the model to evaluate.
-- `--category`: Evaluates only the subjects within a specific category.
-- `-f`: Enables Few-shot learning.
-- `-k`: Specifies the number of examples to use in Few-shot learning.
+- `--categories`: Evaluates only the subjects within specific categories (comma-separated).
+- `--subjects`: Evaluates only the specified subjects (comma-separated).
+- `--use_few_shot`, `-f`: Enables Few-shot learning.
+- `--ntrain`, `-k`: Specifies the number of examples to use in Few-shot learning.
+- `--nsubjects`, `-ns`: Specifies the number of subjects to evaluate.
+- `--save_dir`, `-s`: Specifies the directory to save results.
+- `--base_url`: Specifies the base URL for the API.
+- `--api_key`: Specifies the API key for authentication.
+- `--verbose`, `-v`: Includes few-shot examples in output logs.
 
 ### Command Examples
 
@@ -87,17 +93,17 @@ python mmlu_eval1_sync.py
 4. **Other (Business, Health, Misc.)** (14 subjects)
    - Anatomy, Business Ethics, Clinical Knowledge, College Medicine, Global Facts, Human Aging, Management, Marketing, Medical Genetics, Miscellaneous, Nutrition, Professional Accounting, Professional Medicine, Virology
 
-</details>
-
 ### Complete List of Subjects
 
-```plaintext:README.md
+```plaintext
 1. abstract_algebra
 2. anatomy
 3. astronomy
 ...
 57. world_religions
 ```
+
+</details>
 
 ## Parallel Processing Modes
 
