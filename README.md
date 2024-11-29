@@ -10,6 +10,7 @@ Evaluate the performance of Language Models (LLMs) using HuggingFace's `cais/mml
 - [Categories and Subjects](#categories-and-subjects)
 - [Parallel Processing Modes](#parallel-processing-modes)
 - [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
 ## Installation
@@ -127,6 +128,10 @@ Execute all models in batch using LM Studio with the LMS CLI.
 ## Contributing
 
 Contributions are always welcome! Fork this repository, add features or fix bugs, and submit a pull request.
+
+## Acknowledgements
+
+All source code was created using [Cursor AI](https://cursor.com/). Additionally, [LM Studio](https://lmstudio.ai/) was utilized to easily load LLM models and perform repetitive MMLU tasks using `batch.sh`.
 
 ## Contact
 

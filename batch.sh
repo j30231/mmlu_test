@@ -24,13 +24,13 @@
 # python -u mmlu_eval2.py --auto_mode --ntest -1 --model_name "llama-3-8b-instruct@?" 2>&1 | tee -a results/f16.txt
 # lms unload "llama-3-8b-instruct@?"
 
-# lms load "makeself/Llama-3-8B-Instruct-q16_0/Meta-Llama-3-8B-Instruct.gguf"
-# python -u mmlu_eval2.py --auto_mode --ntest -1 --model_name llama-3-8b-instruct-q16_0 2>&1 | tee -a results/q16_0.txt
-# lms unload "llama-3-8b-instruct-q16_0"
+lms load "makeself/Llama-3-8B-Instruct-q16_0/Meta-Llama-3-8B-Instruct.gguf"
+python -u mmlu_eval2.py --auto_mode --ntest -1 --model_name llama-3-8b-instruct-q16_0 2>&1 | tee -a results/q16_0.txt
+lms unload "llama-3-8b-instruct-q16_0"
 
-# lms load "makeself/Llama-3-8B-Instruct-q8_0/Meta-Llama-3-8B-Instruct-q8_0.gguf"
-# python -u mmlu_eval2.py --auto_mode --ntest -1 --model_name llama-3-8b-instruct@q8_0 2>&1 | tee -a results/q8_0.txt
-# lms unload "llama-3-8b-instruct@q8_0"
+lms load "makeself/Llama-3-8B-Instruct-q8_0/Meta-Llama-3-8B-Instruct-q8_0.gguf"
+python -u mmlu_eval2.py --auto_mode --ntest -1 --model_name llama-3-8b-instruct@q8_0 2>&1 | tee -a results/q8_0.txt
+lms unload "llama-3-8b-instruct@q8_0"
 
 # lms load "makeself/Llama-3-8B-Instruct-Q5_K_M/llama-3-8b-instruct-Q5_K_M.gguf"
 # python -u mmlu_eval2.py --auto_mode --ntest -1 --model_name llama-3-8b-instruct@q5_k_m 2>&1 | tee -a results/q5_k_m.txt
